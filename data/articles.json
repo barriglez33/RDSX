@@ -1,5 +1,35 @@
 [
   {
+    "id": "492115d80c9ae54b424a",
+    "title": "Red Sox's Ceddanne Rafaela: Working out at Worcester",
+    "source": "cbssports.com",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/red-soxs-ceddanne-rafaela-working-out-at-worcester/",
+    "published_iso": "2026-09-17T17:38:26+00:00",
+    "published_rfc2822": "Thu, 17 Sep 2026 17:38:26 +0000",
+    "body": "Rafaela (quadriceps) is with Triple-A Worcester on Thursday and will do some hitting off their Trajekt machine, Tommy Cassell of the Worcester Telegram & Gazette reports.\nIt's unclear what the next steps for Rafaela will be, but he could play in some rehab games for Worcester before rejoining Boston's active roster. The center fielder has not played in more than two weeks as he works his way back from a right quadriceps strain.",
+    "tracked_people": [
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox's Ceddanne Rafaela: Working out at Worcester",
+    "original_body": "Rafaela (quadriceps) is with Triple-A Worcester on Thursday and will do some hitting off their Trajekt machine, Tommy Cassell of the Worcester Telegram & Gazette reports.\nIt's unclear what the next steps for Rafaela will be, but he could play in some rehab games for Worcester before rejoining Boston's active roster. The center fielder has not played in more than two weeks as he works his way back from a right quadriceps strain.",
+    "rss_title": "Red Sox's Ceddanne Rafaela: Working out at Worcester",
+    "rss_body": "Rafaela (quadriceps) is with Triple-A Worcester on Thursday and will do some hitting off their Trajekt machine, Tommy Cassell of the Worcester Telegram & Gazette reports.\nIt's unclear what the next steps for Rafaela will be, but he could play in some rehab games for Worcester before rejoining Boston's active roster. The center fielder has not played in more than two weeks as he works his way back from a right quadriceps strain.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "9d2f35b405828a76274e",
     "title": "Boston Red Sox Star Payton Tolle Sends Out Heartfelt Post During Rangers Series",
     "source": "heavy.com",
@@ -460,6 +490,36 @@
         "body_characters": 2974
       }
     ]
+  },
+  {
+    "id": "c280ab739f8269263369",
+    "title": "Red Sox's Willson Contreras: Slugs homer in loss",
+    "source": "cbssports.com",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/red-soxs-willson-contreras-slugs-homer-in-loss/",
+    "published_iso": "2026-09-17T13:48:18+00:00",
+    "published_rfc2822": "Thu, 17 Sep 2026 13:48:18 +0000",
+    "body": "Contreras went 1-for-3 with a two-run home run in Wednesday's 7-3 loss to the Rangers.\nContreras belted a two-run homer in the first inning that gave Boston an early lead. The blast was his career-high 27th and accounted for his 81st RBI, which is also a career-best figure.",
+    "tracked_people": [
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox's Willson Contreras: Slugs homer in loss",
+    "original_body": "Contreras went 1-for-3 with a two-run home run in Wednesday's 7-3 loss to the Rangers.\nContreras belted a two-run homer in the first inning that gave Boston an early lead. The blast was his career-high 27th and accounted for his 81st RBI, which is also a career-best figure.",
+    "rss_title": "Red Sox's Willson Contreras: Slugs homer in loss",
+    "rss_body": "Contreras went 1-for-3 with a two-run home run in Wednesday's 7-3 loss to the Rangers.\nContreras belted a two-run homer in the first inning that gave Boston an early lead. The blast was his career-high 27th and accounted for his 81st RBI, which is also a career-best figure.",
+    "translation_status": "fallback_original"
   },
   {
     "id": "7ad52776e39ffaba1daa",
@@ -1718,6 +1778,12 @@
         "url": "https://www.nbcsportsboston.com/mlb/boston-red-sox/wild-card-series-rotation-projection-sonny-gray-payton-tolle/802966/?partner=yahoo&amp=1",
         "title": "Projecting the Red Sox' Wild Card Series rotation",
         "body_characters": 6428
+      },
+      {
+        "source": "NBC Sports Boston",
+        "url": "https://www.nbcsportsboston.com/mlb/boston-red-sox/wild-card-series-rotation-projection-sonny-gray-payton-tolle/802966/?amp=1",
+        "title": "Projecting the Red Sox' Wild Card Series rotation",
+        "body_characters": 6427
       }
     ]
   },
