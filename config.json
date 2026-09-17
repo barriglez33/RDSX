@@ -1,0 +1,430 @@
+{
+  "project_name": "Red Sox News",
+  "people": [
+    {
+      "name": "Adley Rutschman",
+      "role": "Catcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Connor Wong",
+      "role": "Catcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Willson Contreras",
+      "role": "Catcher / DH",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Alex Bregman",
+      "role": "Third Baseman",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Trevor Story",
+      "role": "Infielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Isiah Kiner-Falefa",
+      "role": "Utility Infielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Andruw Monasterio",
+      "role": "Infielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Nick Sogard",
+      "role": "Infielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Caleb Durbin",
+      "role": "Infielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Mickey Gasper",
+      "role": "Designated Hitter",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Jahmai Jones",
+      "role": "Designated Hitter",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Roman Anthony",
+      "role": "Outfielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Wilyer Abreu",
+      "role": "Outfielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Jarren Duran",
+      "role": "Outfielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Nate Eaton",
+      "role": "Outfielder",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Brayan Bello",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Sonny Gray",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Ranger Suárez",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Patrick Sandoval",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Payton Tolle",
+      "role": "Starting Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Jake Bennett",
+      "role": "Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Raymond Burgos",
+      "role": "Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Alec Gamboa",
+      "role": "Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Erik Miller",
+      "role": "Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Jovani Morán",
+      "role": "Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Wyatt Olds",
+      "role": "Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Greg Weissert",
+      "role": "Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Garrett Whitlock",
+      "role": "Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Aroldis Chapman",
+      "role": "Relief Pitcher",
+      "status": "Active",
+      "type": "player"
+    },
+    {
+      "name": "Curtis Mead",
+      "role": "Infielder",
+      "status": "10-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Anthony Seigler",
+      "role": "Infielder",
+      "status": "10-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Ceddanne Rafaela",
+      "role": "Outfielder / Infielder",
+      "status": "10-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Eli White",
+      "role": "Outfielder",
+      "status": "10-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Masataka Yoshida",
+      "role": "Designated Hitter",
+      "status": "10-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Tyron Guerrero",
+      "role": "Pitcher",
+      "status": "15-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Justin Slaten",
+      "role": "Pitcher",
+      "status": "15-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Triston Casas",
+      "role": "Infielder",
+      "status": "60-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Kutter Crawford",
+      "role": "Pitcher",
+      "status": "60-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Garrett Crochet",
+      "role": "Pitcher",
+      "status": "60-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Tanner Houck",
+      "role": "Pitcher",
+      "status": "60-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Zack Kelly",
+      "role": "Pitcher",
+      "status": "60-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Johan Oviedo",
+      "role": "Pitcher",
+      "status": "60-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Eduardo Rivera",
+      "role": "Pitcher",
+      "status": "60-day Injured List",
+      "type": "player"
+    },
+    {
+      "name": "Jedixson Paez",
+      "role": "Pitcher",
+      "status": "Minor Leagues",
+      "type": "prospect"
+    },
+    {
+      "name": "Tyler Samaniego",
+      "role": "Pitcher",
+      "status": "Minor Leagues",
+      "type": "prospect"
+    },
+    {
+      "name": "Kristian Campbell",
+      "role": "Infielder",
+      "status": "Minor Leagues",
+      "type": "prospect"
+    },
+    {
+      "name": "Tsung-Che Cheng",
+      "role": "Infielder",
+      "status": "Minor Leagues",
+      "type": "prospect"
+    },
+    {
+      "name": "Romy Gonzalez",
+      "role": "Designated Hitter",
+      "status": "Minor Leagues",
+      "type": "prospect"
+    },
+    {
+      "name": "Chad Tracy",
+      "role": "Manager",
+      "status": "Coaching Staff",
+      "type": "staff"
+    },
+    {
+      "name": "Craig Breslow",
+      "role": "Chief Baseball Officer",
+      "status": "Front Office",
+      "type": "staff"
+    },
+    {
+      "name": "Ted Williams",
+      "role": "Legend / Hall of Famer",
+      "status": "Franchise Legacy",
+      "type": "legend"
+    },
+    {
+      "name": "David Ortiz",
+      "role": "Legend / Hall of Famer",
+      "status": "Franchise Legacy",
+      "type": "legend"
+    },
+    {
+      "name": "Carl Yastrzemski",
+      "role": "Legend / Hall of Famer",
+      "status": "Franchise Legacy",
+      "type": "legend"
+    },
+    {
+      "name": "Pedro Martínez",
+      "role": "Legend / Hall of Famer",
+      "status": "Franchise Legacy",
+      "type": "legend"
+    },
+    {
+      "name": "Manny Ramírez",
+      "role": "Legend / Outfielder",
+      "status": "Franchise Legacy",
+      "type": "legend"
+    },
+    {
+      "name": "Carlton Fisk",
+      "role": "Legend / Hall of Famer",
+      "status": "Franchise Legacy",
+      "type": "legend"
+    },
+    {
+      "name": "Dustin Pedroia",
+      "role": "Legend / Second Baseman",
+      "status": "Franchise Legacy",
+      "type": "legend"
+    },
+    {
+      "name": "Jim Rice",
+      "role": "Legend / Hall of Famer",
+      "status": "Franchise Legacy",
+      "type": "legend"
+    },
+    {
+      "name": "Cy Young",
+      "role": "Legend / Hall of Famer",
+      "status": "Franchise Legacy",
+      "type": "legend"
+    }
+  ],
+  "settings": {
+    "max_age_hours": 72,
+    "gdelt_results_per_person": 20,
+    "google_results_per_edition": 5,
+    "max_stored_articles": 3000,
+    "max_feed_items": 300,
+    "minimum_body_characters": 250,
+    "delay_between_articles_seconds": 0.4
+  },
+  "google_news_editions": [
+    {
+      "label": "US English",
+      "hl": "en-US",
+      "gl": "US",
+      "ceid": "US:en"
+    },
+    {
+      "label": "México Español",
+      "hl": "es-419",
+      "gl": "MX",
+      "ceid": "MX:es-419"
+    },
+    {
+      "label": "Japan Japanese",
+      "hl": "ja",
+      "gl": "JP",
+      "ceid": "JP:ja"
+    },
+    {
+      "label": "South Korea Korean",
+      "hl": "ko",
+      "gl": "KR",
+      "ceid": "KR:ko"
+    },
+    {
+      "label": "Spain Español",
+      "hl": "es",
+      "gl": "ES",
+      "ceid": "ES:es"
+    }
+  ],
+  "translation": {
+    "enabled": true,
+    "target_language": "es",
+    "chunk_size": 4000
+  },
+  "deduplication": {
+    "enabled": true,
+    "max_hours_apart": 48,
+    "title_similarity_threshold": 0.72,
+    "title_token_overlap_threshold": 0.58,
+    "body_lead_similarity_threshold": 0.66,
+    "body_lead_characters": 1600
+  },
+  "context_terms": [
+    "red sox",
+    "boston red sox",
+    "boston",
+    "bosox",
+    "sox",
+    "mlb",
+    "major league baseball",
+    "fenway park",
+    "fenway",
+    "the green monster"
+  ],
+  "feed": {
+    "title": "Red Sox News — Noticias",
+    "description": "Noticias multilingües sobre Red Sox, traducidas al español y deduplicadas.",
+    "site_url": "http://localhost:8000/"
+  }
+}
