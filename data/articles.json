@@ -1,5 +1,61 @@
 [
   {
+    "id": "808c2105c9dcc81ca186",
+    "title": "Purple Row After Dark: If the Rockies could steal one player",
+    "source": "purplerow.com",
+    "author": "James Riggenbach",
+    "url": "https://www.purplerow.com/colorado-rockies-discussion/105815/purple-row-after-dark-if-the-rockies-could-steal-one-player",
+    "published_iso": "2026-09-21T06:30:00+00:00",
+    "published_rfc2822": "Mon, 21 Sep 2026 06:30:00 +0000",
+    "body": "The Colorado Rockies are 57–99.\nPurple Row After Dark: If the Rockies could steal one player\nAn absurd rule for absurd times: if the worst team in baseball could steal one player from a playoff club, who should the Rockies take?\nOne more loss will give them their fourth consecutive 100-loss season, and they are almost certainly going to finish with the worst record in baseball.\nThese are absurd times for the Rockies, so I have devised an appropriately absurd rule to help them out.\nThe team with the worst record in baseball gets to steal one player from a playoff team.\nThere are, naturally, some restrictions. We’re freezing the playoff field as it stood before games on Sunday, September 20. The player has to come from one of those 12 teams, cannot be a pending free agent, and you cannot take the player who leads his team in FanGraphs WAR. The Rockies also inherit the player’s existing contract.\nNo, one player is not suddenly turning the Rockies into a contender. But could one poached superstar at least keep this thing from becoming five consecutive 100-loss seasons?\nHere’s the board:\n| Team | Off limits: fWAR leader | Highest available fWAR | Other players worth considering | \n| Rays | Junior Caminero (5.2) | Drew Rasmussen (4.7) | Jonathan Aranda (3) | \n| Guardians | Parker Messick (4.6) | Steven Kwan (3.4) | Gavin Williams (3.4), Brayan Rocchio (3.3), José Ramírez (2.2) | \n| Rangers | Ezequiel Duran (4.6) | Jacob deGrom (4.2) | Josh Jung (2.9), Wyatt Langford (2.8) | \n| Yankees | Cam Schlittler (6.1) | Ben Rice (4) | Cody Bellinger (3.9), Aaron Judge (2) | \n| Red Sox | Willson Contreras (4.1) | Payton Tolle (4) | Ceddanne Rafaela (3.9), Ranger Suárez (3.7) | \n| White Sox | Miguel Vargas (5) | Chase Meidroth (4) | Tristan Peters (3.9), Sean Burke (3.1) | \n| Brewers | Jacob Misiorowski (6.3) | Brice Turang (5.4) | Jackson Chourio (4), Jake Bauers (3.6) | \n| Dodgers | Shohei Ohtani (6.7) | Yoshinobu Yamamoto (4.7) | Max Muncy (4.3), Andy Pages (3.9) | \n| Braves | Chris Sale (5.7) | Michael Harris II (4) | Matt Olson (4), Drake Baldwin (3.1) | \n| Cubs | Pete Crow-Armstrong (10.2) | Alex Bregman (5) | Dansby Swanson (3.6) | \n| Padres | Fernando Tatis Jr. (5) | Jackson Merrill (4) | Ty France (3.8), Mason Miller (3.7) | \n| Phillies | Cristopher Sánchez (5.8) | Jesús Luzardo (5.6) | Zack Wheeler (3.5), Bryce Harper (3.4) | \nFor me, the choice comes down to Brice Turang, Yoshinobu Yamamoto and Aaron Judge.\nTurang is probably the sensible choice.\nAt 5.4 fWAR, he would easily lead the Rockies, giving them a legitimate top-end player while immediately solving second base for the foreseeable future. He’s 26, hitting .266/.367/.441 with an .808 OPS, and brings value on both sides of the ball with elite range, strong baserunning and a 95th-percentile walk rate.\nIt would be a very easy way to make the roster better.\nBut the Rockies really need starting pitching.\nEnter Yoshinobu Yamamoto.\nHe’s 14–8 with a 2.51 ERA, 178 strikeouts and a 0.87 WHIP over 179 innings. His Statcast profile is just as impressive: 100th-percentile pitching run value, 99th-percentile fastball run value, 95th-percentile offspeed run value and a 91st-percentile xERA.\nPitchers are risky, and Yamamoto comes with a lot of money attached. But it’s hard to argue with either the profile or the results, and the addition of the Penner family makes absorbing that contract a lot easier to imagine.\nSpeaking of high-priced items...\nAaron Judge.\nJudge being available is basically a loophole created by our own stupid rule. Injuries have limited him to just 285 plate appearances, which is why he sits at only 2 fWAR, but he’s still hitting .241/.360/.511 with 15 home runs.\nAnd the underlying numbers are still very much Judge: a .396 xwOBA, .569 xSLG, 94.0 mph average exit velocity and a 57.5% hard-hit rate.\nIt is very hard to look at that and say, “No thanks.”\nAfter all, Aaron Judge is the type of hitter that, if he were playing 81 games a year at Coors Field, I might take out a small loan for season tickets.\nSo who are you stealing?",
+    "tracked_people": [
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Alex Bregman",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Ranger Suárez",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player"
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Purple Row After Dark: If the Rockies could steal one player",
+    "original_body": "The Colorado Rockies are 57–99.\nPurple Row After Dark: If the Rockies could steal one player\nAn absurd rule for absurd times: if the worst team in baseball could steal one player from a playoff club, who should the Rockies take?\nOne more loss will give them their fourth consecutive 100-loss season, and they are almost certainly going to finish with the worst record in baseball.\nThese are absurd times for the Rockies, so I have devised an appropriately absurd rule to help them out.\nThe team with the worst record in baseball gets to steal one player from a playoff team.\nThere are, naturally, some restrictions. We’re freezing the playoff field as it stood before games on Sunday, September 20. The player has to come from one of those 12 teams, cannot be a pending free agent, and you cannot take the player who leads his team in FanGraphs WAR. The Rockies also inherit the player’s existing contract.\nNo, one player is not suddenly turning the Rockies into a contender. But could one poached superstar at least keep this thing from becoming five consecutive 100-loss seasons?\nHere’s the board:\n| Team | Off limits: fWAR leader | Highest available fWAR | Other players worth considering | \n| Rays | Junior Caminero (5.2) | Drew Rasmussen (4.7) | Jonathan Aranda (3) | \n| Guardians | Parker Messick (4.6) | Steven Kwan (3.4) | Gavin Williams (3.4), Brayan Rocchio (3.3), José Ramírez (2.2) | \n| Rangers | Ezequiel Duran (4.6) | Jacob deGrom (4.2) | Josh Jung (2.9), Wyatt Langford (2.8) | \n| Yankees | Cam Schlittler (6.1) | Ben Rice (4) | Cody Bellinger (3.9), Aaron Judge (2) | \n| Red Sox | Willson Contreras (4.1) | Payton Tolle (4) | Ceddanne Rafaela (3.9), Ranger Suárez (3.7) | \n| White Sox | Miguel Vargas (5) | Chase Meidroth (4) | Tristan Peters (3.9), Sean Burke (3.1) | \n| Brewers | Jacob Misiorowski (6.3) | Brice Turang (5.4) | Jackson Chourio (4), Jake Bauers (3.6) | \n| Dodgers | Shohei Ohtani (6.7) | Yoshinobu Yamamoto (4.7) | Max Muncy (4.3), Andy Pages (3.9) | \n| Braves | Chris Sale (5.7) | Michael Harris II (4) | Matt Olson (4), Drake Baldwin (3.1) | \n| Cubs | Pete Crow-Armstrong (10.2) | Alex Bregman (5) | Dansby Swanson (3.6) | \n| Padres | Fernando Tatis Jr. (5) | Jackson Merrill (4) | Ty France (3.8), Mason Miller (3.7) | \n| Phillies | Cristopher Sánchez (5.8) | Jesús Luzardo (5.6) | Zack Wheeler (3.5), Bryce Harper (3.4) | \nFor me, the choice comes down to Brice Turang, Yoshinobu Yamamoto and Aaron Judge.\nTurang is probably the sensible choice.\nAt 5.4 fWAR, he would easily lead the Rockies, giving them a legitimate top-end player while immediately solving second base for the foreseeable future. He’s 26, hitting .266/.367/.441 with an .808 OPS, and brings value on both sides of the ball with elite range, strong baserunning and a 95th-percentile walk rate.\nIt would be a very easy way to make the roster better.\nBut the Rockies really need starting pitching.\nEnter Yoshinobu Yamamoto.\nHe’s 14–8 with a 2.51 ERA, 178 strikeouts and a 0.87 WHIP over 179 innings. His Statcast profile is just as impressive: 100th-percentile pitching run value, 99th-percentile fastball run value, 95th-percentile offspeed run value and a 91st-percentile xERA.\nPitchers are risky, and Yamamoto comes with a lot of money attached. But it’s hard to argue with either the profile or the results, and the addition of the Penner family makes absorbing that contract a lot easier to imagine.\nSpeaking of high-priced items...\nAaron Judge.\nJudge being available is basically a loophole created by our own stupid rule. Injuries have limited him to just 285 plate appearances, which is why he sits at only 2 fWAR, but he’s still hitting .241/.360/.511 with 15 home runs.\nAnd the underlying numbers are still very much Judge: a .396 xwOBA, .569 xSLG, 94.0 mph average exit velocity and a 57.5% hard-hit rate.\nIt is very hard to look at that and say, “No thanks.”\nAfter all, Aaron Judge is the type of hitter that, if he were playing 81 games a year at Coors Field, I might take out a small loan for season tickets.\nSo who are you stealing?",
+    "rss_title": "Purple Row After Dark: If the Rockies could steal one player",
+    "rss_body": "The Colorado Rockies are 57–99.\nPurple Row After Dark: If the Rockies could steal one player\nAn absurd rule for absurd times: if the worst team in baseball could steal one player from a playoff club, who should the Rockies take?\nOne more loss will give them their fourth consecutive 100-loss season, and they are almost certainly going to finish with the worst record in baseball.\nThese are absurd times for the Rockies, so I have devised an appropriately absurd rule to help them out.\nThe team with the worst record in baseball gets to steal one player from a playoff team.\nThere are, naturally, some restrictions. We’re freezing the playoff field as it stood before games on Sunday, September 20. The player has to come from one of those 12 teams, cannot be a pending free agent, and you cannot take the player who leads his team in FanGraphs WAR. The Rockies also inherit the player’s existing contract.\nNo, one player is not suddenly turning the Rockies into a contender. But could one poached superstar at least keep this thing from becoming five consecutive 100-loss seasons?\nHere’s the board:\n| Team | Off limits: fWAR leader | Highest available fWAR | Other players worth considering | \n| Rays | Junior Caminero (5.2) | Drew Rasmussen (4.7) | Jonathan Aranda (3) | \n| Guardians | Parker Messick (4.6) | Steven Kwan (3.4) | Gavin Williams (3.4), Brayan Rocchio (3.3), José Ramírez (2.2) | \n| Rangers | Ezequiel Duran (4.6) | Jacob deGrom (4.2) | Josh Jung (2.9), Wyatt Langford (2.8) | \n| Yankees | Cam Schlittler (6.1) | Ben Rice (4) | Cody Bellinger (3.9), Aaron Judge (2) | \n| Red Sox | Willson Contreras (4.1) | Payton Tolle (4) | Ceddanne Rafaela (3.9), Ranger Suárez (3.7) | \n| White Sox | Miguel Vargas (5) | Chase Meidroth (4) | Tristan Peters (3.9), Sean Burke (3.1) | \n| Brewers | Jacob Misiorowski (6.3) | Brice Turang (5.4) | Jackson Chourio (4), Jake Bauers (3.6) | \n| Dodgers | Shohei Ohtani (6.7) | Yoshinobu Yamamoto (4.7) | Max Muncy (4.3), Andy Pages (3.9) | \n| Braves | Chris Sale (5.7) | Michael Harris II (4) | Matt Olson (4), Drake Baldwin (3.1) | \n| Cubs | Pete Crow-Armstrong (10.2) | Alex Bregman (5) | Dansby Swanson (3.6) | \n| Padres | Fernando Tatis Jr. (5) | Jackson Merrill (4) | Ty France (3.8), Mason Miller (3.7) | \n| Phillies | Cristopher Sánchez (5.8) | Jesús Luzardo (5.6) | Zack Wheeler (3.5), Bryce Harper (3.4) | \nFor me, the choice comes down to Brice Turang, Yoshinobu Yamamoto and Aaron Judge.\nTurang is probably the sensible choice.\nAt 5.4 fWAR, he would easily lead the Rockies, giving them a legitimate top-end player while immediately solving second base for the foreseeable future. He’s 26, hitting .266/.367/.441 with an .808 OPS, and brings value on both sides of the ball with elite range, strong baserunning and a 95th-percentile walk rate.\nIt would be a very easy way to make the roster better.\nBut the Rockies really need starting pitching.\nEnter Yoshinobu Yamamoto.\nHe’s 14–8 with a 2.51 ERA, 178 strikeouts and a 0.87 WHIP over 179 innings. His Statcast profile is just as impressive: 100th-percentile pitching run value, 99th-percentile fastball run value, 95th-percentile offspeed run value and a 91st-percentile xERA.\nPitchers are risky, and Yamamoto comes with a lot of money attached. But it’s hard to argue with either the profile or the results, and the addition of the Penner family makes absorbing that contract a lot easier to imagine.\nSpeaking of high-priced items...\nAaron Judge.\nJudge being available is basically a loophole created by our own stupid rule. Injuries have limited him to just 285 plate appearances, which is why he sits at only 2 fWAR, but he’s still hitting .241/.360/.511 with 15 home runs.\nAnd the underlying numbers are still very much Judge: a .396 xwOBA, .569 xSLG, 94.0 mph average exit velocity and a 57.5% hard-hit rate.\nIt is very hard to look at that and say, “No thanks.”\nAfter all, Aaron Judge is the type of hitter that, if he were playing 81 games a year at Coors Field, I might take out a small loan for season tickets.\nSo who are you stealing?",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "c724b22426689d96234b",
     "title": "The Red Sox Clinched a Playoff Spot by Losing. Chad Tracy’s Case for Permanent Manager Just Wrote Itself.",
     "source": "firebrandal.com",
@@ -40,6 +96,64 @@
     "rss_title": "The Red Sox Clinched a Playoff Spot by Losing. Chad Tracy’s Case for Permanent Manager Just Wrote Itself.",
     "rss_body": "The Red Sox clinched a playoff spot on Sept. 20 by losing, 5-1, to the Rays in Tampa. Their ticket to October got punched about an hour later anyway, when the Braves beat the Astros three time zones away.\nNobody in that clubhouse watched themselves get in.\nRewind five months. Alex Cora got fired on a Saturday morning in April, with Boston sitting at 10-17. By June 24, the Red Sox were 15.5 games back in the AL East, with playoff odds cratered to 8.4%. That’s about as buried as a team gets in June.\nChad Tracy took over that wreckage on April 26 with zero big-league managing experience. Since then, Boston has gone 74-55 under him, a .573 winning percentage that would put most division leaders to shame. From July 27 through the end of the regular season, they played at a .609 clip, 28-18 down the stretch. They’re the first team in MLB history to lose 46 of their first 78 games and still finish above .500. Not one hot month. The roster Tracy built out of the wreckage. It’s the exact arc Central Maine tracked: a dreadful start, then a red-hot summer.\nThat’s the case for the permanent job. Not vibes. Receipts.\nBeat writer Tyler Milliken called it one of the most improbable summers in baseball history, and he’s not exaggerating. A team that lost its manager in a firing nobody saw coming turned around and finished with the second-best road winning percentage in the American League.\nThis tweet nails how Saturday actually felt in that clubhouse:\nAnticlimactic clinch, but to be on pace to go down as one of the worst Red Sox teams ever, then lock in, ignore the noise, and go on a generational run that led to postseason baseball…that’s both incredibly impressive and very much worth celebrating. See you in the Bronx. pic.twitter.com/ETJ7MEnHsj\n— Jared Carrabis (@Jared_Carrabis) September 20, 2026\nAnticlimactic, sure. You don’t draw up “clinch while getting shut down by Tampa’s bullpen” as the moment. But in a 162-game season, sometimes the celebration starts because of somebody else’s scoreboard, and you find out standing at your locker.\nPlenty of the beat corps agrees on where the conversation goes next.\nThe Red Sox were 10-17 when Chad Tracy took over. A first time manager with no big league experience. He walked into a clubhouse of players that just lost a well-liked and respected manager.\nThings weren’t fixed instantly, but they didn’t need to be. They got there in the end,… pic.twitter.com/etkqeb1PUe\n— Gordo (@BOSSportsGordo) September 20, 2026\nGordo’s calling for a Manager of the Year case, and he’s not wrong to. Tracy walked into a room that had just lost a manager players actually liked, and he didn’t need some big culture-reset speech to fix it. He kept writing lineups, put Roman Anthony in the leadoff spot down the stretch, and let a talented roster figure itself out.\nNone of this happened by accident. firebrandal.com made the case for Tracy back in July, and it’s only gotten stronger since, even with the rotation health questions that never fully disappeared. Mickey Gasper’s hot stretch since his recall was part of the same story, a roster that kept finding useful players in June, July and August while the rest of the sport had already buried them.\nMike Mutnansky put it best: when the Red Sox fired Cora on a Saturday morning in April, nobody thought this team would sniff October. Now they’re one of 12 clubs still alive for a title. They’ll open as the No. 2 wild card, likely on the road against the Yankees, so nobody’s handing them anything in the Bronx.\nDoesn’t matter how they get in. Tracy got them here. Give the guy the job.",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "4371deb71add712f69b1",
+    "title": "Red Sox clinch playoff berth with huge turnaround after poor start",
+    "source": "baltimoresun.com",
+    "author": "Associated Press",
+    "url": "https://www.baltimoresun.com/2026/09/20/red-sox-clinch-playoff-berth-with-huge-turnaround-after-poor-start/",
+    "published_iso": "2026-09-21T06:15:00+00:00",
+    "published_rfc2822": "Mon, 21 Sep 2026 06:15:00 +0000",
+    "body": "ST. PETERSBURG, Fla. (AP) — As the Boston Red Sox celebrated an improbable postseason berth at Tropicana Field, with Champagne and beer flowing all around, the clubhouse soundtrack seemed appropriate.\n“Stayin’ Alive.’’\n“I think that pretty much says it all,’’ left fielder Roman Anthony said Sunday. “We pretty much stayed alive when nobody else thought we could. Now here we are.’’\nThe Red Sox were 32-46 and 15 1/2 games back in the AL East race on June 24. They have since gone 52-25 and will be in the playoffs.\nThe Red Sox lost 5-1 to the Tampa Bay Rays in their series finale, so couldn’t take care of things themselves. But about an hour after the game finished, the Houston Astros lost 4-2 to the Atlanta Braves, allowing the Red Sox to secure a wild-card spot.\nShortly after the Astros-Braves result went final, Red Sox players, coaches and staff members gathered near the Tropicana Field mound for a team photograph.\n“I really don’t care how we got in, as long as we got in,’’ shortstop Trevor Story said.\nInterim manager Chad Tracy was in place for much of the turnaround. Since being appointed on April 26 following the dismissal of Alex Cora, the Red Sox have gone 74-55.\n“Look, we were not in a good spot,’’ Tracy said. “We were not playing good ball. But it shows you that if you stick to it, good things can happen. I couldn’t be more proud of this group.’’\nFirst baseman Willson Contreras said he kept the faith, even when things trended downward, and the reward was sweet.\n“It’s hard not to have some tears over this,’’ Contreras said. “It’s a great accomplishment, but I don’t want this team to stop here. I want to keep going. We have proven that you can get hot and overcome a lot of big odds.’’\n___",
+    "tracked_people": [
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Trevor Story",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff"
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Red Sox clinch playoff berth with huge turnaround after poor start",
+    "original_body": "ST. PETERSBURG, Fla. (AP) — As the Boston Red Sox celebrated an improbable postseason berth at Tropicana Field, with Champagne and beer flowing all around, the clubhouse soundtrack seemed appropriate.\n“Stayin’ Alive.’’\n“I think that pretty much says it all,’’ left fielder Roman Anthony said Sunday. “We pretty much stayed alive when nobody else thought we could. Now here we are.’’\nThe Red Sox were 32-46 and 15 1/2 games back in the AL East race on June 24. They have since gone 52-25 and will be in the playoffs.\nThe Red Sox lost 5-1 to the Tampa Bay Rays in their series finale, so couldn’t take care of things themselves. But about an hour after the game finished, the Houston Astros lost 4-2 to the Atlanta Braves, allowing the Red Sox to secure a wild-card spot.\nShortly after the Astros-Braves result went final, Red Sox players, coaches and staff members gathered near the Tropicana Field mound for a team photograph.\n“I really don’t care how we got in, as long as we got in,’’ shortstop Trevor Story said.\nInterim manager Chad Tracy was in place for much of the turnaround. Since being appointed on April 26 following the dismissal of Alex Cora, the Red Sox have gone 74-55.\n“Look, we were not in a good spot,’’ Tracy said. “We were not playing good ball. But it shows you that if you stick to it, good things can happen. I couldn’t be more proud of this group.’’\nFirst baseman Willson Contreras said he kept the faith, even when things trended downward, and the reward was sweet.\n“It’s hard not to have some tears over this,’’ Contreras said. “It’s a great accomplishment, but I don’t want this team to stop here. I want to keep going. We have proven that you can get hot and overcome a lot of big odds.’’\n___",
+    "rss_title": "Red Sox clinch playoff berth with huge turnaround after poor start",
+    "rss_body": "ST. PETERSBURG, Fla. (AP) — As the Boston Red Sox celebrated an improbable postseason berth at Tropicana Field, with Champagne and beer flowing all around, the clubhouse soundtrack seemed appropriate.\n“Stayin’ Alive.’’\n“I think that pretty much says it all,’’ left fielder Roman Anthony said Sunday. “We pretty much stayed alive when nobody else thought we could. Now here we are.’’\nThe Red Sox were 32-46 and 15 1/2 games back in the AL East race on June 24. They have since gone 52-25 and will be in the playoffs.\nThe Red Sox lost 5-1 to the Tampa Bay Rays in their series finale, so couldn’t take care of things themselves. But about an hour after the game finished, the Houston Astros lost 4-2 to the Atlanta Braves, allowing the Red Sox to secure a wild-card spot.\nShortly after the Astros-Braves result went final, Red Sox players, coaches and staff members gathered near the Tropicana Field mound for a team photograph.\n“I really don’t care how we got in, as long as we got in,’’ shortstop Trevor Story said.\nInterim manager Chad Tracy was in place for much of the turnaround. Since being appointed on April 26 following the dismissal of Alex Cora, the Red Sox have gone 74-55.\n“Look, we were not in a good spot,’’ Tracy said. “We were not playing good ball. But it shows you that if you stick to it, good things can happen. I couldn’t be more proud of this group.’’\nFirst baseman Willson Contreras said he kept the faith, even when things trended downward, and the reward was sweet.\n“It’s hard not to have some tears over this,’’ Contreras said. “It’s a great accomplishment, but I don’t want this team to stop here. I want to keep going. We have proven that you can get hot and overcome a lot of big odds.’’\n___",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "sunjournal.com",
+        "url": "https://www.sunjournal.com/2026/09/20/red-sox-heading-to-playoffs-after-dreadful-start-red-hot-summer/",
+        "title": "Red Sox heading to playoffs after dreadful start, red-hot summer",
+        "body_characters": 1708
+      }
+    ]
   },
   {
     "id": "441c412eca164855fa02",
@@ -154,6 +268,36 @@
         "body_characters": 1695
       }
     ]
+  },
+  {
+    "id": "a5238b5150cce6d7452d",
+    "title": "吉田正尚のレッドソックスがPS進出 史上４球団目、借金14から奇跡的快進撃 - ＭＬＢ : 日刊スポーツ",
+    "source": "日刊スポーツ",
+    "author": "",
+    "url": "https://www.nikkansports.com/baseball/mlb/news/202609210000218.html",
+    "published_iso": "2026-09-21T02:04:00+00:00",
+    "published_rfc2822": "Mon, 21 Sep 2026 02:04:00 +0000",
+    "body": "レッドソックスはレイズに敗戦したが、アストロズがブレーブスに2－4で敗戦したため、2年連続でワイルドカードでのポストシーズン（PS）進出を決めた。84勝72敗でア・リーグ東地区3位。ワイルドカードではヤンキースに続きア・リーグで2番目の進出決定となった。\n6月24日時点で32勝46敗で借金14の低迷から奇跡的な快進撃を果たした。4月25日にはアレックス・コーラ監督と複数のコーチが解任。好調だった吉田正尚外野手（33）は左太もも裏の肉離れで8月16日から負傷者リスト入りした。だが傘下マイナーから抜擢（ばってき）されたチャド・トレーシー暫定監督が見事にチームを立て直した。MLB公式サイトのサラ・ラングス記者によると、借金14からPS進出を果たしたのは、1914年のブレーブス、74年のパイレーツ、05年のアストロズに続き史上4球団目だという。\nトレーシー監督は現地メディアの取材に「目指す位置までこられたことはもちろんうれしいし、苦しい道のりを乗り越えてきただけに、さらに感無量。本当に長い道のりだったが、選手たちは負けずに突き進んだ」と話した。",
+    "tracked_people": [
+      {
+        "name": "Masataka Yoshida",
+        "role": "Designated Hitter",
+        "status": "10-day Injured List",
+        "type": "player"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "Japan Japanese"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "吉田正尚のレッドソックスがPS進出 史上４球団目、借金14から奇跡的快進撃 - ＭＬＢ : 日刊スポーツ",
+    "original_body": "レッドソックスはレイズに敗戦したが、アストロズがブレーブスに2－4で敗戦したため、2年連続でワイルドカードでのポストシーズン（PS）進出を決めた。84勝72敗でア・リーグ東地区3位。ワイルドカードではヤンキースに続きア・リーグで2番目の進出決定となった。\n6月24日時点で32勝46敗で借金14の低迷から奇跡的な快進撃を果たした。4月25日にはアレックス・コーラ監督と複数のコーチが解任。好調だった吉田正尚外野手（33）は左太もも裏の肉離れで8月16日から負傷者リスト入りした。だが傘下マイナーから抜擢（ばってき）されたチャド・トレーシー暫定監督が見事にチームを立て直した。MLB公式サイトのサラ・ラングス記者によると、借金14からPS進出を果たしたのは、1914年のブレーブス、74年のパイレーツ、05年のアストロズに続き史上4球団目だという。\nトレーシー監督は現地メディアの取材に「目指す位置までこられたことはもちろんうれしいし、苦しい道のりを乗り越えてきただけに、さらに感無量。本当に長い道のりだったが、選手たちは負けずに突き進んだ」と話した。",
+    "rss_title": "吉田正尚のレッドソックスがPS進出 史上４球団目、借金14から奇跡的快進撃 - ＭＬＢ : 日刊スポーツ",
+    "rss_body": "レッドソックスはレイズに敗戦したが、アストロズがブレーブスに2－4で敗戦したため、2年連続でワイルドカードでのポストシーズン（PS）進出を決めた。84勝72敗でア・リーグ東地区3位。ワイルドカードではヤンキースに続きア・リーグで2番目の進出決定となった。\n6月24日時点で32勝46敗で借金14の低迷から奇跡的な快進撃を果たした。4月25日にはアレックス・コーラ監督と複数のコーチが解任。好調だった吉田正尚外野手（33）は左太もも裏の肉離れで8月16日から負傷者リスト入りした。だが傘下マイナーから抜擢（ばってき）されたチャド・トレーシー暫定監督が見事にチームを立て直した。MLB公式サイトのサラ・ラングス記者によると、借金14からPS進出を果たしたのは、1914年のブレーブス、74年のパイレーツ、05年のアストロズに続き史上4球団目だという。\nトレーシー監督は現地メディアの取材に「目指す位置までこられたことはもちろんうれしいし、苦しい道のりを乗り越えてきただけに、さらに感無量。本当に長い道のりだったが、選手たちは負けずに突き進んだ」と話した。",
+    "translation_status": "fallback_original"
   },
   {
     "id": "c4a5fc44de61b80b5d0c",
@@ -423,56 +567,6 @@
     "original_body": "Garrett Whitlock is looking to make a career pivot and transition into the starting rotation. For the Boston Red Sox, it's a strange proposition. The right-hander is one of the best setup men in the league, and that has tremendous value.\nOf course, starting pitchers have even more value, hence the higher salaries, but the transition is a risk. Not only does a hurler need to reserve something in the tank rather than just air it out for an inning, but he also needs to have enough variation in his arsenal to turn over a lineup multiple times.\nSome Red Sox beat writers don't believe the transition is the best idea. The biggest concern is whether or not Whitlock's health can hold up under a starter's workload. The 30-year-old's past forays into starting have resulted in injuries, making this a serious concern and not just some folks crying wolf.\nHowever, there are still reasons to give it a try. Not now, of course. But in 2027, Whitlock in the rotation could make a lot of sense for a few distinct reasons.\nThe Red Sox should roll the dice on Garrett Whitlock as a starter in 2027\nPresumably, the reason Whitlock would like to try his hand again in the rotation is monetary. On the free-agent market, mid-rotation starters can get upwards of $15 million per season. Look at guys like Chris Bassit and Merrill Kelly, for example, who are making $18.5 million and $18 million this season, respectively.\nHowever, Boston holds options for 2027 and 2028 on Whitlock. If exercised, the Red Sox will pay him $8.25 million next year and $10.5 million in 2028. If he works out as a starter, that's an incredible value.\nThe next reason to give this a go is the fact that Whitlock has the repertoire to work in the rotation. While the majority of relievers are one-or-two-pitch pitchers, Whitlock has three quality offerings. His sinker is the cornerstone, which he throws 56% of the time, but he has a slider and changeup, too.\nThe slider he uses at a 26% rate, and it generates a ton of whiffs, coming in at 46.7%. The change gets broken out at an 18% clip, is a weapon against lefties, and also has a healthy 35.6% whiff rate. You might like to see a fourth pitch, just to have a show-me offering, but that's a solid foundation for a starter.\nThe next point is about righty-lefty balance. The Red Sox have an extreme imbalance towards southpaws. Theoretically, if everyone is healthy, you have Garrett Crochet, Ranger Suarez, Payton Tolle, and Jake Bennett all throwing from the left side. If Sonny Gray retires, Boston will have to find a righty to avoid skewing entirely left-handed.\nFinally, the risk is minimal. As long as he doesn't suffer a catastrophic injury, the Red Sox can always stick Whitlock back in the bullpen and have a dominant high-leverage reliever should he struggle as a starter. In that regard, they're playing with house money. They control his future for the next two years, and he's paid a reasonable rate for a setup man, and what would be a steal for a No. 3 or No. 4 starter. At that point, why not take the plunge?",
     "rss_title": "The Red Sox should take advantage of Garrett Whitlock's desire to start in 2027",
     "rss_body": "Garrett Whitlock is looking to make a career pivot and transition into the starting rotation. For the Boston Red Sox, it's a strange proposition. The right-hander is one of the best setup men in the league, and that has tremendous value.\nOf course, starting pitchers have even more value, hence the higher salaries, but the transition is a risk. Not only does a hurler need to reserve something in the tank rather than just air it out for an inning, but he also needs to have enough variation in his arsenal to turn over a lineup multiple times.\nSome Red Sox beat writers don't believe the transition is the best idea. The biggest concern is whether or not Whitlock's health can hold up under a starter's workload. The 30-year-old's past forays into starting have resulted in injuries, making this a serious concern and not just some folks crying wolf.\nHowever, there are still reasons to give it a try. Not now, of course. But in 2027, Whitlock in the rotation could make a lot of sense for a few distinct reasons.\nThe Red Sox should roll the dice on Garrett Whitlock as a starter in 2027\nPresumably, the reason Whitlock would like to try his hand again in the rotation is monetary. On the free-agent market, mid-rotation starters can get upwards of $15 million per season. Look at guys like Chris Bassit and Merrill Kelly, for example, who are making $18.5 million and $18 million this season, respectively.\nHowever, Boston holds options for 2027 and 2028 on Whitlock. If exercised, the Red Sox will pay him $8.25 million next year and $10.5 million in 2028. If he works out as a starter, that's an incredible value.\nThe next reason to give this a go is the fact that Whitlock has the repertoire to work in the rotation. While the majority of relievers are one-or-two-pitch pitchers, Whitlock has three quality offerings. His sinker is the cornerstone, which he throws 56% of the time, but he has a slider and changeup, too.\nThe slider he uses at a 26% rate, and it generates a ton of whiffs, coming in at 46.7%. The change gets broken out at an 18% clip, is a weapon against lefties, and also has a healthy 35.6% whiff rate. You might like to see a fourth pitch, just to have a show-me offering, but that's a solid foundation for a starter.\nThe next point is about righty-lefty balance. The Red Sox have an extreme imbalance towards southpaws. Theoretically, if everyone is healthy, you have Garrett Crochet, Ranger Suarez, Payton Tolle, and Jake Bennett all throwing from the left side. If Sonny Gray retires, Boston will have to find a righty to avoid skewing entirely left-handed.\nFinally, the risk is minimal. As long as he doesn't suffer a catastrophic injury, the Red Sox can always stick Whitlock back in the bullpen and have a dominant high-leverage reliever should he struggle as a starter. In that regard, they're playing with house money. They control his future for the next two years, and he's paid a reasonable rate for a setup man, and what would be a steal for a No. 3 or No. 4 starter. At that point, why not take the plunge?",
-    "translation_status": "fallback_original"
-  },
-  {
-    "id": "c22f4f06729f3409a054",
-    "title": "Red Sox heading to playoffs after dreadful start, red-hot summer",
-    "source": "sunjournal.com",
-    "author": "Scott Martin",
-    "url": "https://www.sunjournal.com/2026/09/20/red-sox-heading-to-playoffs-after-dreadful-start-red-hot-summer/",
-    "published_iso": "2026-09-20T23:00:00+00:00",
-    "published_rfc2822": "Sun, 20 Sep 2026 23:00:00 +0000",
-    "body": "ST. PETERSBURG, Fla. — As the Boston Red Sox celebrated an improbable postseason berth at Tropicana Field, with sparkling wine and beer flowing all around, the clubhouse soundtrack seemed appropriate.\n“Stayin’ Alive.’’\n“I think that pretty much says it all,’’ left fielder Roman Anthony said Sunday. “We pretty much stayed alive when nobody else thought we could. Now here we are.’’\nThe Red Sox were 32-46 and 15 1/2 games back in the AL East race on June 24. They have since gone 52-25 and will be in the playoffs.\nThe Red Sox lost 5-1 to the Tampa Bay Rays in their series finale, so couldn’t take care of things themselves. But about an hour after the game finished, the Houston Astros lost 4-2 to the Atlanta Braves, allowing the Red Sox to secure a wild-card spot.\nShortly after the Astros-Braves result went final, Red Sox players, coaches and staff members gathered near the Tropicana Field mound for a team photograph.\n“I really don’t care how we got in, as long as we got in,’’ shortstop Trevor Story said.\nInterim manager Chad Tracy was in place for the turnaround. Since being appointed on April 26 following the dismissal of Alex Cora, the Red Sox have gone 74-55.\n“Look, we were not in a good spot,’’ Tracy said. “We were not playing good ball. But it shows you that if you stick to it, good things can happen. I couldn’t be more proud of this group.’’\nFirst baseman Willson Contreras said he kept the faith, even when things trended downward, and the reward was sweet.\n“It’s hard not to have some tears over this,’’ Contreras said. “It’s a great accomplishment, but I don’t want this team to stop here. I want to keep going. We have proven that you can get hot and overcome a lot of big odds.’’",
-    "tracked_people": [
-      {
-        "name": "Willson Contreras",
-        "role": "Catcher / DH",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Trevor Story",
-        "role": "Infielder",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Roman Anthony",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Chad Tracy",
-        "role": "Manager",
-        "status": "Coaching Staff",
-        "type": "staff"
-      }
-    ],
-    "source_languages": [
-      "English"
-    ],
-    "source_countries": [
-      "United States"
-    ],
-    "discovery_sources": [
-      "GDELT"
-    ],
-    "original_title": "Red Sox heading to playoffs after dreadful start, red-hot summer",
-    "original_body": "ST. PETERSBURG, Fla. — As the Boston Red Sox celebrated an improbable postseason berth at Tropicana Field, with sparkling wine and beer flowing all around, the clubhouse soundtrack seemed appropriate.\n“Stayin’ Alive.’’\n“I think that pretty much says it all,’’ left fielder Roman Anthony said Sunday. “We pretty much stayed alive when nobody else thought we could. Now here we are.’’\nThe Red Sox were 32-46 and 15 1/2 games back in the AL East race on June 24. They have since gone 52-25 and will be in the playoffs.\nThe Red Sox lost 5-1 to the Tampa Bay Rays in their series finale, so couldn’t take care of things themselves. But about an hour after the game finished, the Houston Astros lost 4-2 to the Atlanta Braves, allowing the Red Sox to secure a wild-card spot.\nShortly after the Astros-Braves result went final, Red Sox players, coaches and staff members gathered near the Tropicana Field mound for a team photograph.\n“I really don’t care how we got in, as long as we got in,’’ shortstop Trevor Story said.\nInterim manager Chad Tracy was in place for the turnaround. Since being appointed on April 26 following the dismissal of Alex Cora, the Red Sox have gone 74-55.\n“Look, we were not in a good spot,’’ Tracy said. “We were not playing good ball. But it shows you that if you stick to it, good things can happen. I couldn’t be more proud of this group.’’\nFirst baseman Willson Contreras said he kept the faith, even when things trended downward, and the reward was sweet.\n“It’s hard not to have some tears over this,’’ Contreras said. “It’s a great accomplishment, but I don’t want this team to stop here. I want to keep going. We have proven that you can get hot and overcome a lot of big odds.’’",
-    "rss_title": "Red Sox heading to playoffs after dreadful start, red-hot summer",
-    "rss_body": "ST. PETERSBURG, Fla. — As the Boston Red Sox celebrated an improbable postseason berth at Tropicana Field, with sparkling wine and beer flowing all around, the clubhouse soundtrack seemed appropriate.\n“Stayin’ Alive.’’\n“I think that pretty much says it all,’’ left fielder Roman Anthony said Sunday. “We pretty much stayed alive when nobody else thought we could. Now here we are.’’\nThe Red Sox were 32-46 and 15 1/2 games back in the AL East race on June 24. They have since gone 52-25 and will be in the playoffs.\nThe Red Sox lost 5-1 to the Tampa Bay Rays in their series finale, so couldn’t take care of things themselves. But about an hour after the game finished, the Houston Astros lost 4-2 to the Atlanta Braves, allowing the Red Sox to secure a wild-card spot.\nShortly after the Astros-Braves result went final, Red Sox players, coaches and staff members gathered near the Tropicana Field mound for a team photograph.\n“I really don’t care how we got in, as long as we got in,’’ shortstop Trevor Story said.\nInterim manager Chad Tracy was in place for the turnaround. Since being appointed on April 26 following the dismissal of Alex Cora, the Red Sox have gone 74-55.\n“Look, we were not in a good spot,’’ Tracy said. “We were not playing good ball. But it shows you that if you stick to it, good things can happen. I couldn’t be more proud of this group.’’\nFirst baseman Willson Contreras said he kept the faith, even when things trended downward, and the reward was sweet.\n“It’s hard not to have some tears over this,’’ Contreras said. “It’s a great accomplishment, but I don’t want this team to stop here. I want to keep going. We have proven that you can get hot and overcome a lot of big odds.’’",
     "translation_status": "fallback_original"
   },
   {
@@ -3650,165 +3744,6 @@
     "translation_status": "fallback_original"
   },
   {
-    "id": "46154a57f4b15e859f36",
-    "title": "Rays Walk Off Red Sox | 95.7 WDAE | Home Of The Rays",
-    "source": "957wdae.iheart.com",
-    "author": "",
-    "url": "https://957wdae.iheart.com/featured/home-of-the-rays/content/2026-09-19-rays-walk-off-red-sox/",
-    "published_iso": "2026-09-20T02:30:00+00:00",
-    "published_rfc2822": "Sun, 20 Sep 2026 02:30:00 +0000",
-    "body": "The Tampa Bay Rays (94-60) defeated the Boston Red Sox (84-71) 2-1 on Saturday evening at Tropicana Field. With the win, the Rays have evened the three-game series as they continue a push to try to win the American League East crown.\nThe Red Sox got on the board in the third inning thanks to a RBI double from Roman Anthony. In the bottom of the fourth, Jonathan Aranda hit a solo homer to tie the game 1-1. That would remain the score until the bottom of the ninth inning.\nJunior Caminero led off the bottom of the ninth with a single to left, before Jonny DeLuca popped out. Chandler Simpson then hit a single to put runners on first and second, before those runners both advanced thanks to a passed ball from Red Sox catcher Connor Wong. Victor Mesa Jr then struck out before Richie Palacios came to the plate. With runners on second and third and two outs, Palacios singled on a shallow fly ball to right field that fell in and allowed the Rays to leave Tropicana Field as walk-off winners.\nFreddy Peralta got the start and allowed just one earned run on four hits in five and two-third innings of work in which he struck out six and walked two. Bryan Baker (4-2, 1.49) picked up the win out of the bullpen after working a scoreless top of the ninth inning.\nThe Rays will now try to win the series against the Red Sox when they meet in the finale on Sunday afternoon. Griffin Jax (7-10, 3.80) is scheduled to start for the Rays and face Patrick Sandoval (1-6, 4.99) for the Red Sox. First pitch on Sunday is scheduled for 1:40 PM - pregame coverage begins at 1:00 PM on 95.7 WDAE.\nCOVER PHOTO COURTESY GETTY IMAGES",
-    "tracked_people": [
-      {
-        "name": "Connor Wong",
-        "role": "Catcher",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Roman Anthony",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Patrick Sandoval",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player"
-      }
-    ],
-    "source_languages": [
-      "English"
-    ],
-    "source_countries": [
-      "United States"
-    ],
-    "discovery_sources": [
-      "GDELT"
-    ],
-    "original_title": "Rays Walk Off Red Sox | 95.7 WDAE | Home Of The Rays",
-    "original_body": "The Tampa Bay Rays (94-60) defeated the Boston Red Sox (84-71) 2-1 on Saturday evening at Tropicana Field. With the win, the Rays have evened the three-game series as they continue a push to try to win the American League East crown.\nThe Red Sox got on the board in the third inning thanks to a RBI double from Roman Anthony. In the bottom of the fourth, Jonathan Aranda hit a solo homer to tie the game 1-1. That would remain the score until the bottom of the ninth inning.\nJunior Caminero led off the bottom of the ninth with a single to left, before Jonny DeLuca popped out. Chandler Simpson then hit a single to put runners on first and second, before those runners both advanced thanks to a passed ball from Red Sox catcher Connor Wong. Victor Mesa Jr then struck out before Richie Palacios came to the plate. With runners on second and third and two outs, Palacios singled on a shallow fly ball to right field that fell in and allowed the Rays to leave Tropicana Field as walk-off winners.\nFreddy Peralta got the start and allowed just one earned run on four hits in five and two-third innings of work in which he struck out six and walked two. Bryan Baker (4-2, 1.49) picked up the win out of the bullpen after working a scoreless top of the ninth inning.\nThe Rays will now try to win the series against the Red Sox when they meet in the finale on Sunday afternoon. Griffin Jax (7-10, 3.80) is scheduled to start for the Rays and face Patrick Sandoval (1-6, 4.99) for the Red Sox. First pitch on Sunday is scheduled for 1:40 PM - pregame coverage begins at 1:00 PM on 95.7 WDAE.\nCOVER PHOTO COURTESY GETTY IMAGES",
-    "rss_title": "Rays Walk Off Red Sox | 95.7 WDAE | Home Of The Rays",
-    "rss_body": "The Tampa Bay Rays (94-60) defeated the Boston Red Sox (84-71) 2-1 on Saturday evening at Tropicana Field. With the win, the Rays have evened the three-game series as they continue a push to try to win the American League East crown.\nThe Red Sox got on the board in the third inning thanks to a RBI double from Roman Anthony. In the bottom of the fourth, Jonathan Aranda hit a solo homer to tie the game 1-1. That would remain the score until the bottom of the ninth inning.\nJunior Caminero led off the bottom of the ninth with a single to left, before Jonny DeLuca popped out. Chandler Simpson then hit a single to put runners on first and second, before those runners both advanced thanks to a passed ball from Red Sox catcher Connor Wong. Victor Mesa Jr then struck out before Richie Palacios came to the plate. With runners on second and third and two outs, Palacios singled on a shallow fly ball to right field that fell in and allowed the Rays to leave Tropicana Field as walk-off winners.\nFreddy Peralta got the start and allowed just one earned run on four hits in five and two-third innings of work in which he struck out six and walked two. Bryan Baker (4-2, 1.49) picked up the win out of the bullpen after working a scoreless top of the ninth inning.\nThe Rays will now try to win the series against the Red Sox when they meet in the finale on Sunday afternoon. Griffin Jax (7-10, 3.80) is scheduled to start for the Rays and face Patrick Sandoval (1-6, 4.99) for the Red Sox. First pitch on Sunday is scheduled for 1:40 PM - pregame coverage begins at 1:00 PM on 95.7 WDAE.\nCOVER PHOTO COURTESY GETTY IMAGES",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "wmmbam.iheart.com",
-        "url": "https://wmmbam.iheart.com/content/2026-09-19-rays-walk-off-red-sox/",
-        "title": "Rays Walk Off Red Sox | WMMB-AM",
-        "body_characters": 1619
-      },
-      {
-        "source": "969thegame.iheart.com",
-        "url": "https://969thegame.iheart.com/content/2026-09-19-rays-walk-off-red-sox/",
-        "title": "Rays Walk Off Red Sox | FM 96.9 The Game",
-        "body_characters": 1619
-      }
-    ]
-  },
-  {
-    "id": "d57294c3c66d22f99e32",
-    "title": "Rays continue walk-off winning ways against Red Sox",
-    "source": "bignewsnetwork.com",
-    "author": "Field Level Media",
-    "url": "http://www.bignewsnetwork.com/news/279317775/rays-continue-walk-off-winning-ways-against-red-sox",
-    "published_iso": "2026-09-20T00:30:00+00:00",
-    "published_rfc2822": "Sun, 20 Sep 2026 00:30:00 +0000",
-    "body": "Rays continue walk-off winning ways against Red Sox\n(Photo credit: Kim Klement Neitzel)\nRichie Palacios produced a two-out, walk-off single in the ninth inning as the Tampa Bay Rays edged the Boston Red Sox 2-1 on Saturday afternoon in St. Petersburg, Fla., to even their final home series of the regular season.\nAgainst Garrett Whitlock (7-2), Palacios looped a 1-2 sinker into shallow right to score Junior Caminero as the Rays (94-60) hit their third walk-off winner during the nine-game homestand.\nJonathan Aranda homered while Liam Hicks and Chandler Simpson posted two hits apiece as Tampa Bay improved to 7-1 on the homestand.\nBidding for a fifth consecutive win over five starts, Freddy Peralta received no decision after yielding just one run on four hits over 5 2/3 innings that took 97 pitches. He struck out six and walked two.\nCaleb Durbin stroked two doubles and scored for the Red Sox (84-71), who lost for the first time in three games.\nStarting pitcher Brayan Bello went a season-best eight innings and allowed one run on five hits with a career high-tying 11 strikeouts.\nThe Rays got an out with the infield drawn in and appeared to escape trouble in the third. Then Roman Anthony, who homered and had three RBIs in Friday's 4-2 win in the opener, remained hot and made it 1-0 with a two-out double that scored Durbin.\nCedric Mullins laid down a bunt single and reached second on Durbin's throwing error to open the third, but he was picked off and caught trying to steal third on Jorge Mateo's failed sacrifice bunt.\nIn the fourth, Aranda tied it 1-all when he rocked his 22nd homer to left field as he took Bello's 97 m.p.h. four-seam fastball the opposite way.\nWith Bello still in the game in the seventh, Hicks led off with a single and Simpson dropped one into right with no outs. Following a groundout and a fielder's choice, Bello ended the threat by whiffing Mullins on a foul tip.\nDurbin lined his second double with one out in the ninth, but Hicks tossed him out trying to steal third. Jarren Duran followed with his fifth triple, but Isiah Kiner-Falefa grounded out to deep third to end the inning off Bryan Baker (4-2).\n--Field Level Media",
-    "tracked_people": [
-      {
-        "name": "Isiah Kiner-Falefa",
-        "role": "Utility Infielder",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Caleb Durbin",
-        "role": "Infielder",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Roman Anthony",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Jarren Duran",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Brayan Bello",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Garrett Whitlock",
-        "role": "Pitcher",
-        "status": "Active",
-        "type": "player"
-      }
-    ],
-    "source_languages": [
-      "English"
-    ],
-    "source_countries": [
-      "United States",
-      "Cambodia"
-    ],
-    "discovery_sources": [
-      "GDELT"
-    ],
-    "original_title": "Rays continue walk-off winning ways against Red Sox",
-    "original_body": "Rays continue walk-off winning ways against Red Sox\n(Photo credit: Kim Klement Neitzel)\nRichie Palacios produced a two-out, walk-off single in the ninth inning as the Tampa Bay Rays edged the Boston Red Sox 2-1 on Saturday afternoon in St. Petersburg, Fla., to even their final home series of the regular season.\nAgainst Garrett Whitlock (7-2), Palacios looped a 1-2 sinker into shallow right to score Junior Caminero as the Rays (94-60) hit their third walk-off winner during the nine-game homestand.\nJonathan Aranda homered while Liam Hicks and Chandler Simpson posted two hits apiece as Tampa Bay improved to 7-1 on the homestand.\nBidding for a fifth consecutive win over five starts, Freddy Peralta received no decision after yielding just one run on four hits over 5 2/3 innings that took 97 pitches. He struck out six and walked two.\nCaleb Durbin stroked two doubles and scored for the Red Sox (84-71), who lost for the first time in three games.\nStarting pitcher Brayan Bello went a season-best eight innings and allowed one run on five hits with a career high-tying 11 strikeouts.\nThe Rays got an out with the infield drawn in and appeared to escape trouble in the third. Then Roman Anthony, who homered and had three RBIs in Friday's 4-2 win in the opener, remained hot and made it 1-0 with a two-out double that scored Durbin.\nCedric Mullins laid down a bunt single and reached second on Durbin's throwing error to open the third, but he was picked off and caught trying to steal third on Jorge Mateo's failed sacrifice bunt.\nIn the fourth, Aranda tied it 1-all when he rocked his 22nd homer to left field as he took Bello's 97 m.p.h. four-seam fastball the opposite way.\nWith Bello still in the game in the seventh, Hicks led off with a single and Simpson dropped one into right with no outs. Following a groundout and a fielder's choice, Bello ended the threat by whiffing Mullins on a foul tip.\nDurbin lined his second double with one out in the ninth, but Hicks tossed him out trying to steal third. Jarren Duran followed with his fifth triple, but Isiah Kiner-Falefa grounded out to deep third to end the inning off Bryan Baker (4-2).\n--Field Level Media",
-    "rss_title": "Rays continue walk-off winning ways against Red Sox",
-    "rss_body": "Rays continue walk-off winning ways against Red Sox\n(Photo credit: Kim Klement Neitzel)\nRichie Palacios produced a two-out, walk-off single in the ninth inning as the Tampa Bay Rays edged the Boston Red Sox 2-1 on Saturday afternoon in St. Petersburg, Fla., to even their final home series of the regular season.\nAgainst Garrett Whitlock (7-2), Palacios looped a 1-2 sinker into shallow right to score Junior Caminero as the Rays (94-60) hit their third walk-off winner during the nine-game homestand.\nJonathan Aranda homered while Liam Hicks and Chandler Simpson posted two hits apiece as Tampa Bay improved to 7-1 on the homestand.\nBidding for a fifth consecutive win over five starts, Freddy Peralta received no decision after yielding just one run on four hits over 5 2/3 innings that took 97 pitches. He struck out six and walked two.\nCaleb Durbin stroked two doubles and scored for the Red Sox (84-71), who lost for the first time in three games.\nStarting pitcher Brayan Bello went a season-best eight innings and allowed one run on five hits with a career high-tying 11 strikeouts.\nThe Rays got an out with the infield drawn in and appeared to escape trouble in the third. Then Roman Anthony, who homered and had three RBIs in Friday's 4-2 win in the opener, remained hot and made it 1-0 with a two-out double that scored Durbin.\nCedric Mullins laid down a bunt single and reached second on Durbin's throwing error to open the third, but he was picked off and caught trying to steal third on Jorge Mateo's failed sacrifice bunt.\nIn the fourth, Aranda tied it 1-all when he rocked his 22nd homer to left field as he took Bello's 97 m.p.h. four-seam fastball the opposite way.\nWith Bello still in the game in the seventh, Hicks led off with a single and Simpson dropped one into right with no outs. Following a groundout and a fielder's choice, Bello ended the threat by whiffing Mullins on a foul tip.\nDurbin lined his second double with one out in the ninth, but Hicks tossed him out trying to steal third. Jarren Duran followed with his fifth triple, but Isiah Kiner-Falefa grounded out to deep third to end the inning off Bryan Baker (4-2).\n--Field Level Media",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "ktik.com",
-        "url": "https://www.ktik.com/2026/09/19/rays-continue-walk-off-winning-ways-against-red-sox/",
-        "title": "Rays continue walk-off winning ways against Red Sox",
-        "body_characters": 2061
-      },
-      {
-        "source": "1075thegame.com",
-        "url": "https://www.1075thegame.com/2026/09/19/rays-continue-walk-off-winning-ways-against-red-sox/",
-        "title": "Rays continue walk-off winning ways against Red Sox",
-        "body_characters": 2061
-      },
-      {
-        "source": "953thescore.com",
-        "url": "https://www.953thescore.com/2026/09/19/rays-continue-walk-off-winning-ways-against-red-sox/",
-        "title": "Rays continue walk-off winning ways against Red Sox",
-        "body_characters": 2061
-      },
-      {
-        "source": "cambodiantimes.com",
-        "url": "http://www.cambodiantimes.com/news/279317775/rays-continue-walk-off-winning-ways-against-red-sox",
-        "title": "Rays continue walk-off winning ways against Red Sox",
-        "body_characters": 2329
-      },
-      {
-        "source": "thefan1075.com",
-        "url": "https://www.thefan1075.com/2026/09/19/rays-continue-walk-off-winning-ways-against-red-sox/",
-        "title": "Rays continue walk-off winning ways against Red Sox",
-        "body_characters": 2061
-      },
-      {
-        "source": "bostonstar.com",
-        "url": "http://www.bostonstar.com/news/279317775/rays-continue-walk-off-winning-ways-against-red-sox",
-        "title": "Rays continue walk-off winning ways against Red Sox",
-        "body_characters": 2601
-      }
-    ]
-  },
-  {
     "id": "b2e42642f9e6a89a1cb4",
     "title": "Spencer Jones' remarkable stats vs. lefties are better than Yankees fans' wildest dreams",
     "source": "yanksgoyard.com",
@@ -3869,6 +3804,64 @@
     "rss_title": "Spencer Jones' remarkable stats vs. lefties are better than Yankees fans' wildest dreams",
     "rss_body": "There were many questions the New York Yankees needed Spencer Jones to answer this season. Now, we've seen enough of him, even if it's been in a couple of disjointed stints, to get a good idea of who he is at the major league level.\nThe answer: pretty damn good. After struggling early, Jones has found his footing. A big reason for his ascendancy has been surprising. The Vanderbilt product has mashed left-handed pitching.\nHe's now logged 51 plate appearances against lefties and has slashed an eye-watering .435/.490/.761 following his homer off Minnesota Twins lefty specialist Taylor Rodgers on Sept. 15. It was the first dinger Rodgers gave up to a left-handed hitter over 133 plate appearances this season.\nThe sample size isn't huge, but it's relatively significant. For example, Ben Rice has 209 plate appearances against lefties out of his 622 plate appearances. For Jones, the 51 matchups against southpaws are a decent portion of his 255 total plate appearances.\nOne of the most impressive things about how he's performed against same-handed pitching is the amount of power he's demonstrated. Obviously, the six-foot-seven outfielder is a behemoth, but most lefties, even those who perform well against southpaws, see a drop in power in those situations. Take Rice, for instance; his slugging percentage drops from .561 against righties to .457 against left-handers. That hasn't been the case for Jones.\nThis has just been one part of Jones' maturation process that should have every fan feeling confident about not only his future, but his ability to contribute now.\nSpencer Jones' performance against lefties has Yankees well-positioned for playoffs vs. Red Sox\nOverall, Jones is hitting .259/.331/.452 with 10 homers on the season. He's been even better since being recalled on July 22, posting a .271/.337/.490 line with eight of his 10 homers coming during this most recent span.\nThere should be no more doubt that he should start over Trent Grisham, assuming Grisham is healthy, once the playoffs roll around. A significant part of that reasoning has to do with his performance against southpaws.\nJones has learned a lot from Cody Bellinger on how to handle those tough at-bats since he's been up in the bigs and the star left fielder has been healthy.\n“When we are in the dugout, he’s one of those people I can go up to and ask, like, ‘Yo, what did you see?’ He’ll tell me bluntly what he saw, how he saw it, and essentially what he’s going to do next time. It’s like, all right, good to know before I go even into my first (at-bat) what this MVP is going to do for his first at-bat. It’s pretty sweet knowing that I’ve got these guys to help me out,” Jones said to The Athletic this week.\nHe couldn't have a better mentor. Bellinger isn't hitting lefties as much as he did last year, when he put up an insane .353/.415/.601 line, but his .287/.346/.449 performance in 2026 is plenty good, and better than what he's done against righties. In fact, Bellinger is about as balanced as they come with an .804 career OPS against left-handers and an .819 mark against righties.\nWe spoke about Rice earlier, but the early-season drama about his usage against lefties is a thing of the past. While he has more pop against righties, Rice's .255/.330/.457 line against southpaws is more than serviceable.\nDespite having so many lefties in the lineup on a daily basis, the Yankees as a whole don't suffer much from it. The club is hitting a collective .247/.318/.422 against left-handed pitching this season, with a .740 OPS that ranks ninth. Remember, for most of that time, Aaron Judge hasn't been a factor, either.\nLooking ahead, the Yankees' most likely opponent in the Wild Card series is the Red Sox, who are loaded with left-handers. In the rotation, they boast southpaws Payton Tolle and Ranger Suárez, with their being a possibility that Jake Bennett makes the cut, too. In the bullpen, they'll hope to unleash Garrett Crochet, Erik Miller and old friend Aroldis Chapman.\nHowever, rather than being overmatched, we might say that this plays into the Yankees' hands. New York can handle left-handed pitching, and those lefty bats can tee off against righties. Jones emerging as a threat against southpaws only solidifies the strength and gives the Yankees another regular who doesn't need a platoon partner, allowing them to match up only where they're vulnerable.",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "46154a57f4b15e859f36",
+    "title": "Rays Walk Off Red Sox | 95.7 WDAE | Home Of The Rays",
+    "source": "957wdae.iheart.com",
+    "author": "",
+    "url": "https://957wdae.iheart.com/featured/home-of-the-rays/content/2026-09-19-rays-walk-off-red-sox/",
+    "published_iso": "2026-09-20T02:30:00+00:00",
+    "published_rfc2822": "Sun, 20 Sep 2026 02:30:00 +0000",
+    "body": "The Tampa Bay Rays (94-60) defeated the Boston Red Sox (84-71) 2-1 on Saturday evening at Tropicana Field. With the win, the Rays have evened the three-game series as they continue a push to try to win the American League East crown.\nThe Red Sox got on the board in the third inning thanks to a RBI double from Roman Anthony. In the bottom of the fourth, Jonathan Aranda hit a solo homer to tie the game 1-1. That would remain the score until the bottom of the ninth inning.\nJunior Caminero led off the bottom of the ninth with a single to left, before Jonny DeLuca popped out. Chandler Simpson then hit a single to put runners on first and second, before those runners both advanced thanks to a passed ball from Red Sox catcher Connor Wong. Victor Mesa Jr then struck out before Richie Palacios came to the plate. With runners on second and third and two outs, Palacios singled on a shallow fly ball to right field that fell in and allowed the Rays to leave Tropicana Field as walk-off winners.\nFreddy Peralta got the start and allowed just one earned run on four hits in five and two-third innings of work in which he struck out six and walked two. Bryan Baker (4-2, 1.49) picked up the win out of the bullpen after working a scoreless top of the ninth inning.\nThe Rays will now try to win the series against the Red Sox when they meet in the finale on Sunday afternoon. Griffin Jax (7-10, 3.80) is scheduled to start for the Rays and face Patrick Sandoval (1-6, 4.99) for the Red Sox. First pitch on Sunday is scheduled for 1:40 PM - pregame coverage begins at 1:00 PM on 95.7 WDAE.\nCOVER PHOTO COURTESY GETTY IMAGES",
+    "tracked_people": [
+      {
+        "name": "Connor Wong",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Patrick Sandoval",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Rays Walk Off Red Sox | 95.7 WDAE | Home Of The Rays",
+    "original_body": "The Tampa Bay Rays (94-60) defeated the Boston Red Sox (84-71) 2-1 on Saturday evening at Tropicana Field. With the win, the Rays have evened the three-game series as they continue a push to try to win the American League East crown.\nThe Red Sox got on the board in the third inning thanks to a RBI double from Roman Anthony. In the bottom of the fourth, Jonathan Aranda hit a solo homer to tie the game 1-1. That would remain the score until the bottom of the ninth inning.\nJunior Caminero led off the bottom of the ninth with a single to left, before Jonny DeLuca popped out. Chandler Simpson then hit a single to put runners on first and second, before those runners both advanced thanks to a passed ball from Red Sox catcher Connor Wong. Victor Mesa Jr then struck out before Richie Palacios came to the plate. With runners on second and third and two outs, Palacios singled on a shallow fly ball to right field that fell in and allowed the Rays to leave Tropicana Field as walk-off winners.\nFreddy Peralta got the start and allowed just one earned run on four hits in five and two-third innings of work in which he struck out six and walked two. Bryan Baker (4-2, 1.49) picked up the win out of the bullpen after working a scoreless top of the ninth inning.\nThe Rays will now try to win the series against the Red Sox when they meet in the finale on Sunday afternoon. Griffin Jax (7-10, 3.80) is scheduled to start for the Rays and face Patrick Sandoval (1-6, 4.99) for the Red Sox. First pitch on Sunday is scheduled for 1:40 PM - pregame coverage begins at 1:00 PM on 95.7 WDAE.\nCOVER PHOTO COURTESY GETTY IMAGES",
+    "rss_title": "Rays Walk Off Red Sox | 95.7 WDAE | Home Of The Rays",
+    "rss_body": "The Tampa Bay Rays (94-60) defeated the Boston Red Sox (84-71) 2-1 on Saturday evening at Tropicana Field. With the win, the Rays have evened the three-game series as they continue a push to try to win the American League East crown.\nThe Red Sox got on the board in the third inning thanks to a RBI double from Roman Anthony. In the bottom of the fourth, Jonathan Aranda hit a solo homer to tie the game 1-1. That would remain the score until the bottom of the ninth inning.\nJunior Caminero led off the bottom of the ninth with a single to left, before Jonny DeLuca popped out. Chandler Simpson then hit a single to put runners on first and second, before those runners both advanced thanks to a passed ball from Red Sox catcher Connor Wong. Victor Mesa Jr then struck out before Richie Palacios came to the plate. With runners on second and third and two outs, Palacios singled on a shallow fly ball to right field that fell in and allowed the Rays to leave Tropicana Field as walk-off winners.\nFreddy Peralta got the start and allowed just one earned run on four hits in five and two-third innings of work in which he struck out six and walked two. Bryan Baker (4-2, 1.49) picked up the win out of the bullpen after working a scoreless top of the ninth inning.\nThe Rays will now try to win the series against the Red Sox when they meet in the finale on Sunday afternoon. Griffin Jax (7-10, 3.80) is scheduled to start for the Rays and face Patrick Sandoval (1-6, 4.99) for the Red Sox. First pitch on Sunday is scheduled for 1:40 PM - pregame coverage begins at 1:00 PM on 95.7 WDAE.\nCOVER PHOTO COURTESY GETTY IMAGES",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "wmmbam.iheart.com",
+        "url": "https://wmmbam.iheart.com/content/2026-09-19-rays-walk-off-red-sox/",
+        "title": "Rays Walk Off Red Sox | WMMB-AM",
+        "body_characters": 1619
+      },
+      {
+        "source": "969thegame.iheart.com",
+        "url": "https://969thegame.iheart.com/content/2026-09-19-rays-walk-off-red-sox/",
+        "title": "Rays Walk Off Red Sox | FM 96.9 The Game",
+        "body_characters": 1619
+      }
+    ]
   },
   {
     "id": "3839781bbd02f3dad8e1",
@@ -3983,6 +3976,107 @@
         "url": "https://www.mlb.com/news/garrett-crochet-tanner-houck-making-progress-in-injury-rehab",
         "title": "Crochet, Houck making good progress toward return for Red Sox",
         "body_characters": 1412
+      }
+    ]
+  },
+  {
+    "id": "d57294c3c66d22f99e32",
+    "title": "Rays continue walk-off winning ways against Red Sox",
+    "source": "bignewsnetwork.com",
+    "author": "Field Level Media",
+    "url": "http://www.bignewsnetwork.com/news/279317775/rays-continue-walk-off-winning-ways-against-red-sox",
+    "published_iso": "2026-09-20T00:30:00+00:00",
+    "published_rfc2822": "Sun, 20 Sep 2026 00:30:00 +0000",
+    "body": "Rays continue walk-off winning ways against Red Sox\n(Photo credit: Kim Klement Neitzel)\nRichie Palacios produced a two-out, walk-off single in the ninth inning as the Tampa Bay Rays edged the Boston Red Sox 2-1 on Saturday afternoon in St. Petersburg, Fla., to even their final home series of the regular season.\nAgainst Garrett Whitlock (7-2), Palacios looped a 1-2 sinker into shallow right to score Junior Caminero as the Rays (94-60) hit their third walk-off winner during the nine-game homestand.\nJonathan Aranda homered while Liam Hicks and Chandler Simpson posted two hits apiece as Tampa Bay improved to 7-1 on the homestand.\nBidding for a fifth consecutive win over five starts, Freddy Peralta received no decision after yielding just one run on four hits over 5 2/3 innings that took 97 pitches. He struck out six and walked two.\nCaleb Durbin stroked two doubles and scored for the Red Sox (84-71), who lost for the first time in three games.\nStarting pitcher Brayan Bello went a season-best eight innings and allowed one run on five hits with a career high-tying 11 strikeouts.\nThe Rays got an out with the infield drawn in and appeared to escape trouble in the third. Then Roman Anthony, who homered and had three RBIs in Friday's 4-2 win in the opener, remained hot and made it 1-0 with a two-out double that scored Durbin.\nCedric Mullins laid down a bunt single and reached second on Durbin's throwing error to open the third, but he was picked off and caught trying to steal third on Jorge Mateo's failed sacrifice bunt.\nIn the fourth, Aranda tied it 1-all when he rocked his 22nd homer to left field as he took Bello's 97 m.p.h. four-seam fastball the opposite way.\nWith Bello still in the game in the seventh, Hicks led off with a single and Simpson dropped one into right with no outs. Following a groundout and a fielder's choice, Bello ended the threat by whiffing Mullins on a foul tip.\nDurbin lined his second double with one out in the ninth, but Hicks tossed him out trying to steal third. Jarren Duran followed with his fifth triple, but Isiah Kiner-Falefa grounded out to deep third to end the inning off Bryan Baker (4-2).\n--Field Level Media",
+    "tracked_people": [
+      {
+        "name": "Isiah Kiner-Falefa",
+        "role": "Utility Infielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Brayan Bello",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Garrett Whitlock",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player"
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States",
+      "Cambodia"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Rays continue walk-off winning ways against Red Sox",
+    "original_body": "Rays continue walk-off winning ways against Red Sox\n(Photo credit: Kim Klement Neitzel)\nRichie Palacios produced a two-out, walk-off single in the ninth inning as the Tampa Bay Rays edged the Boston Red Sox 2-1 on Saturday afternoon in St. Petersburg, Fla., to even their final home series of the regular season.\nAgainst Garrett Whitlock (7-2), Palacios looped a 1-2 sinker into shallow right to score Junior Caminero as the Rays (94-60) hit their third walk-off winner during the nine-game homestand.\nJonathan Aranda homered while Liam Hicks and Chandler Simpson posted two hits apiece as Tampa Bay improved to 7-1 on the homestand.\nBidding for a fifth consecutive win over five starts, Freddy Peralta received no decision after yielding just one run on four hits over 5 2/3 innings that took 97 pitches. He struck out six and walked two.\nCaleb Durbin stroked two doubles and scored for the Red Sox (84-71), who lost for the first time in three games.\nStarting pitcher Brayan Bello went a season-best eight innings and allowed one run on five hits with a career high-tying 11 strikeouts.\nThe Rays got an out with the infield drawn in and appeared to escape trouble in the third. Then Roman Anthony, who homered and had three RBIs in Friday's 4-2 win in the opener, remained hot and made it 1-0 with a two-out double that scored Durbin.\nCedric Mullins laid down a bunt single and reached second on Durbin's throwing error to open the third, but he was picked off and caught trying to steal third on Jorge Mateo's failed sacrifice bunt.\nIn the fourth, Aranda tied it 1-all when he rocked his 22nd homer to left field as he took Bello's 97 m.p.h. four-seam fastball the opposite way.\nWith Bello still in the game in the seventh, Hicks led off with a single and Simpson dropped one into right with no outs. Following a groundout and a fielder's choice, Bello ended the threat by whiffing Mullins on a foul tip.\nDurbin lined his second double with one out in the ninth, but Hicks tossed him out trying to steal third. Jarren Duran followed with his fifth triple, but Isiah Kiner-Falefa grounded out to deep third to end the inning off Bryan Baker (4-2).\n--Field Level Media",
+    "rss_title": "Rays continue walk-off winning ways against Red Sox",
+    "rss_body": "Rays continue walk-off winning ways against Red Sox\n(Photo credit: Kim Klement Neitzel)\nRichie Palacios produced a two-out, walk-off single in the ninth inning as the Tampa Bay Rays edged the Boston Red Sox 2-1 on Saturday afternoon in St. Petersburg, Fla., to even their final home series of the regular season.\nAgainst Garrett Whitlock (7-2), Palacios looped a 1-2 sinker into shallow right to score Junior Caminero as the Rays (94-60) hit their third walk-off winner during the nine-game homestand.\nJonathan Aranda homered while Liam Hicks and Chandler Simpson posted two hits apiece as Tampa Bay improved to 7-1 on the homestand.\nBidding for a fifth consecutive win over five starts, Freddy Peralta received no decision after yielding just one run on four hits over 5 2/3 innings that took 97 pitches. He struck out six and walked two.\nCaleb Durbin stroked two doubles and scored for the Red Sox (84-71), who lost for the first time in three games.\nStarting pitcher Brayan Bello went a season-best eight innings and allowed one run on five hits with a career high-tying 11 strikeouts.\nThe Rays got an out with the infield drawn in and appeared to escape trouble in the third. Then Roman Anthony, who homered and had three RBIs in Friday's 4-2 win in the opener, remained hot and made it 1-0 with a two-out double that scored Durbin.\nCedric Mullins laid down a bunt single and reached second on Durbin's throwing error to open the third, but he was picked off and caught trying to steal third on Jorge Mateo's failed sacrifice bunt.\nIn the fourth, Aranda tied it 1-all when he rocked his 22nd homer to left field as he took Bello's 97 m.p.h. four-seam fastball the opposite way.\nWith Bello still in the game in the seventh, Hicks led off with a single and Simpson dropped one into right with no outs. Following a groundout and a fielder's choice, Bello ended the threat by whiffing Mullins on a foul tip.\nDurbin lined his second double with one out in the ninth, but Hicks tossed him out trying to steal third. Jarren Duran followed with his fifth triple, but Isiah Kiner-Falefa grounded out to deep third to end the inning off Bryan Baker (4-2).\n--Field Level Media",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "ktik.com",
+        "url": "https://www.ktik.com/2026/09/19/rays-continue-walk-off-winning-ways-against-red-sox/",
+        "title": "Rays continue walk-off winning ways against Red Sox",
+        "body_characters": 2061
+      },
+      {
+        "source": "1075thegame.com",
+        "url": "https://www.1075thegame.com/2026/09/19/rays-continue-walk-off-winning-ways-against-red-sox/",
+        "title": "Rays continue walk-off winning ways against Red Sox",
+        "body_characters": 2061
+      },
+      {
+        "source": "953thescore.com",
+        "url": "https://www.953thescore.com/2026/09/19/rays-continue-walk-off-winning-ways-against-red-sox/",
+        "title": "Rays continue walk-off winning ways against Red Sox",
+        "body_characters": 2061
+      },
+      {
+        "source": "cambodiantimes.com",
+        "url": "http://www.cambodiantimes.com/news/279317775/rays-continue-walk-off-winning-ways-against-red-sox",
+        "title": "Rays continue walk-off winning ways against Red Sox",
+        "body_characters": 2329
+      },
+      {
+        "source": "thefan1075.com",
+        "url": "https://www.thefan1075.com/2026/09/19/rays-continue-walk-off-winning-ways-against-red-sox/",
+        "title": "Rays continue walk-off winning ways against Red Sox",
+        "body_characters": 2061
+      },
+      {
+        "source": "bostonstar.com",
+        "url": "http://www.bostonstar.com/news/279317775/rays-continue-walk-off-winning-ways-against-red-sox",
+        "title": "Rays continue walk-off winning ways against Red Sox",
+        "body_characters": 2601
       }
     ]
   },
@@ -5956,74 +6050,6 @@
     "translation_status": "fallback_original"
   },
   {
-    "id": "bfa38401b73668a8932d",
-    "title": "Roman Anthony sparks offense as Red Sox stop Rays' streak",
-    "source": "Field Level Media",
-    "author": "",
-    "url": "https://fieldlevelmedia.com/mlb/roman-anthony-sparks-offense-as-red-sox-stop-rays-streak/",
-    "published_iso": "2026-09-19T02:40:42+00:00",
-    "published_rfc2822": "Sat, 19 Sep 2026 02:40:42 +0000",
-    "body": "Roman Anthony homered and had three RBIs, Jahmai Jones went deep and the Boston Red Sox cooled off the first-place Tampa Bay Rays with a 4-2 victory on Friday night in St. Petersburg, Fla.\nThe Red Sox (84-70) opened their final road series of the regular season by scoring all of their runs in the first three innings to win for the second consecutive night.\nAnthony went 2-for-5, while Caleb Durbin was 2-for-3 as the team produced nine hits.\nStarting pitcher Ranger Suarez (8-4) fought control issues but went 5 2/3 innings in earning the win. He allowed one run on three hits while striking out five and walking five.\nJunior Caminero doubled, walked twice and drove in a run for Tampa Bay (93-60), but the American League’s top club had only five hits, was a brutal 0-for-13 with runners in scoring position and had its six-game winning streak snapped.\nStarter Ian Seymour (9-7) was hit hard in the first two innings and finished by allowing four runs on seven hits in five frames. He whiffed five and walked two.\nOn the third pitch of the game, leadoff hitter Anthony crushed a Statcast-estimated 438-foot blast to center field. It was the left fielder’s fifth homer.\nCaminero’s RBI groundout tied it in the bottom half, but Anthony did more damage by ripping a two-out single to right for a 3-1 lead in the second.\nJones made it 4-1 leading off the third by lining Seymour’s changeup out to left for his sixth homer.\nSuarez got out of a slight jam in the third after Caminero walked and Ryan Vilade singled, but he retired red-hot Chandler Simpson and Jonny DeLuca to maintain the three-run lead.\nThe home club put together a strong threat in the sixth after Wyatt Olds relieved Suarez and issued two walks to fill the bases with two outs. However, he battled back in the count against pinch hitter Jake Fraley and struck him out.\nIn the ninth, Jonathan Aranda’s groundout scored a run, but Erik Miller got Simpson to ground out to second with the bases loaded for his fifth save.\n–Field Level Media",
-    "tracked_people": [
-      {
-        "name": "Caleb Durbin",
-        "role": "Infielder",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Jahmai Jones",
-        "role": "Designated Hitter",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Roman Anthony",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Ranger Suárez",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Erik Miller",
-        "role": "Pitcher",
-        "status": "Active",
-        "type": "player"
-      },
-      {
-        "name": "Wyatt Olds",
-        "role": "Pitcher",
-        "status": "Active",
-        "type": "player"
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "Roman Anthony sparks offense as Red Sox stop Rays' streak",
-    "original_body": "Roman Anthony homered and had three RBIs, Jahmai Jones went deep and the Boston Red Sox cooled off the first-place Tampa Bay Rays with a 4-2 victory on Friday night in St. Petersburg, Fla.\nThe Red Sox (84-70) opened their final road series of the regular season by scoring all of their runs in the first three innings to win for the second consecutive night.\nAnthony went 2-for-5, while Caleb Durbin was 2-for-3 as the team produced nine hits.\nStarting pitcher Ranger Suarez (8-4) fought control issues but went 5 2/3 innings in earning the win. He allowed one run on three hits while striking out five and walking five.\nJunior Caminero doubled, walked twice and drove in a run for Tampa Bay (93-60), but the American League’s top club had only five hits, was a brutal 0-for-13 with runners in scoring position and had its six-game winning streak snapped.\nStarter Ian Seymour (9-7) was hit hard in the first two innings and finished by allowing four runs on seven hits in five frames. He whiffed five and walked two.\nOn the third pitch of the game, leadoff hitter Anthony crushed a Statcast-estimated 438-foot blast to center field. It was the left fielder’s fifth homer.\nCaminero’s RBI groundout tied it in the bottom half, but Anthony did more damage by ripping a two-out single to right for a 3-1 lead in the second.\nJones made it 4-1 leading off the third by lining Seymour’s changeup out to left for his sixth homer.\nSuarez got out of a slight jam in the third after Caminero walked and Ryan Vilade singled, but he retired red-hot Chandler Simpson and Jonny DeLuca to maintain the three-run lead.\nThe home club put together a strong threat in the sixth after Wyatt Olds relieved Suarez and issued two walks to fill the bases with two outs. However, he battled back in the count against pinch hitter Jake Fraley and struck him out.\nIn the ninth, Jonathan Aranda’s groundout scored a run, but Erik Miller got Simpson to ground out to second with the bases loaded for his fifth save.\n–Field Level Media",
-    "rss_title": "Roman Anthony sparks offense as Red Sox stop Rays' streak",
-    "rss_body": "Roman Anthony homered and had three RBIs, Jahmai Jones went deep and the Boston Red Sox cooled off the first-place Tampa Bay Rays with a 4-2 victory on Friday night in St. Petersburg, Fla.\nThe Red Sox (84-70) opened their final road series of the regular season by scoring all of their runs in the first three innings to win for the second consecutive night.\nAnthony went 2-for-5, while Caleb Durbin was 2-for-3 as the team produced nine hits.\nStarting pitcher Ranger Suarez (8-4) fought control issues but went 5 2/3 innings in earning the win. He allowed one run on three hits while striking out five and walking five.\nJunior Caminero doubled, walked twice and drove in a run for Tampa Bay (93-60), but the American League’s top club had only five hits, was a brutal 0-for-13 with runners in scoring position and had its six-game winning streak snapped.\nStarter Ian Seymour (9-7) was hit hard in the first two innings and finished by allowing four runs on seven hits in five frames. He whiffed five and walked two.\nOn the third pitch of the game, leadoff hitter Anthony crushed a Statcast-estimated 438-foot blast to center field. It was the left fielder’s fifth homer.\nCaminero’s RBI groundout tied it in the bottom half, but Anthony did more damage by ripping a two-out single to right for a 3-1 lead in the second.\nJones made it 4-1 leading off the third by lining Seymour’s changeup out to left for his sixth homer.\nSuarez got out of a slight jam in the third after Caminero walked and Ryan Vilade singled, but he retired red-hot Chandler Simpson and Jonny DeLuca to maintain the three-run lead.\nThe home club put together a strong threat in the sixth after Wyatt Olds relieved Suarez and issued two walks to fill the bases with two outs. However, he battled back in the count against pinch hitter Jake Fraley and struck him out.\nIn the ninth, Jonathan Aranda’s groundout scored a run, but Erik Miller got Simpson to ground out to second with the bases loaded for his fifth save.\n–Field Level Media",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "UnionLeader.com",
-        "url": "https://www.unionleader.com/sports/red_sox/roman-anthony-sparks-offense-as-red-sox-stop-rays-streak/article_2b710a4f-dad1-5323-a0bb-a15088cdd2f1.html",
-        "title": "Roman Anthony sparks offense as Red Sox stop Rays' streak",
-        "body_characters": 358
-      }
-    ]
-  },
-  {
     "id": "36d7cca0e36a469962d7",
     "title": "'Get Hit and Cry': Red Sox’s Willson Contreras Faces Brutal MLB Analyst Criticism After Injury Scare",
     "source": "yardbarker.com",
@@ -6330,6 +6356,74 @@
     "rss_title": "Brayan Bello News: Making start Saturday",
     "rss_body": "Brayan Bello News: Making start Saturday\nBello will start Saturday's game against the Rays, Ryan Bass of Rays.tv reports.\nBello will draw another start after tossing five shutout innings against the Angels on Sept. 7 in what had been his first MLB start in three months. The 27-year-old threw 19 pitches in 1.2 innings out of the bullpen during his most recent outing Tuesday, but he should still be stretched out enough to pitch fairly deep into Saturday's contest.",
     "translation_status": "fallback_original"
+  },
+  {
+    "id": "bfa38401b73668a8932d",
+    "title": "Roman Anthony sparks offense as Red Sox stop Rays' streak",
+    "source": "Field Level Media",
+    "author": "",
+    "url": "https://fieldlevelmedia.com/mlb/roman-anthony-sparks-offense-as-red-sox-stop-rays-streak/",
+    "published_iso": "2026-09-19T02:40:42+00:00",
+    "published_rfc2822": "Sat, 19 Sep 2026 02:40:42 +0000",
+    "body": "Roman Anthony homered and had three RBIs, Jahmai Jones went deep and the Boston Red Sox cooled off the first-place Tampa Bay Rays with a 4-2 victory on Friday night in St. Petersburg, Fla.\nThe Red Sox (84-70) opened their final road series of the regular season by scoring all of their runs in the first three innings to win for the second consecutive night.\nAnthony went 2-for-5, while Caleb Durbin was 2-for-3 as the team produced nine hits.\nStarting pitcher Ranger Suarez (8-4) fought control issues but went 5 2/3 innings in earning the win. He allowed one run on three hits while striking out five and walking five.\nJunior Caminero doubled, walked twice and drove in a run for Tampa Bay (93-60), but the American League’s top club had only five hits, was a brutal 0-for-13 with runners in scoring position and had its six-game winning streak snapped.\nStarter Ian Seymour (9-7) was hit hard in the first two innings and finished by allowing four runs on seven hits in five frames. He whiffed five and walked two.\nOn the third pitch of the game, leadoff hitter Anthony crushed a Statcast-estimated 438-foot blast to center field. It was the left fielder’s fifth homer.\nCaminero’s RBI groundout tied it in the bottom half, but Anthony did more damage by ripping a two-out single to right for a 3-1 lead in the second.\nJones made it 4-1 leading off the third by lining Seymour’s changeup out to left for his sixth homer.\nSuarez got out of a slight jam in the third after Caminero walked and Ryan Vilade singled, but he retired red-hot Chandler Simpson and Jonny DeLuca to maintain the three-run lead.\nThe home club put together a strong threat in the sixth after Wyatt Olds relieved Suarez and issued two walks to fill the bases with two outs. However, he battled back in the count against pinch hitter Jake Fraley and struck him out.\nIn the ninth, Jonathan Aranda’s groundout scored a run, but Erik Miller got Simpson to ground out to second with the bases loaded for his fifth save.\n–Field Level Media",
+    "tracked_people": [
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Ranger Suárez",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Erik Miller",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player"
+      },
+      {
+        "name": "Wyatt Olds",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player"
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Roman Anthony sparks offense as Red Sox stop Rays' streak",
+    "original_body": "Roman Anthony homered and had three RBIs, Jahmai Jones went deep and the Boston Red Sox cooled off the first-place Tampa Bay Rays with a 4-2 victory on Friday night in St. Petersburg, Fla.\nThe Red Sox (84-70) opened their final road series of the regular season by scoring all of their runs in the first three innings to win for the second consecutive night.\nAnthony went 2-for-5, while Caleb Durbin was 2-for-3 as the team produced nine hits.\nStarting pitcher Ranger Suarez (8-4) fought control issues but went 5 2/3 innings in earning the win. He allowed one run on three hits while striking out five and walking five.\nJunior Caminero doubled, walked twice and drove in a run for Tampa Bay (93-60), but the American League’s top club had only five hits, was a brutal 0-for-13 with runners in scoring position and had its six-game winning streak snapped.\nStarter Ian Seymour (9-7) was hit hard in the first two innings and finished by allowing four runs on seven hits in five frames. He whiffed five and walked two.\nOn the third pitch of the game, leadoff hitter Anthony crushed a Statcast-estimated 438-foot blast to center field. It was the left fielder’s fifth homer.\nCaminero’s RBI groundout tied it in the bottom half, but Anthony did more damage by ripping a two-out single to right for a 3-1 lead in the second.\nJones made it 4-1 leading off the third by lining Seymour’s changeup out to left for his sixth homer.\nSuarez got out of a slight jam in the third after Caminero walked and Ryan Vilade singled, but he retired red-hot Chandler Simpson and Jonny DeLuca to maintain the three-run lead.\nThe home club put together a strong threat in the sixth after Wyatt Olds relieved Suarez and issued two walks to fill the bases with two outs. However, he battled back in the count against pinch hitter Jake Fraley and struck him out.\nIn the ninth, Jonathan Aranda’s groundout scored a run, but Erik Miller got Simpson to ground out to second with the bases loaded for his fifth save.\n–Field Level Media",
+    "rss_title": "Roman Anthony sparks offense as Red Sox stop Rays' streak",
+    "rss_body": "Roman Anthony homered and had three RBIs, Jahmai Jones went deep and the Boston Red Sox cooled off the first-place Tampa Bay Rays with a 4-2 victory on Friday night in St. Petersburg, Fla.\nThe Red Sox (84-70) opened their final road series of the regular season by scoring all of their runs in the first three innings to win for the second consecutive night.\nAnthony went 2-for-5, while Caleb Durbin was 2-for-3 as the team produced nine hits.\nStarting pitcher Ranger Suarez (8-4) fought control issues but went 5 2/3 innings in earning the win. He allowed one run on three hits while striking out five and walking five.\nJunior Caminero doubled, walked twice and drove in a run for Tampa Bay (93-60), but the American League’s top club had only five hits, was a brutal 0-for-13 with runners in scoring position and had its six-game winning streak snapped.\nStarter Ian Seymour (9-7) was hit hard in the first two innings and finished by allowing four runs on seven hits in five frames. He whiffed five and walked two.\nOn the third pitch of the game, leadoff hitter Anthony crushed a Statcast-estimated 438-foot blast to center field. It was the left fielder’s fifth homer.\nCaminero’s RBI groundout tied it in the bottom half, but Anthony did more damage by ripping a two-out single to right for a 3-1 lead in the second.\nJones made it 4-1 leading off the third by lining Seymour’s changeup out to left for his sixth homer.\nSuarez got out of a slight jam in the third after Caminero walked and Ryan Vilade singled, but he retired red-hot Chandler Simpson and Jonny DeLuca to maintain the three-run lead.\nThe home club put together a strong threat in the sixth after Wyatt Olds relieved Suarez and issued two walks to fill the bases with two outs. However, he battled back in the count against pinch hitter Jake Fraley and struck him out.\nIn the ninth, Jonathan Aranda’s groundout scored a run, but Erik Miller got Simpson to ground out to second with the bases loaded for his fifth save.\n–Field Level Media",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "UnionLeader.com",
+        "url": "https://www.unionleader.com/sports/red_sox/roman-anthony-sparks-offense-as-red-sox-stop-rays-streak/article_2b710a4f-dad1-5323-a0bb-a15088cdd2f1.html",
+        "title": "Roman Anthony sparks offense as Red Sox stop Rays' streak",
+        "body_characters": 358
+      }
+    ]
   },
   {
     "id": "a72974f9270c21162423",
