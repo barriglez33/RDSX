@@ -10,7 +10,7 @@ from deep_translator import GoogleTranslator
 
 ROOT=Path(__file__).resolve().parent
 CFG=json.loads((ROOT/"config.json").read_text(encoding="utf-8"))
-DATA=ROOT/"data/articles.json"; DOCS=ROOT/"docs"; PEOPLE=DOCS/"people"
+DATA=ROOT/"data/articles.json"; STATE=ROOT/"data/state.json"; DOCS=ROOT/"docs"; PEOPLE=DOCS/"people"
 
 def norm(s): return re.sub(r"\s+"," ","".join(c for c in unicodedata.normalize("NFKD",str(s)) if not unicodedata.combining(c)).lower()).strip()
 def slug(s): return re.sub(r"[^a-z0-9]+","-",norm(s)).strip("-")
@@ -40,7 +40,7 @@ def feed_dt(e):
 def decode_google(u):
     if "news.google.com" not in u:return clean_url(u)
     try:
-        r=gnewsdecoder(u,interval=1)
+        r=gnewsdecoder(u,interval=CFG["settings"].get("google_decode_interval_seconds",0.05))
         return clean_url(r.get("decoded_url")) if isinstance(r,dict) and r.get("status") else None
     except:return None
 def gdelt(p):
@@ -51,17 +51,33 @@ def gdelt(p):
     return [{"url":clean_url(x.get("url","")),"title":x.get("title",""),"source":x.get("domain",""),"published":parse_dt(x.get("seendate")),"language":x.get("language",""),"country":x.get("sourcecountry",""),"via":"GDELT"} for x in arr if x.get("url")]
 def google(p):
     out=[]
+    cutoff=datetime.now(timezone.utc)-timedelta(hours=float(CFG["settings"].get("max_age_hours",2)))
     for ed in CFG["google_news_editions"]:
         url=f'https://news.google.com/rss/search?q={quote_plus(q_for(p))}&hl={quote_plus(ed["hl"])}&gl={quote_plus(ed["gl"])}&ceid={quote_plus(ed["ceid"])}'
         f=feedparser.parse(url)
         for e in list(getattr(f,"entries",[]))[:CFG["settings"]["google_results_per_edition"]]:
+            published=feed_dt(e)
+            if published<cutoff:
+                continue
             u=decode_google(getattr(e,"link",""))
-            if not u:continue
+            if not u:
+                continue
             src=""
-            try: src=e.source.get("title","") if getattr(e,"source",None) else ""
-            except: pass
-            out.append({"url":u,"title":getattr(e,"title",""),"source":src or domain(u),"published":feed_dt(e),"language":"","country":ed["label"],"via":"Google News"})
+            try:
+                src=e.source.get("title","") if getattr(e,"source",None) else ""
+            except:
+                pass
+            out.append({
+                "url":u,
+                "title":getattr(e,"title",""),
+                "source":src or domain(u),
+                "published":published,
+                "language":"",
+                "country":ed["label"],
+                "via":"Google News"
+            })
     return out
+
 def extract(u):
     try:
         raw=trafilatura.fetch_url(u)
@@ -112,7 +128,7 @@ def dup(a,b):
     d=CFG["deduplication"]
     if not (pset(a)&pset(b)):return False
     if abs((dt(a)-dt(b)).total_seconds())/3600>d["max_hours_apart"]:return False
-    ta,tb=a.get("rss_title",""),b.get("rss_title",""); ba,bb=a.get("rss_body",""),b.get("rss_body","")
+    ta,tb=a.get("rss_title") or a.get("title",""),b.get("rss_title") or b.get("title",""); ba,bb=a.get("rss_body") or a.get("body",""),b.get("rss_body") or b.get("body","")
     ts,ov=sim(ta,tb),overlap(ta,tb); bs=sim(ba[:d["body_lead_characters"]],bb[:d["body_lead_characters"]])
     return ts>=d["title_similarity_threshold"] or ov>=d["title_token_overlap_threshold"] or (ts>=.5 and bs>=d["body_lead_similarity_threshold"]) or bs>=.82
 def score(a):
@@ -158,27 +174,105 @@ def generate(arr):
         (PEOPLE/f'{slug(p["name"])}.xml').write_text(rss(sub,f'{p["name"]} — Red Sox News',f'Noticias sobre {p["name"]}.'),encoding="utf-8")
     cards="".join(f'<article><h2><a href="{html.escape(a["url"])}">{html.escape(display_title(a))}</a></h2><p>{html.escape(", ".join(x["name"] for x in a.get("tracked_people",[])))}</p></article>' for a in sorted(arr,key=lambda x:x.get("published_iso",""),reverse=True)[:250])
     (DOCS/"index.html").write_text(f"<!doctype html><html><meta charset='utf-8'><body><h1>Red Sox News</h1><p><a href='feed.xml'>RSS general</a></p>{cards}</body></html>",encoding="utf-8")
+def load_state():
+    if not STATE.exists():
+        return {"next_batch":1}
+    try:
+        return json.loads(STATE.read_text(encoding="utf-8"))
+    except:
+        return {"next_batch":1}
+
+def save_state(state):
+    STATE.parent.mkdir(parents=True,exist_ok=True)
+    STATE.write_text(json.dumps(state,ensure_ascii=False,indent=2),encoding="utf-8")
+
+def select_batch():
+    state=load_state()
+    batch=1 if int(state.get("next_batch",1))==1 else 2
+    selected=[p for p in CFG["people"] if int(p.get("batch",1))==batch]
+    print(f"Red Sox batch {batch}: {len(selected)} names")
+    print(f"Rolling window: last {CFG['settings'].get('max_age_hours',2)} hours")
+    return selected,batch,state
+
 def main():
-    articles=json.loads(DATA.read_text(encoding="utf-8")) if DATA.exists() else []; byurl={a.get("url"):a for a in articles}
-    cutoff=datetime.now(timezone.utc)-timedelta(hours=CFG["settings"]["max_age_hours"])
-    for p in CFG["people"]:
-        print("TRACK:",p["name"]); cand=gdelt(p)+google(p); uniq={c["url"]:c for c in cand if c["published"]>=cutoff}
-        for c in uniq.values():
+    articles=json.loads(DATA.read_text(encoding="utf-8")) if DATA.exists() else []
+    byurl={a.get("url"):a for a in articles}
+    cutoff=datetime.now(timezone.utc)-timedelta(hours=float(CFG["settings"].get("max_age_hours",2)))
+    selected,batch,state=select_batch()
+    new_ids=[]
+
+    for p in selected:
+        print("TRACK:",p["id"],p["name"])
+        candidates=gdelt(p)+google(p)
+        unique={c["url"]:c for c in candidates if c.get("url") and c["published"]>=cutoff}
+
+        for c in sorted(unique.values(),key=lambda x:x["published"],reverse=True):
             if c["url"] in byurl:
                 a=byurl[c["url"]]
-                if p["name"] not in {x["name"] for x in a.get("tracked_people",[])}:a.setdefault("tracked_people",[]).append(p)
+                existing={x.get("name") for x in a.get("tracked_people",[]) if isinstance(x,dict)}
+                if p["name"] not in existing:
+                    a.setdefault("tracked_people",[]).append(p)
                 continue
+
             ex=extract(c["url"])
-            if not ex or len(ex["body"])<CFG["settings"]["minimum_body_characters"]:continue
+            if not ex or len(ex["body"])<CFG["settings"]["minimum_body_characters"]:
+                continue
+
             text=ex["title"]+"\n"+ex["body"]
-            if not mentions(text,p["name"]) or not has_context(text):continue
+            if not mentions(text,p["name"]) or not has_context(text):
+                continue
+
             tracked=[x for x in CFG["people"] if mentions(text,x["name"])] or [p]
-            pub=c["published"]; a={"id":hashlib.sha256(c["url"].encode()).hexdigest()[:20],"title":ex["title"] or c["title"],"source":c["source"] or domain(c["url"]),"author":ex["author"],"url":c["url"],"published_iso":pub.isoformat(),"published_rfc2822":format_datetime(pub),"body":ex["body"],"tracked_people":tracked,"source_languages":[c["language"]] if c["language"] else [],"source_countries":[c["country"]] if c["country"] else [],"discovery_sources":[c["via"]]}
-            articles.append(a);byurl[a["url"]]=a
+            pub=c["published"]
+            a={
+                "id":hashlib.sha256(c["url"].encode()).hexdigest()[:20],
+                "title":ex["title"] or c["title"],
+                "source":c["source"] or domain(c["url"]),
+                "author":ex["author"],
+                "url":c["url"],
+                "published_iso":pub.isoformat(),
+                "published_rfc2822":format_datetime(pub),
+                "body":ex["body"],
+                "tracked_people":tracked,
+                "source_languages":[c["language"]] if c["language"] else [],
+                "source_countries":[c["country"]] if c["country"] else [],
+                "discovery_sources":[c["via"]]
+            }
+            articles.append(a)
+            byurl[a["url"]]=a
+            new_ids.append(a["id"])
+
     articles=sorted(articles,key=lambda x:x.get("published_iso",""),reverse=True)[:CFG["settings"]["max_stored_articles"]]
-    for a in articles:ensure_translation(a)
+
+    new_set=set(new_ids)
+    new_articles=[a for a in articles if a.get("id") in new_set]
+    print("New accepted articles:",len(new_articles))
+    for a in new_articles:
+        ensure_translation(a)
+
+    repair_limit=int(CFG["settings"].get("old_translation_repairs_per_run",10))
+    repairs=0
+    for a in articles:
+        if repairs>=repair_limit:
+            break
+        if a.get("id") in new_set:
+            continue
+        if a.get("translation_status")!="translated":
+            ensure_translation(a)
+            repairs+=1
+
+    print(f"Old translation repairs: {repairs}/{repair_limit}")
+
     articles=dedup(articles)
     DATA.write_text(json.dumps(articles,ensure_ascii=False,indent=2),encoding="utf-8")
     generate(articles)
+
+    state["last_completed_batch"]=batch
+    state["last_completed_at"]=datetime.now(timezone.utc).isoformat()
+    state["next_batch"]=2 if batch==1 else 1
+    save_state(state)
+
     print("Unique stories:",len(articles))
+    print("Next Red Sox batch:",state["next_batch"])
+
 if __name__=="__main__":main()

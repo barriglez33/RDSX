@@ -5,365 +5,485 @@
       "name": "Adley Rutschman",
       "role": "Catcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 1,
+      "batch": 1
     },
     {
       "name": "Connor Wong",
       "role": "Catcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 2,
+      "batch": 1
     },
     {
       "name": "Willson Contreras",
       "role": "Catcher / DH",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 3,
+      "batch": 1
     },
     {
       "name": "Alex Bregman",
       "role": "Third Baseman",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 4,
+      "batch": 1
     },
     {
       "name": "Trevor Story",
       "role": "Infielder",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 5,
+      "batch": 1
     },
     {
       "name": "Isiah Kiner-Falefa",
       "role": "Utility Infielder",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 6,
+      "batch": 1
     },
     {
       "name": "Andruw Monasterio",
       "role": "Infielder",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 7,
+      "batch": 1
     },
     {
       "name": "Nick Sogard",
       "role": "Infielder",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 8,
+      "batch": 1
     },
     {
       "name": "Caleb Durbin",
       "role": "Infielder",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 9,
+      "batch": 1
     },
     {
       "name": "Mickey Gasper",
       "role": "Designated Hitter",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 10,
+      "batch": 1
     },
     {
       "name": "Jahmai Jones",
       "role": "Designated Hitter",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 11,
+      "batch": 1
     },
     {
       "name": "Roman Anthony",
       "role": "Outfielder",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 12,
+      "batch": 1
     },
     {
       "name": "Wilyer Abreu",
       "role": "Outfielder",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 13,
+      "batch": 1
     },
     {
       "name": "Jarren Duran",
       "role": "Outfielder",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 14,
+      "batch": 1
     },
     {
       "name": "Nate Eaton",
       "role": "Outfielder",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 15,
+      "batch": 1
     },
     {
       "name": "Brayan Bello",
       "role": "Starting Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 16,
+      "batch": 1
     },
     {
       "name": "Sonny Gray",
       "role": "Starting Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 17,
+      "batch": 1
     },
     {
       "name": "Ranger Suárez",
       "role": "Starting Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 18,
+      "batch": 1
     },
     {
       "name": "Patrick Sandoval",
       "role": "Starting Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 19,
+      "batch": 1
     },
     {
       "name": "Payton Tolle",
       "role": "Starting Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 20,
+      "batch": 1
     },
     {
       "name": "Jake Bennett",
       "role": "Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 21,
+      "batch": 1
     },
     {
       "name": "Raymond Burgos",
       "role": "Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 22,
+      "batch": 1
     },
     {
       "name": "Alec Gamboa",
       "role": "Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 23,
+      "batch": 1
     },
     {
       "name": "Erik Miller",
       "role": "Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 24,
+      "batch": 1
     },
     {
       "name": "Jovani Morán",
       "role": "Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 25,
+      "batch": 1
     },
     {
       "name": "Wyatt Olds",
       "role": "Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 26,
+      "batch": 1
     },
     {
       "name": "Greg Weissert",
       "role": "Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 27,
+      "batch": 1
     },
     {
       "name": "Garrett Whitlock",
       "role": "Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 28,
+      "batch": 1
     },
     {
       "name": "Aroldis Chapman",
       "role": "Relief Pitcher",
       "status": "Active",
-      "type": "player"
+      "type": "player",
+      "id": 29,
+      "batch": 1
     },
     {
       "name": "Curtis Mead",
       "role": "Infielder",
       "status": "10-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 30,
+      "batch": 1
     },
     {
       "name": "Anthony Seigler",
       "role": "Infielder",
       "status": "10-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 31,
+      "batch": 2
     },
     {
       "name": "Ceddanne Rafaela",
       "role": "Outfielder / Infielder",
       "status": "10-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 32,
+      "batch": 2
     },
     {
       "name": "Eli White",
       "role": "Outfielder",
       "status": "10-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 33,
+      "batch": 2
     },
     {
       "name": "Masataka Yoshida",
       "role": "Designated Hitter",
       "status": "10-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 34,
+      "batch": 2
     },
     {
       "name": "Tyron Guerrero",
       "role": "Pitcher",
       "status": "15-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 35,
+      "batch": 2
     },
     {
       "name": "Justin Slaten",
       "role": "Pitcher",
       "status": "15-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 36,
+      "batch": 2
     },
     {
       "name": "Triston Casas",
       "role": "Infielder",
       "status": "60-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 37,
+      "batch": 2
     },
     {
       "name": "Kutter Crawford",
       "role": "Pitcher",
       "status": "60-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 38,
+      "batch": 2
     },
     {
       "name": "Garrett Crochet",
       "role": "Pitcher",
       "status": "60-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 39,
+      "batch": 2
     },
     {
       "name": "Tanner Houck",
       "role": "Pitcher",
       "status": "60-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 40,
+      "batch": 2
     },
     {
       "name": "Zack Kelly",
       "role": "Pitcher",
       "status": "60-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 41,
+      "batch": 2
     },
     {
       "name": "Johan Oviedo",
       "role": "Pitcher",
       "status": "60-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 42,
+      "batch": 2
     },
     {
       "name": "Eduardo Rivera",
       "role": "Pitcher",
       "status": "60-day Injured List",
-      "type": "player"
+      "type": "player",
+      "id": 43,
+      "batch": 2
     },
     {
       "name": "Jedixson Paez",
       "role": "Pitcher",
       "status": "Minor Leagues",
-      "type": "prospect"
+      "type": "prospect",
+      "id": 44,
+      "batch": 2
     },
     {
       "name": "Tyler Samaniego",
       "role": "Pitcher",
       "status": "Minor Leagues",
-      "type": "prospect"
+      "type": "prospect",
+      "id": 45,
+      "batch": 2
     },
     {
       "name": "Kristian Campbell",
       "role": "Infielder",
       "status": "Minor Leagues",
-      "type": "prospect"
+      "type": "prospect",
+      "id": 46,
+      "batch": 2
     },
     {
       "name": "Tsung-Che Cheng",
       "role": "Infielder",
       "status": "Minor Leagues",
-      "type": "prospect"
+      "type": "prospect",
+      "id": 47,
+      "batch": 2
     },
     {
       "name": "Romy Gonzalez",
       "role": "Designated Hitter",
       "status": "Minor Leagues",
-      "type": "prospect"
+      "type": "prospect",
+      "id": 48,
+      "batch": 2
     },
     {
       "name": "Chad Tracy",
       "role": "Manager",
       "status": "Coaching Staff",
-      "type": "staff"
+      "type": "staff",
+      "id": 49,
+      "batch": 2
     },
     {
       "name": "Craig Breslow",
       "role": "Chief Baseball Officer",
       "status": "Front Office",
-      "type": "staff"
+      "type": "staff",
+      "id": 50,
+      "batch": 2
     },
     {
       "name": "Ted Williams",
       "role": "Legend / Hall of Famer",
       "status": "Franchise Legacy",
-      "type": "legend"
+      "type": "legend",
+      "id": 51,
+      "batch": 2
     },
     {
       "name": "David Ortiz",
       "role": "Legend / Hall of Famer",
       "status": "Franchise Legacy",
-      "type": "legend"
+      "type": "legend",
+      "id": 52,
+      "batch": 2
     },
     {
       "name": "Carl Yastrzemski",
       "role": "Legend / Hall of Famer",
       "status": "Franchise Legacy",
-      "type": "legend"
+      "type": "legend",
+      "id": 53,
+      "batch": 2
     },
     {
       "name": "Pedro Martínez",
       "role": "Legend / Hall of Famer",
       "status": "Franchise Legacy",
-      "type": "legend"
+      "type": "legend",
+      "id": 54,
+      "batch": 2
     },
     {
       "name": "Manny Ramírez",
       "role": "Legend / Outfielder",
       "status": "Franchise Legacy",
-      "type": "legend"
+      "type": "legend",
+      "id": 55,
+      "batch": 2
     },
     {
       "name": "Carlton Fisk",
       "role": "Legend / Hall of Famer",
       "status": "Franchise Legacy",
-      "type": "legend"
+      "type": "legend",
+      "id": 56,
+      "batch": 2
     },
     {
       "name": "Dustin Pedroia",
       "role": "Legend / Second Baseman",
       "status": "Franchise Legacy",
-      "type": "legend"
+      "type": "legend",
+      "id": 57,
+      "batch": 2
     },
     {
       "name": "Jim Rice",
       "role": "Legend / Hall of Famer",
       "status": "Franchise Legacy",
-      "type": "legend"
+      "type": "legend",
+      "id": 58,
+      "batch": 2
     },
     {
       "name": "Cy Young",
       "role": "Legend / Hall of Famer",
       "status": "Franchise Legacy",
-      "type": "legend"
+      "type": "legend",
+      "id": 59,
+      "batch": 2
     }
   ],
   "settings": {
-    "max_age_hours": 72,
-    "gdelt_results_per_person": 20,
-    "google_results_per_edition": 5,
+    "max_age_hours": 2,
+    "gdelt_results_per_person": 12,
+    "google_results_per_edition": 4,
     "max_stored_articles": 3000,
     "max_feed_items": 300,
     "minimum_body_characters": 250,
-    "delay_between_articles_seconds": 0.4
+    "delay_between_articles_seconds": 0.4,
+    "google_decode_interval_seconds": 0.05,
+    "old_translation_repairs_per_run": 10
   },
   "google_news_editions": [
     {
@@ -389,12 +509,6 @@
       "hl": "ko",
       "gl": "KR",
       "ceid": "KR:ko"
-    },
-    {
-      "label": "Spain Español",
-      "hl": "es",
-      "gl": "ES",
-      "ceid": "ES:es"
     }
   ],
   "translation": {
