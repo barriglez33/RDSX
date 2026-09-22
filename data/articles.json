@@ -1,5 +1,333 @@
 [
   {
+    "id": "2b788e9a765e2f98be04",
+    "title": "Tracy: Aroldis Chapman (lat) close to returning",
+    "source": "nbcsports.com",
+    "author": "George Bissell; Aroldis Chapman",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/tracy-aroldis-chapman-lat-close-to-returning",
+    "published_iso": "2026-09-22T21:00:00+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 21:00:00 +0000",
+    "body": "Red Sox newly-minted manager Chad Tracy told reporters Aroldis Chapman (lat) should be cleared to pitch in the next day or two.\n            \n                It sounds like Chapman is getting close to being available again after missing time with lat tightness that cropped up last Thursday. The 38-year-old southpaw’s unbelievable late-career renaissance has resulted in back-to-back 30-save campaigns for the Red Sox. It’ll likely be Erik Miller or Garrett Whitlock handling a potential save chance during Tuesday’s series opener against the Guardians.",
+    "tracked_people": [
+      {
+        "name": "Erik Miller",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 1
+      },
+      {
+        "name": "Garrett Whitlock",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 28,
+        "batch": 1
+      },
+      {
+        "name": "Aroldis Chapman",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 29,
+        "batch": 1
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Tracy: Aroldis Chapman (lat) close to returning",
+    "original_body": "Red Sox newly-minted manager Chad Tracy told reporters Aroldis Chapman (lat) should be cleared to pitch in the next day or two.\n            \n                It sounds like Chapman is getting close to being available again after missing time with lat tightness that cropped up last Thursday. The 38-year-old southpaw’s unbelievable late-career renaissance has resulted in back-to-back 30-save campaigns for the Red Sox. It’ll likely be Erik Miller or Garrett Whitlock handling a potential save chance during Tuesday’s series opener against the Guardians.",
+    "rss_title": "Tracy: Aroldis Chapman (lat) close to returning",
+    "rss_body": "Red Sox newly-minted manager Chad Tracy told reporters Aroldis Chapman (lat) should be cleared to pitch in the next day or two.\n            \n                It sounds like Chapman is getting close to being available again after missing time with lat tightness that cropped up last Thursday. The 38-year-old southpaw’s unbelievable late-career renaissance has resulted in back-to-back 30-save campaigns for the Red Sox. It’ll likely be Erik Miller or Garrett Whitlock handling a potential save chance during Tuesday’s series opener against the Guardians.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "a27ecb126053a7062594",
+    "title": "Payton Tolle to start Tuesday for Red Sox",
+    "source": "FantasyPros",
+    "author": "Ari Koslow",
+    "url": "https://www.fantasypros.com/mlb/news/609866/payton-tolle-to-start-tuesday-red-sox.php",
+    "published_iso": "2026-09-22T20:58:32+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 20:58:32 +0000",
+    "body": "by Ari Koslow | Red Sox Correspondent |\nPayton Tolle will start Tuesday’s game against the Guardians.\nFantasy Impact:\nTolle returns to the rotation after he had his previous start pushed back. It is unclear if he'll be limited in any fashion.\nMore Payton Tolle: News, Rankings, Projections, Stats",
+    "tracked_people": [
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Payton Tolle to start Tuesday for Red Sox",
+    "original_body": "by Ari Koslow | Red Sox Correspondent |\nPayton Tolle will start Tuesday’s game against the Guardians.\nFantasy Impact:\nTolle returns to the rotation after he had his previous start pushed back. It is unclear if he'll be limited in any fashion.\nMore Payton Tolle: News, Rankings, Projections, Stats",
+    "rss_title": "Payton Tolle to start Tuesday for Red Sox",
+    "rss_body": "by Ari Koslow | Red Sox Correspondent |\nPayton Tolle will start Tuesday’s game against the Guardians.\nFantasy Impact:\nTolle returns to the rotation after he had his previous start pushed back. It is unclear if he'll be limited in any fashion.\nMore Payton Tolle: News, Rankings, Projections, Stats",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "ac2ed911ab7b87d6f0db",
+    "title": "Payton Tolle to start on Tuesday vs. Guardians",
+    "source": "nbcsports.com",
+    "author": "George Bissell; Payton Tolle",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/payton-tolle-to-start-on-tuesday-vs-guardians",
+    "published_iso": "2026-09-22T20:55:34+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 20:55:34 +0000",
+    "body": "Payton Tolle will start Tuesday’s game against the Guardians.\n            \n                Tolle draws back into Boston’s rotation after having his previous start against the Rays last weekend pushed back for workload and postseason scheduling reasons. The talented 23-year-old former top prospect is unlikely to work too deep into this outing with the Red Sox having already clinched a playoff spot, but he’s still worth rolling with in nearly all fantasy leagues. This will likely be his final regular-season outing before the Red Sox face the Yankees in the playoffs.",
+    "tracked_people": [
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Payton Tolle to start on Tuesday vs. Guardians",
+    "original_body": "Payton Tolle will start Tuesday’s game against the Guardians.\n            \n                Tolle draws back into Boston’s rotation after having his previous start against the Rays last weekend pushed back for workload and postseason scheduling reasons. The talented 23-year-old former top prospect is unlikely to work too deep into this outing with the Red Sox having already clinched a playoff spot, but he’s still worth rolling with in nearly all fantasy leagues. This will likely be his final regular-season outing before the Red Sox face the Yankees in the playoffs.",
+    "rss_title": "Payton Tolle to start on Tuesday vs. Guardians",
+    "rss_body": "Payton Tolle will start Tuesday’s game against the Guardians.\n            \n                Tolle draws back into Boston’s rotation after having his previous start against the Rays last weekend pushed back for workload and postseason scheduling reasons. The talented 23-year-old former top prospect is unlikely to work too deep into this outing with the Red Sox having already clinched a playoff spot, but he’s still worth rolling with in nearly all fantasy leagues. This will likely be his final regular-season outing before the Red Sox face the Yankees in the playoffs.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "a2c1b7eeeadbf88158aa",
+    "title": "Boston Red Sox Announce Wilyer Abreu Decision Before Cleveland Guardians Series",
+    "source": "heavy.com",
+    "author": "Scott Roche",
+    "url": "https://heavy.com/sports/mlb/boston-red-sox/wilyer-abreu-decision-guardians-series/",
+    "published_iso": "2026-09-22T20:46:41+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 20:46:41 +0000",
+    "body": "After an off day on Monday, the Boston Red Sox will return to Fenway Park to begin the next-to-last series of the regular season before the playoffs next week. Boston clinched their spot in the postseason after the Atlanta Braves completed a three-game sweep of the Houston Astros on Sunday afternoon.\nThe Red Sox are all but locked into the second American League wild-card spot. They are on a collision course with the New York Yankees next week in the Bronx for a best-of-three series. Before then, however, Boston has three games with the Cleveland Guardians. They will then host the Chicago Cubs this weekend, weather permitting.\nAs for the Guardians series, Wilyer Abreu is back in the lineup for manager Chad Tracy and batting in a familiar spot.\nBoston Red Sox Announce Wilyer Abreu Spot in Lineup Against Guardians on Tuesday Night\nTracy will send left-hander Payton Tolle to the mound to open the series and as far as his lineup goes, Abreu us back and batting cleanup. Here is Boston’s lineup for the series opener against Cleveland’s Parker Messick,\nRoman Anthony LF\nNick Sogard 1B\nJahmai Jones DH\nWilyer Abreu RF\nAdley Rutschman C\nCaleb Durbin 3B\nAndruw Monasterio 2B\nIsiah Kiner-Falefa SS\nNate Eaton CF\nAbreu will be batting fourth, with first baseman Willson Contreras still out of the lineup after getting hit by a pitch last Thursday night against the Texas Rangers. He missed the series against the Tampa Bay Rays. As for Abreu, he did not play in Sunday’s series finale, a 5-1 loss.\nBoston Red Sox Playing Out the String Ahead of Playoffs\nTuesday, it was announced that Tracy was having the interim tag removed, and Chief Baseball Officer Craig Breslow is having his option in 2029 and 2030 picked up by the club. It’s not surprising that it was announced before the playoffs.\nBoston is scheduled to send their three projected starters on the mound next week against the Yankees: Tolle, Sonny Gray, and Ranger Suárez against the Guardians. However, Cleveland is in a heated race with the Chicago White Sox for the American League Central Division title. They enter the series with a one-game lead over the White Sox, who are playing the Kansas City Royals this week.\nBoston has slumped in September. However, they can use the six games before next week as a tune-up. As for this weekend, the weather is projected to be a mess. Tim Healy of the Boston Globe reported that MLB has no plans to move the series out of Boston. There are going to be very few windows to play baseball this weekend.\nThe Cubs are in a battle for home-field advantage in the National League wild-card round. Those games will have big meaning for them and the NL. They enter play this week tied with the San Diego Padres for home-field advantage next week. The Philadelphia Phillies are a game behind. There is a lot riding on this weekend.",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Isiah Kiner-Falefa",
+        "role": "Utility Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Nick Sogard",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Nate Eaton",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Ranger Suárez",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      },
+      {
+        "name": "Craig Breslow",
+        "role": "Chief Baseball Officer",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 50,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Boston Red Sox Announce Wilyer Abreu Decision Before Cleveland Guardians Series",
+    "original_body": "After an off day on Monday, the Boston Red Sox will return to Fenway Park to begin the next-to-last series of the regular season before the playoffs next week. Boston clinched their spot in the postseason after the Atlanta Braves completed a three-game sweep of the Houston Astros on Sunday afternoon.\nThe Red Sox are all but locked into the second American League wild-card spot. They are on a collision course with the New York Yankees next week in the Bronx for a best-of-three series. Before then, however, Boston has three games with the Cleveland Guardians. They will then host the Chicago Cubs this weekend, weather permitting.\nAs for the Guardians series, Wilyer Abreu is back in the lineup for manager Chad Tracy and batting in a familiar spot.\nBoston Red Sox Announce Wilyer Abreu Spot in Lineup Against Guardians on Tuesday Night\nTracy will send left-hander Payton Tolle to the mound to open the series and as far as his lineup goes, Abreu us back and batting cleanup. Here is Boston’s lineup for the series opener against Cleveland’s Parker Messick,\nRoman Anthony LF\nNick Sogard 1B\nJahmai Jones DH\nWilyer Abreu RF\nAdley Rutschman C\nCaleb Durbin 3B\nAndruw Monasterio 2B\nIsiah Kiner-Falefa SS\nNate Eaton CF\nAbreu will be batting fourth, with first baseman Willson Contreras still out of the lineup after getting hit by a pitch last Thursday night against the Texas Rangers. He missed the series against the Tampa Bay Rays. As for Abreu, he did not play in Sunday’s series finale, a 5-1 loss.\nBoston Red Sox Playing Out the String Ahead of Playoffs\nTuesday, it was announced that Tracy was having the interim tag removed, and Chief Baseball Officer Craig Breslow is having his option in 2029 and 2030 picked up by the club. It’s not surprising that it was announced before the playoffs.\nBoston is scheduled to send their three projected starters on the mound next week against the Yankees: Tolle, Sonny Gray, and Ranger Suárez against the Guardians. However, Cleveland is in a heated race with the Chicago White Sox for the American League Central Division title. They enter the series with a one-game lead over the White Sox, who are playing the Kansas City Royals this week.\nBoston has slumped in September. However, they can use the six games before next week as a tune-up. As for this weekend, the weather is projected to be a mess. Tim Healy of the Boston Globe reported that MLB has no plans to move the series out of Boston. There are going to be very few windows to play baseball this weekend.\nThe Cubs are in a battle for home-field advantage in the National League wild-card round. Those games will have big meaning for them and the NL. They enter play this week tied with the San Diego Padres for home-field advantage next week. The Philadelphia Phillies are a game behind. There is a lot riding on this weekend.",
+    "rss_title": "Boston Red Sox Announce Wilyer Abreu Decision Before Cleveland Guardians Series",
+    "rss_body": "After an off day on Monday, the Boston Red Sox will return to Fenway Park to begin the next-to-last series of the regular season before the playoffs next week. Boston clinched their spot in the postseason after the Atlanta Braves completed a three-game sweep of the Houston Astros on Sunday afternoon.\nThe Red Sox are all but locked into the second American League wild-card spot. They are on a collision course with the New York Yankees next week in the Bronx for a best-of-three series. Before then, however, Boston has three games with the Cleveland Guardians. They will then host the Chicago Cubs this weekend, weather permitting.\nAs for the Guardians series, Wilyer Abreu is back in the lineup for manager Chad Tracy and batting in a familiar spot.\nBoston Red Sox Announce Wilyer Abreu Spot in Lineup Against Guardians on Tuesday Night\nTracy will send left-hander Payton Tolle to the mound to open the series and as far as his lineup goes, Abreu us back and batting cleanup. Here is Boston’s lineup for the series opener against Cleveland’s Parker Messick,\nRoman Anthony LF\nNick Sogard 1B\nJahmai Jones DH\nWilyer Abreu RF\nAdley Rutschman C\nCaleb Durbin 3B\nAndruw Monasterio 2B\nIsiah Kiner-Falefa SS\nNate Eaton CF\nAbreu will be batting fourth, with first baseman Willson Contreras still out of the lineup after getting hit by a pitch last Thursday night against the Texas Rangers. He missed the series against the Tampa Bay Rays. As for Abreu, he did not play in Sunday’s series finale, a 5-1 loss.\nBoston Red Sox Playing Out the String Ahead of Playoffs\nTuesday, it was announced that Tracy was having the interim tag removed, and Chief Baseball Officer Craig Breslow is having his option in 2029 and 2030 picked up by the club. It’s not surprising that it was announced before the playoffs.\nBoston is scheduled to send their three projected starters on the mound next week against the Yankees: Tolle, Sonny Gray, and Ranger Suárez against the Guardians. However, Cleveland is in a heated race with the Chicago White Sox for the American League Central Division title. They enter the series with a one-game lead over the White Sox, who are playing the Kansas City Royals this week.\nBoston has slumped in September. However, they can use the six games before next week as a tune-up. As for this weekend, the weather is projected to be a mess. Tim Healy of the Boston Globe reported that MLB has no plans to move the series out of Boston. There are going to be very few windows to play baseball this weekend.\nThe Cubs are in a battle for home-field advantage in the National League wild-card round. Those games will have big meaning for them and the NL. They enter play this week tied with the San Diego Padres for home-field advantage next week. The Philadelphia Phillies are a game behind. There is a lot riding on this weekend.",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "heavy.com",
+        "url": "https://heavy.com/sports/mlb/boston-red-sox/boston-red-sox-make-sudden-jarren-duran-decision/",
+        "title": "Boston Red Sox Make Sudden Jarren Duran Decision Before Guardians Series",
+        "body_characters": 1830
+      }
+    ]
+  },
+  {
+    "id": "53fe0e1fc76a967c148f",
+    "title": "Red Sox Get Encouraging Signs From Two Injured Stars Ahead of Postseason | NESN",
+    "source": "NESN",
+    "author": "Daniel Mader",
+    "url": "https://nesn.com/boston-red-sox/news/red-sox-encouraging-signs-injured-stars-postseason/4549cf425aa9177b94b1f3cb",
+    "published_iso": "2026-09-22T20:27:45+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 20:27:45 +0000",
+    "body": "Could the Red Sox get some reinforcements ahead of the postseason?\nWhile there's still work to do for Boston, looking to secure a top-two wild card spot in the American League over the next few days, the team can also officially start planning for the playoffs.\nFor the most part, the Red Sox know who their key contributors will be in the AL Wild Card round. But on Tuesday, fans got positive updates on two injured stars, both of whom appear to be nearing potential returns.\nHere's the latest on both Garrett Crochet and Curtis Mead as they work toward getting back to full health for the Red Sox.\nRed Sox Get Encouraging Signs From Two Injured Stars Ahead of Postseason\nBoston's pitching staff has been terrific in 2026 despite the absence of Crochet, who has been out since April with a lat strain and other shoulder inflammation. But ahead of the postseason, it appears Crochet is ramping up at a perfect time.\nCrochet throwing live BP with Ceddanne at Fenway today 👀 pic.twitter.com/Iwv2R14iVk\n— NESN (@NESN) September 22, 2026\nOn Tuesday, Crochet was seen completing a live BP session against Ceddanne Rafaela, throwing 16 pitches that included a velocity in the 94-96 mph range, according to Tyler Milliken.\nGarrett Crochet ended up throwing a total of 16 pitches in his first live BP.\nVelocity was in the 94-96 range. Few ticks up from the last time he threw a regular bullpen. Currently feeling good and thinks he can get outs.\nSome great video from @alexspeier. pic.twitter.com/ZMsMmUXzvU\nNotably, per Chris Cotillo, Crochet also told reporters that he thinks he could \"get outs\" with the way his live session went.\nOn Saturday, new full-time manager Chad Tracy also provided the latest on Crochet and whether he could return, potentially as a reliever for the postseason.\n“I think it just depends on how he feels coming out of it, how much volume we give him,” Tracy said, per MLB.com. “So it’s hard to say. I know it’s not a great answer, but it’s just really how it is. How does he feel after each step? So when he does that, how does he feel? And then determine from there. Do we give him more hitters or do we want to put him in a game? It’s hard to say until you know how he feels.\nMeanwhile, infielder Curtis Mead, who was injured in his Red Sox debut in July, also appeared to take a step forward on Tuesday. According to Cotillo, Mead, at one point during Crochet's session, appeared to be getting ready to step into the batter's box as well. Over the weekend, Mead began hitting off a tee and playing catch, per MLB.com.\nThere's no guarantee that Crochet or Mead will be ready in time for a likely best-of-three playoff series, but either could provide Boston with a huge boost. At their best, Crochet is one of baseball's best left-handed pitchers, while Mead hit 17 home runs before joining the Red Sox this season.",
+    "tracked_people": [
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Garrett Crochet",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 39,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox Get Encouraging Signs From Two Injured Stars Ahead of Postseason | NESN",
+    "original_body": "Could the Red Sox get some reinforcements ahead of the postseason?\nWhile there's still work to do for Boston, looking to secure a top-two wild card spot in the American League over the next few days, the team can also officially start planning for the playoffs.\nFor the most part, the Red Sox know who their key contributors will be in the AL Wild Card round. But on Tuesday, fans got positive updates on two injured stars, both of whom appear to be nearing potential returns.\nHere's the latest on both Garrett Crochet and Curtis Mead as they work toward getting back to full health for the Red Sox.\nRed Sox Get Encouraging Signs From Two Injured Stars Ahead of Postseason\nBoston's pitching staff has been terrific in 2026 despite the absence of Crochet, who has been out since April with a lat strain and other shoulder inflammation. But ahead of the postseason, it appears Crochet is ramping up at a perfect time.\nCrochet throwing live BP with Ceddanne at Fenway today 👀 pic.twitter.com/Iwv2R14iVk\n— NESN (@NESN) September 22, 2026\nOn Tuesday, Crochet was seen completing a live BP session against Ceddanne Rafaela, throwing 16 pitches that included a velocity in the 94-96 mph range, according to Tyler Milliken.\nGarrett Crochet ended up throwing a total of 16 pitches in his first live BP.\nVelocity was in the 94-96 range. Few ticks up from the last time he threw a regular bullpen. Currently feeling good and thinks he can get outs.\nSome great video from @alexspeier. pic.twitter.com/ZMsMmUXzvU\nNotably, per Chris Cotillo, Crochet also told reporters that he thinks he could \"get outs\" with the way his live session went.\nOn Saturday, new full-time manager Chad Tracy also provided the latest on Crochet and whether he could return, potentially as a reliever for the postseason.\n“I think it just depends on how he feels coming out of it, how much volume we give him,” Tracy said, per MLB.com. “So it’s hard to say. I know it’s not a great answer, but it’s just really how it is. How does he feel after each step? So when he does that, how does he feel? And then determine from there. Do we give him more hitters or do we want to put him in a game? It’s hard to say until you know how he feels.\nMeanwhile, infielder Curtis Mead, who was injured in his Red Sox debut in July, also appeared to take a step forward on Tuesday. According to Cotillo, Mead, at one point during Crochet's session, appeared to be getting ready to step into the batter's box as well. Over the weekend, Mead began hitting off a tee and playing catch, per MLB.com.\nThere's no guarantee that Crochet or Mead will be ready in time for a likely best-of-three playoff series, but either could provide Boston with a huge boost. At their best, Crochet is one of baseball's best left-handed pitchers, while Mead hit 17 home runs before joining the Red Sox this season.",
+    "rss_title": "Red Sox Get Encouraging Signs From Two Injured Stars Ahead of Postseason | NESN",
+    "rss_body": "Could the Red Sox get some reinforcements ahead of the postseason?\nWhile there's still work to do for Boston, looking to secure a top-two wild card spot in the American League over the next few days, the team can also officially start planning for the playoffs.\nFor the most part, the Red Sox know who their key contributors will be in the AL Wild Card round. But on Tuesday, fans got positive updates on two injured stars, both of whom appear to be nearing potential returns.\nHere's the latest on both Garrett Crochet and Curtis Mead as they work toward getting back to full health for the Red Sox.\nRed Sox Get Encouraging Signs From Two Injured Stars Ahead of Postseason\nBoston's pitching staff has been terrific in 2026 despite the absence of Crochet, who has been out since April with a lat strain and other shoulder inflammation. But ahead of the postseason, it appears Crochet is ramping up at a perfect time.\nCrochet throwing live BP with Ceddanne at Fenway today 👀 pic.twitter.com/Iwv2R14iVk\n— NESN (@NESN) September 22, 2026\nOn Tuesday, Crochet was seen completing a live BP session against Ceddanne Rafaela, throwing 16 pitches that included a velocity in the 94-96 mph range, according to Tyler Milliken.\nGarrett Crochet ended up throwing a total of 16 pitches in his first live BP.\nVelocity was in the 94-96 range. Few ticks up from the last time he threw a regular bullpen. Currently feeling good and thinks he can get outs.\nSome great video from @alexspeier. pic.twitter.com/ZMsMmUXzvU\nNotably, per Chris Cotillo, Crochet also told reporters that he thinks he could \"get outs\" with the way his live session went.\nOn Saturday, new full-time manager Chad Tracy also provided the latest on Crochet and whether he could return, potentially as a reliever for the postseason.\n“I think it just depends on how he feels coming out of it, how much volume we give him,” Tracy said, per MLB.com. “So it’s hard to say. I know it’s not a great answer, but it’s just really how it is. How does he feel after each step? So when he does that, how does he feel? And then determine from there. Do we give him more hitters or do we want to put him in a game? It’s hard to say until you know how he feels.\nMeanwhile, infielder Curtis Mead, who was injured in his Red Sox debut in July, also appeared to take a step forward on Tuesday. According to Cotillo, Mead, at one point during Crochet's session, appeared to be getting ready to step into the batter's box as well. Over the weekend, Mead began hitting off a tee and playing catch, per MLB.com.\nThere's no guarantee that Crochet or Mead will be ready in time for a likely best-of-three playoff series, but either could provide Boston with a huge boost. At their best, Crochet is one of baseball's best left-handed pitchers, while Mead hit 17 home runs before joining the Red Sox this season.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "93343ecdda9b0cb99d3c",
     "title": "The Garrett Crochet Bullpen Detail Red Sox Fans Should Be Watching Closely",
     "source": "Sports Illustrated",
@@ -37,6 +365,70 @@
     "original_body": "On Tuesday, Boston Red Sox star Garrett Crochet took his biggest step towards a late-season return yet.\nCrochet has been tossing bullpens for a few weeks at this point and hasn't suffered any setbacks. On Saturday, he tossed a bullpen at Polar Park and sat between 91and 92 miles per hour with his fastball and Triple-A WooSox pitching coach Dan DeLucia said he looked \"great\" and was \"probably a tick above\" expectations. On Tuesday, he continued his progression and faced live hitters for the first time since May, which is a huge step in the path back to the majors.\nCrochet faced off against Red Sox center fielder Ceddanne Rafaela and topped out at 96 miles per hour in his 16-pitch outing. The fact that he hit 96 miles per hour in the outing was the biggest bright spot, to say the least.\nAfter the outing, Crochet spoke to the media and said that if he can pitch like he did in the live bullpen, he can get outs for the team right now. He also acknowledged that he would feel bad to take the spot of someone on the roster in the playoffs.\nGarrett Crochet Just Took His Biggest Step Yet Towards Return\n\"I would say the way that that live just went, that I could go get outs [in a game],\" Crochet said, as transcribed by The Athletic's Jen McCaffrey.\n\" ... For me to take a spot on the roster, then someone would have to lose one, and I would feel bad doing that because this team's pitched their ass off the whole season,\" Crochet said.\nOver the weekend, there were some in Red Sox Nation concerned when reports surfaced that Crochet was sitting at 91-92 MPH in his last bullpen. There really shouldn't have been concern there, though. Crochet wasn't facing live hitters and you're not going to see max velocity in an outing like that. So, seeing him not only facing live hitters, but getting to 96 MPH is a massive bright spot and is a clear sign he's trending in the right direction.\nIf Crochet does return this season, it's going to be in a relief role. Over the last few weeks, we've seen various positive updates, including him building up to the point of a 30-pitch up-and-down, and now facing live hitters just three days after his last bullpen. The Red Sox will begin their playoff run in exactly one week on Sep. 29, likely against the New York Yankees.\nIf Crochet bounces back well from his live bullpen, it will be very interesting to see what Boston does next. If Boston has Crochet throw on a three-day schedule again, that would make his next appearance be on Friday, or right around then. Then, Boston will begin the playoffs just a few days later on Tuesday, Sep. 29. If he bounces back well on Wednesday without any setback after the live bullpen, it's going to make a return in time for the playoffs very possible.\nPatrick McAvoy's experiences include local and national sports coverage at the New England Sports Network with a focus on baseball and basketball. Outside of journalism, Patrick received an MBA at Brandeis University. For all business/marketing inquiries regarding Boston Red Sox On SI, please reach out to Scott Neville: scott@moreviewsmedia.com\nFollow patmcavoy",
     "rss_title": "The Garrett Crochet Bullpen Detail Red Sox Fans Should Be Watching Closely",
     "rss_body": "On Tuesday, Boston Red Sox star Garrett Crochet took his biggest step towards a late-season return yet.\nCrochet has been tossing bullpens for a few weeks at this point and hasn't suffered any setbacks. On Saturday, he tossed a bullpen at Polar Park and sat between 91and 92 miles per hour with his fastball and Triple-A WooSox pitching coach Dan DeLucia said he looked \"great\" and was \"probably a tick above\" expectations. On Tuesday, he continued his progression and faced live hitters for the first time since May, which is a huge step in the path back to the majors.\nCrochet faced off against Red Sox center fielder Ceddanne Rafaela and topped out at 96 miles per hour in his 16-pitch outing. The fact that he hit 96 miles per hour in the outing was the biggest bright spot, to say the least.\nAfter the outing, Crochet spoke to the media and said that if he can pitch like he did in the live bullpen, he can get outs for the team right now. He also acknowledged that he would feel bad to take the spot of someone on the roster in the playoffs.\nGarrett Crochet Just Took His Biggest Step Yet Towards Return\n\"I would say the way that that live just went, that I could go get outs [in a game],\" Crochet said, as transcribed by The Athletic's Jen McCaffrey.\n\" ... For me to take a spot on the roster, then someone would have to lose one, and I would feel bad doing that because this team's pitched their ass off the whole season,\" Crochet said.\nOver the weekend, there were some in Red Sox Nation concerned when reports surfaced that Crochet was sitting at 91-92 MPH in his last bullpen. There really shouldn't have been concern there, though. Crochet wasn't facing live hitters and you're not going to see max velocity in an outing like that. So, seeing him not only facing live hitters, but getting to 96 MPH is a massive bright spot and is a clear sign he's trending in the right direction.\nIf Crochet does return this season, it's going to be in a relief role. Over the last few weeks, we've seen various positive updates, including him building up to the point of a 30-pitch up-and-down, and now facing live hitters just three days after his last bullpen. The Red Sox will begin their playoff run in exactly one week on Sep. 29, likely against the New York Yankees.\nIf Crochet bounces back well from his live bullpen, it will be very interesting to see what Boston does next. If Boston has Crochet throw on a three-day schedule again, that would make his next appearance be on Friday, or right around then. Then, Boston will begin the playoffs just a few days later on Tuesday, Sep. 29. If he bounces back well on Wednesday without any setback after the live bullpen, it's going to make a return in time for the playoffs very possible.\nPatrick McAvoy's experiences include local and national sports coverage at the New England Sports Network with a focus on baseball and basketball. Outside of journalism, Patrick received an MBA at Brandeis University. For all business/marketing inquiries regarding Boston Red Sox On SI, please reach out to Scott Neville: scott@moreviewsmedia.com\nFollow patmcavoy",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "ed5c213e2908b79a1131",
+    "title": "Trevor Story And Red Sox Play Guardians On Sept. 22 | FanDuel Research",
+    "source": "FanDuel",
+    "author": "Data Skrive",
+    "url": "https://www.fanduel.com/research/mlb/player-news/game-updates/trevor-story-and-red-sox-play-guardians-on-september-22-2026",
+    "published_iso": "2026-09-22T20:23:44+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 20:23:44 +0000",
+    "body": "Trevor Story and the Boston Red Sox will face the Cleveland Guardians at Fenway Park, on Tuesday, Sept. 22 at 6:45 p.m. ET.\nWhat It Means\nStory is hitting for a .247 BA, .278 OBP and .368 SLG with a 31.3% strikeout rate and a 4% walk rate. His OPS is .646 and he has scored 24 runs. In 252 plate appearances, he has hit five home runs and driven in 29 runs. Story has recorded five steals on five attempts. In his most recent game, he notched a home run while going 1-for-4 against the Rays.\nParker Messick (12-9 with a 2.57 ERA and 186 strikeouts in 178 1/3 innings pitched) makes the start for the Guardians, his 31st of the season.",
+    "tracked_people": [
+      {
+        "name": "Trevor Story",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Trevor Story And Red Sox Play Guardians On Sept. 22 | FanDuel Research",
+    "original_body": "Trevor Story and the Boston Red Sox will face the Cleveland Guardians at Fenway Park, on Tuesday, Sept. 22 at 6:45 p.m. ET.\nWhat It Means\nStory is hitting for a .247 BA, .278 OBP and .368 SLG with a 31.3% strikeout rate and a 4% walk rate. His OPS is .646 and he has scored 24 runs. In 252 plate appearances, he has hit five home runs and driven in 29 runs. Story has recorded five steals on five attempts. In his most recent game, he notched a home run while going 1-for-4 against the Rays.\nParker Messick (12-9 with a 2.57 ERA and 186 strikeouts in 178 1/3 innings pitched) makes the start for the Guardians, his 31st of the season.",
+    "rss_title": "Trevor Story And Red Sox Play Guardians On Sept. 22 | FanDuel Research",
+    "rss_body": "Trevor Story and the Boston Red Sox will face the Cleveland Guardians at Fenway Park, on Tuesday, Sept. 22 at 6:45 p.m. ET.\nWhat It Means\nStory is hitting for a .247 BA, .278 OBP and .368 SLG with a 31.3% strikeout rate and a 4% walk rate. His OPS is .646 and he has scored 24 runs. In 252 plate appearances, he has hit five home runs and driven in 29 runs. Story has recorded five steals on five attempts. In his most recent game, he notched a home run while going 1-for-4 against the Rays.\nParker Messick (12-9 with a 2.57 ERA and 186 strikeouts in 178 1/3 innings pitched) makes the start for the Guardians, his 31st of the season.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "557c5aa039a4537216d3",
+    "title": "Willson Contreras (hand) remains out Tuesday",
+    "source": "nbcsports.com",
+    "author": "George Bissell; Willson Contreras",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-22/willson-contreras-hand-remains-out-tuesday",
+    "published_iso": "2026-09-22T20:16:54+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 20:16:54 +0000",
+    "body": "Willson Contreras (hand) remains out of the lineup for Tuesday’s series opener against the Guardians.\n            \n                There’s zero incentive for the Red Sox to push Contreras, who was able to take on-field batting practice prior to Tuesday’s contest, back before he’s ready after they clinched a playoff spot over the weekend. The 34-year-old first baseman will miss his fourth consecutive contest after being hit by a pitch on the right hand last week. There’s a decent chance Contreras returns at some point later this week since he’ll want to get some at-bats under his belt before Boston kicks off their postseason run.",
+    "tracked_people": [
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Willson Contreras (hand) remains out Tuesday",
+    "original_body": "Willson Contreras (hand) remains out of the lineup for Tuesday’s series opener against the Guardians.\n            \n                There’s zero incentive for the Red Sox to push Contreras, who was able to take on-field batting practice prior to Tuesday’s contest, back before he’s ready after they clinched a playoff spot over the weekend. The 34-year-old first baseman will miss his fourth consecutive contest after being hit by a pitch on the right hand last week. There’s a decent chance Contreras returns at some point later this week since he’ll want to get some at-bats under his belt before Boston kicks off their postseason run.",
+    "rss_title": "Willson Contreras (hand) remains out Tuesday",
+    "rss_body": "Willson Contreras (hand) remains out of the lineup for Tuesday’s series opener against the Guardians.\n            \n                There’s zero incentive for the Red Sox to push Contreras, who was able to take on-field batting practice prior to Tuesday’s contest, back before he’s ready after they clinched a playoff spot over the weekend. The 34-year-old first baseman will miss his fourth consecutive contest after being hit by a pitch on the right hand last week. There’s a decent chance Contreras returns at some point later this week since he’ll want to get some at-bats under his belt before Boston kicks off their postseason run.",
     "translation_status": "fallback_original"
   },
   {
@@ -109,6 +501,136 @@
     "original_body": "The Boston Red Sox have been without ace Garrett Crochet since late April when he began dealing with a shoulder injury.\nFans have eagerly awaited the return of the 2025 AL Cy Young Award runner-up, and his comments after a live BP session on Tuesday indicated that his return may be very soon.\nCrochet threw a 16-pitch live BP session on Tuesday, his first time facing live hitters since May. Despite the limited number of pitches, Crochet left the session feeling fairly confident about his ability to get major league hitters out.\n“I felt like, with the way that went, I could go get outs,\" Crochet said, via Red Sox beat writer Chris Cotillo.\nBoston would almost certainly like to see Crochet build up a little past 16 pitches, but his confidence and mindset are an encouraging sign.\nGarrett Crochet says what happens next is up to Craig Breslow and Chad Tracy after a 16-pitch live BP against Ceddanne Rafaela in which he hit 96 mph. \n“I felt like, with the way that went, I could go get outs.”\nIt is clear that Crochet won't be returning as a starter, so what exactly could his role in a postseason series look like?\nThe option that makes the most sense would appear to be Crochet returning as a high-leverage reliever in late-game situations. Boston has Aroldis Chapman as its closer, meaning Crochet could be an option for the seventh or eighth inning.\nWhatever the case may be and whatever the role is, a returning Crochet for what will likely be an AL East showdown between the Red Sox and New York Yankees will give Boston an even better chance to get revenge from last year's Wild Card Series loss to the Yankees.\nMore must-reads:\nGet the latest news and rumors, customized to your favorite sports and teams. Emailed daily. Always free!",
     "rss_title": "Red Sox's Garrett Crochet is ready to return after Tuesday's live BP",
     "rss_body": "The Boston Red Sox have been without ace Garrett Crochet since late April when he began dealing with a shoulder injury.\nFans have eagerly awaited the return of the 2025 AL Cy Young Award runner-up, and his comments after a live BP session on Tuesday indicated that his return may be very soon.\nCrochet threw a 16-pitch live BP session on Tuesday, his first time facing live hitters since May. Despite the limited number of pitches, Crochet left the session feeling fairly confident about his ability to get major league hitters out.\n“I felt like, with the way that went, I could go get outs,\" Crochet said, via Red Sox beat writer Chris Cotillo.\nBoston would almost certainly like to see Crochet build up a little past 16 pitches, but his confidence and mindset are an encouraging sign.\nGarrett Crochet says what happens next is up to Craig Breslow and Chad Tracy after a 16-pitch live BP against Ceddanne Rafaela in which he hit 96 mph. \n“I felt like, with the way that went, I could go get outs.”\nIt is clear that Crochet won't be returning as a starter, so what exactly could his role in a postseason series look like?\nThe option that makes the most sense would appear to be Crochet returning as a high-leverage reliever in late-game situations. Boston has Aroldis Chapman as its closer, meaning Crochet could be an option for the seventh or eighth inning.\nWhatever the case may be and whatever the role is, a returning Crochet for what will likely be an AL East showdown between the Red Sox and New York Yankees will give Boston an even better chance to get revenge from last year's Wild Card Series loss to the Yankees.\nMore must-reads:\nGet the latest news and rumors, customized to your favorite sports and teams. Emailed daily. Always free!",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "523dfb0c704d2c682875",
+    "title": "Yankees' Aaron Judge Injury Update Changes Everything For Red Sox | NESN",
+    "source": "nesn.com",
+    "author": "Daniel Mader",
+    "url": "https://nesn.com/boston-red-sox/news/yankees-aaron-judge-injury-update-red-sox/369370bc9feada4d3d920da8",
+    "published_iso": "2026-09-22T20:15:00+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 20:15:00 +0000",
+    "body": "With just a few games remaining in the regular season, the chances of a Red Sox vs. Yankees matchup in the AL Wild Card round appear high.\nIf the Rays can officially clinch the AL East, and the Red Sox can pull away from the White Sox for the AL's No. 5 seed, Boston will be traveling to face New York in a best-of-three matchup.\nSo when Aaron Boone announced the latest on Aaron Judge's injury status on Tuesday, it carried massive implications for the Red Sox as they begin looking toward the postseason.\nHere's the latest on Judge and what it could mean for the Red Sox.\nHow Yankees' Aaron Judge Injury Update Affects Red Sox\nOn Tuesday, Boone told reporters that Judge, who was recently played on the 10-day IL with a calf strain just days after his return from a significant injury, is dealing with a \"moderate grade\" strain.\nHowever, more significantly, Boone said the Yankees aren't preparing for Judge to be ready for the start of the postseason after he had a PPP injection on Monday.\n\"We’re planning on him not being a part of that,” Boone said, per Bryan Hoch.\nWhile Judge's status for a likely wild-card matchup won't become official until early next week, when the Yankees would have to finalize their roster for a series, it's looking unlikely that he will be healthy in time.\nFor the Red Sox, no Judge would change the dynamic of attacking the Yankees' lineup. While Ben Rice and Cody Bellinger remain power threats themselves, the presence of the three-time AL MVP boosts New York's offense to an elite status. Sonny Gray, Ranger Suarez and Payton Tolle — likely to pitch for Boston in a best-of-three series — wouldn't have to worry about the threat of Judge's bat breaking a game open in one swing.\nRed Sox vs. Yankees is not yet official, and neither is Judge's status for the postseason. But as of Tuesday, all indications are that New York will have to host Boston without its superstar outfielder.",
+    "tracked_people": [
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Ranger Suárez",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Yankees' Aaron Judge Injury Update Changes Everything For Red Sox | NESN",
+    "original_body": "With just a few games remaining in the regular season, the chances of a Red Sox vs. Yankees matchup in the AL Wild Card round appear high.\nIf the Rays can officially clinch the AL East, and the Red Sox can pull away from the White Sox for the AL's No. 5 seed, Boston will be traveling to face New York in a best-of-three matchup.\nSo when Aaron Boone announced the latest on Aaron Judge's injury status on Tuesday, it carried massive implications for the Red Sox as they begin looking toward the postseason.\nHere's the latest on Judge and what it could mean for the Red Sox.\nHow Yankees' Aaron Judge Injury Update Affects Red Sox\nOn Tuesday, Boone told reporters that Judge, who was recently played on the 10-day IL with a calf strain just days after his return from a significant injury, is dealing with a \"moderate grade\" strain.\nHowever, more significantly, Boone said the Yankees aren't preparing for Judge to be ready for the start of the postseason after he had a PPP injection on Monday.\n\"We’re planning on him not being a part of that,” Boone said, per Bryan Hoch.\nWhile Judge's status for a likely wild-card matchup won't become official until early next week, when the Yankees would have to finalize their roster for a series, it's looking unlikely that he will be healthy in time.\nFor the Red Sox, no Judge would change the dynamic of attacking the Yankees' lineup. While Ben Rice and Cody Bellinger remain power threats themselves, the presence of the three-time AL MVP boosts New York's offense to an elite status. Sonny Gray, Ranger Suarez and Payton Tolle — likely to pitch for Boston in a best-of-three series — wouldn't have to worry about the threat of Judge's bat breaking a game open in one swing.\nRed Sox vs. Yankees is not yet official, and neither is Judge's status for the postseason. But as of Tuesday, all indications are that New York will have to host Boston without its superstar outfielder.",
+    "rss_title": "Yankees' Aaron Judge Injury Update Changes Everything For Red Sox | NESN",
+    "rss_body": "With just a few games remaining in the regular season, the chances of a Red Sox vs. Yankees matchup in the AL Wild Card round appear high.\nIf the Rays can officially clinch the AL East, and the Red Sox can pull away from the White Sox for the AL's No. 5 seed, Boston will be traveling to face New York in a best-of-three matchup.\nSo when Aaron Boone announced the latest on Aaron Judge's injury status on Tuesday, it carried massive implications for the Red Sox as they begin looking toward the postseason.\nHere's the latest on Judge and what it could mean for the Red Sox.\nHow Yankees' Aaron Judge Injury Update Affects Red Sox\nOn Tuesday, Boone told reporters that Judge, who was recently played on the 10-day IL with a calf strain just days after his return from a significant injury, is dealing with a \"moderate grade\" strain.\nHowever, more significantly, Boone said the Yankees aren't preparing for Judge to be ready for the start of the postseason after he had a PPP injection on Monday.\n\"We’re planning on him not being a part of that,” Boone said, per Bryan Hoch.\nWhile Judge's status for a likely wild-card matchup won't become official until early next week, when the Yankees would have to finalize their roster for a series, it's looking unlikely that he will be healthy in time.\nFor the Red Sox, no Judge would change the dynamic of attacking the Yankees' lineup. While Ben Rice and Cody Bellinger remain power threats themselves, the presence of the three-time AL MVP boosts New York's offense to an elite status. Sonny Gray, Ranger Suarez and Payton Tolle — likely to pitch for Boston in a best-of-three series — wouldn't have to worry about the threat of Judge's bat breaking a game open in one swing.\nRed Sox vs. Yankees is not yet official, and neither is Judge's status for the postseason. But as of Tuesday, all indications are that New York will have to host Boston without its superstar outfielder.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "1475928dcc053a6173b2",
+    "title": "Red Sox's Trevor Story: Not starting Tuesday",
+    "source": "CBS Sports",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/red-soxs-trevor-story-not-starting-tuesday/",
+    "published_iso": "2026-09-22T20:06:37+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 20:06:37 +0000",
+    "body": "Story is out of the lineup for Tuesday's game against the Guardians, Tim Healey of The Boston Globe reports.\nFresh off clinching a spot in the playoffs Sunday, Story will get a day off after starting the previous 15 games. The veteran shortstop posted a .799 OPS during that span and could carry a hot bat into the postseason. Isiah Kiner-Falefa is starting at shortstop and batting eighth Tuesday for Boston.",
+    "tracked_people": [
+      {
+        "name": "Trevor Story",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Isiah Kiner-Falefa",
+        "role": "Utility Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox's Trevor Story: Not starting Tuesday",
+    "original_body": "Story is out of the lineup for Tuesday's game against the Guardians, Tim Healey of The Boston Globe reports.\nFresh off clinching a spot in the playoffs Sunday, Story will get a day off after starting the previous 15 games. The veteran shortstop posted a .799 OPS during that span and could carry a hot bat into the postseason. Isiah Kiner-Falefa is starting at shortstop and batting eighth Tuesday for Boston.",
+    "rss_title": "Red Sox's Trevor Story: Not starting Tuesday",
+    "rss_body": "Story is out of the lineup for Tuesday's game against the Guardians, Tim Healey of The Boston Globe reports.\nFresh off clinching a spot in the playoffs Sunday, Story will get a day off after starting the previous 15 games. The veteran shortstop posted a .799 OPS during that span and could carry a hot bat into the postseason. Isiah Kiner-Falefa is starting at shortstop and batting eighth Tuesday for Boston.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "c709d381037fbb0c5e93",
+    "title": "Red Sox's Willson Contreras: Remaining on bench Tuesday",
+    "source": "CBS Sports",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/red-soxs-willson-contreras-remaining-on-bench-tuesday/",
+    "published_iso": "2026-09-22T19:56:00+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 19:56:00 +0000",
+    "body": "Contreras (hand) is out of the lineup for Tuesday's game against the Guardians, Tim Healey of The Boston Globe reports.\nIt's the fourth straight absence due to a bruised right hand for Contreras, and there's no reason for the Red Sox to rush him back into action since their playoff seeding is all but set. Nick Sogard will receive another start at first base Tuesday for Boston.",
+    "tracked_people": [
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Nick Sogard",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox's Willson Contreras: Remaining on bench Tuesday",
+    "original_body": "Contreras (hand) is out of the lineup for Tuesday's game against the Guardians, Tim Healey of The Boston Globe reports.\nIt's the fourth straight absence due to a bruised right hand for Contreras, and there's no reason for the Red Sox to rush him back into action since their playoff seeding is all but set. Nick Sogard will receive another start at first base Tuesday for Boston.",
+    "rss_title": "Red Sox's Willson Contreras: Remaining on bench Tuesday",
+    "rss_body": "Contreras (hand) is out of the lineup for Tuesday's game against the Guardians, Tim Healey of The Boston Globe reports.\nIt's the fourth straight absence due to a bruised right hand for Contreras, and there's no reason for the Red Sox to rush him back into action since their playoff seeding is all but set. Nick Sogard will receive another start at first base Tuesday for Boston.",
     "translation_status": "fallback_original"
   },
   {
