@@ -1,5 +1,195 @@
 [
   {
+    "id": "124ebeb223ab0ec68a9d",
+    "title": "Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series",
+    "source": "Yahoo Sports",
+    "author": "Keith Watkins",
+    "url": "https://sports.yahoo.com/articles/red-sox-ceddanne-rafaela-ahead-134106216.html",
+    "published_iso": "2026-09-22T13:41:06+00:00",
+    "published_rfc2822": "Tue, 22 Sep 2026 13:41:06 +0000",
+    "body": "The Boston Red Sox have scored 2.82 runs per game across their last 11 outings. The lineup is collectively batting .210 and posting a .621 OPS in that span. Wilyer Abreu, Adley Rutschman, Isiah Kiner-Falefa, and Nick Sogard have all gone cold at the wrong time.\nWith the Wild Card Series beginning September 29, the Red Sox need their bats to wake up before October arrives.\nThe cavalry is coming. And the timing could not be better.\nThe Latest on Rafaela\nCeddanne Rafaela is expected to return to the lineup on Tuesday when the Red Sox open a three-game series against the Guardians at Fenway Park.\nThe All-Star center fielder has been sidelined for 16 games since straining his right quadriceps.\nChad Tracy indicated over the weekend that Rafaela should come off the injured list for the homestand. The rotation is set up with Payton Tolle, Sonny Gray, and Ranger Suarez, a sequence that mirrors how the staff could be deployed in the Wild Card Series.\nGetting Rafaela back before those games begin gives him a chance to find his timing and reintegrate into the lineup before the stakes get higher.\nWhat Rafaela Brings Back\nRafaela's absence has been felt. On the season, he has produced 16 home runs, 70 RBIs, and a .282/.760 line. His combination of contact, power, and speed makes him one of the most complete players on the roster.\nThe defensive impact is equally significant. Rafaela's range in center field changes the way the pitching staff operates. Fly balls that fall for hits with other outfielders become outs when he is patrolling the middle of the outfield. His presence there tightens the entire defense.\nThe Red Sox have been using Jarren Duran and Nate Eaton to fill the void in center. Both have been serviceable, but neither provides the combination of offense and defense that Rafaela delivers on a daily basis.\nThe Red Sox Offense Needs a Spark\nThe numbers paint a clear picture of how badly the Red Sox have struggled at the plate.\nMickey Gasper is 4-for-25 over the recent stretch. Kiner-Falefa has managed just one hit in his last 20 at-bats. Sogard is 8-for-40. The lineup has lacked the consistent production that fueled the summer surge.\nThere have been bright spots. Roman Anthony broke out of a prolonged slump with a 5-for-13 weekend against the Rays that included two doubles and a homer. Trevor Story has been one of the hottest hitters on the roster since returning from the injured list, carrying a .338 average with an .869 OPS across 19 games.\nWillson Contreras is also working his way back from a bruised right hand and could return this week. If both Contreras and Rafaela rejoin the lineup for the Guardians series, it would be the healthiest the Red Sox' batting order has looked in weeks.\nFinal Word for the Red Sox\nThe Red Sox have six games left before the playoffs begin.\nRafaela's return gives the lineup a jolt it needs. What he provides on both sides of the ball is invaluable for Boston.\nFenway awaits.\nThis article was originally published on HEAVY\nThe post Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series appeared first on HEAVY.",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Trevor Story",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Isiah Kiner-Falefa",
+        "role": "Utility Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Nick Sogard",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Nate Eaton",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Ranger Suárez",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series",
+    "original_body": "The Boston Red Sox have scored 2.82 runs per game across their last 11 outings. The lineup is collectively batting .210 and posting a .621 OPS in that span. Wilyer Abreu, Adley Rutschman, Isiah Kiner-Falefa, and Nick Sogard have all gone cold at the wrong time.\nWith the Wild Card Series beginning September 29, the Red Sox need their bats to wake up before October arrives.\nThe cavalry is coming. And the timing could not be better.\nThe Latest on Rafaela\nCeddanne Rafaela is expected to return to the lineup on Tuesday when the Red Sox open a three-game series against the Guardians at Fenway Park.\nThe All-Star center fielder has been sidelined for 16 games since straining his right quadriceps.\nChad Tracy indicated over the weekend that Rafaela should come off the injured list for the homestand. The rotation is set up with Payton Tolle, Sonny Gray, and Ranger Suarez, a sequence that mirrors how the staff could be deployed in the Wild Card Series.\nGetting Rafaela back before those games begin gives him a chance to find his timing and reintegrate into the lineup before the stakes get higher.\nWhat Rafaela Brings Back\nRafaela's absence has been felt. On the season, he has produced 16 home runs, 70 RBIs, and a .282/.760 line. His combination of contact, power, and speed makes him one of the most complete players on the roster.\nThe defensive impact is equally significant. Rafaela's range in center field changes the way the pitching staff operates. Fly balls that fall for hits with other outfielders become outs when he is patrolling the middle of the outfield. His presence there tightens the entire defense.\nThe Red Sox have been using Jarren Duran and Nate Eaton to fill the void in center. Both have been serviceable, but neither provides the combination of offense and defense that Rafaela delivers on a daily basis.\nThe Red Sox Offense Needs a Spark\nThe numbers paint a clear picture of how badly the Red Sox have struggled at the plate.\nMickey Gasper is 4-for-25 over the recent stretch. Kiner-Falefa has managed just one hit in his last 20 at-bats. Sogard is 8-for-40. The lineup has lacked the consistent production that fueled the summer surge.\nThere have been bright spots. Roman Anthony broke out of a prolonged slump with a 5-for-13 weekend against the Rays that included two doubles and a homer. Trevor Story has been one of the hottest hitters on the roster since returning from the injured list, carrying a .338 average with an .869 OPS across 19 games.\nWillson Contreras is also working his way back from a bruised right hand and could return this week. If both Contreras and Rafaela rejoin the lineup for the Guardians series, it would be the healthiest the Red Sox' batting order has looked in weeks.\nFinal Word for the Red Sox\nThe Red Sox have six games left before the playoffs begin.\nRafaela's return gives the lineup a jolt it needs. What he provides on both sides of the ball is invaluable for Boston.\nFenway awaits.\nThis article was originally published on HEAVY\nThe post Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series appeared first on HEAVY.",
+    "rss_title": "Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series",
+    "rss_body": "The Boston Red Sox have scored 2.82 runs per game across their last 11 outings. The lineup is collectively batting .210 and posting a .621 OPS in that span. Wilyer Abreu, Adley Rutschman, Isiah Kiner-Falefa, and Nick Sogard have all gone cold at the wrong time.\nWith the Wild Card Series beginning September 29, the Red Sox need their bats to wake up before October arrives.\nThe cavalry is coming. And the timing could not be better.\nThe Latest on Rafaela\nCeddanne Rafaela is expected to return to the lineup on Tuesday when the Red Sox open a three-game series against the Guardians at Fenway Park.\nThe All-Star center fielder has been sidelined for 16 games since straining his right quadriceps.\nChad Tracy indicated over the weekend that Rafaela should come off the injured list for the homestand. The rotation is set up with Payton Tolle, Sonny Gray, and Ranger Suarez, a sequence that mirrors how the staff could be deployed in the Wild Card Series.\nGetting Rafaela back before those games begin gives him a chance to find his timing and reintegrate into the lineup before the stakes get higher.\nWhat Rafaela Brings Back\nRafaela's absence has been felt. On the season, he has produced 16 home runs, 70 RBIs, and a .282/.760 line. His combination of contact, power, and speed makes him one of the most complete players on the roster.\nThe defensive impact is equally significant. Rafaela's range in center field changes the way the pitching staff operates. Fly balls that fall for hits with other outfielders become outs when he is patrolling the middle of the outfield. His presence there tightens the entire defense.\nThe Red Sox have been using Jarren Duran and Nate Eaton to fill the void in center. Both have been serviceable, but neither provides the combination of offense and defense that Rafaela delivers on a daily basis.\nThe Red Sox Offense Needs a Spark\nThe numbers paint a clear picture of how badly the Red Sox have struggled at the plate.\nMickey Gasper is 4-for-25 over the recent stretch. Kiner-Falefa has managed just one hit in his last 20 at-bats. Sogard is 8-for-40. The lineup has lacked the consistent production that fueled the summer surge.\nThere have been bright spots. Roman Anthony broke out of a prolonged slump with a 5-for-13 weekend against the Rays that included two doubles and a homer. Trevor Story has been one of the hottest hitters on the roster since returning from the injured list, carrying a .338 average with an .869 OPS across 19 games.\nWillson Contreras is also working his way back from a bruised right hand and could return this week. If both Contreras and Rafaela rejoin the lineup for the Guardians series, it would be the healthiest the Red Sox' batting order has looked in weeks.\nFinal Word for the Red Sox\nThe Red Sox have six games left before the playoffs begin.\nRafaela's return gives the lineup a jolt it needs. What he provides on both sides of the ball is invaluable for Boston.\nFenway awaits.\nThis article was originally published on HEAVY\nThe post Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series appeared first on HEAVY.",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "heavy.com",
+        "url": "https://heavy.com/sports/mlb/boston-red-sox/red-sox-ceddanne-rafaela-guardians-update/",
+        "title": "Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series",
+        "body_characters": 2952
+      },
+      {
+        "source": "heavy.com",
+        "url": "https://heavy.com/sports/mlb/boston-red-sox/boston-red-sox-ceddanne-rafaela-decision/",
+        "title": "Red Sox Announce Ceddanne Rafaela Decision Amid Guardians Series",
+        "body_characters": 2101
+      }
+    ]
+  },
+  {
+    "id": "2621308a3ff2779fde4f",
+    "title": "Former Brave Eli White to have season-ending surgery | Battery Power",
+    "source": "Battery Power",
+    "author": "",
+    "url": "https://www.batterypower.com/post/nja4-Iw-ObLt",
+    "published_iso": "2026-09-23T09:46:06+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 09:46:06 +0000",
+    "body": "Former Brave Eli White to have season-ending surgery\nFormer Atlanta Braves outfielder Eli White, who the team traded to the Boston Red Sox at the trade deadline, will have Lisfranc surgery on his foot and will the rest of the season.\nSign in to reply to DJourn",
+    "tracked_people": [
+      {
+        "name": "Eli White",
+        "role": "Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 33,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Former Brave Eli White to have season-ending surgery | Battery Power",
+    "original_body": "Former Brave Eli White to have season-ending surgery\nFormer Atlanta Braves outfielder Eli White, who the team traded to the Boston Red Sox at the trade deadline, will have Lisfranc surgery on his foot and will the rest of the season.\nSign in to reply to DJourn",
+    "rss_title": "Former Brave Eli White to have season-ending surgery | Battery Power",
+    "rss_body": "Former Brave Eli White to have season-ending surgery\nFormer Atlanta Braves outfielder Eli White, who the team traded to the Boston Red Sox at the trade deadline, will have Lisfranc surgery on his foot and will the rest of the season.\nSign in to reply to DJourn",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "2046f76b19300f593dbd",
     "title": "Cubs' Craig Counsell provides more good Alex Bregman injury news amid tight NL wild-card race",
     "source": "yardbarker.com",
@@ -3106,158 +3296,6 @@
     "rss_title": "Could Payton Tolle be starting game 1 for the Red Sox in Yankee stadium? | WEEI 93.7",
     "rss_body": "Video\nCould Payton Tolle be starting game 1 for the Red Sox in Yankee stadium?\nCould Payton Tolle be starting game 1 for the Red Sox in Yankee stadium?! Many suggest Red Sox seem to be lining up the rest of the reg season, to do as such.\nShould Tolle get the ball? Or should Gray/Suarez? What do you think?\nShould Tolle get the ball? Or should Gray/Suarez? What do you think?",
     "translation_status": "fallback_original"
-  },
-  {
-    "id": "124ebeb223ab0ec68a9d",
-    "title": "Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series",
-    "source": "Yahoo Sports",
-    "author": "Keith Watkins",
-    "url": "https://sports.yahoo.com/articles/red-sox-ceddanne-rafaela-ahead-134106216.html",
-    "published_iso": "2026-09-22T13:41:06+00:00",
-    "published_rfc2822": "Tue, 22 Sep 2026 13:41:06 +0000",
-    "body": "The Boston Red Sox have scored 2.82 runs per game across their last 11 outings. The lineup is collectively batting .210 and posting a .621 OPS in that span. Wilyer Abreu, Adley Rutschman, Isiah Kiner-Falefa, and Nick Sogard have all gone cold at the wrong time.\nWith the Wild Card Series beginning September 29, the Red Sox need their bats to wake up before October arrives.\nThe cavalry is coming. And the timing could not be better.\nThe Latest on Rafaela\nCeddanne Rafaela is expected to return to the lineup on Tuesday when the Red Sox open a three-game series against the Guardians at Fenway Park.\nThe All-Star center fielder has been sidelined for 16 games since straining his right quadriceps.\nChad Tracy indicated over the weekend that Rafaela should come off the injured list for the homestand. The rotation is set up with Payton Tolle, Sonny Gray, and Ranger Suarez, a sequence that mirrors how the staff could be deployed in the Wild Card Series.\nGetting Rafaela back before those games begin gives him a chance to find his timing and reintegrate into the lineup before the stakes get higher.\nWhat Rafaela Brings Back\nRafaela's absence has been felt. On the season, he has produced 16 home runs, 70 RBIs, and a .282/.760 line. His combination of contact, power, and speed makes him one of the most complete players on the roster.\nThe defensive impact is equally significant. Rafaela's range in center field changes the way the pitching staff operates. Fly balls that fall for hits with other outfielders become outs when he is patrolling the middle of the outfield. His presence there tightens the entire defense.\nThe Red Sox have been using Jarren Duran and Nate Eaton to fill the void in center. Both have been serviceable, but neither provides the combination of offense and defense that Rafaela delivers on a daily basis.\nThe Red Sox Offense Needs a Spark\nThe numbers paint a clear picture of how badly the Red Sox have struggled at the plate.\nMickey Gasper is 4-for-25 over the recent stretch. Kiner-Falefa has managed just one hit in his last 20 at-bats. Sogard is 8-for-40. The lineup has lacked the consistent production that fueled the summer surge.\nThere have been bright spots. Roman Anthony broke out of a prolonged slump with a 5-for-13 weekend against the Rays that included two doubles and a homer. Trevor Story has been one of the hottest hitters on the roster since returning from the injured list, carrying a .338 average with an .869 OPS across 19 games.\nWillson Contreras is also working his way back from a bruised right hand and could return this week. If both Contreras and Rafaela rejoin the lineup for the Guardians series, it would be the healthiest the Red Sox' batting order has looked in weeks.\nFinal Word for the Red Sox\nThe Red Sox have six games left before the playoffs begin.\nRafaela's return gives the lineup a jolt it needs. What he provides on both sides of the ball is invaluable for Boston.\nFenway awaits.\nThis article was originally published on HEAVY\nThe post Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series appeared first on HEAVY.",
-    "tracked_people": [
-      {
-        "name": "Adley Rutschman",
-        "role": "Catcher",
-        "status": "Active",
-        "type": "player",
-        "id": 1,
-        "batch": 1
-      },
-      {
-        "name": "Willson Contreras",
-        "role": "Catcher / DH",
-        "status": "Active",
-        "type": "player",
-        "id": 3,
-        "batch": 1
-      },
-      {
-        "name": "Trevor Story",
-        "role": "Infielder",
-        "status": "Active",
-        "type": "player",
-        "id": 5,
-        "batch": 1
-      },
-      {
-        "name": "Isiah Kiner-Falefa",
-        "role": "Utility Infielder",
-        "status": "Active",
-        "type": "player",
-        "id": 6,
-        "batch": 1
-      },
-      {
-        "name": "Nick Sogard",
-        "role": "Infielder",
-        "status": "Active",
-        "type": "player",
-        "id": 8,
-        "batch": 1
-      },
-      {
-        "name": "Mickey Gasper",
-        "role": "Designated Hitter",
-        "status": "Active",
-        "type": "player",
-        "id": 10,
-        "batch": 1
-      },
-      {
-        "name": "Roman Anthony",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player",
-        "id": 12,
-        "batch": 1
-      },
-      {
-        "name": "Wilyer Abreu",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player",
-        "id": 13,
-        "batch": 1
-      },
-      {
-        "name": "Jarren Duran",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player",
-        "id": 14,
-        "batch": 1
-      },
-      {
-        "name": "Nate Eaton",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player",
-        "id": 15,
-        "batch": 1
-      },
-      {
-        "name": "Sonny Gray",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 17,
-        "batch": 1
-      },
-      {
-        "name": "Ranger Suárez",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 18,
-        "batch": 1
-      },
-      {
-        "name": "Payton Tolle",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 20,
-        "batch": 1
-      },
-      {
-        "name": "Ceddanne Rafaela",
-        "role": "Outfielder / Infielder",
-        "status": "10-day Injured List",
-        "type": "player",
-        "id": 32,
-        "batch": 2
-      },
-      {
-        "name": "Chad Tracy",
-        "role": "Manager",
-        "status": "Coaching Staff",
-        "type": "staff",
-        "id": 49,
-        "batch": 2
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series",
-    "original_body": "The Boston Red Sox have scored 2.82 runs per game across their last 11 outings. The lineup is collectively batting .210 and posting a .621 OPS in that span. Wilyer Abreu, Adley Rutschman, Isiah Kiner-Falefa, and Nick Sogard have all gone cold at the wrong time.\nWith the Wild Card Series beginning September 29, the Red Sox need their bats to wake up before October arrives.\nThe cavalry is coming. And the timing could not be better.\nThe Latest on Rafaela\nCeddanne Rafaela is expected to return to the lineup on Tuesday when the Red Sox open a three-game series against the Guardians at Fenway Park.\nThe All-Star center fielder has been sidelined for 16 games since straining his right quadriceps.\nChad Tracy indicated over the weekend that Rafaela should come off the injured list for the homestand. The rotation is set up with Payton Tolle, Sonny Gray, and Ranger Suarez, a sequence that mirrors how the staff could be deployed in the Wild Card Series.\nGetting Rafaela back before those games begin gives him a chance to find his timing and reintegrate into the lineup before the stakes get higher.\nWhat Rafaela Brings Back\nRafaela's absence has been felt. On the season, he has produced 16 home runs, 70 RBIs, and a .282/.760 line. His combination of contact, power, and speed makes him one of the most complete players on the roster.\nThe defensive impact is equally significant. Rafaela's range in center field changes the way the pitching staff operates. Fly balls that fall for hits with other outfielders become outs when he is patrolling the middle of the outfield. His presence there tightens the entire defense.\nThe Red Sox have been using Jarren Duran and Nate Eaton to fill the void in center. Both have been serviceable, but neither provides the combination of offense and defense that Rafaela delivers on a daily basis.\nThe Red Sox Offense Needs a Spark\nThe numbers paint a clear picture of how badly the Red Sox have struggled at the plate.\nMickey Gasper is 4-for-25 over the recent stretch. Kiner-Falefa has managed just one hit in his last 20 at-bats. Sogard is 8-for-40. The lineup has lacked the consistent production that fueled the summer surge.\nThere have been bright spots. Roman Anthony broke out of a prolonged slump with a 5-for-13 weekend against the Rays that included two doubles and a homer. Trevor Story has been one of the hottest hitters on the roster since returning from the injured list, carrying a .338 average with an .869 OPS across 19 games.\nWillson Contreras is also working his way back from a bruised right hand and could return this week. If both Contreras and Rafaela rejoin the lineup for the Guardians series, it would be the healthiest the Red Sox' batting order has looked in weeks.\nFinal Word for the Red Sox\nThe Red Sox have six games left before the playoffs begin.\nRafaela's return gives the lineup a jolt it needs. What he provides on both sides of the ball is invaluable for Boston.\nFenway awaits.\nThis article was originally published on HEAVY\nThe post Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series appeared first on HEAVY.",
-    "rss_title": "Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series",
-    "rss_body": "The Boston Red Sox have scored 2.82 runs per game across their last 11 outings. The lineup is collectively batting .210 and posting a .621 OPS in that span. Wilyer Abreu, Adley Rutschman, Isiah Kiner-Falefa, and Nick Sogard have all gone cold at the wrong time.\nWith the Wild Card Series beginning September 29, the Red Sox need their bats to wake up before October arrives.\nThe cavalry is coming. And the timing could not be better.\nThe Latest on Rafaela\nCeddanne Rafaela is expected to return to the lineup on Tuesday when the Red Sox open a three-game series against the Guardians at Fenway Park.\nThe All-Star center fielder has been sidelined for 16 games since straining his right quadriceps.\nChad Tracy indicated over the weekend that Rafaela should come off the injured list for the homestand. The rotation is set up with Payton Tolle, Sonny Gray, and Ranger Suarez, a sequence that mirrors how the staff could be deployed in the Wild Card Series.\nGetting Rafaela back before those games begin gives him a chance to find his timing and reintegrate into the lineup before the stakes get higher.\nWhat Rafaela Brings Back\nRafaela's absence has been felt. On the season, he has produced 16 home runs, 70 RBIs, and a .282/.760 line. His combination of contact, power, and speed makes him one of the most complete players on the roster.\nThe defensive impact is equally significant. Rafaela's range in center field changes the way the pitching staff operates. Fly balls that fall for hits with other outfielders become outs when he is patrolling the middle of the outfield. His presence there tightens the entire defense.\nThe Red Sox have been using Jarren Duran and Nate Eaton to fill the void in center. Both have been serviceable, but neither provides the combination of offense and defense that Rafaela delivers on a daily basis.\nThe Red Sox Offense Needs a Spark\nThe numbers paint a clear picture of how badly the Red Sox have struggled at the plate.\nMickey Gasper is 4-for-25 over the recent stretch. Kiner-Falefa has managed just one hit in his last 20 at-bats. Sogard is 8-for-40. The lineup has lacked the consistent production that fueled the summer surge.\nThere have been bright spots. Roman Anthony broke out of a prolonged slump with a 5-for-13 weekend against the Rays that included two doubles and a homer. Trevor Story has been one of the hottest hitters on the roster since returning from the injured list, carrying a .338 average with an .869 OPS across 19 games.\nWillson Contreras is also working his way back from a bruised right hand and could return this week. If both Contreras and Rafaela rejoin the lineup for the Guardians series, it would be the healthiest the Red Sox' batting order has looked in weeks.\nFinal Word for the Red Sox\nThe Red Sox have six games left before the playoffs begin.\nRafaela's return gives the lineup a jolt it needs. What he provides on both sides of the ball is invaluable for Boston.\nFenway awaits.\nThis article was originally published on HEAVY\nThe post Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series appeared first on HEAVY.",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "heavy.com",
-        "url": "https://heavy.com/sports/mlb/boston-red-sox/red-sox-ceddanne-rafaela-guardians-update/",
-        "title": "Red Sox Get Ceddanne Rafaela Update Ahead of Guardians Series",
-        "body_characters": 2952
-      }
-    ]
   },
   {
     "id": "699d5ef7dee3af414081",
