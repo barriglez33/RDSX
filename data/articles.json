@@ -1,5 +1,353 @@
 [
   {
+    "id": "5c1c3bc1adcba4393e09",
+    "title": "Red Sox give up run in 9th to lose 3rd straight game",
+    "source": "centralmaine.com",
+    "author": "Scott Martin",
+    "url": "https://www.centralmaine.com/2026/09/22/red-sox-give-up-run-in-9th-to-lose-3rd-straight-game/",
+    "published_iso": "2026-09-23T03:15:00+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 03:15:00 +0000",
+    "body": "BOSTON — Nathaniel Lowe had a tiebreaking sacrifice fly off reliever Erik Miller in the ninth inning, and the Cleveland Guardians maintained their slim in the AL Central with a 3-2 victory over the Boston Red Sox on Tuesday night.\nAngel Martínez had three hits for the Guardians, who entered the day with a one-game lead over the White Sox atop the division. Chicago owns the tiebreaker by winning the season series. Cleveland stranded 15 baserunners.\nThe loss was Boston’s eighth in 12 games, spoiling Chad Tracy’s first game as manager after the club named him its 49th in team history.\nAdley Rutschman added three hits for Boston, which clinched one of the AL’s wild-card spots on Sunday.\nBoston pinch hitter Mickey Gasper hit Hunter Gaddis’ first pitch, tying it at 2-2 leading off the eighth.\nGaddis (5-3) got the win and Cade Smith recorded the final three outs for his 40th save.\nMiller (4-2) hit a batter and gave up two hits in an inning.\nA strong candidate for the AL Rookie of the Year, Cleveland left-hander Parker Messick gave up a run over five innings. He lowered his ERA to 2.55 and is on pace to become the fourth rookie starting pitcher in MLB history with an ERA under 2.60 and averaging 9.0 or more strikeouts per nine innings.\nIn his tune-up for a likely playoff start next week, Boston lefty Payton Tolle struggled with his control over 5 2/3 innings, giving up two runs on eight hits.\nUp next\nGuardians LHP Foster Griffin (15-5, 3.67 ERA) is set to face Red Sox RHP Sonny Gray (17-5, 2.82) on Wednesday in the middle game of the three-game series.",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Erik Miller",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 1
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Red Sox give up run in 9th to lose 3rd straight game",
+    "original_body": "BOSTON — Nathaniel Lowe had a tiebreaking sacrifice fly off reliever Erik Miller in the ninth inning, and the Cleveland Guardians maintained their slim in the AL Central with a 3-2 victory over the Boston Red Sox on Tuesday night.\nAngel Martínez had three hits for the Guardians, who entered the day with a one-game lead over the White Sox atop the division. Chicago owns the tiebreaker by winning the season series. Cleveland stranded 15 baserunners.\nThe loss was Boston’s eighth in 12 games, spoiling Chad Tracy’s first game as manager after the club named him its 49th in team history.\nAdley Rutschman added three hits for Boston, which clinched one of the AL’s wild-card spots on Sunday.\nBoston pinch hitter Mickey Gasper hit Hunter Gaddis’ first pitch, tying it at 2-2 leading off the eighth.\nGaddis (5-3) got the win and Cade Smith recorded the final three outs for his 40th save.\nMiller (4-2) hit a batter and gave up two hits in an inning.\nA strong candidate for the AL Rookie of the Year, Cleveland left-hander Parker Messick gave up a run over five innings. He lowered his ERA to 2.55 and is on pace to become the fourth rookie starting pitcher in MLB history with an ERA under 2.60 and averaging 9.0 or more strikeouts per nine innings.\nIn his tune-up for a likely playoff start next week, Boston lefty Payton Tolle struggled with his control over 5 2/3 innings, giving up two runs on eight hits.\nUp next\nGuardians LHP Foster Griffin (15-5, 3.67 ERA) is set to face Red Sox RHP Sonny Gray (17-5, 2.82) on Wednesday in the middle game of the three-game series.",
+    "rss_title": "Red Sox give up run in 9th to lose 3rd straight game",
+    "rss_body": "BOSTON — Nathaniel Lowe had a tiebreaking sacrifice fly off reliever Erik Miller in the ninth inning, and the Cleveland Guardians maintained their slim in the AL Central with a 3-2 victory over the Boston Red Sox on Tuesday night.\nAngel Martínez had three hits for the Guardians, who entered the day with a one-game lead over the White Sox atop the division. Chicago owns the tiebreaker by winning the season series. Cleveland stranded 15 baserunners.\nThe loss was Boston’s eighth in 12 games, spoiling Chad Tracy’s first game as manager after the club named him its 49th in team history.\nAdley Rutschman added three hits for Boston, which clinched one of the AL’s wild-card spots on Sunday.\nBoston pinch hitter Mickey Gasper hit Hunter Gaddis’ first pitch, tying it at 2-2 leading off the eighth.\nGaddis (5-3) got the win and Cade Smith recorded the final three outs for his 40th save.\nMiller (4-2) hit a batter and gave up two hits in an inning.\nA strong candidate for the AL Rookie of the Year, Cleveland left-hander Parker Messick gave up a run over five innings. He lowered his ERA to 2.55 and is on pace to become the fourth rookie starting pitcher in MLB history with an ERA under 2.60 and averaging 9.0 or more strikeouts per nine innings.\nIn his tune-up for a likely playoff start next week, Boston lefty Payton Tolle struggled with his control over 5 2/3 innings, giving up two runs on eight hits.\nUp next\nGuardians LHP Foster Griffin (15-5, 3.67 ERA) is set to face Red Sox RHP Sonny Gray (17-5, 2.82) on Wednesday in the middle game of the three-game series.",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "sunjournal.com",
+        "url": "https://www.sunjournal.com/2026/09/22/red-sox-give-up-run-in-9th-to-lose-3rd-straight-game/",
+        "title": "Red Sox give up run in 9th to lose 3rd straight game",
+        "body_characters": 1570
+      }
+    ]
+  },
+  {
+    "id": "8cd2ab226bc7303be257",
+    "title": "Mickey Gasper hits 10th home run of the season",
+    "source": "wmur.com",
+    "author": "Mike Cronin",
+    "url": "https://www.wmur.com/article/mickey-gasper-10th-home-run/73843180",
+    "published_iso": "2026-09-23T03:15:00+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 03:15:00 +0000",
+    "body": "Mickey Gasper hits 10th home run of the season\nMerrimack's Mickey Gasper has done it again.\nOn Tuesday, he launched a solo home run in the 8th inning of the Red Sox game against the Guardians.\nGasper was pinch-hitting when he launched his 10th home run of the season into right field. It was his 24th RBI in just his 64th game played this season.\nThe Red Sox have already clinched a playoff spot and will likely play the Yankees in the Wild Card round starting on Sept. 29.",
+    "tracked_people": [
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Mickey Gasper hits 10th home run of the season",
+    "original_body": "Mickey Gasper hits 10th home run of the season\nMerrimack's Mickey Gasper has done it again.\nOn Tuesday, he launched a solo home run in the 8th inning of the Red Sox game against the Guardians.\nGasper was pinch-hitting when he launched his 10th home run of the season into right field. It was his 24th RBI in just his 64th game played this season.\nThe Red Sox have already clinched a playoff spot and will likely play the Yankees in the Wild Card round starting on Sept. 29.",
+    "rss_title": "Mickey Gasper hits 10th home run of the season",
+    "rss_body": "Mickey Gasper hits 10th home run of the season\nMerrimack's Mickey Gasper has done it again.\nOn Tuesday, he launched a solo home run in the 8th inning of the Red Sox game against the Guardians.\nGasper was pinch-hitting when he launched his 10th home run of the season into right field. It was his 24th RBI in just his 64th game played this season.\nThe Red Sox have already clinched a playoff spot and will likely play the Yankees in the Wild Card round starting on Sept. 29.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "bc5cce85b1efa7570ca9",
+    "title": "Guardians beat Red Sox in 9th, maintain first in AL Central",
+    "source": "ohiostandard.com",
+    "author": "",
+    "url": "http://www.ohiostandard.com/news/279325028/guardians-beat-red-sox-in-9th-maintain-first-in-al-central",
+    "published_iso": "2026-09-23T02:45:00+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 02:45:00 +0000",
+    "body": "Field Level Media\n                \n23 Sep 2026, 07:35 GMT+10\n            \n(Photo credit: David Butler II)\nNathaniel Lowe hit a sacrifice fly to right field that drove in Chase DeLauter in the ninth inning and the visiting Cleveland Guardians held on to beat the Boston Red Sox 3-2 Tuesday in the first game of a three-game series.\nBoston's Erik Miller (4-2) walked one and allowed two hits in the ninth.\nHunter Gaddis (5-3) got the win despite allowing a game-tying home run to Mickey Gasper in the eighth. Cade Smith pitched a scoreless ninth to record his 40th save. The victory extended Cleveland's winning streak to six games as it maintained its one-game lead over the Chicago White Sox in the AL Central.\nParker Messick held Boston to one run on five hits in five innings. He struck out five and walked one. Messick has allowed three runs or fewer in each of his last 14 starts.\nPayton Tolle started for the Red Sox (84-73) and gave up two runs on eight hits in 5 2/3 innings. He walked two and struck out five.\nAdley Rutschman had three hits for the Red Sox, who had eight hits in the game.\nCleveland's Angel Martinez went 3-for-4 and scored a run. The Guardians (82-75) received two hits from DeLauter, who reached in the ninth when Miller hit him with a pitch.\nThe Guardians went 1-for-12 with runners in scoring position and stranded 15.\nThe Guardians took a 2-0 lead in the second. Martinez doubled and made it 1-0 when he scored on David Fry's single. Fry doubled the lead by scoring when Brayan Rocchio grounded into a 4-6-3 double play.\nBoston trimmed its deficit to 2-1 in the second. Rutschman led off with a double, moved to third on Caleb Durbin's groundout to second and scored on Andrew Monasterio's groundout to shortstop.\nGasper's home run, his 10th of the year, tied the game leading off the eighth.\nBoston stranded the tying run on second in the ninth as Smith retired Nick Sogard on a grounder to second.\n--Field Level Media\nWASHINGTON, D.C.: Journalists from CNN, MS NOW and Politico were denied access to the White House on September 19 as the Trump administration...\nSAN FRANCISCO, California: Google's Gemini AI accessed protected systems belonging to three companies after venturing beyond the intended...\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Nick Sogard",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Erik Miller",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 1
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Guardians beat Red Sox in 9th, maintain first in AL Central",
+    "original_body": "Field Level Media\n                \n23 Sep 2026, 07:35 GMT+10\n            \n(Photo credit: David Butler II)\nNathaniel Lowe hit a sacrifice fly to right field that drove in Chase DeLauter in the ninth inning and the visiting Cleveland Guardians held on to beat the Boston Red Sox 3-2 Tuesday in the first game of a three-game series.\nBoston's Erik Miller (4-2) walked one and allowed two hits in the ninth.\nHunter Gaddis (5-3) got the win despite allowing a game-tying home run to Mickey Gasper in the eighth. Cade Smith pitched a scoreless ninth to record his 40th save. The victory extended Cleveland's winning streak to six games as it maintained its one-game lead over the Chicago White Sox in the AL Central.\nParker Messick held Boston to one run on five hits in five innings. He struck out five and walked one. Messick has allowed three runs or fewer in each of his last 14 starts.\nPayton Tolle started for the Red Sox (84-73) and gave up two runs on eight hits in 5 2/3 innings. He walked two and struck out five.\nAdley Rutschman had three hits for the Red Sox, who had eight hits in the game.\nCleveland's Angel Martinez went 3-for-4 and scored a run. The Guardians (82-75) received two hits from DeLauter, who reached in the ninth when Miller hit him with a pitch.\nThe Guardians went 1-for-12 with runners in scoring position and stranded 15.\nThe Guardians took a 2-0 lead in the second. Martinez doubled and made it 1-0 when he scored on David Fry's single. Fry doubled the lead by scoring when Brayan Rocchio grounded into a 4-6-3 double play.\nBoston trimmed its deficit to 2-1 in the second. Rutschman led off with a double, moved to third on Caleb Durbin's groundout to second and scored on Andrew Monasterio's groundout to shortstop.\nGasper's home run, his 10th of the year, tied the game leading off the eighth.\nBoston stranded the tying run on second in the ninth as Smith retired Nick Sogard on a grounder to second.\n--Field Level Media\nWASHINGTON, D.C.: Journalists from CNN, MS NOW and Politico were denied access to the White House on September 19 as the Trump administration...\nSAN FRANCISCO, California: Google's Gemini AI accessed protected systems belonging to three companies after venturing beyond the intended...\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...",
+    "rss_title": "Guardians beat Red Sox in 9th, maintain first in AL Central",
+    "rss_body": "Field Level Media\n                \n23 Sep 2026, 07:35 GMT+10\n            \n(Photo credit: David Butler II)\nNathaniel Lowe hit a sacrifice fly to right field that drove in Chase DeLauter in the ninth inning and the visiting Cleveland Guardians held on to beat the Boston Red Sox 3-2 Tuesday in the first game of a three-game series.\nBoston's Erik Miller (4-2) walked one and allowed two hits in the ninth.\nHunter Gaddis (5-3) got the win despite allowing a game-tying home run to Mickey Gasper in the eighth. Cade Smith pitched a scoreless ninth to record his 40th save. The victory extended Cleveland's winning streak to six games as it maintained its one-game lead over the Chicago White Sox in the AL Central.\nParker Messick held Boston to one run on five hits in five innings. He struck out five and walked one. Messick has allowed three runs or fewer in each of his last 14 starts.\nPayton Tolle started for the Red Sox (84-73) and gave up two runs on eight hits in 5 2/3 innings. He walked two and struck out five.\nAdley Rutschman had three hits for the Red Sox, who had eight hits in the game.\nCleveland's Angel Martinez went 3-for-4 and scored a run. The Guardians (82-75) received two hits from DeLauter, who reached in the ninth when Miller hit him with a pitch.\nThe Guardians went 1-for-12 with runners in scoring position and stranded 15.\nThe Guardians took a 2-0 lead in the second. Martinez doubled and made it 1-0 when he scored on David Fry's single. Fry doubled the lead by scoring when Brayan Rocchio grounded into a 4-6-3 double play.\nBoston trimmed its deficit to 2-1 in the second. Rutschman led off with a double, moved to third on Caleb Durbin's groundout to second and scored on Andrew Monasterio's groundout to shortstop.\nGasper's home run, his 10th of the year, tied the game leading off the eighth.\nBoston stranded the tying run on second in the ninth as Smith retired Nick Sogard on a grounder to second.\n--Field Level Media\nWASHINGTON, D.C.: Journalists from CNN, MS NOW and Politico were denied access to the White House on September 19 as the Trump administration...\nSAN FRANCISCO, California: Google's Gemini AI accessed protected systems belonging to three companies after venturing beyond the intended...\nJAKARTA, Indonesia: Indigenous and civil-society groups in Indonesia's West Kalimantan province have filed a class-action lawsuit against...",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "massachusettssun.com",
+        "url": "http://www.massachusettssun.com/news/279325028/guardians-beat-red-sox-in-9th-maintain-first-in-al-central",
+        "title": "Guardians beat Red Sox in 9th, maintain first in AL Central",
+        "body_characters": 2375
+      },
+      {
+        "source": "heraldglobe.com",
+        "url": "http://www.heraldglobe.com/news/279325028/guardians-beat-red-sox-in-9th-maintain-first-in-al-central",
+        "title": "Guardians beat Red Sox in 9th, maintain first in AL Central",
+        "body_characters": 2368
+      }
+    ]
+  },
+  {
+    "id": "2ede9fee2d19ae187d48",
+    "title": "Postseason secured, but Red Sox trending in wrong direction and Guardians take advantage to open series - The Boston Globe",
+    "source": "The Boston Globe",
+    "author": "Tim Healey",
+    "url": "https://www.bostonglobe.com/2026/09/22/sports/red-sox-guardians-game-score/",
+    "published_iso": "2026-09-23T02:27:28+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 02:27:28 +0000",
+    "body": "In this purgatorial period for the Red Sox, after they clinched a playoff berth over the weekend and before they open the postseason next week, what matters?\nThe result Tuesday, a 3-2 loss to the Guardians at Fenway Park, was not of major significance.\nOf greater note was the how — and what those trends may portend heading into the most important time of year: another ugly outing for reliever Erik Miller, and another night of minimal hitting for the lineup.\nThe Red Sox (84-73) have dropped three games in a row and eight of their past 12.\n“We’ve still got five games to play, and you [have to] keep guys out there and engaged and ready to roll,” manager Chad Tracy said. “I told the guys before, we earned the right to be in position to be able to line things up. That being said, we still want to go out and win the games. We had a chance to tonight.”\nMiller inherited a tied game in the ninth inning and struggled again, allowing a game-deciding run and throwing 22 pitches (10 strikes). He hit his first batter, Chase DeLauter, with a pitch. DeLauter eventually scored on Nathaniel Lowe’s sacrifice fly. Altogether, Miller yielded two hits and a walk.\nIn September, the Sox’ theoretical top lefthanded setup man has one clean inning in seven attempts, a 8.53 ERA, and a 2.37 WHIP.\nMiller said his patience with himself — and a mechanical issue he is trying to fix — is “definitely running thin at this point.”\n“I’d be lying if I say otherwise,” he said. “I would like to have been through this by now, be over it. But … there’s no way I can feel better and work through it without throwing [in] a game. So that’s just how it’s going to have to be: keep throwing, get through it.”\nTracy, noting that Miller will pitch in a couple more games before the regular season ends Sunday, added: “I thought today was even another step in the right direction.”\nOffensively, the Red Sox had few highlights. Mickey Gasper launched a pinch-hit tying home run off setup man Hunter Gaddis to lead off the eighth, but the Sox totaled nine runners stranded on base and went 0 for 9 with men in scoring position.\nIn the positives column: Adley Rutschman finished 3 for 4, with two doubles (and a line out to deep center) coming against lefthanders.\nEntering the game, Rutschman was 2 for 26 with no extra-base hits against lefties as a member of the Red Sox.\n“Being a switch hitter has a lot that goes into it, and you go through phases where you’re hitting good [from] one side and not the other and it flip flops sometimes and then goes back,” Rutschman said. “I want to be in a good spot, especially with the playoffs coming up.”\nIn a matchup between perhaps the top two rookie pitchers this year, Payton Tolle (5⅔ innings, two runs) was almost equal to fellow lefthander Parker Messick (five innings, one run) of the Guardians.\nTolle slogged through a 22-pitch second frame, during which he allowed three hits and two walks but managed to hold the AL Central-leading Guardians (82-75) to the two runs.\nWhen Tracy pulled him in the sixth, Tolle walked off the Fenway mound — for potentially the last time this year — to a standing ovation from the fans behind the home dugout. He waved back to them.\n“I think he’s won them over pretty significantly,” Tracy said.\nTolle finished his rookie season with a 3.03 ERA and 171 strikeouts in 148⅔ innings (26 starts).\nUp next: a start in the AL Wild Card Series.\n“It’s the postseason. This is what we play for,” Tolle said. “But it is what it is. We go on, and we have a job to do.”\nTim Healey can be reached at timothy.healey@globe.com. Follow him @timbhealey.",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Erik Miller",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 1
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      },
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Postseason secured, but Red Sox trending in wrong direction and Guardians take advantage to open series - The Boston Globe",
+    "original_body": "In this purgatorial period for the Red Sox, after they clinched a playoff berth over the weekend and before they open the postseason next week, what matters?\nThe result Tuesday, a 3-2 loss to the Guardians at Fenway Park, was not of major significance.\nOf greater note was the how — and what those trends may portend heading into the most important time of year: another ugly outing for reliever Erik Miller, and another night of minimal hitting for the lineup.\nThe Red Sox (84-73) have dropped three games in a row and eight of their past 12.\n“We’ve still got five games to play, and you [have to] keep guys out there and engaged and ready to roll,” manager Chad Tracy said. “I told the guys before, we earned the right to be in position to be able to line things up. That being said, we still want to go out and win the games. We had a chance to tonight.”\nMiller inherited a tied game in the ninth inning and struggled again, allowing a game-deciding run and throwing 22 pitches (10 strikes). He hit his first batter, Chase DeLauter, with a pitch. DeLauter eventually scored on Nathaniel Lowe’s sacrifice fly. Altogether, Miller yielded two hits and a walk.\nIn September, the Sox’ theoretical top lefthanded setup man has one clean inning in seven attempts, a 8.53 ERA, and a 2.37 WHIP.\nMiller said his patience with himself — and a mechanical issue he is trying to fix — is “definitely running thin at this point.”\n“I’d be lying if I say otherwise,” he said. “I would like to have been through this by now, be over it. But … there’s no way I can feel better and work through it without throwing [in] a game. So that’s just how it’s going to have to be: keep throwing, get through it.”\nTracy, noting that Miller will pitch in a couple more games before the regular season ends Sunday, added: “I thought today was even another step in the right direction.”\nOffensively, the Red Sox had few highlights. Mickey Gasper launched a pinch-hit tying home run off setup man Hunter Gaddis to lead off the eighth, but the Sox totaled nine runners stranded on base and went 0 for 9 with men in scoring position.\nIn the positives column: Adley Rutschman finished 3 for 4, with two doubles (and a line out to deep center) coming against lefthanders.\nEntering the game, Rutschman was 2 for 26 with no extra-base hits against lefties as a member of the Red Sox.\n“Being a switch hitter has a lot that goes into it, and you go through phases where you’re hitting good [from] one side and not the other and it flip flops sometimes and then goes back,” Rutschman said. “I want to be in a good spot, especially with the playoffs coming up.”\nIn a matchup between perhaps the top two rookie pitchers this year, Payton Tolle (5⅔ innings, two runs) was almost equal to fellow lefthander Parker Messick (five innings, one run) of the Guardians.\nTolle slogged through a 22-pitch second frame, during which he allowed three hits and two walks but managed to hold the AL Central-leading Guardians (82-75) to the two runs.\nWhen Tracy pulled him in the sixth, Tolle walked off the Fenway mound — for potentially the last time this year — to a standing ovation from the fans behind the home dugout. He waved back to them.\n“I think he’s won them over pretty significantly,” Tracy said.\nTolle finished his rookie season with a 3.03 ERA and 171 strikeouts in 148⅔ innings (26 starts).\nUp next: a start in the AL Wild Card Series.\n“It’s the postseason. This is what we play for,” Tolle said. “But it is what it is. We go on, and we have a job to do.”\nTim Healey can be reached at timothy.healey@globe.com. Follow him @timbhealey.",
+    "rss_title": "Postseason secured, but Red Sox trending in wrong direction and Guardians take advantage to open series - The Boston Globe",
+    "rss_body": "In this purgatorial period for the Red Sox, after they clinched a playoff berth over the weekend and before they open the postseason next week, what matters?\nThe result Tuesday, a 3-2 loss to the Guardians at Fenway Park, was not of major significance.\nOf greater note was the how — and what those trends may portend heading into the most important time of year: another ugly outing for reliever Erik Miller, and another night of minimal hitting for the lineup.\nThe Red Sox (84-73) have dropped three games in a row and eight of their past 12.\n“We’ve still got five games to play, and you [have to] keep guys out there and engaged and ready to roll,” manager Chad Tracy said. “I told the guys before, we earned the right to be in position to be able to line things up. That being said, we still want to go out and win the games. We had a chance to tonight.”\nMiller inherited a tied game in the ninth inning and struggled again, allowing a game-deciding run and throwing 22 pitches (10 strikes). He hit his first batter, Chase DeLauter, with a pitch. DeLauter eventually scored on Nathaniel Lowe’s sacrifice fly. Altogether, Miller yielded two hits and a walk.\nIn September, the Sox’ theoretical top lefthanded setup man has one clean inning in seven attempts, a 8.53 ERA, and a 2.37 WHIP.\nMiller said his patience with himself — and a mechanical issue he is trying to fix — is “definitely running thin at this point.”\n“I’d be lying if I say otherwise,” he said. “I would like to have been through this by now, be over it. But … there’s no way I can feel better and work through it without throwing [in] a game. So that’s just how it’s going to have to be: keep throwing, get through it.”\nTracy, noting that Miller will pitch in a couple more games before the regular season ends Sunday, added: “I thought today was even another step in the right direction.”\nOffensively, the Red Sox had few highlights. Mickey Gasper launched a pinch-hit tying home run off setup man Hunter Gaddis to lead off the eighth, but the Sox totaled nine runners stranded on base and went 0 for 9 with men in scoring position.\nIn the positives column: Adley Rutschman finished 3 for 4, with two doubles (and a line out to deep center) coming against lefthanders.\nEntering the game, Rutschman was 2 for 26 with no extra-base hits against lefties as a member of the Red Sox.\n“Being a switch hitter has a lot that goes into it, and you go through phases where you’re hitting good [from] one side and not the other and it flip flops sometimes and then goes back,” Rutschman said. “I want to be in a good spot, especially with the playoffs coming up.”\nIn a matchup between perhaps the top two rookie pitchers this year, Payton Tolle (5⅔ innings, two runs) was almost equal to fellow lefthander Parker Messick (five innings, one run) of the Guardians.\nTolle slogged through a 22-pitch second frame, during which he allowed three hits and two walks but managed to hold the AL Central-leading Guardians (82-75) to the two runs.\nWhen Tracy pulled him in the sixth, Tolle walked off the Fenway mound — for potentially the last time this year — to a standing ovation from the fans behind the home dugout. He waved back to them.\n“I think he’s won them over pretty significantly,” Tracy said.\nTolle finished his rookie season with a 3.03 ERA and 171 strikeouts in 148⅔ innings (26 starts).\nUp next: a start in the AL Wild Card Series.\n“It’s the postseason. This is what we play for,” Tolle said. “But it is what it is. We go on, and we have a job to do.”\nTim Healey can be reached at timothy.healey@globe.com. Follow him @timbhealey.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "4ab1d1cf536fe868b9a6",
+    "title": "Tolle puts bow on standout rookie season with October spotlight looming",
+    "source": "MLB.com",
+    "author": "Ian Browne",
+    "url": "https://www.mlb.com/news/payton-tolle-red-sox-rookie-season-wild-card-rotation-2026",
+    "published_iso": "2026-09-23T02:03:45+00:00",
+    "published_rfc2822": "Wed, 23 Sep 2026 02:03:45 +0000",
+    "body": "BOSTON -- When Payton Tolle walked off the mound with two outs in the top of the sixth inning on Tuesday night, it was the perfect opportunity for the Fenway faithful to recognize the power lefty for an outstanding rookie season.\nNext time Tolle pitches, the noise is likely to be even louder, and not nearly as favorable.\nThe Red Sox will have no hesitation sending out the confident, charismatic 23-year-old into enemy territory.\nWhile this was far from the best (5 2/3 innings, 8 hits, 2 ER, 2 BBs, 5 K’s) of Tolle’s 26 regular-season starts, it was more than enough to keep the Red Sox in the game.\nAssuming Tolle doesn’t pitch again in the regular season, his final stat line includes this: A 3.03 ERA, 171 strikeouts, 40 walks, 1.10 WHIP and a .222 opponents batting average.\nPlaying short-handed without Willson Contreras (bruised knuckle, right hand), Ceddanne Rafaela (right quadriceps strain, 10-day IL) and Trevor Story (rest), the Red Sox continued their recent trend of not scoring much.\nThere were two bright spots.\nMickey Gasper came up as a pinch-hitter and hammered a game-tying solo shot to right in the bottom of the eighth.\nAdley Rutschman, who had been slumping of late, belted two doubles as part of a three-hit night.",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Trevor Story",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Tolle puts bow on standout rookie season with October spotlight looming",
+    "original_body": "BOSTON -- When Payton Tolle walked off the mound with two outs in the top of the sixth inning on Tuesday night, it was the perfect opportunity for the Fenway faithful to recognize the power lefty for an outstanding rookie season.\nNext time Tolle pitches, the noise is likely to be even louder, and not nearly as favorable.\nThe Red Sox will have no hesitation sending out the confident, charismatic 23-year-old into enemy territory.\nWhile this was far from the best (5 2/3 innings, 8 hits, 2 ER, 2 BBs, 5 K’s) of Tolle’s 26 regular-season starts, it was more than enough to keep the Red Sox in the game.\nAssuming Tolle doesn’t pitch again in the regular season, his final stat line includes this: A 3.03 ERA, 171 strikeouts, 40 walks, 1.10 WHIP and a .222 opponents batting average.\nPlaying short-handed without Willson Contreras (bruised knuckle, right hand), Ceddanne Rafaela (right quadriceps strain, 10-day IL) and Trevor Story (rest), the Red Sox continued their recent trend of not scoring much.\nThere were two bright spots.\nMickey Gasper came up as a pinch-hitter and hammered a game-tying solo shot to right in the bottom of the eighth.\nAdley Rutschman, who had been slumping of late, belted two doubles as part of a three-hit night.",
+    "rss_title": "Tolle puts bow on standout rookie season with October spotlight looming",
+    "rss_body": "BOSTON -- When Payton Tolle walked off the mound with two outs in the top of the sixth inning on Tuesday night, it was the perfect opportunity for the Fenway faithful to recognize the power lefty for an outstanding rookie season.\nNext time Tolle pitches, the noise is likely to be even louder, and not nearly as favorable.\nThe Red Sox will have no hesitation sending out the confident, charismatic 23-year-old into enemy territory.\nWhile this was far from the best (5 2/3 innings, 8 hits, 2 ER, 2 BBs, 5 K’s) of Tolle’s 26 regular-season starts, it was more than enough to keep the Red Sox in the game.\nAssuming Tolle doesn’t pitch again in the regular season, his final stat line includes this: A 3.03 ERA, 171 strikeouts, 40 walks, 1.10 WHIP and a .222 opponents batting average.\nPlaying short-handed without Willson Contreras (bruised knuckle, right hand), Ceddanne Rafaela (right quadriceps strain, 10-day IL) and Trevor Story (rest), the Red Sox continued their recent trend of not scoring much.\nThere were two bright spots.\nMickey Gasper came up as a pinch-hitter and hammered a game-tying solo shot to right in the bottom of the eighth.\nAdley Rutschman, who had been slumping of late, belted two doubles as part of a three-hit night.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "287681a3f6c834441ca4",
     "title": "Erik Miller gives up lead in ninth as Red Sox lose third straight",
     "source": "Boston Herald",
