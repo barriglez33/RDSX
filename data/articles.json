@@ -1,5 +1,447 @@
 [
   {
+    "id": "3013eabe6bc2cf990bd0",
+    "title": "Boston Red Sox' Jarren Duran Joins Exclusive List in Franchise History",
+    "source": "roundtable.io",
+    "author": "Zach Coe",
+    "url": "https://roundtable.io/sports/mlb/red-sox/news/boston-red-sox-jarren-duran-joins-exclusive-list-in-franchise-history",
+    "published_iso": "2026-09-24T03:14:34+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 03:14:34 +0000",
+    "body": "The 30-year-old outfielder stole his 20th base of the season on Wednesday night, joining an exclusive club in team history.\nBOSTON -- The Boston Red Sox beat the Cleveland Guardians 1-0 on Wednesday night to improve to 85-73 and set up a rubber match on Thursday night. It was supposed to be a night off for struggling outfielder Jarren Duran; however, after center fielder Ceddanne Rafaela exited the game in the third inning with a right hamstring injury, the 30-year-old Duran was thrust into action, joining an exclusive list in the franchise's 125-year history in the process.\nDuran's first at-bat in the third inning ended in disappointment as he struck out with the bases loaded to end the scoring chance for Boston. However, the 30-year-old turned in a strong performance in relief of the injured Rafaela, leading off the bottom of the sixth inning with a single, later coming around to score the game's lone run on a single off the bat of second baseman Andruw Monasterio.\nDuran again reached base leading off the eighth inning with a sharply hit line drive to right field. With Boston leading 1-0, the speedster did everything he could to get the team in a position to add on. With third baseman Caleb Durbin at the plate, Duran took off for second base, diving in safely for his 20th stolen base of the year, securing the second 20-home-run, 20-steal season of his career.\nDuran became just the third player in Red Sox history to post multiple 20/20 seasons, joining 2018 Most Valuable Player Mookie Betts, who did so three times during his six-year tenure in Boston, and Jackie Jensen, who accomplished the feat twice.\nReaching 20 home runs and 20 steals is an impressive accomplishment for Duran in an otherwise unimpressive season. The 30-year-old has been one of baseball's most disappointing players in 2026, hitting just .207/.265/.364/.629 in 147 games. The 30-year-old ranks in the bottom five among 133 qualified hitters in batting average (129th), on-base percentage (133rd), and OPS (131st).\nDespite those struggles, Duran has still found a way to provide some value to the team in both the power and speed departments.\nIn other Red Sox news\nManager Chad Tracy told reporters, including Tim Healey of the Boston Globe, that Rafaela will undergo an MRI on his right hamstring. Rafaela described the injury as \"cramping\" that he felt on a swing, rather than when he ran to first base on his second-inning single.\nAs reported by MassLive.com's Chris Cotillo, 2025 Cy Young Award runner-up Garrett Crochet is scheduled to throw another live bullpen session this weekend as he tries to return from left shoulder inflammation and join the Red Sox in a bullpen role for the postseason. Crochet will not make a regular-season appearance before potentially joining the active roster for the Wild Card round.\nWith a nor'easter expected to hit New England beginning Friday night, Major League Baseball has moved the Red Sox regular-season finale to Friday afternoon as part of a day-night doubleheader, starting at 1:05 p.m. ET. The league also moved up the start time for Friday's regularly scheduled game from 7:10 p.m. ET to 6:05 p.m. ET. As of now, no changes have been made to Saturday's game.\nUp next for the Sox\nThe Red Sox will look to win the series from the Guardians in Thursday night's rubber match at Fenway Park. Ranger Suarez (8-4, 3.27 ERA) will make his final regular-season start for Boston, while Cleveland has not yet named its starter. First pitch is set for 6:45 p.m. ET.",
+    "tracked_people": [
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Ranger Suárez",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Garrett Crochet",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 39,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      },
+      {
+        "name": "Cy Young",
+        "role": "Legend / Hall of Famer",
+        "status": "Franchise Legacy",
+        "type": "legend",
+        "id": 59,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Boston Red Sox' Jarren Duran Joins Exclusive List in Franchise History",
+    "original_body": "The 30-year-old outfielder stole his 20th base of the season on Wednesday night, joining an exclusive club in team history.\nBOSTON -- The Boston Red Sox beat the Cleveland Guardians 1-0 on Wednesday night to improve to 85-73 and set up a rubber match on Thursday night. It was supposed to be a night off for struggling outfielder Jarren Duran; however, after center fielder Ceddanne Rafaela exited the game in the third inning with a right hamstring injury, the 30-year-old Duran was thrust into action, joining an exclusive list in the franchise's 125-year history in the process.\nDuran's first at-bat in the third inning ended in disappointment as he struck out with the bases loaded to end the scoring chance for Boston. However, the 30-year-old turned in a strong performance in relief of the injured Rafaela, leading off the bottom of the sixth inning with a single, later coming around to score the game's lone run on a single off the bat of second baseman Andruw Monasterio.\nDuran again reached base leading off the eighth inning with a sharply hit line drive to right field. With Boston leading 1-0, the speedster did everything he could to get the team in a position to add on. With third baseman Caleb Durbin at the plate, Duran took off for second base, diving in safely for his 20th stolen base of the year, securing the second 20-home-run, 20-steal season of his career.\nDuran became just the third player in Red Sox history to post multiple 20/20 seasons, joining 2018 Most Valuable Player Mookie Betts, who did so three times during his six-year tenure in Boston, and Jackie Jensen, who accomplished the feat twice.\nReaching 20 home runs and 20 steals is an impressive accomplishment for Duran in an otherwise unimpressive season. The 30-year-old has been one of baseball's most disappointing players in 2026, hitting just .207/.265/.364/.629 in 147 games. The 30-year-old ranks in the bottom five among 133 qualified hitters in batting average (129th), on-base percentage (133rd), and OPS (131st).\nDespite those struggles, Duran has still found a way to provide some value to the team in both the power and speed departments.\nIn other Red Sox news\nManager Chad Tracy told reporters, including Tim Healey of the Boston Globe, that Rafaela will undergo an MRI on his right hamstring. Rafaela described the injury as \"cramping\" that he felt on a swing, rather than when he ran to first base on his second-inning single.\nAs reported by MassLive.com's Chris Cotillo, 2025 Cy Young Award runner-up Garrett Crochet is scheduled to throw another live bullpen session this weekend as he tries to return from left shoulder inflammation and join the Red Sox in a bullpen role for the postseason. Crochet will not make a regular-season appearance before potentially joining the active roster for the Wild Card round.\nWith a nor'easter expected to hit New England beginning Friday night, Major League Baseball has moved the Red Sox regular-season finale to Friday afternoon as part of a day-night doubleheader, starting at 1:05 p.m. ET. The league also moved up the start time for Friday's regularly scheduled game from 7:10 p.m. ET to 6:05 p.m. ET. As of now, no changes have been made to Saturday's game.\nUp next for the Sox\nThe Red Sox will look to win the series from the Guardians in Thursday night's rubber match at Fenway Park. Ranger Suarez (8-4, 3.27 ERA) will make his final regular-season start for Boston, while Cleveland has not yet named its starter. First pitch is set for 6:45 p.m. ET.",
+    "rss_title": "Boston Red Sox' Jarren Duran Joins Exclusive List in Franchise History",
+    "rss_body": "The 30-year-old outfielder stole his 20th base of the season on Wednesday night, joining an exclusive club in team history.\nBOSTON -- The Boston Red Sox beat the Cleveland Guardians 1-0 on Wednesday night to improve to 85-73 and set up a rubber match on Thursday night. It was supposed to be a night off for struggling outfielder Jarren Duran; however, after center fielder Ceddanne Rafaela exited the game in the third inning with a right hamstring injury, the 30-year-old Duran was thrust into action, joining an exclusive list in the franchise's 125-year history in the process.\nDuran's first at-bat in the third inning ended in disappointment as he struck out with the bases loaded to end the scoring chance for Boston. However, the 30-year-old turned in a strong performance in relief of the injured Rafaela, leading off the bottom of the sixth inning with a single, later coming around to score the game's lone run on a single off the bat of second baseman Andruw Monasterio.\nDuran again reached base leading off the eighth inning with a sharply hit line drive to right field. With Boston leading 1-0, the speedster did everything he could to get the team in a position to add on. With third baseman Caleb Durbin at the plate, Duran took off for second base, diving in safely for his 20th stolen base of the year, securing the second 20-home-run, 20-steal season of his career.\nDuran became just the third player in Red Sox history to post multiple 20/20 seasons, joining 2018 Most Valuable Player Mookie Betts, who did so three times during his six-year tenure in Boston, and Jackie Jensen, who accomplished the feat twice.\nReaching 20 home runs and 20 steals is an impressive accomplishment for Duran in an otherwise unimpressive season. The 30-year-old has been one of baseball's most disappointing players in 2026, hitting just .207/.265/.364/.629 in 147 games. The 30-year-old ranks in the bottom five among 133 qualified hitters in batting average (129th), on-base percentage (133rd), and OPS (131st).\nDespite those struggles, Duran has still found a way to provide some value to the team in both the power and speed departments.\nIn other Red Sox news\nManager Chad Tracy told reporters, including Tim Healey of the Boston Globe, that Rafaela will undergo an MRI on his right hamstring. Rafaela described the injury as \"cramping\" that he felt on a swing, rather than when he ran to first base on his second-inning single.\nAs reported by MassLive.com's Chris Cotillo, 2025 Cy Young Award runner-up Garrett Crochet is scheduled to throw another live bullpen session this weekend as he tries to return from left shoulder inflammation and join the Red Sox in a bullpen role for the postseason. Crochet will not make a regular-season appearance before potentially joining the active roster for the Wild Card round.\nWith a nor'easter expected to hit New England beginning Friday night, Major League Baseball has moved the Red Sox regular-season finale to Friday afternoon as part of a day-night doubleheader, starting at 1:05 p.m. ET. The league also moved up the start time for Friday's regularly scheduled game from 7:10 p.m. ET to 6:05 p.m. ET. As of now, no changes have been made to Saturday's game.\nUp next for the Sox\nThe Red Sox will look to win the series from the Guardians in Thursday night's rubber match at Fenway Park. Ranger Suarez (8-4, 3.27 ERA) will make his final regular-season start for Boston, while Cleveland has not yet named its starter. First pitch is set for 6:45 p.m. ET.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "48a8e95f979122051f74",
+    "title": "Sonny Gray proves doubters wrong with strong first season starting for the Red Sox in big-market Boston - The Boston Globe",
+    "source": "The Boston Globe",
+    "author": "Alex Speier",
+    "url": "https://www.bostonglobe.com/2026/09/23/sports/red-sox-sonny-gray-big-market-boston/",
+    "published_iso": "2026-09-24T03:00:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 03:00:00 +0000",
+    "body": "When the Red Sox landed Sonny Gray in a deal with the Cardinals last November, a question hovered: Could the righthander handle life in a fishbowl?\nGray’s first 13 big league seasons had spanned the country, starting on the West Coast (Athletics, 2013-17), crossing over to the East Coast (Yankees, 2017-18), then settling into the Midwest (Reds, 2019-21; Twins, 2022-23; Cardinals, 2024-25). Across teams, he’d mostly been good or great, achieving All-Star recognition in Oakland, Cincinnati, and Minnesota, while notching two 200-strikeout seasons in St. Louis.\nThere was only one place where he didn’t live up to expectations: New York. As a result, some in the baseball industry concluded Gray was best suited for smaller markets.\nGray, who had the right to veto a trade anywhere he didn’t want to pitch, was aware of the suggestion. Perhaps for that reason, he needed little prodding to approve the trade to the Sox in hopes of laying waste to the suggestion.\n“People doubted me just because of my size [entering pro ball]. Stupid, right? So maybe that is something that motivates me: people that talk [expletive] for no reason, just proving them wrong,” said Gray. “Maybe [proving people wrong] does have a little bit of extra motivation inside of me.\n“When I left New York in 2018, I told myself that I’m going to go back to a big market at some point in my career. Especially after learning what I learned and having the experiences that I had [in New York], I knew I could [succeed] anywhere after that. So I always told myself that I was going to [pitch again in a large market].”\nIn the Sox’ 1-0 win Wednesday night over the Guardians, Gray concluded a regular season that served as a compelling testament to his ability to excel in one of the most-scrutinized baseball environments.\nWith six shutout innings, he finished the year at 18-5 with a 2.72 ERA, setting new career bests in wins and ERA while excelling as a low-velocity, pitch-to-contact artist. He allowed one or no runs in 14 starts.\nOn and off the mound, the 36-year-old found comfort in Boston, performing at an elite level and comfortable with the intimacy of Fenway and the area.\n“I’ve really enjoyed the city. I’ll call it more of like a town, because that’s more what it feels like to me,” said Gray. “[But] I would say this is a pretty big [market]. I’ve enjoyed it. You never know what to expect, but I think the people have been great. I think Fenway is awesome. It’s a very special place.”\nThrough his comfort, Gray’s success seemingly answered any lingering questions about whether his comfort was tethered to his environment.\n“His time in New York was tough and he knows that. I’m sure he wanted to go back and be like, ‘It wasn’t about the market,’ ” said Guardians manager Steven Vogt, who as a former Athletics teammate was behind the plate for the most games and innings thrown by Gray of any catcher in the pitcher’s career, and still considers him a close friend. “Every athlete’s wired differently. But I think for Sonny, getting another opportunity to pitch in a market like this, I think was important to him, and I’m glad that he got to do it.”\nNow, Gray will have the opportunity to prove himself as a Red Sox in a different context: the postseason. History suggests he doesn’t fear the stage.\nIn 2013, as a 23-year-old rookie with just 10 big league starts on his résumé, Gray got the Game 2 starting assignment from the Athletics in the AL Division Series against Tigers ace of aces Justin Verlander, who at that point had six All-Star appearances along with Rookie of the Year, Cy Young, and MVP hardware.\nGray didn’t blink, engaging in an epic pitcher’s duel. Verlander logged seven shutout innings, while Gray posted eight zeros — both pitchers receiving no-decisions in an eventual 1-0 Athletics walkoff win.\n“That was one of the greatest games I’ve ever been a part of,” said a beaming Vogt. “You’ve got Justin Verlander, who’d already cemented his path to Cooperstown. Sonny Gray’s throwing his first postseason game in his first season, and going into it, his demeanor, he just was not worried. He was not. He just wanted to go out and pitch.\n“That’s the thing about Sonny. He’s one of the fiercest competitors I’ve ever been around. He’s calm, cool, and collected when he’s on the mound, but he’s a killer when he’s on the mound. … They just kept throwing knockouts back and forth.\n“It’s his preparation. It’s who he is. He’s always been confident. He’s always been quiet. He’s always just kind of been ready for the moment. There’s no moment too big for him because he’s ready for anything. So I don’t think any of us were shocked that night. It was just more of, we got to watch that.”\nAcross six career postseason starts, the most recent coming in 2023 with the Twins, Gray is 1-3 with a 3.26 ERA. His teams have won three of his six outings. He is lined up to start for the Sox in next week’s Wild Card Series, likely in New York against the Yankees — affording him one more opportunity to dispel a narrative about his career.\nHow might that play out?\n“If he was on my team,” said Vogt, “there’s no one else I’d rather pitch in a big game.”\nAlex Speier can be reached at alex.speier@globe.com. Follow him @alexspeier.",
+    "tracked_people": [
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Cy Young",
+        "role": "Legend / Hall of Famer",
+        "status": "Franchise Legacy",
+        "type": "legend",
+        "id": 59,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Sonny Gray proves doubters wrong with strong first season starting for the Red Sox in big-market Boston - The Boston Globe",
+    "original_body": "When the Red Sox landed Sonny Gray in a deal with the Cardinals last November, a question hovered: Could the righthander handle life in a fishbowl?\nGray’s first 13 big league seasons had spanned the country, starting on the West Coast (Athletics, 2013-17), crossing over to the East Coast (Yankees, 2017-18), then settling into the Midwest (Reds, 2019-21; Twins, 2022-23; Cardinals, 2024-25). Across teams, he’d mostly been good or great, achieving All-Star recognition in Oakland, Cincinnati, and Minnesota, while notching two 200-strikeout seasons in St. Louis.\nThere was only one place where he didn’t live up to expectations: New York. As a result, some in the baseball industry concluded Gray was best suited for smaller markets.\nGray, who had the right to veto a trade anywhere he didn’t want to pitch, was aware of the suggestion. Perhaps for that reason, he needed little prodding to approve the trade to the Sox in hopes of laying waste to the suggestion.\n“People doubted me just because of my size [entering pro ball]. Stupid, right? So maybe that is something that motivates me: people that talk [expletive] for no reason, just proving them wrong,” said Gray. “Maybe [proving people wrong] does have a little bit of extra motivation inside of me.\n“When I left New York in 2018, I told myself that I’m going to go back to a big market at some point in my career. Especially after learning what I learned and having the experiences that I had [in New York], I knew I could [succeed] anywhere after that. So I always told myself that I was going to [pitch again in a large market].”\nIn the Sox’ 1-0 win Wednesday night over the Guardians, Gray concluded a regular season that served as a compelling testament to his ability to excel in one of the most-scrutinized baseball environments.\nWith six shutout innings, he finished the year at 18-5 with a 2.72 ERA, setting new career bests in wins and ERA while excelling as a low-velocity, pitch-to-contact artist. He allowed one or no runs in 14 starts.\nOn and off the mound, the 36-year-old found comfort in Boston, performing at an elite level and comfortable with the intimacy of Fenway and the area.\n“I’ve really enjoyed the city. I’ll call it more of like a town, because that’s more what it feels like to me,” said Gray. “[But] I would say this is a pretty big [market]. I’ve enjoyed it. You never know what to expect, but I think the people have been great. I think Fenway is awesome. It’s a very special place.”\nThrough his comfort, Gray’s success seemingly answered any lingering questions about whether his comfort was tethered to his environment.\n“His time in New York was tough and he knows that. I’m sure he wanted to go back and be like, ‘It wasn’t about the market,’ ” said Guardians manager Steven Vogt, who as a former Athletics teammate was behind the plate for the most games and innings thrown by Gray of any catcher in the pitcher’s career, and still considers him a close friend. “Every athlete’s wired differently. But I think for Sonny, getting another opportunity to pitch in a market like this, I think was important to him, and I’m glad that he got to do it.”\nNow, Gray will have the opportunity to prove himself as a Red Sox in a different context: the postseason. History suggests he doesn’t fear the stage.\nIn 2013, as a 23-year-old rookie with just 10 big league starts on his résumé, Gray got the Game 2 starting assignment from the Athletics in the AL Division Series against Tigers ace of aces Justin Verlander, who at that point had six All-Star appearances along with Rookie of the Year, Cy Young, and MVP hardware.\nGray didn’t blink, engaging in an epic pitcher’s duel. Verlander logged seven shutout innings, while Gray posted eight zeros — both pitchers receiving no-decisions in an eventual 1-0 Athletics walkoff win.\n“That was one of the greatest games I’ve ever been a part of,” said a beaming Vogt. “You’ve got Justin Verlander, who’d already cemented his path to Cooperstown. Sonny Gray’s throwing his first postseason game in his first season, and going into it, his demeanor, he just was not worried. He was not. He just wanted to go out and pitch.\n“That’s the thing about Sonny. He’s one of the fiercest competitors I’ve ever been around. He’s calm, cool, and collected when he’s on the mound, but he’s a killer when he’s on the mound. … They just kept throwing knockouts back and forth.\n“It’s his preparation. It’s who he is. He’s always been confident. He’s always been quiet. He’s always just kind of been ready for the moment. There’s no moment too big for him because he’s ready for anything. So I don’t think any of us were shocked that night. It was just more of, we got to watch that.”\nAcross six career postseason starts, the most recent coming in 2023 with the Twins, Gray is 1-3 with a 3.26 ERA. His teams have won three of his six outings. He is lined up to start for the Sox in next week’s Wild Card Series, likely in New York against the Yankees — affording him one more opportunity to dispel a narrative about his career.\nHow might that play out?\n“If he was on my team,” said Vogt, “there’s no one else I’d rather pitch in a big game.”\nAlex Speier can be reached at alex.speier@globe.com. Follow him @alexspeier.",
+    "rss_title": "Sonny Gray proves doubters wrong with strong first season starting for the Red Sox in big-market Boston - The Boston Globe",
+    "rss_body": "When the Red Sox landed Sonny Gray in a deal with the Cardinals last November, a question hovered: Could the righthander handle life in a fishbowl?\nGray’s first 13 big league seasons had spanned the country, starting on the West Coast (Athletics, 2013-17), crossing over to the East Coast (Yankees, 2017-18), then settling into the Midwest (Reds, 2019-21; Twins, 2022-23; Cardinals, 2024-25). Across teams, he’d mostly been good or great, achieving All-Star recognition in Oakland, Cincinnati, and Minnesota, while notching two 200-strikeout seasons in St. Louis.\nThere was only one place where he didn’t live up to expectations: New York. As a result, some in the baseball industry concluded Gray was best suited for smaller markets.\nGray, who had the right to veto a trade anywhere he didn’t want to pitch, was aware of the suggestion. Perhaps for that reason, he needed little prodding to approve the trade to the Sox in hopes of laying waste to the suggestion.\n“People doubted me just because of my size [entering pro ball]. Stupid, right? So maybe that is something that motivates me: people that talk [expletive] for no reason, just proving them wrong,” said Gray. “Maybe [proving people wrong] does have a little bit of extra motivation inside of me.\n“When I left New York in 2018, I told myself that I’m going to go back to a big market at some point in my career. Especially after learning what I learned and having the experiences that I had [in New York], I knew I could [succeed] anywhere after that. So I always told myself that I was going to [pitch again in a large market].”\nIn the Sox’ 1-0 win Wednesday night over the Guardians, Gray concluded a regular season that served as a compelling testament to his ability to excel in one of the most-scrutinized baseball environments.\nWith six shutout innings, he finished the year at 18-5 with a 2.72 ERA, setting new career bests in wins and ERA while excelling as a low-velocity, pitch-to-contact artist. He allowed one or no runs in 14 starts.\nOn and off the mound, the 36-year-old found comfort in Boston, performing at an elite level and comfortable with the intimacy of Fenway and the area.\n“I’ve really enjoyed the city. I’ll call it more of like a town, because that’s more what it feels like to me,” said Gray. “[But] I would say this is a pretty big [market]. I’ve enjoyed it. You never know what to expect, but I think the people have been great. I think Fenway is awesome. It’s a very special place.”\nThrough his comfort, Gray’s success seemingly answered any lingering questions about whether his comfort was tethered to his environment.\n“His time in New York was tough and he knows that. I’m sure he wanted to go back and be like, ‘It wasn’t about the market,’ ” said Guardians manager Steven Vogt, who as a former Athletics teammate was behind the plate for the most games and innings thrown by Gray of any catcher in the pitcher’s career, and still considers him a close friend. “Every athlete’s wired differently. But I think for Sonny, getting another opportunity to pitch in a market like this, I think was important to him, and I’m glad that he got to do it.”\nNow, Gray will have the opportunity to prove himself as a Red Sox in a different context: the postseason. History suggests he doesn’t fear the stage.\nIn 2013, as a 23-year-old rookie with just 10 big league starts on his résumé, Gray got the Game 2 starting assignment from the Athletics in the AL Division Series against Tigers ace of aces Justin Verlander, who at that point had six All-Star appearances along with Rookie of the Year, Cy Young, and MVP hardware.\nGray didn’t blink, engaging in an epic pitcher’s duel. Verlander logged seven shutout innings, while Gray posted eight zeros — both pitchers receiving no-decisions in an eventual 1-0 Athletics walkoff win.\n“That was one of the greatest games I’ve ever been a part of,” said a beaming Vogt. “You’ve got Justin Verlander, who’d already cemented his path to Cooperstown. Sonny Gray’s throwing his first postseason game in his first season, and going into it, his demeanor, he just was not worried. He was not. He just wanted to go out and pitch.\n“That’s the thing about Sonny. He’s one of the fiercest competitors I’ve ever been around. He’s calm, cool, and collected when he’s on the mound, but he’s a killer when he’s on the mound. … They just kept throwing knockouts back and forth.\n“It’s his preparation. It’s who he is. He’s always been confident. He’s always been quiet. He’s always just kind of been ready for the moment. There’s no moment too big for him because he’s ready for anything. So I don’t think any of us were shocked that night. It was just more of, we got to watch that.”\nAcross six career postseason starts, the most recent coming in 2023 with the Twins, Gray is 1-3 with a 3.26 ERA. His teams have won three of his six outings. He is lined up to start for the Sox in next week’s Wild Card Series, likely in New York against the Yankees — affording him one more opportunity to dispel a narrative about his career.\nHow might that play out?\n“If he was on my team,” said Vogt, “there’s no one else I’d rather pitch in a big game.”\nAlex Speier can be reached at alex.speier@globe.com. Follow him @alexspeier.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "d50c44ffff0b3a44e8d1",
+    "title": "Jarren Duran scores lone run in win vs. Guardians",
+    "source": "NBC Sports",
+    "author": "James Schiano; Jarren Duran",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-23/jarren-duran-scores-lone-run-in-win-vs-guardians",
+    "published_iso": "2026-09-24T02:59:20+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 02:59:20 +0000",
+    "body": "Jarren Duran went 2-for-3 with a stolen base and a run scored off the bench on Wednesday against the Guardians.\n            \n                Only in this game because Ceddanne Rafaela had to leave early with hamstring tightness, Duran was the spark plug that the Red Sox needed. He helped break a 0-0 tie with a lead-off single in the sixth, advanced to second on a groundout, then came around to score on a single by Andruw Monasterio. That lone run held up as the only scored in this game and Duran stole a base later on as well to give him 20 on the season. That plus his 20 home runs, .207 batting average, and .629 OPS give Duran one of the most disappointing 20-20 seasons of all time.",
+    "tracked_people": [
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Jarren Duran scores lone run in win vs. Guardians",
+    "original_body": "Jarren Duran went 2-for-3 with a stolen base and a run scored off the bench on Wednesday against the Guardians.\n            \n                Only in this game because Ceddanne Rafaela had to leave early with hamstring tightness, Duran was the spark plug that the Red Sox needed. He helped break a 0-0 tie with a lead-off single in the sixth, advanced to second on a groundout, then came around to score on a single by Andruw Monasterio. That lone run held up as the only scored in this game and Duran stole a base later on as well to give him 20 on the season. That plus his 20 home runs, .207 batting average, and .629 OPS give Duran one of the most disappointing 20-20 seasons of all time.",
+    "rss_title": "Jarren Duran scores lone run in win vs. Guardians",
+    "rss_body": "Jarren Duran went 2-for-3 with a stolen base and a run scored off the bench on Wednesday against the Guardians.\n            \n                Only in this game because Ceddanne Rafaela had to leave early with hamstring tightness, Duran was the spark plug that the Red Sox needed. He helped break a 0-0 tie with a lead-off single in the sixth, advanced to second on a groundout, then came around to score on a single by Andruw Monasterio. That lone run held up as the only scored in this game and Duran stole a base later on as well to give him 20 on the season. That plus his 20 home runs, .207 batting average, and .629 OPS give Duran one of the most disappointing 20-20 seasons of all time.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "9ad93225db4b47d22f55",
+    "title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
+    "source": "bignewsnetwork.com",
+    "author": "Field Level Media",
+    "url": "http://www.bignewsnetwork.com/news/279327547/sonny-gray-red-sox-shut-out-guardians-who-remain-1-up-on-white-sox",
+    "published_iso": "2026-09-24T02:45:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 02:45:00 +0000",
+    "body": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox\n(Photo credit: Gregory Fisher)\nAndruw Monasterio's sixth-inning RBI single and Sonny Gray's six shutout innings propelled the Boston Red Sox to a 1-0 win over the visiting Cleveland Guardians on Wednesday night.\nThe Red Sox (85-73) managed the lone run on 12 hits, all singles. They went 1-for-9 with runners in scoring position and left eight men on base through five innings before Monasterio's run-scoring, two-out knock off Cleveland starter Foster Griffin (15-6) broke the deadlock.\nIn the sixth, Jarren Duran (2-for-3) lined a leadoff single to left and moved to second on a groundout. He scored from second base on Monasterio's knock, sliding ahead of left fielder Steven Kwan's relay throw and catcher Patrick Bailey's tag.\nGray (18-5) struck out three while allowing four hits and one walk to increase his American League-leading win total. Tyron Guerrero, Garrett Whitlock and Aroldis Chapman each threw a scoreless inning to finish off Boston's 17th shutout victory of the season.\nChapman struck out the side in the ninth to log his 35th save as Boston snapped a three-game losing streak.\nRed Sox center fielder Ceddanne Rafaela returned from a 17-game injury absence caused by a right quad strain to record all three outs in the first, including a spectacular diving catch on Kwan, the leadoff hitter who still went 2-for-4 for Cleveland (82-76).\nGriffin worked six frames, striking out seven and allowing one run on 10 hits and no walks.\nThe Guardians remained one game up on the White Sox (81-77) in the American League Central after Chicago lost 5-4 at Kansas City on Wednesday.\nRafaela hit a leadoff single in the second inning but appeared to be in pain after reaching first. He stayed in the game to run the bases and initially took his defensive position before Duran replaced him. The Red Sox announced that Rafaela was dealing with right hamstring tightness.\nRafaela's defense helped Gray retire the first six men he faced. Bailey recorded Cleveland's first hit with a leadoff single in the third, but a 6-3 double play ended the inning without any damage. Gray fanned a pair of Guardians to strand two to end the fourth.\nAfter the lone run scored and Gray exited, Guerrero struck out three in the seventh after a leadoff walk. Whitlock worked around Brayan Rocchio's leadoff single and Jose Ramirez's one-out walk in the eighth, inducing an inning-ending double-play grounder from Chase DeLauter.\n--Field Level Media",
+    "tracked_people": [
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Garrett Whitlock",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 28,
+        "batch": 1
+      },
+      {
+        "name": "Aroldis Chapman",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 29,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Tyron Guerrero",
+        "role": "Pitcher",
+        "status": "15-day Injured List",
+        "type": "player",
+        "id": 35,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States",
+      "US English"
+    ],
+    "discovery_sources": [
+      "GDELT",
+      "Google News"
+    ],
+    "original_title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
+    "original_body": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox\n(Photo credit: Gregory Fisher)\nAndruw Monasterio's sixth-inning RBI single and Sonny Gray's six shutout innings propelled the Boston Red Sox to a 1-0 win over the visiting Cleveland Guardians on Wednesday night.\nThe Red Sox (85-73) managed the lone run on 12 hits, all singles. They went 1-for-9 with runners in scoring position and left eight men on base through five innings before Monasterio's run-scoring, two-out knock off Cleveland starter Foster Griffin (15-6) broke the deadlock.\nIn the sixth, Jarren Duran (2-for-3) lined a leadoff single to left and moved to second on a groundout. He scored from second base on Monasterio's knock, sliding ahead of left fielder Steven Kwan's relay throw and catcher Patrick Bailey's tag.\nGray (18-5) struck out three while allowing four hits and one walk to increase his American League-leading win total. Tyron Guerrero, Garrett Whitlock and Aroldis Chapman each threw a scoreless inning to finish off Boston's 17th shutout victory of the season.\nChapman struck out the side in the ninth to log his 35th save as Boston snapped a three-game losing streak.\nRed Sox center fielder Ceddanne Rafaela returned from a 17-game injury absence caused by a right quad strain to record all three outs in the first, including a spectacular diving catch on Kwan, the leadoff hitter who still went 2-for-4 for Cleveland (82-76).\nGriffin worked six frames, striking out seven and allowing one run on 10 hits and no walks.\nThe Guardians remained one game up on the White Sox (81-77) in the American League Central after Chicago lost 5-4 at Kansas City on Wednesday.\nRafaela hit a leadoff single in the second inning but appeared to be in pain after reaching first. He stayed in the game to run the bases and initially took his defensive position before Duran replaced him. The Red Sox announced that Rafaela was dealing with right hamstring tightness.\nRafaela's defense helped Gray retire the first six men he faced. Bailey recorded Cleveland's first hit with a leadoff single in the third, but a 6-3 double play ended the inning without any damage. Gray fanned a pair of Guardians to strand two to end the fourth.\nAfter the lone run scored and Gray exited, Guerrero struck out three in the seventh after a leadoff walk. Whitlock worked around Brayan Rocchio's leadoff single and Jose Ramirez's one-out walk in the eighth, inducing an inning-ending double-play grounder from Chase DeLauter.\n--Field Level Media",
+    "rss_title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
+    "rss_body": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox\n(Photo credit: Gregory Fisher)\nAndruw Monasterio's sixth-inning RBI single and Sonny Gray's six shutout innings propelled the Boston Red Sox to a 1-0 win over the visiting Cleveland Guardians on Wednesday night.\nThe Red Sox (85-73) managed the lone run on 12 hits, all singles. They went 1-for-9 with runners in scoring position and left eight men on base through five innings before Monasterio's run-scoring, two-out knock off Cleveland starter Foster Griffin (15-6) broke the deadlock.\nIn the sixth, Jarren Duran (2-for-3) lined a leadoff single to left and moved to second on a groundout. He scored from second base on Monasterio's knock, sliding ahead of left fielder Steven Kwan's relay throw and catcher Patrick Bailey's tag.\nGray (18-5) struck out three while allowing four hits and one walk to increase his American League-leading win total. Tyron Guerrero, Garrett Whitlock and Aroldis Chapman each threw a scoreless inning to finish off Boston's 17th shutout victory of the season.\nChapman struck out the side in the ninth to log his 35th save as Boston snapped a three-game losing streak.\nRed Sox center fielder Ceddanne Rafaela returned from a 17-game injury absence caused by a right quad strain to record all three outs in the first, including a spectacular diving catch on Kwan, the leadoff hitter who still went 2-for-4 for Cleveland (82-76).\nGriffin worked six frames, striking out seven and allowing one run on 10 hits and no walks.\nThe Guardians remained one game up on the White Sox (81-77) in the American League Central after Chicago lost 5-4 at Kansas City on Wednesday.\nRafaela hit a leadoff single in the second inning but appeared to be in pain after reaching first. He stayed in the game to run the bases and initially took his defensive position before Duran replaced him. The Red Sox announced that Rafaela was dealing with right hamstring tightness.\nRafaela's defense helped Gray retire the first six men he faced. Bailey recorded Cleveland's first hit with a leadoff single in the third, but a 6-3 double play ended the inning without any damage. Gray fanned a pair of Guardians to strand two to end the fourth.\nAfter the lone run scored and Gray exited, Guerrero struck out three in the seventh after a leadoff walk. Whitlock worked around Brayan Rocchio's leadoff single and Jose Ramirez's one-out walk in the eighth, inducing an inning-ending double-play grounder from Chase DeLauter.\n--Field Level Media",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "massachusettssun.com",
+        "url": "http://www.massachusettssun.com/news/279327547/sonny-gray-red-sox-shut-out-guardians-who-remain-1-up-on-white-sox",
+        "title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
+        "body_characters": 2793
+      },
+      {
+        "source": "Field Level Media",
+        "url": "https://fieldlevelmedia.com/mlb/sonny-gray-red-sox-shut-out-guardians-who-remain-1-up-on-white-sox/",
+        "title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
+        "body_characters": 2406
+      }
+    ]
+  },
+  {
+    "id": "8505744449e0c252ed6e",
+    "title": "Sonny Gray’s scoreless start powers Red Sox to close win over Guardians",
+    "source": "Boston Herald",
+    "author": "Gabrielle Starr",
+    "url": "https://www.bostonherald.com/2026/09/23/red-sox-cleveland-guardians-sonny-gray-foster-griffin-ceddanne-rafaela-injury-hamstring-andruw-monasterio-aroldis-chapman-chad-tracy-fenway-park-boston-mlb-postseason-news/",
+    "published_iso": "2026-09-24T02:28:56+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 02:28:56 +0000",
+    "body": "The Boston Red Sox pulled off a 1-0 series-evening win over the visiting Cleveland Guardians on Wednesday night, despite the ongoing dearth of situational hitting that has plagued them for the last two weeks and intermittently throughout the season.\nBoston batters tallied 12 hits, but went 2 for 14 with runners in scoring position, and left 11 men on base in eight innings.\nFortunately for the home team, Sonny Gray was on form in his final start of the regular season. The veteran right-hander tossed six shutout innings, with four hits, one walk and three strikeouts.\nGray’s sixth scoreless start of at least six innings this year tied his single-season high first set in 2015 and matched in 2025. He is the first Red Sox pitcher to make at least six such starts in his age-36 season or older since Luis Tiant in 1977, and only the fourth in franchise history (also Cy Young, Lefty Grove).\n“Just a really good pitcher,” manager Chad Tracy said of his starter. “The level of consistency for him from start to finish has been very fun to watch, and impressive.”\nThough Gray’s pitch count sat at 77 (52 for strikes) after the sixth and the game remained scoreless, Tracy went to his bullpen. With Boston’s postseason ticket punched on Sunday, the short hook could suggest Gray is getting the ball for Game 1 of the Wild Card series on Tuesday.\nCleveland southpaw Foster Griffin was not nearly as adept at keeping the Red Sox off the diamond. He struck out seven and issued no walks, but yielded 10 hits in six innings of one-run ball.\nSave for Jarren Duran’s leadoff single and Andruw Monasterio’s two-out RBI single in the sixth, the Red Sox bailed Griffin out every time. They were 2 for 11 RISP through his six innings. Their nine men left on base during Griffin’s start included multiple in four of the first five frames and bases-loaded in the third.\n“Yeah, I mean, take the positives,” Tracy said of the offense. “I thought we swung the bat great. We actually got some hits today. … Between (the two-out hits) and the accumulation of hits and base runners throughout the game, I thought it was a pretty good offensive night. Obviously you’d like to score more, but we did take better plate appearances.”\nTyron Guerrero, Garrett Whitlock and Aroldis Chapman, Boston’s elite bullpen trio all season long, ensured the slim lead held until the end with a scoreless inning apiece. Tracy revealed postgame their appearances were “planned out, regardless of how the game went.”\n“That was great,” Tracy said. “To be able to score a run prior to that section of relievers coming in was fantastic.”\nDuran, who replaced Ceddanne Rafaela in center field in the top of the third, led off the bottom of the eighth with a single. His subsequent steal of second made 2026 his second career season with 20 home runs and 20 stolen bases (also 2024). Duran, Mookie Betts and Jackie Jensen are the only players in franchise history with multiple 20-20 seasons.\nRafaela’s first game back from a 10-day stint on the injured list with a right quad strain began in energetic fashion. He recorded each of the first three outs, including a diving catch to rob Guardians hitter Steven Kwan of a leadoff single.\nBut after pulling up lame at first base on his own leadoff single in the bottom of the second, Rafaela ultimately left the game with right hamstring tightness when the inning turned over. Tracy announced postgame that Rafaela will undergo an MRI on Thursday.\n“No, I think it’s more frustrating (than disappointing),” Tracy said of the Rafaela situation. “You want to see everybody get to that finish line healthy.\n“So more just when you see it, you’re concerned, you know? So (we) don’t know where we’re at with it yet. Hopefully, it’s not a huge deal, but still, yeah, makes your heart jump a little bit, and we’ll see where he’s at.”\nCleveland threatened against Whitlock in an eighth inning that saw both teams run out of ABS challenges. No. 9 hitter Brayan Rocchio led off with a single, and Whitlock issued a one-out walk to third baseman José Ramírez before getting an inning-ending double play from designated hitter Chase DeLauter.\nAfter the Red Sox stranded Duran in the bottom of the eighth, Chapman took the mound for the first time since Sept. 13. Boston’s All-Star closer was back in top form after being day-to-day with lat tightness. He struck out the side, Jo Adell, and pinch-hitters Angel Martínez and Angel Genao on 12 pitches.\nThe Red Sox are 85-73 with four games left to play. Wednesday marked Tracy’s first win since the interim tag was removed on Tuesday.",
+    "tracked_people": [
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Garrett Whitlock",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 28,
+        "batch": 1
+      },
+      {
+        "name": "Aroldis Chapman",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 29,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Tyron Guerrero",
+        "role": "Pitcher",
+        "status": "15-day Injured List",
+        "type": "player",
+        "id": 35,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      },
+      {
+        "name": "Cy Young",
+        "role": "Legend / Hall of Famer",
+        "status": "Franchise Legacy",
+        "type": "legend",
+        "id": 59,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Sonny Gray’s scoreless start powers Red Sox to close win over Guardians",
+    "original_body": "The Boston Red Sox pulled off a 1-0 series-evening win over the visiting Cleveland Guardians on Wednesday night, despite the ongoing dearth of situational hitting that has plagued them for the last two weeks and intermittently throughout the season.\nBoston batters tallied 12 hits, but went 2 for 14 with runners in scoring position, and left 11 men on base in eight innings.\nFortunately for the home team, Sonny Gray was on form in his final start of the regular season. The veteran right-hander tossed six shutout innings, with four hits, one walk and three strikeouts.\nGray’s sixth scoreless start of at least six innings this year tied his single-season high first set in 2015 and matched in 2025. He is the first Red Sox pitcher to make at least six such starts in his age-36 season or older since Luis Tiant in 1977, and only the fourth in franchise history (also Cy Young, Lefty Grove).\n“Just a really good pitcher,” manager Chad Tracy said of his starter. “The level of consistency for him from start to finish has been very fun to watch, and impressive.”\nThough Gray’s pitch count sat at 77 (52 for strikes) after the sixth and the game remained scoreless, Tracy went to his bullpen. With Boston’s postseason ticket punched on Sunday, the short hook could suggest Gray is getting the ball for Game 1 of the Wild Card series on Tuesday.\nCleveland southpaw Foster Griffin was not nearly as adept at keeping the Red Sox off the diamond. He struck out seven and issued no walks, but yielded 10 hits in six innings of one-run ball.\nSave for Jarren Duran’s leadoff single and Andruw Monasterio’s two-out RBI single in the sixth, the Red Sox bailed Griffin out every time. They were 2 for 11 RISP through his six innings. Their nine men left on base during Griffin’s start included multiple in four of the first five frames and bases-loaded in the third.\n“Yeah, I mean, take the positives,” Tracy said of the offense. “I thought we swung the bat great. We actually got some hits today. … Between (the two-out hits) and the accumulation of hits and base runners throughout the game, I thought it was a pretty good offensive night. Obviously you’d like to score more, but we did take better plate appearances.”\nTyron Guerrero, Garrett Whitlock and Aroldis Chapman, Boston’s elite bullpen trio all season long, ensured the slim lead held until the end with a scoreless inning apiece. Tracy revealed postgame their appearances were “planned out, regardless of how the game went.”\n“That was great,” Tracy said. “To be able to score a run prior to that section of relievers coming in was fantastic.”\nDuran, who replaced Ceddanne Rafaela in center field in the top of the third, led off the bottom of the eighth with a single. His subsequent steal of second made 2026 his second career season with 20 home runs and 20 stolen bases (also 2024). Duran, Mookie Betts and Jackie Jensen are the only players in franchise history with multiple 20-20 seasons.\nRafaela’s first game back from a 10-day stint on the injured list with a right quad strain began in energetic fashion. He recorded each of the first three outs, including a diving catch to rob Guardians hitter Steven Kwan of a leadoff single.\nBut after pulling up lame at first base on his own leadoff single in the bottom of the second, Rafaela ultimately left the game with right hamstring tightness when the inning turned over. Tracy announced postgame that Rafaela will undergo an MRI on Thursday.\n“No, I think it’s more frustrating (than disappointing),” Tracy said of the Rafaela situation. “You want to see everybody get to that finish line healthy.\n“So more just when you see it, you’re concerned, you know? So (we) don’t know where we’re at with it yet. Hopefully, it’s not a huge deal, but still, yeah, makes your heart jump a little bit, and we’ll see where he’s at.”\nCleveland threatened against Whitlock in an eighth inning that saw both teams run out of ABS challenges. No. 9 hitter Brayan Rocchio led off with a single, and Whitlock issued a one-out walk to third baseman José Ramírez before getting an inning-ending double play from designated hitter Chase DeLauter.\nAfter the Red Sox stranded Duran in the bottom of the eighth, Chapman took the mound for the first time since Sept. 13. Boston’s All-Star closer was back in top form after being day-to-day with lat tightness. He struck out the side, Jo Adell, and pinch-hitters Angel Martínez and Angel Genao on 12 pitches.\nThe Red Sox are 85-73 with four games left to play. Wednesday marked Tracy’s first win since the interim tag was removed on Tuesday.",
+    "rss_title": "Sonny Gray’s scoreless start powers Red Sox to close win over Guardians",
+    "rss_body": "The Boston Red Sox pulled off a 1-0 series-evening win over the visiting Cleveland Guardians on Wednesday night, despite the ongoing dearth of situational hitting that has plagued them for the last two weeks and intermittently throughout the season.\nBoston batters tallied 12 hits, but went 2 for 14 with runners in scoring position, and left 11 men on base in eight innings.\nFortunately for the home team, Sonny Gray was on form in his final start of the regular season. The veteran right-hander tossed six shutout innings, with four hits, one walk and three strikeouts.\nGray’s sixth scoreless start of at least six innings this year tied his single-season high first set in 2015 and matched in 2025. He is the first Red Sox pitcher to make at least six such starts in his age-36 season or older since Luis Tiant in 1977, and only the fourth in franchise history (also Cy Young, Lefty Grove).\n“Just a really good pitcher,” manager Chad Tracy said of his starter. “The level of consistency for him from start to finish has been very fun to watch, and impressive.”\nThough Gray’s pitch count sat at 77 (52 for strikes) after the sixth and the game remained scoreless, Tracy went to his bullpen. With Boston’s postseason ticket punched on Sunday, the short hook could suggest Gray is getting the ball for Game 1 of the Wild Card series on Tuesday.\nCleveland southpaw Foster Griffin was not nearly as adept at keeping the Red Sox off the diamond. He struck out seven and issued no walks, but yielded 10 hits in six innings of one-run ball.\nSave for Jarren Duran’s leadoff single and Andruw Monasterio’s two-out RBI single in the sixth, the Red Sox bailed Griffin out every time. They were 2 for 11 RISP through his six innings. Their nine men left on base during Griffin’s start included multiple in four of the first five frames and bases-loaded in the third.\n“Yeah, I mean, take the positives,” Tracy said of the offense. “I thought we swung the bat great. We actually got some hits today. … Between (the two-out hits) and the accumulation of hits and base runners throughout the game, I thought it was a pretty good offensive night. Obviously you’d like to score more, but we did take better plate appearances.”\nTyron Guerrero, Garrett Whitlock and Aroldis Chapman, Boston’s elite bullpen trio all season long, ensured the slim lead held until the end with a scoreless inning apiece. Tracy revealed postgame their appearances were “planned out, regardless of how the game went.”\n“That was great,” Tracy said. “To be able to score a run prior to that section of relievers coming in was fantastic.”\nDuran, who replaced Ceddanne Rafaela in center field in the top of the third, led off the bottom of the eighth with a single. His subsequent steal of second made 2026 his second career season with 20 home runs and 20 stolen bases (also 2024). Duran, Mookie Betts and Jackie Jensen are the only players in franchise history with multiple 20-20 seasons.\nRafaela’s first game back from a 10-day stint on the injured list with a right quad strain began in energetic fashion. He recorded each of the first three outs, including a diving catch to rob Guardians hitter Steven Kwan of a leadoff single.\nBut after pulling up lame at first base on his own leadoff single in the bottom of the second, Rafaela ultimately left the game with right hamstring tightness when the inning turned over. Tracy announced postgame that Rafaela will undergo an MRI on Thursday.\n“No, I think it’s more frustrating (than disappointing),” Tracy said of the Rafaela situation. “You want to see everybody get to that finish line healthy.\n“So more just when you see it, you’re concerned, you know? So (we) don’t know where we’re at with it yet. Hopefully, it’s not a huge deal, but still, yeah, makes your heart jump a little bit, and we’ll see where he’s at.”\nCleveland threatened against Whitlock in an eighth inning that saw both teams run out of ABS challenges. No. 9 hitter Brayan Rocchio led off with a single, and Whitlock issued a one-out walk to third baseman José Ramírez before getting an inning-ending double play from designated hitter Chase DeLauter.\nAfter the Red Sox stranded Duran in the bottom of the eighth, Chapman took the mound for the first time since Sept. 13. Boston’s All-Star closer was back in top form after being day-to-day with lat tightness. He struck out the side, Jo Adell, and pinch-hitters Angel Martínez and Angel Genao on 12 pitches.\nThe Red Sox are 85-73 with four games left to play. Wednesday marked Tracy’s first win since the interim tag was removed on Tuesday.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "bca0be817e1f0ab4d07a",
+    "title": "Red Sox's Aroldis Chapman: Locks down save No. 35 in return",
+    "source": "CBS Sports",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/red-soxs-aroldis-chapman-locks-down-save-no-35-in-return/",
+    "published_iso": "2026-09-24T02:07:57+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 02:07:57 +0000",
+    "body": "Chapman (lat) struck out the side to earn the save Wednesday against Cleveland.\nChapman last pitched Sept. 13 due to a lat issue, but he showed no signs of rust Wednesday in his return to the mound. The star southpaw has now punched out three in back-to-back outings, last blowing a save June 28 against the Yankees. He has a shiny 1.92 ERA, 1.12 WHIP and 71:23 K:BB with 35 saves in 37 attempts across 51.2 innings.",
+    "tracked_people": [
+      {
+        "name": "Aroldis Chapman",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 29,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox's Aroldis Chapman: Locks down save No. 35 in return",
+    "original_body": "Chapman (lat) struck out the side to earn the save Wednesday against Cleveland.\nChapman last pitched Sept. 13 due to a lat issue, but he showed no signs of rust Wednesday in his return to the mound. The star southpaw has now punched out three in back-to-back outings, last blowing a save June 28 against the Yankees. He has a shiny 1.92 ERA, 1.12 WHIP and 71:23 K:BB with 35 saves in 37 attempts across 51.2 innings.",
+    "rss_title": "Red Sox's Aroldis Chapman: Locks down save No. 35 in return",
+    "rss_body": "Chapman (lat) struck out the side to earn the save Wednesday against Cleveland.\nChapman last pitched Sept. 13 due to a lat issue, but he showed no signs of rust Wednesday in his return to the mound. The star southpaw has now punched out three in back-to-back outings, last blowing a save June 28 against the Yankees. He has a shiny 1.92 ERA, 1.12 WHIP and 71:23 K:BB with 35 saves in 37 attempts across 51.2 innings.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "b0825f9c954056fd16d7",
+    "title": "Gray earns 18th victory, Monasterio drives in run, and Red Sox edge Guardians 1-0",
+    "source": "Oskaloosa Herald",
+    "author": "KEN POWTAK",
+    "url": "https://www.oskaloosa.com/sports/national_sports/gray-earns-18th-victory-monasterio-drives-in-run-and-red-sox-edge-guardians-1-0/article_4fe3ec01-e4d2-5b5d-a6fb-79c263cba263.html",
+    "published_iso": "2026-09-24T02:03:36+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 02:03:36 +0000",
+    "body": "BOSTON (AP) — Sonny Gray pitched six innings to tie Philadelphia’s Cristopher Sánchez for the major league lead with his 18th victory, Andruw Monasterio drove in the only run with a sixth-inning single, and the Boston Red Sox edged Cleveland 1-0 on Wednesday night to snap the Guardians’ six-game winning streak.",
+    "tracked_people": [
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Gray earns 18th victory, Monasterio drives in run, and Red Sox edge Guardians 1-0",
+    "original_body": "BOSTON (AP) — Sonny Gray pitched six innings to tie Philadelphia’s Cristopher Sánchez for the major league lead with his 18th victory, Andruw Monasterio drove in the only run with a sixth-inning single, and the Boston Red Sox edged Cleveland 1-0 on Wednesday night to snap the Guardians’ six-game winning streak.",
+    "rss_title": "Gray earns 18th victory, Monasterio drives in run, and Red Sox edge Guardians 1-0",
+    "rss_body": "BOSTON (AP) — Sonny Gray pitched six innings to tie Philadelphia’s Cristopher Sánchez for the major league lead with his 18th victory, Andruw Monasterio drove in the only run with a sixth-inning single, and the Boston Red Sox edged Cleveland 1-0 on Wednesday night to snap the Guardians’ six-game winning streak.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "8d870600db323efecaba",
     "title": "Cubs vs. Red Sox Series Injured List - Sept. 25-26 | Sports Radio 95.7",
     "source": "sportsradio957.iheart.com",
@@ -159,6 +601,40 @@
     "original_body": "On Friday, Wilyer Abreu and the Boston Red Sox (84-73) open a series against Pete Crow-Armstrong and the Chicago Cubs (87-70) at Fenway Park, with first pitch scheduled for 1:05 p.m. ET.\nWatch MLB, other live sports and more on Fubo. What is Fubo? Fubo is a streaming service that gives you access to your favorite live sports and shows on demand. Use our link to sign up.\nCubs vs. Red Sox Series Info\nFriday at 1:05 p.m. ET\n- Pitching Matchup: TBA vs. TBA\n- TV Channel: NESN and MARQ\nFriday at 6:05 p.m. ET\n- Pitching Matchup: Jake Bennett vs. Clay Holmes\n- TV Channel: NESN and MARQ\nSaturday at 7:15 p.m. ET\n- Pitching Matchup: Patrick Sandoval vs. Matthew Boyd\n- TV Channel: NESN and MARQ\nDon't miss all of the new and returning Apple Originals alongside Friday Night Baseball. Subscribe to Apple TV and watch Friday Night Baseball and other Apple TV exclusives.\nInjured Lists\nBoston Red Sox Injured List\n- Anthony Seigler: Status - 10 Day IL, Injury - Wrist. 2026 Stats: .247/.327/.400, 3 HR, 13 RBI\n- Masataka Yoshida: Status - 10 Day IL, Injury - Hamstring. 2026 Stats: .274/.347/.399, 5 HR, 28 RBI\n- Eli White: Status - 10 Day IL, Injury - Foot. 2026 Stats: .246/.289/.398, 6 HR, 29 RBI\n- Curtis Mead: Status - 10 Day IL, Injury - Hand. 2026 Stats: .253/.353/.498, 17 HR, 48 RBI\n- Justin Slaten: Status - 15 Day IL, Injury - Elbow. 2026 Stats: 2-4, 4.60 ERA, 11.2 K/9\n- Tanner Houck: Status - 60 Day IL, Injury - Elbow. 2026 Stats: N/A\n- Zack Kelly: Status - 60 Day IL, Injury - Elbow. 2026 Stats: 0-2, 3.31 ERA, 7.7 K/9\n- Garrett Crochet: Status - 60 Day IL, Injury - Shoulder. 2026 Stats: 3-3, 6.30 ERA, 11.1 K/9\n- Johan Oviedo: Status - 60 Day IL, Injury - Elbow. 2026 Stats: 0-0, 9.82 ERA, 7.4 K/9\n- Eduardo Rivera: Status - 60 Day IL, Injury - Back. 2026 Stats: 0-1, 6.30 ERA, 9.0 K/9\n- Kutter Crawford: Status - 60 Day IL, Injury - Wrist. 2026 Stats: N/A\n- Triston Casas: Status - 60 Day IL, Injury - Knee. 2026 Stats: N/A\n- Willson Contreras: Status - day-to-day, Injury - Hand. 2026 Stats: .276/.387/.518, 27 HR, 81 RBI\nChicago Cubs Injured List\n- Trent Thornton: Status - 15 Day IL, Injury - Ankle. 2026 Stats: 5-5, 3.35 ERA, 5.8 K/9\n- Gavin Hollowell: Status - 15 Day IL, Injury - Shoulder. 2026 Stats: 0-0, 2.51 ERA, 8.2 K/9\n- Riley Martin: Status - 60 Day IL, Injury - Elbow. 2026 Stats: 0-0, 2.16 ERA, 10.8 K/9\n- Porter Hodge: Status - 60 Day IL, Injury - Elbow. 2026 Stats: N/A\n- Justin Steele: Status - 60 Day IL, Injury - Elbow. 2026 Stats: N/A\n- Shelby Miller: Status - 60 Day IL, Injury - Elbow. 2026 Stats: N/A\n- Hunter Harvey: Status - 60 Day IL, Injury - Tricep. 2026 Stats: 0-1, 6.75 ERA, 9.0 K/9\n- Cade Horton: Status - 60 Day IL, Injury - Forearm. 2026 Stats: 1-0, 2.45 ERA, 4.9 K/9\n- Phil Maton: Status - 60 Day IL, Injury - Knee. 2026 Stats: 0-1, 6.18 ERA, 10.1 K/9\n- Christopher Austin: Status - 60 Day IL, Injury - Knee. 2026 Stats: N/A\n- Ben Brown: Status - 60 Day IL, Injury - Neck. 2026 Stats: 4-2, 1.85 ERA, 8.6 K/9\n- Alex Bregman: Status - day-to-day, Injury - Face. 2026 Stats: .262/.352/.452, 26 HR, 89 RBI\nLooking for MLB tickets? Head to Ticketmaster today and see your team live.\nStats Comparison (Last 10 Games)\n| Red Sox vs. Cubs Stats (Last 10 Games) |  |  | \n|---|---|---|\n| RED SOX |  | CUBS | \n|---|---|---|\n| 4-6 | W-L | 6-4 | \n| 9 | HR | 14 | \n| .219 | AVG | .262 | \n| .293 | OBP | .347 | \n| .361 | SLG | .455 | \n| 3.03 | ERA | 3.52 | \n| .226 | BAA | .218 | \n| 9.8 | K/9 | 8.2 |",
     "rss_title": "Cubs vs. Red Sox Series Injured List - Sept. 25-26 | Sports Radio 95.7",
     "rss_body": "On Friday, Wilyer Abreu and the Boston Red Sox (84-73) open a series against Pete Crow-Armstrong and the Chicago Cubs (87-70) at Fenway Park, with first pitch scheduled for 1:05 p.m. ET.\nWatch MLB, other live sports and more on Fubo. What is Fubo? Fubo is a streaming service that gives you access to your favorite live sports and shows on demand. Use our link to sign up.\nCubs vs. Red Sox Series Info\nFriday at 1:05 p.m. ET\n- Pitching Matchup: TBA vs. TBA\n- TV Channel: NESN and MARQ\nFriday at 6:05 p.m. ET\n- Pitching Matchup: Jake Bennett vs. Clay Holmes\n- TV Channel: NESN and MARQ\nSaturday at 7:15 p.m. ET\n- Pitching Matchup: Patrick Sandoval vs. Matthew Boyd\n- TV Channel: NESN and MARQ\nDon't miss all of the new and returning Apple Originals alongside Friday Night Baseball. Subscribe to Apple TV and watch Friday Night Baseball and other Apple TV exclusives.\nInjured Lists\nBoston Red Sox Injured List\n- Anthony Seigler: Status - 10 Day IL, Injury - Wrist. 2026 Stats: .247/.327/.400, 3 HR, 13 RBI\n- Masataka Yoshida: Status - 10 Day IL, Injury - Hamstring. 2026 Stats: .274/.347/.399, 5 HR, 28 RBI\n- Eli White: Status - 10 Day IL, Injury - Foot. 2026 Stats: .246/.289/.398, 6 HR, 29 RBI\n- Curtis Mead: Status - 10 Day IL, Injury - Hand. 2026 Stats: .253/.353/.498, 17 HR, 48 RBI\n- Justin Slaten: Status - 15 Day IL, Injury - Elbow. 2026 Stats: 2-4, 4.60 ERA, 11.2 K/9\n- Tanner Houck: Status - 60 Day IL, Injury - Elbow. 2026 Stats: N/A\n- Zack Kelly: Status - 60 Day IL, Injury - Elbow. 2026 Stats: 0-2, 3.31 ERA, 7.7 K/9\n- Garrett Crochet: Status - 60 Day IL, Injury - Shoulder. 2026 Stats: 3-3, 6.30 ERA, 11.1 K/9\n- Johan Oviedo: Status - 60 Day IL, Injury - Elbow. 2026 Stats: 0-0, 9.82 ERA, 7.4 K/9\n- Eduardo Rivera: Status - 60 Day IL, Injury - Back. 2026 Stats: 0-1, 6.30 ERA, 9.0 K/9\n- Kutter Crawford: Status - 60 Day IL, Injury - Wrist. 2026 Stats: N/A\n- Triston Casas: Status - 60 Day IL, Injury - Knee. 2026 Stats: N/A\n- Willson Contreras: Status - day-to-day, Injury - Hand. 2026 Stats: .276/.387/.518, 27 HR, 81 RBI\nChicago Cubs Injured List\n- Trent Thornton: Status - 15 Day IL, Injury - Ankle. 2026 Stats: 5-5, 3.35 ERA, 5.8 K/9\n- Gavin Hollowell: Status - 15 Day IL, Injury - Shoulder. 2026 Stats: 0-0, 2.51 ERA, 8.2 K/9\n- Riley Martin: Status - 60 Day IL, Injury - Elbow. 2026 Stats: 0-0, 2.16 ERA, 10.8 K/9\n- Porter Hodge: Status - 60 Day IL, Injury - Elbow. 2026 Stats: N/A\n- Justin Steele: Status - 60 Day IL, Injury - Elbow. 2026 Stats: N/A\n- Shelby Miller: Status - 60 Day IL, Injury - Elbow. 2026 Stats: N/A\n- Hunter Harvey: Status - 60 Day IL, Injury - Tricep. 2026 Stats: 0-1, 6.75 ERA, 9.0 K/9\n- Cade Horton: Status - 60 Day IL, Injury - Forearm. 2026 Stats: 1-0, 2.45 ERA, 4.9 K/9\n- Phil Maton: Status - 60 Day IL, Injury - Knee. 2026 Stats: 0-1, 6.18 ERA, 10.1 K/9\n- Christopher Austin: Status - 60 Day IL, Injury - Knee. 2026 Stats: N/A\n- Ben Brown: Status - 60 Day IL, Injury - Neck. 2026 Stats: 4-2, 1.85 ERA, 8.6 K/9\n- Alex Bregman: Status - day-to-day, Injury - Face. 2026 Stats: .262/.352/.452, 26 HR, 89 RBI\nLooking for MLB tickets? Head to Ticketmaster today and see your team live.\nStats Comparison (Last 10 Games)\n| Red Sox vs. Cubs Stats (Last 10 Games) |  |  | \n|---|---|---|\n| RED SOX |  | CUBS | \n|---|---|---|\n| 4-6 | W-L | 6-4 | \n| 9 | HR | 14 | \n| .219 | AVG | .262 | \n| .293 | OBP | .347 | \n| .361 | SLG | .455 | \n| 3.03 | ERA | 3.52 | \n| .226 | BAA | .218 | \n| 9.8 | K/9 | 8.2 |",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "7364fac3fb02850e65ce",
+    "title": "Column: Alex Bregman’s return and a nor’easter could bring dramatic pause to the Chicago Cubs’ final weekend",
+    "source": "chicagotribune.com",
+    "author": "Paul Sullivan",
+    "url": "https://www.chicagotribune.com/2026/09/23/chicago-cubs-alex-bregman-boston-forecast/",
+    "published_iso": "2026-09-24T02:00:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 02:00:00 +0000",
+    "body": "It was probably asking too much to expect that Alex Bregman would want to wait until this weekend to return after multiple facial fractures in his left cheek.\nBregman was already showing impatience on Wednesday and told reporters he was hoping to get an at-bat in the night game against the Miami Marlins in the potential postseason clincher at Wrigley Field.\nCraig Counsell heard about Bregman’s request later and paused for a moment when asked if it was a realistic possibility.\n“Um, no, he’s not going to get an at-bat,” the manager said. “He’s not.”\nThat’s Counsell, always spoiling the media narrative with his insatiable appetite for doing what’s best for the team, ignoring the potential of a drama-filled moment.\n“Well, I thought about it last night,” he continued. “We were laughing, (Bregman) got geared up late in the game because he was so fired up. He was like, ‘I was unsure if you were going to yell at me …’\n“No, he’s doing well, but we’ve got to take some steps here. I’m excited about how he feels, and he’s excited. But he still needs to feel some things. He hasn’t run around yet, and he’s got to do that. He’s got to know what it feels like.”\nBregman spoke to the media Wednesday for the first time since taking a foul ball off his left cheek in Sunday’s win in Cincinnati. He avoided surgery but suffered multiple facial fractures and had to be driven back to Chicago instead of flying. There were small lacerations visible under his left eye on Wednesday, and his eye was still blackened, making it look like he’d spent a couple rounds with Mike Tyson.\nThe initial jolt of pain was excruciating, Bregman admitted.\n“I kind of just looked down and felt like I got hit by a baseball bat to the face,” he said. “The pain has been fine. I guess I fractured something right by the nerve in my face, so the whole left side of my face has been a little bit numb. As soon as the swelling goes down, I’m sure I’ll feel the breaks a little bit more.\n“It started last night because the swelling is going down, and I felt that this morning when I woke up. All in all, I’m super lucky it hit where it hit, and a lot of gratitude because a few centimeters higher and it could’ve been detrimental.”\nBregman said he never thought about a “worst-case” scenario when it happened, and just hoped nothing was broken. Now he considered himself to be “in a good spot,” making him anxious to return.\n“We’ve got really good news the last two days,” he said. “So overall I’ve been very lucky, and I’m very thankful to all the doctors and everybody that helped out.”\nBregman said he’s feeling a little better every day. Wednesday was what he described as a “normal” work day — hitting off the Trajekt machine — after spending Tuesday tracking off the machine, which replicates velocities and spin rates of pitchers.\nHe said he planned to test out some different batting helmets that would protect his left cheek, and didn’t feel it would take long to adjust to one. He’s had no issues seeing, and there was no damage to his eyesight, which allowed him to use the Trajekt machine to track pitches.\n“I see it great,” he said.\nBregman hoped to take grounders in a day or two, though it seems likely he would return in a designated hitter role, at least initially, instead of going straight back to third base.\nBregman had played in 153 of the Cubs’ 156 games before missing Tuesday’s loss to the Marlins, which denied the Cubs the clincher. Kevin Gausman faced the Marlins on Wednesday with the Cubs in a three-way tie with the Philadelphia Phillies and San Diego Padres in the National League wild-card race, and a magic number of one to get in.\nEven before the injury, Bregman hated being out of the Cubs’ lineup.\nAfter a slow first half in which he repeatedly said his numbers would be there by the end of the season, he rebounded to his normal All-Star level, as he predicted. On Wednesday, Bregman ranked second in major-league RBI in the second half with 48, trailing only Pete Crow-Armstrong’s 54. He was also fifth in OPS (.978) since the break, and third in WAR (3.4), while playing Gold Glove Award-caliber defense.\n“Super tough,” he said of sitting. “Yesterday was brutal. I wanted to play.”\nAsked about the biggest hurdle of his recovery, Bregman said he wasn’t sure, then mentioned the feeling of constant movement in his upper face.\n“There’s a lot of fluid in my face over there,” he said of his left side. “So if I move, the fluid moves. So if I’m bouncing up and down, my face feels like it’s bouncing up and down.”\nCounsell said it was “not a surprise” that Bregman was impatient about returning, but noted the severity of the injury forced them to take it slow.\n“We’ve got to understand what he has, and you’ve got to be careful,” Counsell said. “We’ve got to go through the proper channels here and (take) the proper steps.”\nBregman’s first game back could be Friday in Boston, where he played in 2025 before exercising an opt-out clause in his contract and signing a five-year, $175 million deal with the Cubs. Due to the possibility of a nor’easter, the Cubs will now play a doubleheader against the Red Sox on Friday at Fenway Park, avoiding a potential cancellation on Sunday.\nIt would be easy for the Cubs to sideline Bregman until the postseason out of an abundance of caution, giving him extra time to heal. No one would bat an eye, except perhaps for Bregman.\nPresident Jed Hoyer said Tuesday, “getting hit again is a concern, but most of the significant bad things have been avoided.”\nWhy risk it when he’s such an important part of the lineup?\nThat’s a question the Cubs might have to ask themselves as he tries to get back as quickly as possible. The playoffs are what’s important now, and it’s hard to imagine the Cubs being the Cubs without Bregman’s presence in the lineup.\nBut for now they’re deferring to Bregman, which creates the possibility of a dramatic return to Fenway Park with a nor’easter on the way and the Cubs fighting for home-field advantage in the wild-card round. Maybe Theo Epstein will even make an appearance.\nJohn Updike couldn’t come up with a more appropriate way to bid the Cubs’ regular season adieu.",
+    "tracked_people": [
+      {
+        "name": "Alex Bregman",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Column: Alex Bregman’s return and a nor’easter could bring dramatic pause to the Chicago Cubs’ final weekend",
+    "original_body": "It was probably asking too much to expect that Alex Bregman would want to wait until this weekend to return after multiple facial fractures in his left cheek.\nBregman was already showing impatience on Wednesday and told reporters he was hoping to get an at-bat in the night game against the Miami Marlins in the potential postseason clincher at Wrigley Field.\nCraig Counsell heard about Bregman’s request later and paused for a moment when asked if it was a realistic possibility.\n“Um, no, he’s not going to get an at-bat,” the manager said. “He’s not.”\nThat’s Counsell, always spoiling the media narrative with his insatiable appetite for doing what’s best for the team, ignoring the potential of a drama-filled moment.\n“Well, I thought about it last night,” he continued. “We were laughing, (Bregman) got geared up late in the game because he was so fired up. He was like, ‘I was unsure if you were going to yell at me …’\n“No, he’s doing well, but we’ve got to take some steps here. I’m excited about how he feels, and he’s excited. But he still needs to feel some things. He hasn’t run around yet, and he’s got to do that. He’s got to know what it feels like.”\nBregman spoke to the media Wednesday for the first time since taking a foul ball off his left cheek in Sunday’s win in Cincinnati. He avoided surgery but suffered multiple facial fractures and had to be driven back to Chicago instead of flying. There were small lacerations visible under his left eye on Wednesday, and his eye was still blackened, making it look like he’d spent a couple rounds with Mike Tyson.\nThe initial jolt of pain was excruciating, Bregman admitted.\n“I kind of just looked down and felt like I got hit by a baseball bat to the face,” he said. “The pain has been fine. I guess I fractured something right by the nerve in my face, so the whole left side of my face has been a little bit numb. As soon as the swelling goes down, I’m sure I’ll feel the breaks a little bit more.\n“It started last night because the swelling is going down, and I felt that this morning when I woke up. All in all, I’m super lucky it hit where it hit, and a lot of gratitude because a few centimeters higher and it could’ve been detrimental.”\nBregman said he never thought about a “worst-case” scenario when it happened, and just hoped nothing was broken. Now he considered himself to be “in a good spot,” making him anxious to return.\n“We’ve got really good news the last two days,” he said. “So overall I’ve been very lucky, and I’m very thankful to all the doctors and everybody that helped out.”\nBregman said he’s feeling a little better every day. Wednesday was what he described as a “normal” work day — hitting off the Trajekt machine — after spending Tuesday tracking off the machine, which replicates velocities and spin rates of pitchers.\nHe said he planned to test out some different batting helmets that would protect his left cheek, and didn’t feel it would take long to adjust to one. He’s had no issues seeing, and there was no damage to his eyesight, which allowed him to use the Trajekt machine to track pitches.\n“I see it great,” he said.\nBregman hoped to take grounders in a day or two, though it seems likely he would return in a designated hitter role, at least initially, instead of going straight back to third base.\nBregman had played in 153 of the Cubs’ 156 games before missing Tuesday’s loss to the Marlins, which denied the Cubs the clincher. Kevin Gausman faced the Marlins on Wednesday with the Cubs in a three-way tie with the Philadelphia Phillies and San Diego Padres in the National League wild-card race, and a magic number of one to get in.\nEven before the injury, Bregman hated being out of the Cubs’ lineup.\nAfter a slow first half in which he repeatedly said his numbers would be there by the end of the season, he rebounded to his normal All-Star level, as he predicted. On Wednesday, Bregman ranked second in major-league RBI in the second half with 48, trailing only Pete Crow-Armstrong’s 54. He was also fifth in OPS (.978) since the break, and third in WAR (3.4), while playing Gold Glove Award-caliber defense.\n“Super tough,” he said of sitting. “Yesterday was brutal. I wanted to play.”\nAsked about the biggest hurdle of his recovery, Bregman said he wasn’t sure, then mentioned the feeling of constant movement in his upper face.\n“There’s a lot of fluid in my face over there,” he said of his left side. “So if I move, the fluid moves. So if I’m bouncing up and down, my face feels like it’s bouncing up and down.”\nCounsell said it was “not a surprise” that Bregman was impatient about returning, but noted the severity of the injury forced them to take it slow.\n“We’ve got to understand what he has, and you’ve got to be careful,” Counsell said. “We’ve got to go through the proper channels here and (take) the proper steps.”\nBregman’s first game back could be Friday in Boston, where he played in 2025 before exercising an opt-out clause in his contract and signing a five-year, $175 million deal with the Cubs. Due to the possibility of a nor’easter, the Cubs will now play a doubleheader against the Red Sox on Friday at Fenway Park, avoiding a potential cancellation on Sunday.\nIt would be easy for the Cubs to sideline Bregman until the postseason out of an abundance of caution, giving him extra time to heal. No one would bat an eye, except perhaps for Bregman.\nPresident Jed Hoyer said Tuesday, “getting hit again is a concern, but most of the significant bad things have been avoided.”\nWhy risk it when he’s such an important part of the lineup?\nThat’s a question the Cubs might have to ask themselves as he tries to get back as quickly as possible. The playoffs are what’s important now, and it’s hard to imagine the Cubs being the Cubs without Bregman’s presence in the lineup.\nBut for now they’re deferring to Bregman, which creates the possibility of a dramatic return to Fenway Park with a nor’easter on the way and the Cubs fighting for home-field advantage in the wild-card round. Maybe Theo Epstein will even make an appearance.\nJohn Updike couldn’t come up with a more appropriate way to bid the Cubs’ regular season adieu.",
+    "rss_title": "Column: Alex Bregman’s return and a nor’easter could bring dramatic pause to the Chicago Cubs’ final weekend",
+    "rss_body": "It was probably asking too much to expect that Alex Bregman would want to wait until this weekend to return after multiple facial fractures in his left cheek.\nBregman was already showing impatience on Wednesday and told reporters he was hoping to get an at-bat in the night game against the Miami Marlins in the potential postseason clincher at Wrigley Field.\nCraig Counsell heard about Bregman’s request later and paused for a moment when asked if it was a realistic possibility.\n“Um, no, he’s not going to get an at-bat,” the manager said. “He’s not.”\nThat’s Counsell, always spoiling the media narrative with his insatiable appetite for doing what’s best for the team, ignoring the potential of a drama-filled moment.\n“Well, I thought about it last night,” he continued. “We were laughing, (Bregman) got geared up late in the game because he was so fired up. He was like, ‘I was unsure if you were going to yell at me …’\n“No, he’s doing well, but we’ve got to take some steps here. I’m excited about how he feels, and he’s excited. But he still needs to feel some things. He hasn’t run around yet, and he’s got to do that. He’s got to know what it feels like.”\nBregman spoke to the media Wednesday for the first time since taking a foul ball off his left cheek in Sunday’s win in Cincinnati. He avoided surgery but suffered multiple facial fractures and had to be driven back to Chicago instead of flying. There were small lacerations visible under his left eye on Wednesday, and his eye was still blackened, making it look like he’d spent a couple rounds with Mike Tyson.\nThe initial jolt of pain was excruciating, Bregman admitted.\n“I kind of just looked down and felt like I got hit by a baseball bat to the face,” he said. “The pain has been fine. I guess I fractured something right by the nerve in my face, so the whole left side of my face has been a little bit numb. As soon as the swelling goes down, I’m sure I’ll feel the breaks a little bit more.\n“It started last night because the swelling is going down, and I felt that this morning when I woke up. All in all, I’m super lucky it hit where it hit, and a lot of gratitude because a few centimeters higher and it could’ve been detrimental.”\nBregman said he never thought about a “worst-case” scenario when it happened, and just hoped nothing was broken. Now he considered himself to be “in a good spot,” making him anxious to return.\n“We’ve got really good news the last two days,” he said. “So overall I’ve been very lucky, and I’m very thankful to all the doctors and everybody that helped out.”\nBregman said he’s feeling a little better every day. Wednesday was what he described as a “normal” work day — hitting off the Trajekt machine — after spending Tuesday tracking off the machine, which replicates velocities and spin rates of pitchers.\nHe said he planned to test out some different batting helmets that would protect his left cheek, and didn’t feel it would take long to adjust to one. He’s had no issues seeing, and there was no damage to his eyesight, which allowed him to use the Trajekt machine to track pitches.\n“I see it great,” he said.\nBregman hoped to take grounders in a day or two, though it seems likely he would return in a designated hitter role, at least initially, instead of going straight back to third base.\nBregman had played in 153 of the Cubs’ 156 games before missing Tuesday’s loss to the Marlins, which denied the Cubs the clincher. Kevin Gausman faced the Marlins on Wednesday with the Cubs in a three-way tie with the Philadelphia Phillies and San Diego Padres in the National League wild-card race, and a magic number of one to get in.\nEven before the injury, Bregman hated being out of the Cubs’ lineup.\nAfter a slow first half in which he repeatedly said his numbers would be there by the end of the season, he rebounded to his normal All-Star level, as he predicted. On Wednesday, Bregman ranked second in major-league RBI in the second half with 48, trailing only Pete Crow-Armstrong’s 54. He was also fifth in OPS (.978) since the break, and third in WAR (3.4), while playing Gold Glove Award-caliber defense.\n“Super tough,” he said of sitting. “Yesterday was brutal. I wanted to play.”\nAsked about the biggest hurdle of his recovery, Bregman said he wasn’t sure, then mentioned the feeling of constant movement in his upper face.\n“There’s a lot of fluid in my face over there,” he said of his left side. “So if I move, the fluid moves. So if I’m bouncing up and down, my face feels like it’s bouncing up and down.”\nCounsell said it was “not a surprise” that Bregman was impatient about returning, but noted the severity of the injury forced them to take it slow.\n“We’ve got to understand what he has, and you’ve got to be careful,” Counsell said. “We’ve got to go through the proper channels here and (take) the proper steps.”\nBregman’s first game back could be Friday in Boston, where he played in 2025 before exercising an opt-out clause in his contract and signing a five-year, $175 million deal with the Cubs. Due to the possibility of a nor’easter, the Cubs will now play a doubleheader against the Red Sox on Friday at Fenway Park, avoiding a potential cancellation on Sunday.\nIt would be easy for the Cubs to sideline Bregman until the postseason out of an abundance of caution, giving him extra time to heal. No one would bat an eye, except perhaps for Bregman.\nPresident Jed Hoyer said Tuesday, “getting hit again is a concern, but most of the significant bad things have been avoided.”\nWhy risk it when he’s such an important part of the lineup?\nThat’s a question the Cubs might have to ask themselves as he tries to get back as quickly as possible. The playoffs are what’s important now, and it’s hard to imagine the Cubs being the Cubs without Bregman’s presence in the lineup.\nBut for now they’re deferring to Bregman, which creates the possibility of a dramatic return to Fenway Park with a nor’easter on the way and the Cubs fighting for home-field advantage in the wild-card round. Maybe Theo Epstein will even make an appearance.\nJohn Updike couldn’t come up with a more appropriate way to bid the Cubs’ regular season adieu.",
     "translation_status": "fallback_original"
   },
   {
