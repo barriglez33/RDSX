@@ -1,5 +1,85 @@
 [
   {
+    "id": "6b5ba286ac45dc04c105",
+    "title": "Red Sox confident in Gray, trio of Guerrero, Whitlock and Chapman as October nears",
+    "source": "MLB.com",
+    "author": "Ian Browne",
+    "url": "https://www.mlb.com/news/sonny-gray-throws-six-scoreless-innings-in-win-vs-guardians",
+    "published_iso": "2026-09-24T05:54:45+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 05:54:45 +0000",
+    "body": "Sonny Gray (18-5, 2.72 ERA) finished his marvelous regular season with another strong performance, firing six shutout innings on 77 pitches, allowing four hits and one walk while striking out three. Next start? Game 1 or 2 of next week’s AL Wild Card Series, all but certain to be at Yankee Stadium.\n“He looked fantastic,” said Red Sox manager Chad Tracy. “Had his spin. Was in the zone. Was ahead in the count. He looked really good. It was good to see.”\nEven better to see was the return of All-Star closer Aroldis Chapman, who hadn’t pitched since Sept. 13 because of a lat issue. All the 38-year-old did was overpower the Guardians by striking out the side (all swinging) in order on 12 pitches. That’s all it took for career save No. 402 and 35th this season.\n“I felt good and happy to be able to go out there,” said Chapman. “I felt like my pitches and my stuff were very good today. So I’m happy to be back. I feel normal. I feel like I’m at 100 percent right now.”\nThat is certainly good news for the Red Sox, who need their closer in top form to make a deep postseason run.\n“He looked sharp,” said Tracy. “That was also really good to see.”\nFor the first time in weeks, Tracy was able to deploy his 7-8-9 relief crew in Guerrero, Garrett Whitlock and Chapman. All three relievers had injuries at various times down the stretch but are trending well now.\n“That was great,” said Tracy. “To be perfectly honest with you, that was kind of planned out regardless of how the game went. So to be able to score a run prior to that section of relievers coming in was fantastic.”\nAnd while hits with runners in scoring position (2-for-14, 11 left on base) were again a rare commodity for Boston, Andruw Monasterio broke out of an 0-for-21 slump by belting an RBI single with two outs in the sixth that scored Jarren Duran from second.\nIn a game in which neither team had an extra-base hit, combining instead for 17 singles, Monasterio’s knock was the difference in the ballgame.\n“I was fighting myself just yesterday and tonight about my approach,” said Monasterio. “I just had to get through it. And I did it.”\nIn this final homestand of the regular season, the main focus for the Red Sox is having their house in order for what’s to come next week.\nThere was some cause for concern in that regard, as center fielder Ceddanne Rafaela, after his first at-bat back from a three-week absence with a right quadriceps strain, had to exit in the top of the third with right hamstring tightness.\nThe Red Sox are hopeful it was a mild setback.\n“I think it was just a cramp,” said Rafaela. “Maybe not hydrated enough. And I got that cramp right there and just didn't want to risk going for the double. And then, obviously, it’s Trace just trying to protect me, with big things in front of us. And so I think it's just that.”",
+    "tracked_people": [
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Garrett Whitlock",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 28,
+        "batch": 1
+      },
+      {
+        "name": "Aroldis Chapman",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 29,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox confident in Gray, trio of Guerrero, Whitlock and Chapman as October nears",
+    "original_body": "Sonny Gray (18-5, 2.72 ERA) finished his marvelous regular season with another strong performance, firing six shutout innings on 77 pitches, allowing four hits and one walk while striking out three. Next start? Game 1 or 2 of next week’s AL Wild Card Series, all but certain to be at Yankee Stadium.\n“He looked fantastic,” said Red Sox manager Chad Tracy. “Had his spin. Was in the zone. Was ahead in the count. He looked really good. It was good to see.”\nEven better to see was the return of All-Star closer Aroldis Chapman, who hadn’t pitched since Sept. 13 because of a lat issue. All the 38-year-old did was overpower the Guardians by striking out the side (all swinging) in order on 12 pitches. That’s all it took for career save No. 402 and 35th this season.\n“I felt good and happy to be able to go out there,” said Chapman. “I felt like my pitches and my stuff were very good today. So I’m happy to be back. I feel normal. I feel like I’m at 100 percent right now.”\nThat is certainly good news for the Red Sox, who need their closer in top form to make a deep postseason run.\n“He looked sharp,” said Tracy. “That was also really good to see.”\nFor the first time in weeks, Tracy was able to deploy his 7-8-9 relief crew in Guerrero, Garrett Whitlock and Chapman. All three relievers had injuries at various times down the stretch but are trending well now.\n“That was great,” said Tracy. “To be perfectly honest with you, that was kind of planned out regardless of how the game went. So to be able to score a run prior to that section of relievers coming in was fantastic.”\nAnd while hits with runners in scoring position (2-for-14, 11 left on base) were again a rare commodity for Boston, Andruw Monasterio broke out of an 0-for-21 slump by belting an RBI single with two outs in the sixth that scored Jarren Duran from second.\nIn a game in which neither team had an extra-base hit, combining instead for 17 singles, Monasterio’s knock was the difference in the ballgame.\n“I was fighting myself just yesterday and tonight about my approach,” said Monasterio. “I just had to get through it. And I did it.”\nIn this final homestand of the regular season, the main focus for the Red Sox is having their house in order for what’s to come next week.\nThere was some cause for concern in that regard, as center fielder Ceddanne Rafaela, after his first at-bat back from a three-week absence with a right quadriceps strain, had to exit in the top of the third with right hamstring tightness.\nThe Red Sox are hopeful it was a mild setback.\n“I think it was just a cramp,” said Rafaela. “Maybe not hydrated enough. And I got that cramp right there and just didn't want to risk going for the double. And then, obviously, it’s Trace just trying to protect me, with big things in front of us. And so I think it's just that.”",
+    "rss_title": "Red Sox confident in Gray, trio of Guerrero, Whitlock and Chapman as October nears",
+    "rss_body": "Sonny Gray (18-5, 2.72 ERA) finished his marvelous regular season with another strong performance, firing six shutout innings on 77 pitches, allowing four hits and one walk while striking out three. Next start? Game 1 or 2 of next week’s AL Wild Card Series, all but certain to be at Yankee Stadium.\n“He looked fantastic,” said Red Sox manager Chad Tracy. “Had his spin. Was in the zone. Was ahead in the count. He looked really good. It was good to see.”\nEven better to see was the return of All-Star closer Aroldis Chapman, who hadn’t pitched since Sept. 13 because of a lat issue. All the 38-year-old did was overpower the Guardians by striking out the side (all swinging) in order on 12 pitches. That’s all it took for career save No. 402 and 35th this season.\n“I felt good and happy to be able to go out there,” said Chapman. “I felt like my pitches and my stuff were very good today. So I’m happy to be back. I feel normal. I feel like I’m at 100 percent right now.”\nThat is certainly good news for the Red Sox, who need their closer in top form to make a deep postseason run.\n“He looked sharp,” said Tracy. “That was also really good to see.”\nFor the first time in weeks, Tracy was able to deploy his 7-8-9 relief crew in Guerrero, Garrett Whitlock and Chapman. All three relievers had injuries at various times down the stretch but are trending well now.\n“That was great,” said Tracy. “To be perfectly honest with you, that was kind of planned out regardless of how the game went. So to be able to score a run prior to that section of relievers coming in was fantastic.”\nAnd while hits with runners in scoring position (2-for-14, 11 left on base) were again a rare commodity for Boston, Andruw Monasterio broke out of an 0-for-21 slump by belting an RBI single with two outs in the sixth that scored Jarren Duran from second.\nIn a game in which neither team had an extra-base hit, combining instead for 17 singles, Monasterio’s knock was the difference in the ballgame.\n“I was fighting myself just yesterday and tonight about my approach,” said Monasterio. “I just had to get through it. And I did it.”\nIn this final homestand of the regular season, the main focus for the Red Sox is having their house in order for what’s to come next week.\nThere was some cause for concern in that regard, as center fielder Ceddanne Rafaela, after his first at-bat back from a three-week absence with a right quadriceps strain, had to exit in the top of the third with right hamstring tightness.\nThe Red Sox are hopeful it was a mild setback.\n“I think it was just a cramp,” said Rafaela. “Maybe not hydrated enough. And I got that cramp right there and just didn't want to risk going for the double. And then, obviously, it’s Trace just trying to protect me, with big things in front of us. And so I think it's just that.”",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "82aae0eb3004cd77711f",
     "title": "Guardians lose to Red Sox, 1-0, but remain in first place in AL Central after White Sox also lose",
     "source": "morningjournal.com",
