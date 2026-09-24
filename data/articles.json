@@ -1,5 +1,95 @@
 [
   {
+    "id": "e82355fbb783390847d8",
+    "title": "Gray earns 18th victory, Monasterio drives in run, and Red Sox edge Guardians 1-0",
+    "source": "cleveland19.com",
+    "author": "Associated Press",
+    "url": "https://www.cleveland19.com/2026/09/24/gray-earns-18th-victory-monasterio-drives-run-red-sox-edge-guardians-1-0/",
+    "published_iso": "2026-09-24T07:45:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 07:45:00 +0000",
+    "body": "By KEN POWTAK\nUpdated 10:25 PM EDT, September 23, 2026\nBOSTON (AP) — Sonny Gray pitched six innings to tie Philadelphia’s Cristopher Sánchez for the major league lead with his 18th victory, Andruw Monasterio drove in the only run with a sixth-inning single, and the Boston Red Sox edged Cleveland 1-0 on Wednesday night to snap the Guardians’ six-game winning streak.\nIt was just the fifth win in 13 games for the Red Sox, who clinched a playoff spot on Sunday.\nThe 36-year-old Gray (18-5) is in line to become the fourth Red Sox pitcher since 2000 to lead the AL in victories, joining Rick Porcello (2016), Josh Beckett (’07) and Curt Schilling (’04).\nGray allowed four singles, struck out three, walked one and lowered his ERA to 2.72.\nAroldis Chapman struck out the side in the ninth for his 35th save of the season.\nCleveland starter Foster Griffin (15-6) gave up a run on 10 hits with seven strikeouts.\nThe Guardians remained one game ahead of the Chicago White Sox atop the AL Central, after Chicago lost 5-4 to Kansas City on Wednesday night. The Guardians needed a win Wednesday combined with a loss by either Texas or Houston to clinch a postseason berth.\nThe victory came with a price for the Red Sox when center fielder Ceddanne Rafaela left with right hamstring tightness after running out a single the same day he was activated from the injured list. He had been sidelined with a right a quad strain since Sept. 3 and made a diving headlong grab on Steven Kwan, the game’s first batter.\nJarren Duran singled leading off the sixth, advanced on a groundout and barely beat left fielder Kwan’s throw with a headfirst slide on Monasterio’s hit.\nUp next\nRed Sox LHP Ranger Suarez (8-4, 3.27 ERA) is slated to start the series finale Thursday. The Guardians had not named a starter.\nCopyright 2026 The Associated Press. All rights reserved.",
+    "tracked_people": [
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Ranger Suárez",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Aroldis Chapman",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 29,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States",
+      "US English"
+    ],
+    "discovery_sources": [
+      "GDELT",
+      "Google News"
+    ],
+    "original_title": "Gray earns 18th victory, Monasterio drives in run, and Red Sox edge Guardians 1-0",
+    "original_body": "By KEN POWTAK\nUpdated 10:25 PM EDT, September 23, 2026\nBOSTON (AP) — Sonny Gray pitched six innings to tie Philadelphia’s Cristopher Sánchez for the major league lead with his 18th victory, Andruw Monasterio drove in the only run with a sixth-inning single, and the Boston Red Sox edged Cleveland 1-0 on Wednesday night to snap the Guardians’ six-game winning streak.\nIt was just the fifth win in 13 games for the Red Sox, who clinched a playoff spot on Sunday.\nThe 36-year-old Gray (18-5) is in line to become the fourth Red Sox pitcher since 2000 to lead the AL in victories, joining Rick Porcello (2016), Josh Beckett (’07) and Curt Schilling (’04).\nGray allowed four singles, struck out three, walked one and lowered his ERA to 2.72.\nAroldis Chapman struck out the side in the ninth for his 35th save of the season.\nCleveland starter Foster Griffin (15-6) gave up a run on 10 hits with seven strikeouts.\nThe Guardians remained one game ahead of the Chicago White Sox atop the AL Central, after Chicago lost 5-4 to Kansas City on Wednesday night. The Guardians needed a win Wednesday combined with a loss by either Texas or Houston to clinch a postseason berth.\nThe victory came with a price for the Red Sox when center fielder Ceddanne Rafaela left with right hamstring tightness after running out a single the same day he was activated from the injured list. He had been sidelined with a right a quad strain since Sept. 3 and made a diving headlong grab on Steven Kwan, the game’s first batter.\nJarren Duran singled leading off the sixth, advanced on a groundout and barely beat left fielder Kwan’s throw with a headfirst slide on Monasterio’s hit.\nUp next\nRed Sox LHP Ranger Suarez (8-4, 3.27 ERA) is slated to start the series finale Thursday. The Guardians had not named a starter.\nCopyright 2026 The Associated Press. All rights reserved.",
+    "rss_title": "Gray earns 18th victory, Monasterio drives in run, and Red Sox edge Guardians 1-0",
+    "rss_body": "By KEN POWTAK\nUpdated 10:25 PM EDT, September 23, 2026\nBOSTON (AP) — Sonny Gray pitched six innings to tie Philadelphia’s Cristopher Sánchez for the major league lead with his 18th victory, Andruw Monasterio drove in the only run with a sixth-inning single, and the Boston Red Sox edged Cleveland 1-0 on Wednesday night to snap the Guardians’ six-game winning streak.\nIt was just the fifth win in 13 games for the Red Sox, who clinched a playoff spot on Sunday.\nThe 36-year-old Gray (18-5) is in line to become the fourth Red Sox pitcher since 2000 to lead the AL in victories, joining Rick Porcello (2016), Josh Beckett (’07) and Curt Schilling (’04).\nGray allowed four singles, struck out three, walked one and lowered his ERA to 2.72.\nAroldis Chapman struck out the side in the ninth for his 35th save of the season.\nCleveland starter Foster Griffin (15-6) gave up a run on 10 hits with seven strikeouts.\nThe Guardians remained one game ahead of the Chicago White Sox atop the AL Central, after Chicago lost 5-4 to Kansas City on Wednesday night. The Guardians needed a win Wednesday combined with a loss by either Texas or Houston to clinch a postseason berth.\nThe victory came with a price for the Red Sox when center fielder Ceddanne Rafaela left with right hamstring tightness after running out a single the same day he was activated from the injured list. He had been sidelined with a right a quad strain since Sept. 3 and made a diving headlong grab on Steven Kwan, the game’s first batter.\nJarren Duran singled leading off the sixth, advanced on a groundout and barely beat left fielder Kwan’s throw with a headfirst slide on Monasterio’s hit.\nUp next\nRed Sox LHP Ranger Suarez (8-4, 3.27 ERA) is slated to start the series finale Thursday. The Guardians had not named a starter.\nCopyright 2026 The Associated Press. All rights reserved.",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "morningjournal.com",
+        "url": "https://www.morningjournal.com/2026/09/23/guardians-lose-to-red-sox-1-0-but-remain-in-first-place-in-al-central-after-white-sox-also-lose/",
+        "title": "Guardians lose to Red Sox, 1-0, but remain in first place in AL Central after White Sox also lose",
+        "body_characters": 1727
+      },
+      {
+        "source": "Oskaloosa Herald",
+        "url": "https://www.oskaloosa.com/sports/national_sports/gray-earns-18th-victory-monasterio-drives-in-run-and-red-sox-edge-guardians-1-0/article_4fe3ec01-e4d2-5b5d-a6fb-79c263cba263.html",
+        "title": "Gray earns 18th victory, Monasterio drives in run, and Red Sox edge Guardians 1-0",
+        "body_characters": 312
+      }
+    ]
+  },
+  {
     "id": "6b5ba286ac45dc04c105",
     "title": "Red Sox confident in Gray, trio of Guerrero, Whitlock and Chapman as October nears",
     "source": "MLB.com",
@@ -77,80 +167,6 @@
     "original_body": "Sonny Gray (18-5, 2.72 ERA) finished his marvelous regular season with another strong performance, firing six shutout innings on 77 pitches, allowing four hits and one walk while striking out three. Next start? Game 1 or 2 of next week’s AL Wild Card Series, all but certain to be at Yankee Stadium.\n“He looked fantastic,” said Red Sox manager Chad Tracy. “Had his spin. Was in the zone. Was ahead in the count. He looked really good. It was good to see.”\nEven better to see was the return of All-Star closer Aroldis Chapman, who hadn’t pitched since Sept. 13 because of a lat issue. All the 38-year-old did was overpower the Guardians by striking out the side (all swinging) in order on 12 pitches. That’s all it took for career save No. 402 and 35th this season.\n“I felt good and happy to be able to go out there,” said Chapman. “I felt like my pitches and my stuff were very good today. So I’m happy to be back. I feel normal. I feel like I’m at 100 percent right now.”\nThat is certainly good news for the Red Sox, who need their closer in top form to make a deep postseason run.\n“He looked sharp,” said Tracy. “That was also really good to see.”\nFor the first time in weeks, Tracy was able to deploy his 7-8-9 relief crew in Guerrero, Garrett Whitlock and Chapman. All three relievers had injuries at various times down the stretch but are trending well now.\n“That was great,” said Tracy. “To be perfectly honest with you, that was kind of planned out regardless of how the game went. So to be able to score a run prior to that section of relievers coming in was fantastic.”\nAnd while hits with runners in scoring position (2-for-14, 11 left on base) were again a rare commodity for Boston, Andruw Monasterio broke out of an 0-for-21 slump by belting an RBI single with two outs in the sixth that scored Jarren Duran from second.\nIn a game in which neither team had an extra-base hit, combining instead for 17 singles, Monasterio’s knock was the difference in the ballgame.\n“I was fighting myself just yesterday and tonight about my approach,” said Monasterio. “I just had to get through it. And I did it.”\nIn this final homestand of the regular season, the main focus for the Red Sox is having their house in order for what’s to come next week.\nThere was some cause for concern in that regard, as center fielder Ceddanne Rafaela, after his first at-bat back from a three-week absence with a right quadriceps strain, had to exit in the top of the third with right hamstring tightness.\nThe Red Sox are hopeful it was a mild setback.\n“I think it was just a cramp,” said Rafaela. “Maybe not hydrated enough. And I got that cramp right there and just didn't want to risk going for the double. And then, obviously, it’s Trace just trying to protect me, with big things in front of us. And so I think it's just that.”",
     "rss_title": "Red Sox confident in Gray, trio of Guerrero, Whitlock and Chapman as October nears",
     "rss_body": "Sonny Gray (18-5, 2.72 ERA) finished his marvelous regular season with another strong performance, firing six shutout innings on 77 pitches, allowing four hits and one walk while striking out three. Next start? Game 1 or 2 of next week’s AL Wild Card Series, all but certain to be at Yankee Stadium.\n“He looked fantastic,” said Red Sox manager Chad Tracy. “Had his spin. Was in the zone. Was ahead in the count. He looked really good. It was good to see.”\nEven better to see was the return of All-Star closer Aroldis Chapman, who hadn’t pitched since Sept. 13 because of a lat issue. All the 38-year-old did was overpower the Guardians by striking out the side (all swinging) in order on 12 pitches. That’s all it took for career save No. 402 and 35th this season.\n“I felt good and happy to be able to go out there,” said Chapman. “I felt like my pitches and my stuff were very good today. So I’m happy to be back. I feel normal. I feel like I’m at 100 percent right now.”\nThat is certainly good news for the Red Sox, who need their closer in top form to make a deep postseason run.\n“He looked sharp,” said Tracy. “That was also really good to see.”\nFor the first time in weeks, Tracy was able to deploy his 7-8-9 relief crew in Guerrero, Garrett Whitlock and Chapman. All three relievers had injuries at various times down the stretch but are trending well now.\n“That was great,” said Tracy. “To be perfectly honest with you, that was kind of planned out regardless of how the game went. So to be able to score a run prior to that section of relievers coming in was fantastic.”\nAnd while hits with runners in scoring position (2-for-14, 11 left on base) were again a rare commodity for Boston, Andruw Monasterio broke out of an 0-for-21 slump by belting an RBI single with two outs in the sixth that scored Jarren Duran from second.\nIn a game in which neither team had an extra-base hit, combining instead for 17 singles, Monasterio’s knock was the difference in the ballgame.\n“I was fighting myself just yesterday and tonight about my approach,” said Monasterio. “I just had to get through it. And I did it.”\nIn this final homestand of the regular season, the main focus for the Red Sox is having their house in order for what’s to come next week.\nThere was some cause for concern in that regard, as center fielder Ceddanne Rafaela, after his first at-bat back from a three-week absence with a right quadriceps strain, had to exit in the top of the third with right hamstring tightness.\nThe Red Sox are hopeful it was a mild setback.\n“I think it was just a cramp,” said Rafaela. “Maybe not hydrated enough. And I got that cramp right there and just didn't want to risk going for the double. And then, obviously, it’s Trace just trying to protect me, with big things in front of us. And so I think it's just that.”",
-    "translation_status": "fallback_original"
-  },
-  {
-    "id": "82aae0eb3004cd77711f",
-    "title": "Guardians lose to Red Sox, 1-0, but remain in first place in AL Central after White Sox also lose",
-    "source": "morningjournal.com",
-    "author": "Associated Press",
-    "url": "https://www.morningjournal.com/2026/09/23/guardians-lose-to-red-sox-1-0-but-remain-in-first-place-in-al-central-after-white-sox-also-lose/",
-    "published_iso": "2026-09-24T04:45:00+00:00",
-    "published_rfc2822": "Thu, 24 Sep 2026 04:45:00 +0000",
-    "body": "By KEN POWTAK\nBOSTON — Sonny Gray pitched six innings to tie Philadelphia’s Cristopher Sánchez for the major league lead with his 18th victory, Andruw Monasterio drove in the only run with a sixth-inning single, and the Red Sox edged Cleveland, 1-0, on Sept. 23 to snap the Guardians’ six-game winning streak.\nIt was just the fifth win in 13 games for the Red Sox, who clinched a playoff spot on Sept. 20.\nThe 36-year-old Gray (18-5) is in line to become the fourth Red Sox pitcher since 2000 to lead the AL in victories, joining Rick Porcello (2016), Josh Beckett (’07) and Curt Schilling (’04).\nGray allowed four singles, struck out three, walked one and lowered his ERA to 2.72.\nAroldis Chapman struck out the side in the ninth for his 35th save of the season.\nCleveland starter Foster Griffin (15-6) gave up a run on 10 hits with seven strikeouts.\nThe Guardians remained one game ahead of the Chicago White Sox atop the AL Central, after Chicago lost, 5-4, to Kansas City on Sept. 23. The Guardians needed a win Sept. 23 combined with a loss by either Texas or Houston to clinch a postseason berth.\nThe victory came with a price for the Red Sox when center fielder Ceddanne Rafaela left with right hamstring tightness after running out a single the same day he was activated from the injured list. He had been sidelined with a right a quad strain since Sept. 3 and made a diving headlong grab on Steven Kwan, the game’s first batter.\nJarren Duran singled leading off the sixth, advanced on a groundout and barely beat left fielder Kwan’s throw with a headfirst slide on Monasterio’s hit.\nUp next\nRed Sox LHP Ranger Suarez (8-4, 3.27 ERA) is slated to start the series finale Thursday. The Guardians had not named a starter.",
-    "tracked_people": [
-      {
-        "name": "Andruw Monasterio",
-        "role": "Infielder",
-        "status": "Active",
-        "type": "player",
-        "id": 7,
-        "batch": 1
-      },
-      {
-        "name": "Jarren Duran",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player",
-        "id": 14,
-        "batch": 1
-      },
-      {
-        "name": "Sonny Gray",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 17,
-        "batch": 1
-      },
-      {
-        "name": "Ranger Suárez",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 18,
-        "batch": 1
-      },
-      {
-        "name": "Aroldis Chapman",
-        "role": "Relief Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 29,
-        "batch": 1
-      },
-      {
-        "name": "Ceddanne Rafaela",
-        "role": "Outfielder / Infielder",
-        "status": "10-day Injured List",
-        "type": "player",
-        "id": 32,
-        "batch": 2
-      }
-    ],
-    "source_languages": [
-      "English"
-    ],
-    "source_countries": [
-      "United States"
-    ],
-    "discovery_sources": [
-      "GDELT"
-    ],
-    "original_title": "Guardians lose to Red Sox, 1-0, but remain in first place in AL Central after White Sox also lose",
-    "original_body": "By KEN POWTAK\nBOSTON — Sonny Gray pitched six innings to tie Philadelphia’s Cristopher Sánchez for the major league lead with his 18th victory, Andruw Monasterio drove in the only run with a sixth-inning single, and the Red Sox edged Cleveland, 1-0, on Sept. 23 to snap the Guardians’ six-game winning streak.\nIt was just the fifth win in 13 games for the Red Sox, who clinched a playoff spot on Sept. 20.\nThe 36-year-old Gray (18-5) is in line to become the fourth Red Sox pitcher since 2000 to lead the AL in victories, joining Rick Porcello (2016), Josh Beckett (’07) and Curt Schilling (’04).\nGray allowed four singles, struck out three, walked one and lowered his ERA to 2.72.\nAroldis Chapman struck out the side in the ninth for his 35th save of the season.\nCleveland starter Foster Griffin (15-6) gave up a run on 10 hits with seven strikeouts.\nThe Guardians remained one game ahead of the Chicago White Sox atop the AL Central, after Chicago lost, 5-4, to Kansas City on Sept. 23. The Guardians needed a win Sept. 23 combined with a loss by either Texas or Houston to clinch a postseason berth.\nThe victory came with a price for the Red Sox when center fielder Ceddanne Rafaela left with right hamstring tightness after running out a single the same day he was activated from the injured list. He had been sidelined with a right a quad strain since Sept. 3 and made a diving headlong grab on Steven Kwan, the game’s first batter.\nJarren Duran singled leading off the sixth, advanced on a groundout and barely beat left fielder Kwan’s throw with a headfirst slide on Monasterio’s hit.\nUp next\nRed Sox LHP Ranger Suarez (8-4, 3.27 ERA) is slated to start the series finale Thursday. The Guardians had not named a starter.",
-    "rss_title": "Guardians lose to Red Sox, 1-0, but remain in first place in AL Central after White Sox also lose",
-    "rss_body": "By KEN POWTAK\nBOSTON — Sonny Gray pitched six innings to tie Philadelphia’s Cristopher Sánchez for the major league lead with his 18th victory, Andruw Monasterio drove in the only run with a sixth-inning single, and the Red Sox edged Cleveland, 1-0, on Sept. 23 to snap the Guardians’ six-game winning streak.\nIt was just the fifth win in 13 games for the Red Sox, who clinched a playoff spot on Sept. 20.\nThe 36-year-old Gray (18-5) is in line to become the fourth Red Sox pitcher since 2000 to lead the AL in victories, joining Rick Porcello (2016), Josh Beckett (’07) and Curt Schilling (’04).\nGray allowed four singles, struck out three, walked one and lowered his ERA to 2.72.\nAroldis Chapman struck out the side in the ninth for his 35th save of the season.\nCleveland starter Foster Griffin (15-6) gave up a run on 10 hits with seven strikeouts.\nThe Guardians remained one game ahead of the Chicago White Sox atop the AL Central, after Chicago lost, 5-4, to Kansas City on Sept. 23. The Guardians needed a win Sept. 23 combined with a loss by either Texas or Houston to clinch a postseason berth.\nThe victory came with a price for the Red Sox when center fielder Ceddanne Rafaela left with right hamstring tightness after running out a single the same day he was activated from the injured list. He had been sidelined with a right a quad strain since Sept. 3 and made a diving headlong grab on Steven Kwan, the game’s first batter.\nJarren Duran singled leading off the sixth, advanced on a groundout and barely beat left fielder Kwan’s throw with a headfirst slide on Monasterio’s hit.\nUp next\nRed Sox LHP Ranger Suarez (8-4, 3.27 ERA) is slated to start the series finale Thursday. The Guardians had not named a starter.",
     "translation_status": "fallback_original"
   },
   {
@@ -671,46 +687,6 @@
     "original_body": "Chapman (lat) struck out the side to earn the save Wednesday against Cleveland.\nChapman last pitched Sept. 13 due to a lat issue, but he showed no signs of rust Wednesday in his return to the mound. The star southpaw has now punched out three in back-to-back outings, last blowing a save June 28 against the Yankees. He has a shiny 1.92 ERA, 1.12 WHIP and 71:23 K:BB with 35 saves in 37 attempts across 51.2 innings.",
     "rss_title": "Red Sox's Aroldis Chapman: Locks down save No. 35 in return",
     "rss_body": "Chapman (lat) struck out the side to earn the save Wednesday against Cleveland.\nChapman last pitched Sept. 13 due to a lat issue, but he showed no signs of rust Wednesday in his return to the mound. The star southpaw has now punched out three in back-to-back outings, last blowing a save June 28 against the Yankees. He has a shiny 1.92 ERA, 1.12 WHIP and 71:23 K:BB with 35 saves in 37 attempts across 51.2 innings.",
-    "translation_status": "fallback_original"
-  },
-  {
-    "id": "b0825f9c954056fd16d7",
-    "title": "Gray earns 18th victory, Monasterio drives in run, and Red Sox edge Guardians 1-0",
-    "source": "Oskaloosa Herald",
-    "author": "KEN POWTAK",
-    "url": "https://www.oskaloosa.com/sports/national_sports/gray-earns-18th-victory-monasterio-drives-in-run-and-red-sox-edge-guardians-1-0/article_4fe3ec01-e4d2-5b5d-a6fb-79c263cba263.html",
-    "published_iso": "2026-09-24T02:03:36+00:00",
-    "published_rfc2822": "Thu, 24 Sep 2026 02:03:36 +0000",
-    "body": "BOSTON (AP) — Sonny Gray pitched six innings to tie Philadelphia’s Cristopher Sánchez for the major league lead with his 18th victory, Andruw Monasterio drove in the only run with a sixth-inning single, and the Boston Red Sox edged Cleveland 1-0 on Wednesday night to snap the Guardians’ six-game winning streak.",
-    "tracked_people": [
-      {
-        "name": "Andruw Monasterio",
-        "role": "Infielder",
-        "status": "Active",
-        "type": "player",
-        "id": 7,
-        "batch": 1
-      },
-      {
-        "name": "Sonny Gray",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 17,
-        "batch": 1
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "Gray earns 18th victory, Monasterio drives in run, and Red Sox edge Guardians 1-0",
-    "original_body": "BOSTON (AP) — Sonny Gray pitched six innings to tie Philadelphia’s Cristopher Sánchez for the major league lead with his 18th victory, Andruw Monasterio drove in the only run with a sixth-inning single, and the Boston Red Sox edged Cleveland 1-0 on Wednesday night to snap the Guardians’ six-game winning streak.",
-    "rss_title": "Gray earns 18th victory, Monasterio drives in run, and Red Sox edge Guardians 1-0",
-    "rss_body": "BOSTON (AP) — Sonny Gray pitched six innings to tie Philadelphia’s Cristopher Sánchez for the major league lead with his 18th victory, Andruw Monasterio drove in the only run with a sixth-inning single, and the Boston Red Sox edged Cleveland 1-0 on Wednesday night to snap the Guardians’ six-game winning streak.",
     "translation_status": "fallback_original"
   },
   {
