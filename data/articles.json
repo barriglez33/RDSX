@@ -1,5 +1,115 @@
 [
   {
+    "id": "9ad93225db4b47d22f55",
+    "title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
+    "source": "bignewsnetwork.com",
+    "author": "Field Level Media",
+    "url": "http://www.bignewsnetwork.com/news/279327547/sonny-gray-red-sox-shut-out-guardians-who-remain-1-up-on-white-sox",
+    "published_iso": "2026-09-24T02:45:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 02:45:00 +0000",
+    "body": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox\n(Photo credit: Gregory Fisher)\nAndruw Monasterio's sixth-inning RBI single and Sonny Gray's six shutout innings propelled the Boston Red Sox to a 1-0 win over the visiting Cleveland Guardians on Wednesday night.\nThe Red Sox (85-73) managed the lone run on 12 hits, all singles. They went 1-for-9 with runners in scoring position and left eight men on base through five innings before Monasterio's run-scoring, two-out knock off Cleveland starter Foster Griffin (15-6) broke the deadlock.\nIn the sixth, Jarren Duran (2-for-3) lined a leadoff single to left and moved to second on a groundout. He scored from second base on Monasterio's knock, sliding ahead of left fielder Steven Kwan's relay throw and catcher Patrick Bailey's tag.\nGray (18-5) struck out three while allowing four hits and one walk to increase his American League-leading win total. Tyron Guerrero, Garrett Whitlock and Aroldis Chapman each threw a scoreless inning to finish off Boston's 17th shutout victory of the season.\nChapman struck out the side in the ninth to log his 35th save as Boston snapped a three-game losing streak.\nRed Sox center fielder Ceddanne Rafaela returned from a 17-game injury absence caused by a right quad strain to record all three outs in the first, including a spectacular diving catch on Kwan, the leadoff hitter who still went 2-for-4 for Cleveland (82-76).\nGriffin worked six frames, striking out seven and allowing one run on 10 hits and no walks.\nThe Guardians remained one game up on the White Sox (81-77) in the American League Central after Chicago lost 5-4 at Kansas City on Wednesday.\nRafaela hit a leadoff single in the second inning but appeared to be in pain after reaching first. He stayed in the game to run the bases and initially took his defensive position before Duran replaced him. The Red Sox announced that Rafaela was dealing with right hamstring tightness.\nRafaela's defense helped Gray retire the first six men he faced. Bailey recorded Cleveland's first hit with a leadoff single in the third, but a 6-3 double play ended the inning without any damage. Gray fanned a pair of Guardians to strand two to end the fourth.\nAfter the lone run scored and Gray exited, Guerrero struck out three in the seventh after a leadoff walk. Whitlock worked around Brayan Rocchio's leadoff single and Jose Ramirez's one-out walk in the eighth, inducing an inning-ending double-play grounder from Chase DeLauter.\n--Field Level Media",
+    "tracked_people": [
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Garrett Whitlock",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 28,
+        "batch": 1
+      },
+      {
+        "name": "Aroldis Chapman",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 29,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Tyron Guerrero",
+        "role": "Pitcher",
+        "status": "15-day Injured List",
+        "type": "player",
+        "id": 35,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States",
+      "US English"
+    ],
+    "discovery_sources": [
+      "GDELT",
+      "Google News"
+    ],
+    "original_title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
+    "original_body": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox\n(Photo credit: Gregory Fisher)\nAndruw Monasterio's sixth-inning RBI single and Sonny Gray's six shutout innings propelled the Boston Red Sox to a 1-0 win over the visiting Cleveland Guardians on Wednesday night.\nThe Red Sox (85-73) managed the lone run on 12 hits, all singles. They went 1-for-9 with runners in scoring position and left eight men on base through five innings before Monasterio's run-scoring, two-out knock off Cleveland starter Foster Griffin (15-6) broke the deadlock.\nIn the sixth, Jarren Duran (2-for-3) lined a leadoff single to left and moved to second on a groundout. He scored from second base on Monasterio's knock, sliding ahead of left fielder Steven Kwan's relay throw and catcher Patrick Bailey's tag.\nGray (18-5) struck out three while allowing four hits and one walk to increase his American League-leading win total. Tyron Guerrero, Garrett Whitlock and Aroldis Chapman each threw a scoreless inning to finish off Boston's 17th shutout victory of the season.\nChapman struck out the side in the ninth to log his 35th save as Boston snapped a three-game losing streak.\nRed Sox center fielder Ceddanne Rafaela returned from a 17-game injury absence caused by a right quad strain to record all three outs in the first, including a spectacular diving catch on Kwan, the leadoff hitter who still went 2-for-4 for Cleveland (82-76).\nGriffin worked six frames, striking out seven and allowing one run on 10 hits and no walks.\nThe Guardians remained one game up on the White Sox (81-77) in the American League Central after Chicago lost 5-4 at Kansas City on Wednesday.\nRafaela hit a leadoff single in the second inning but appeared to be in pain after reaching first. He stayed in the game to run the bases and initially took his defensive position before Duran replaced him. The Red Sox announced that Rafaela was dealing with right hamstring tightness.\nRafaela's defense helped Gray retire the first six men he faced. Bailey recorded Cleveland's first hit with a leadoff single in the third, but a 6-3 double play ended the inning without any damage. Gray fanned a pair of Guardians to strand two to end the fourth.\nAfter the lone run scored and Gray exited, Guerrero struck out three in the seventh after a leadoff walk. Whitlock worked around Brayan Rocchio's leadoff single and Jose Ramirez's one-out walk in the eighth, inducing an inning-ending double-play grounder from Chase DeLauter.\n--Field Level Media",
+    "rss_title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
+    "rss_body": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox\n(Photo credit: Gregory Fisher)\nAndruw Monasterio's sixth-inning RBI single and Sonny Gray's six shutout innings propelled the Boston Red Sox to a 1-0 win over the visiting Cleveland Guardians on Wednesday night.\nThe Red Sox (85-73) managed the lone run on 12 hits, all singles. They went 1-for-9 with runners in scoring position and left eight men on base through five innings before Monasterio's run-scoring, two-out knock off Cleveland starter Foster Griffin (15-6) broke the deadlock.\nIn the sixth, Jarren Duran (2-for-3) lined a leadoff single to left and moved to second on a groundout. He scored from second base on Monasterio's knock, sliding ahead of left fielder Steven Kwan's relay throw and catcher Patrick Bailey's tag.\nGray (18-5) struck out three while allowing four hits and one walk to increase his American League-leading win total. Tyron Guerrero, Garrett Whitlock and Aroldis Chapman each threw a scoreless inning to finish off Boston's 17th shutout victory of the season.\nChapman struck out the side in the ninth to log his 35th save as Boston snapped a three-game losing streak.\nRed Sox center fielder Ceddanne Rafaela returned from a 17-game injury absence caused by a right quad strain to record all three outs in the first, including a spectacular diving catch on Kwan, the leadoff hitter who still went 2-for-4 for Cleveland (82-76).\nGriffin worked six frames, striking out seven and allowing one run on 10 hits and no walks.\nThe Guardians remained one game up on the White Sox (81-77) in the American League Central after Chicago lost 5-4 at Kansas City on Wednesday.\nRafaela hit a leadoff single in the second inning but appeared to be in pain after reaching first. He stayed in the game to run the bases and initially took his defensive position before Duran replaced him. The Red Sox announced that Rafaela was dealing with right hamstring tightness.\nRafaela's defense helped Gray retire the first six men he faced. Bailey recorded Cleveland's first hit with a leadoff single in the third, but a 6-3 double play ended the inning without any damage. Gray fanned a pair of Guardians to strand two to end the fourth.\nAfter the lone run scored and Gray exited, Guerrero struck out three in the seventh after a leadoff walk. Whitlock worked around Brayan Rocchio's leadoff single and Jose Ramirez's one-out walk in the eighth, inducing an inning-ending double-play grounder from Chase DeLauter.\n--Field Level Media",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "massachusettssun.com",
+        "url": "http://www.massachusettssun.com/news/279327547/sonny-gray-red-sox-shut-out-guardians-who-remain-1-up-on-white-sox",
+        "title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
+        "body_characters": 2793
+      },
+      {
+        "source": "Field Level Media",
+        "url": "https://fieldlevelmedia.com/mlb/sonny-gray-red-sox-shut-out-guardians-who-remain-1-up-on-white-sox/",
+        "title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
+        "body_characters": 2406
+      },
+      {
+        "source": "1075thegame.com",
+        "url": "https://www.1075thegame.com/2026/09/23/sonny-gray-red-sox-shut-out-guardians-who-remain-1-up-on-white-sox/",
+        "title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
+        "body_characters": 2128
+      },
+      {
+        "source": "UnionLeader.com",
+        "url": "https://www.unionleader.com/sports/red_sox/sonny-gray-red-sox-shut-out-guardians-who-remain-1-up-on-white-sox/article_529eccd8-01f3-56d7-8390-fef9a027f27d.html",
+        "title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
+        "body_characters": 456
+      }
+    ]
+  },
+  {
     "id": "7940cdb6b17990c3fc01",
     "title": "【製品情報】2026 FANATICS UNDER WRAPS MLB BASEBALLS VOL.II",
     "source": "Trading Card Journal",
@@ -656,110 +766,6 @@
     "rss_title": "Jarren Duran scores lone run in win vs. Guardians",
     "rss_body": "Jarren Duran went 2-for-3 with a stolen base and a run scored off the bench on Wednesday against the Guardians.\n            \n                Only in this game because Ceddanne Rafaela had to leave early with hamstring tightness, Duran was the spark plug that the Red Sox needed. He helped break a 0-0 tie with a lead-off single in the sixth, advanced to second on a groundout, then came around to score on a single by Andruw Monasterio. That lone run held up as the only scored in this game and Duran stole a base later on as well to give him 20 on the season. That plus his 20 home runs, .207 batting average, and .629 OPS give Duran one of the most disappointing 20-20 seasons of all time.",
     "translation_status": "fallback_original"
-  },
-  {
-    "id": "9ad93225db4b47d22f55",
-    "title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
-    "source": "bignewsnetwork.com",
-    "author": "Field Level Media",
-    "url": "http://www.bignewsnetwork.com/news/279327547/sonny-gray-red-sox-shut-out-guardians-who-remain-1-up-on-white-sox",
-    "published_iso": "2026-09-24T02:45:00+00:00",
-    "published_rfc2822": "Thu, 24 Sep 2026 02:45:00 +0000",
-    "body": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox\n(Photo credit: Gregory Fisher)\nAndruw Monasterio's sixth-inning RBI single and Sonny Gray's six shutout innings propelled the Boston Red Sox to a 1-0 win over the visiting Cleveland Guardians on Wednesday night.\nThe Red Sox (85-73) managed the lone run on 12 hits, all singles. They went 1-for-9 with runners in scoring position and left eight men on base through five innings before Monasterio's run-scoring, two-out knock off Cleveland starter Foster Griffin (15-6) broke the deadlock.\nIn the sixth, Jarren Duran (2-for-3) lined a leadoff single to left and moved to second on a groundout. He scored from second base on Monasterio's knock, sliding ahead of left fielder Steven Kwan's relay throw and catcher Patrick Bailey's tag.\nGray (18-5) struck out three while allowing four hits and one walk to increase his American League-leading win total. Tyron Guerrero, Garrett Whitlock and Aroldis Chapman each threw a scoreless inning to finish off Boston's 17th shutout victory of the season.\nChapman struck out the side in the ninth to log his 35th save as Boston snapped a three-game losing streak.\nRed Sox center fielder Ceddanne Rafaela returned from a 17-game injury absence caused by a right quad strain to record all three outs in the first, including a spectacular diving catch on Kwan, the leadoff hitter who still went 2-for-4 for Cleveland (82-76).\nGriffin worked six frames, striking out seven and allowing one run on 10 hits and no walks.\nThe Guardians remained one game up on the White Sox (81-77) in the American League Central after Chicago lost 5-4 at Kansas City on Wednesday.\nRafaela hit a leadoff single in the second inning but appeared to be in pain after reaching first. He stayed in the game to run the bases and initially took his defensive position before Duran replaced him. The Red Sox announced that Rafaela was dealing with right hamstring tightness.\nRafaela's defense helped Gray retire the first six men he faced. Bailey recorded Cleveland's first hit with a leadoff single in the third, but a 6-3 double play ended the inning without any damage. Gray fanned a pair of Guardians to strand two to end the fourth.\nAfter the lone run scored and Gray exited, Guerrero struck out three in the seventh after a leadoff walk. Whitlock worked around Brayan Rocchio's leadoff single and Jose Ramirez's one-out walk in the eighth, inducing an inning-ending double-play grounder from Chase DeLauter.\n--Field Level Media",
-    "tracked_people": [
-      {
-        "name": "Andruw Monasterio",
-        "role": "Infielder",
-        "status": "Active",
-        "type": "player",
-        "id": 7,
-        "batch": 1
-      },
-      {
-        "name": "Jarren Duran",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player",
-        "id": 14,
-        "batch": 1
-      },
-      {
-        "name": "Sonny Gray",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 17,
-        "batch": 1
-      },
-      {
-        "name": "Garrett Whitlock",
-        "role": "Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 28,
-        "batch": 1
-      },
-      {
-        "name": "Aroldis Chapman",
-        "role": "Relief Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 29,
-        "batch": 1
-      },
-      {
-        "name": "Ceddanne Rafaela",
-        "role": "Outfielder / Infielder",
-        "status": "10-day Injured List",
-        "type": "player",
-        "id": 32,
-        "batch": 2
-      },
-      {
-        "name": "Tyron Guerrero",
-        "role": "Pitcher",
-        "status": "15-day Injured List",
-        "type": "player",
-        "id": 35,
-        "batch": 2
-      }
-    ],
-    "source_languages": [
-      "English"
-    ],
-    "source_countries": [
-      "United States",
-      "US English"
-    ],
-    "discovery_sources": [
-      "GDELT",
-      "Google News"
-    ],
-    "original_title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
-    "original_body": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox\n(Photo credit: Gregory Fisher)\nAndruw Monasterio's sixth-inning RBI single and Sonny Gray's six shutout innings propelled the Boston Red Sox to a 1-0 win over the visiting Cleveland Guardians on Wednesday night.\nThe Red Sox (85-73) managed the lone run on 12 hits, all singles. They went 1-for-9 with runners in scoring position and left eight men on base through five innings before Monasterio's run-scoring, two-out knock off Cleveland starter Foster Griffin (15-6) broke the deadlock.\nIn the sixth, Jarren Duran (2-for-3) lined a leadoff single to left and moved to second on a groundout. He scored from second base on Monasterio's knock, sliding ahead of left fielder Steven Kwan's relay throw and catcher Patrick Bailey's tag.\nGray (18-5) struck out three while allowing four hits and one walk to increase his American League-leading win total. Tyron Guerrero, Garrett Whitlock and Aroldis Chapman each threw a scoreless inning to finish off Boston's 17th shutout victory of the season.\nChapman struck out the side in the ninth to log his 35th save as Boston snapped a three-game losing streak.\nRed Sox center fielder Ceddanne Rafaela returned from a 17-game injury absence caused by a right quad strain to record all three outs in the first, including a spectacular diving catch on Kwan, the leadoff hitter who still went 2-for-4 for Cleveland (82-76).\nGriffin worked six frames, striking out seven and allowing one run on 10 hits and no walks.\nThe Guardians remained one game up on the White Sox (81-77) in the American League Central after Chicago lost 5-4 at Kansas City on Wednesday.\nRafaela hit a leadoff single in the second inning but appeared to be in pain after reaching first. He stayed in the game to run the bases and initially took his defensive position before Duran replaced him. The Red Sox announced that Rafaela was dealing with right hamstring tightness.\nRafaela's defense helped Gray retire the first six men he faced. Bailey recorded Cleveland's first hit with a leadoff single in the third, but a 6-3 double play ended the inning without any damage. Gray fanned a pair of Guardians to strand two to end the fourth.\nAfter the lone run scored and Gray exited, Guerrero struck out three in the seventh after a leadoff walk. Whitlock worked around Brayan Rocchio's leadoff single and Jose Ramirez's one-out walk in the eighth, inducing an inning-ending double-play grounder from Chase DeLauter.\n--Field Level Media",
-    "rss_title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
-    "rss_body": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox\n(Photo credit: Gregory Fisher)\nAndruw Monasterio's sixth-inning RBI single and Sonny Gray's six shutout innings propelled the Boston Red Sox to a 1-0 win over the visiting Cleveland Guardians on Wednesday night.\nThe Red Sox (85-73) managed the lone run on 12 hits, all singles. They went 1-for-9 with runners in scoring position and left eight men on base through five innings before Monasterio's run-scoring, two-out knock off Cleveland starter Foster Griffin (15-6) broke the deadlock.\nIn the sixth, Jarren Duran (2-for-3) lined a leadoff single to left and moved to second on a groundout. He scored from second base on Monasterio's knock, sliding ahead of left fielder Steven Kwan's relay throw and catcher Patrick Bailey's tag.\nGray (18-5) struck out three while allowing four hits and one walk to increase his American League-leading win total. Tyron Guerrero, Garrett Whitlock and Aroldis Chapman each threw a scoreless inning to finish off Boston's 17th shutout victory of the season.\nChapman struck out the side in the ninth to log his 35th save as Boston snapped a three-game losing streak.\nRed Sox center fielder Ceddanne Rafaela returned from a 17-game injury absence caused by a right quad strain to record all three outs in the first, including a spectacular diving catch on Kwan, the leadoff hitter who still went 2-for-4 for Cleveland (82-76).\nGriffin worked six frames, striking out seven and allowing one run on 10 hits and no walks.\nThe Guardians remained one game up on the White Sox (81-77) in the American League Central after Chicago lost 5-4 at Kansas City on Wednesday.\nRafaela hit a leadoff single in the second inning but appeared to be in pain after reaching first. He stayed in the game to run the bases and initially took his defensive position before Duran replaced him. The Red Sox announced that Rafaela was dealing with right hamstring tightness.\nRafaela's defense helped Gray retire the first six men he faced. Bailey recorded Cleveland's first hit with a leadoff single in the third, but a 6-3 double play ended the inning without any damage. Gray fanned a pair of Guardians to strand two to end the fourth.\nAfter the lone run scored and Gray exited, Guerrero struck out three in the seventh after a leadoff walk. Whitlock worked around Brayan Rocchio's leadoff single and Jose Ramirez's one-out walk in the eighth, inducing an inning-ending double-play grounder from Chase DeLauter.\n--Field Level Media",
-    "translation_status": "fallback_original",
-    "alternate_sources": [
-      {
-        "source": "massachusettssun.com",
-        "url": "http://www.massachusettssun.com/news/279327547/sonny-gray-red-sox-shut-out-guardians-who-remain-1-up-on-white-sox",
-        "title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
-        "body_characters": 2793
-      },
-      {
-        "source": "Field Level Media",
-        "url": "https://fieldlevelmedia.com/mlb/sonny-gray-red-sox-shut-out-guardians-who-remain-1-up-on-white-sox/",
-        "title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
-        "body_characters": 2406
-      },
-      {
-        "source": "1075thegame.com",
-        "url": "https://www.1075thegame.com/2026/09/23/sonny-gray-red-sox-shut-out-guardians-who-remain-1-up-on-white-sox/",
-        "title": "Sonny Gray, Red Sox shut out Guardians, who remain 1 up on White Sox",
-        "body_characters": 2128
-      }
-    ]
   },
   {
     "id": "bca0be817e1f0ab4d07a",
