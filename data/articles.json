@@ -1,5 +1,181 @@
 [
   {
+    "id": "5d85bbd7268840512d78",
+    "title": "Sonny Gray’s scoreless start powers Red Sox to close win over Guardians",
+    "source": "sentinelandenterprise.com",
+    "author": "Gabrielle Starr",
+    "url": "https://www.sentinelandenterprise.com/2026/09/23/red-sox-cleveland-guardians-sonny-gray-foster-griffin-ceddanne-rafaela-injury-hamstring-andruw-monasterio-aroldis-chapman-chad-tracy-fenway-park-boston-mlb-postseason-news/",
+    "published_iso": "2026-09-24T04:30:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 04:30:00 +0000",
+    "body": "The Boston Red Sox pulled off a 1-0 series-evening win over the visiting Cleveland Guardians on Wednesday night, despite the ongoing dearth of situational hitting that has plagued them for the last two weeks and intermittently throughout the season.\nBoston batters tallied 12 hits, but went 2 for 14 with runners in scoring position, and left 11 men on base in eight innings.\nFortunately for the home team, Sonny Gray was on form in his final start of the regular season. The veteran right-hander tossed six shutout innings, with four hits, one walk and three strikeouts.\nGray’s sixth scoreless start of at least six innings this year tied his single-season high first set in 2015 and matched in 2025. He is the first Red Sox pitcher to make at least six such starts in his age-36 season or older since Luis Tiant in 1977, and only the fourth in franchise history (also Cy Young, Lefty Grove).\n“Just a really good pitcher,” manager Chad Tracy said of his starter. “The level of consistency for him from start to finish has been very fun to watch, and impressive.”\nThough Gray’s pitch count sat at 77 (52 for strikes) after the sixth and the game remained scoreless, Tracy went to his bullpen. With Boston’s postseason ticket punched on Sunday, the short hook could suggest Gray is getting the ball for Game 1 of the Wild Card series on Tuesday.\nCleveland southpaw Foster Griffin was not nearly as adept at keeping the Red Sox off the diamond. He struck out seven and issued no walks, but yielded 10 hits in six innings of one-run ball.\nSave for Jarren Duran’s leadoff single and Andruw Monasterio’s two-out RBI single in the sixth, the Red Sox bailed Griffin out every time. They were 2 for 11 RISP through his six innings. Their nine men left on base during Griffin’s start included multiple in four of the first five frames and bases-loaded in the third.\n“Yeah, I mean, take the positives,” Tracy said of the offense. “I thought we swung the bat great. We actually got some hits today. … Between (the two-out hits) and the accumulation of hits and base runners throughout the game, I thought it was a pretty good offensive night. Obviously you’d like to score more, but we did take better plate appearances.”\nTyron Guerrero, Garrett Whitlock and Aroldis Chapman, Boston’s elite bullpen trio all season long, ensured the slim lead held until the end with a scoreless inning apiece. Tracy revealed postgame their appearances were “planned out, regardless of how the game went.”\n“That was great,” Tracy said. “To be able to score a run prior to that section of relievers coming in was fantastic.”\nDuran, who replaced Ceddanne Rafaela in center field in the top of the third, led off the bottom of the eighth with a single. His subsequent steal of second made 2026 his second career season with 20 home runs and 20 stolen bases (also 2024). Duran, Mookie Betts and Jackie Jensen are the only players in franchise history with multiple 20-20 seasons.\nRafaela’s first game back from a 10-day stint on the injured list with a right quad strain began in energetic fashion. He recorded each of the first three outs, including a diving catch to rob Guardians hitter Steven Kwan of a leadoff single.\nBut after pulling up lame at first base on his own leadoff single in the bottom of the second, Rafaela ultimately left the game with right hamstring tightness when the inning turned over. Tracy announced postgame that Rafaela will undergo an MRI on Thursday.\n“No, I think it’s more frustrating (than disappointing),” Tracy said of the Rafaela situation. “You want to see everybody get to that finish line healthy.\n“So more just when you see it, you’re concerned, you know? So (we) don’t know where we’re at with it yet. Hopefully, it’s not a huge deal, but still, yeah, makes your heart jump a little bit, and we’ll see where he’s at.”\nCleveland threatened against Whitlock in an eighth inning that saw both teams run out of ABS challenges. No. 9 hitter Brayan Rocchio led off with a single, and Whitlock issued a one-out walk to third baseman José Ramírez before getting an inning-ending double play from designated hitter Chase DeLauter.\nAfter the Red Sox stranded Duran in the bottom of the eighth, Chapman took the mound for the first time since Sept. 13. Boston’s All-Star closer was back in top form after being day-to-day with lat tightness. He struck out the side, Jo Adell, and pinch-hitters Angel Martínez and Angel Genao on 12 pitches.\nThe Red Sox are 85-73 with four games left to play. Wednesday marked Tracy’s first win since the interim tag was removed on Tuesday.",
+    "tracked_people": [
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Garrett Whitlock",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 28,
+        "batch": 1
+      },
+      {
+        "name": "Aroldis Chapman",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 29,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Tyron Guerrero",
+        "role": "Pitcher",
+        "status": "15-day Injured List",
+        "type": "player",
+        "id": 35,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      },
+      {
+        "name": "Cy Young",
+        "role": "Legend / Hall of Famer",
+        "status": "Franchise Legacy",
+        "type": "legend",
+        "id": 59,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States",
+      "US English"
+    ],
+    "discovery_sources": [
+      "GDELT",
+      "Google News"
+    ],
+    "original_title": "Sonny Gray’s scoreless start powers Red Sox to close win over Guardians",
+    "original_body": "The Boston Red Sox pulled off a 1-0 series-evening win over the visiting Cleveland Guardians on Wednesday night, despite the ongoing dearth of situational hitting that has plagued them for the last two weeks and intermittently throughout the season.\nBoston batters tallied 12 hits, but went 2 for 14 with runners in scoring position, and left 11 men on base in eight innings.\nFortunately for the home team, Sonny Gray was on form in his final start of the regular season. The veteran right-hander tossed six shutout innings, with four hits, one walk and three strikeouts.\nGray’s sixth scoreless start of at least six innings this year tied his single-season high first set in 2015 and matched in 2025. He is the first Red Sox pitcher to make at least six such starts in his age-36 season or older since Luis Tiant in 1977, and only the fourth in franchise history (also Cy Young, Lefty Grove).\n“Just a really good pitcher,” manager Chad Tracy said of his starter. “The level of consistency for him from start to finish has been very fun to watch, and impressive.”\nThough Gray’s pitch count sat at 77 (52 for strikes) after the sixth and the game remained scoreless, Tracy went to his bullpen. With Boston’s postseason ticket punched on Sunday, the short hook could suggest Gray is getting the ball for Game 1 of the Wild Card series on Tuesday.\nCleveland southpaw Foster Griffin was not nearly as adept at keeping the Red Sox off the diamond. He struck out seven and issued no walks, but yielded 10 hits in six innings of one-run ball.\nSave for Jarren Duran’s leadoff single and Andruw Monasterio’s two-out RBI single in the sixth, the Red Sox bailed Griffin out every time. They were 2 for 11 RISP through his six innings. Their nine men left on base during Griffin’s start included multiple in four of the first five frames and bases-loaded in the third.\n“Yeah, I mean, take the positives,” Tracy said of the offense. “I thought we swung the bat great. We actually got some hits today. … Between (the two-out hits) and the accumulation of hits and base runners throughout the game, I thought it was a pretty good offensive night. Obviously you’d like to score more, but we did take better plate appearances.”\nTyron Guerrero, Garrett Whitlock and Aroldis Chapman, Boston’s elite bullpen trio all season long, ensured the slim lead held until the end with a scoreless inning apiece. Tracy revealed postgame their appearances were “planned out, regardless of how the game went.”\n“That was great,” Tracy said. “To be able to score a run prior to that section of relievers coming in was fantastic.”\nDuran, who replaced Ceddanne Rafaela in center field in the top of the third, led off the bottom of the eighth with a single. His subsequent steal of second made 2026 his second career season with 20 home runs and 20 stolen bases (also 2024). Duran, Mookie Betts and Jackie Jensen are the only players in franchise history with multiple 20-20 seasons.\nRafaela’s first game back from a 10-day stint on the injured list with a right quad strain began in energetic fashion. He recorded each of the first three outs, including a diving catch to rob Guardians hitter Steven Kwan of a leadoff single.\nBut after pulling up lame at first base on his own leadoff single in the bottom of the second, Rafaela ultimately left the game with right hamstring tightness when the inning turned over. Tracy announced postgame that Rafaela will undergo an MRI on Thursday.\n“No, I think it’s more frustrating (than disappointing),” Tracy said of the Rafaela situation. “You want to see everybody get to that finish line healthy.\n“So more just when you see it, you’re concerned, you know? So (we) don’t know where we’re at with it yet. Hopefully, it’s not a huge deal, but still, yeah, makes your heart jump a little bit, and we’ll see where he’s at.”\nCleveland threatened against Whitlock in an eighth inning that saw both teams run out of ABS challenges. No. 9 hitter Brayan Rocchio led off with a single, and Whitlock issued a one-out walk to third baseman José Ramírez before getting an inning-ending double play from designated hitter Chase DeLauter.\nAfter the Red Sox stranded Duran in the bottom of the eighth, Chapman took the mound for the first time since Sept. 13. Boston’s All-Star closer was back in top form after being day-to-day with lat tightness. He struck out the side, Jo Adell, and pinch-hitters Angel Martínez and Angel Genao on 12 pitches.\nThe Red Sox are 85-73 with four games left to play. Wednesday marked Tracy’s first win since the interim tag was removed on Tuesday.",
+    "rss_title": "Sonny Gray’s scoreless start powers Red Sox to close win over Guardians",
+    "rss_body": "The Boston Red Sox pulled off a 1-0 series-evening win over the visiting Cleveland Guardians on Wednesday night, despite the ongoing dearth of situational hitting that has plagued them for the last two weeks and intermittently throughout the season.\nBoston batters tallied 12 hits, but went 2 for 14 with runners in scoring position, and left 11 men on base in eight innings.\nFortunately for the home team, Sonny Gray was on form in his final start of the regular season. The veteran right-hander tossed six shutout innings, with four hits, one walk and three strikeouts.\nGray’s sixth scoreless start of at least six innings this year tied his single-season high first set in 2015 and matched in 2025. He is the first Red Sox pitcher to make at least six such starts in his age-36 season or older since Luis Tiant in 1977, and only the fourth in franchise history (also Cy Young, Lefty Grove).\n“Just a really good pitcher,” manager Chad Tracy said of his starter. “The level of consistency for him from start to finish has been very fun to watch, and impressive.”\nThough Gray’s pitch count sat at 77 (52 for strikes) after the sixth and the game remained scoreless, Tracy went to his bullpen. With Boston’s postseason ticket punched on Sunday, the short hook could suggest Gray is getting the ball for Game 1 of the Wild Card series on Tuesday.\nCleveland southpaw Foster Griffin was not nearly as adept at keeping the Red Sox off the diamond. He struck out seven and issued no walks, but yielded 10 hits in six innings of one-run ball.\nSave for Jarren Duran’s leadoff single and Andruw Monasterio’s two-out RBI single in the sixth, the Red Sox bailed Griffin out every time. They were 2 for 11 RISP through his six innings. Their nine men left on base during Griffin’s start included multiple in four of the first five frames and bases-loaded in the third.\n“Yeah, I mean, take the positives,” Tracy said of the offense. “I thought we swung the bat great. We actually got some hits today. … Between (the two-out hits) and the accumulation of hits and base runners throughout the game, I thought it was a pretty good offensive night. Obviously you’d like to score more, but we did take better plate appearances.”\nTyron Guerrero, Garrett Whitlock and Aroldis Chapman, Boston’s elite bullpen trio all season long, ensured the slim lead held until the end with a scoreless inning apiece. Tracy revealed postgame their appearances were “planned out, regardless of how the game went.”\n“That was great,” Tracy said. “To be able to score a run prior to that section of relievers coming in was fantastic.”\nDuran, who replaced Ceddanne Rafaela in center field in the top of the third, led off the bottom of the eighth with a single. His subsequent steal of second made 2026 his second career season with 20 home runs and 20 stolen bases (also 2024). Duran, Mookie Betts and Jackie Jensen are the only players in franchise history with multiple 20-20 seasons.\nRafaela’s first game back from a 10-day stint on the injured list with a right quad strain began in energetic fashion. He recorded each of the first three outs, including a diving catch to rob Guardians hitter Steven Kwan of a leadoff single.\nBut after pulling up lame at first base on his own leadoff single in the bottom of the second, Rafaela ultimately left the game with right hamstring tightness when the inning turned over. Tracy announced postgame that Rafaela will undergo an MRI on Thursday.\n“No, I think it’s more frustrating (than disappointing),” Tracy said of the Rafaela situation. “You want to see everybody get to that finish line healthy.\n“So more just when you see it, you’re concerned, you know? So (we) don’t know where we’re at with it yet. Hopefully, it’s not a huge deal, but still, yeah, makes your heart jump a little bit, and we’ll see where he’s at.”\nCleveland threatened against Whitlock in an eighth inning that saw both teams run out of ABS challenges. No. 9 hitter Brayan Rocchio led off with a single, and Whitlock issued a one-out walk to third baseman José Ramírez before getting an inning-ending double play from designated hitter Chase DeLauter.\nAfter the Red Sox stranded Duran in the bottom of the eighth, Chapman took the mound for the first time since Sept. 13. Boston’s All-Star closer was back in top form after being day-to-day with lat tightness. He struck out the side, Jo Adell, and pinch-hitters Angel Martínez and Angel Genao on 12 pitches.\nThe Red Sox are 85-73 with four games left to play. Wednesday marked Tracy’s first win since the interim tag was removed on Tuesday.",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/09/23/red-sox-cleveland-guardians-sonny-gray-foster-griffin-ceddanne-rafaela-injury-hamstring-andruw-monasterio-aroldis-chapman-chad-tracy-fenway-park-boston-mlb-postseason-news/",
+        "title": "Sonny Gray’s scoreless start powers Red Sox to close win over Guardians",
+        "body_characters": 4570
+      }
+    ]
+  },
+  {
+    "id": "b08a058f77ce611d16f0",
+    "title": "Liberatore pitches Cardinals to victory, halts Pirates’ five-game winning streak",
+    "source": "tsn.ca",
+    "author": "The Associated Press",
+    "url": "https://www.tsn.ca/mlb/article/liberatore-pitches-cardinals-to-victory-halts-pirates-five-game-winning-streak/",
+    "published_iso": "2026-09-24T03:45:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 03:45:00 +0000",
+    "body": "PITTSBURGH (AP) — Matthew Liberatore ended an 11-start winless stretch and Alec Burleson got his major league-best 112th RBI as the St. Louis Cardinals defeated the Pittsburgh Pirates 5-1 on Wednesday night.\nLiberatore (6-14) gave up one run and six hits in 5 2/3 innings with six strikeouts and no walks. His previous win came on July 11 against Atlanta in the left-hander’s last start before the All-Star break. Liberatore had lost eight straight decisions.\nBurleson singled in the first run in a three-run third that put the Cardinals ahead 3-1. Iván Herrera scored on a wild pitch and Leo Bernal hit an RBI single.\nMasyn Winn doubled home a run and scored on JJ Wetherholt’s single in the fourth to stretch the lead to 5-1. Wetherholt had three hits and José Fermín added two.\nThe Pirates’ five-game winning streak ended. It matched their longest of the season.\nBrandon Lowe accounted for the Pirates’ lone run when he led off the second inning with his team-leading 34th homer, his first of two hits. Ryan O’Hearn had two doubles.\nBrandon Eisert (3-3) retired just two of the five betters he faced and was charged with three runs in relief of opener Lake Bachar.\nSt. Louis (77-81) must win its final four games to avoid its first consecutive losing seasons since 1958 and ’59. Pittsburgh (80-78) needs to at least split its last four games to finish with a winning record for the first time since 2018.\nUp next\nThe rubber match of the three game-series is Thursday, with St. Louis RHP Kyle Leahy (10-5, 3.65 ERA) facing 2025 NL Cy Young Award winner Paul Skenes (10-11, 3.91).\n___\nSee AP’s full MLB coverage here\nJohn Perrotto, The Associated Press",
+    "tracked_people": [
+      {
+        "name": "Cy Young",
+        "role": "Legend / Hall of Famer",
+        "status": "Franchise Legacy",
+        "type": "legend",
+        "id": 59,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "Canada"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Liberatore pitches Cardinals to victory, halts Pirates’ five-game winning streak",
+    "original_body": "PITTSBURGH (AP) — Matthew Liberatore ended an 11-start winless stretch and Alec Burleson got his major league-best 112th RBI as the St. Louis Cardinals defeated the Pittsburgh Pirates 5-1 on Wednesday night.\nLiberatore (6-14) gave up one run and six hits in 5 2/3 innings with six strikeouts and no walks. His previous win came on July 11 against Atlanta in the left-hander’s last start before the All-Star break. Liberatore had lost eight straight decisions.\nBurleson singled in the first run in a three-run third that put the Cardinals ahead 3-1. Iván Herrera scored on a wild pitch and Leo Bernal hit an RBI single.\nMasyn Winn doubled home a run and scored on JJ Wetherholt’s single in the fourth to stretch the lead to 5-1. Wetherholt had three hits and José Fermín added two.\nThe Pirates’ five-game winning streak ended. It matched their longest of the season.\nBrandon Lowe accounted for the Pirates’ lone run when he led off the second inning with his team-leading 34th homer, his first of two hits. Ryan O’Hearn had two doubles.\nBrandon Eisert (3-3) retired just two of the five betters he faced and was charged with three runs in relief of opener Lake Bachar.\nSt. Louis (77-81) must win its final four games to avoid its first consecutive losing seasons since 1958 and ’59. Pittsburgh (80-78) needs to at least split its last four games to finish with a winning record for the first time since 2018.\nUp next\nThe rubber match of the three game-series is Thursday, with St. Louis RHP Kyle Leahy (10-5, 3.65 ERA) facing 2025 NL Cy Young Award winner Paul Skenes (10-11, 3.91).\n___\nSee AP’s full MLB coverage here\nJohn Perrotto, The Associated Press",
+    "rss_title": "Liberatore pitches Cardinals to victory, halts Pirates’ five-game winning streak",
+    "rss_body": "PITTSBURGH (AP) — Matthew Liberatore ended an 11-start winless stretch and Alec Burleson got his major league-best 112th RBI as the St. Louis Cardinals defeated the Pittsburgh Pirates 5-1 on Wednesday night.\nLiberatore (6-14) gave up one run and six hits in 5 2/3 innings with six strikeouts and no walks. His previous win came on July 11 against Atlanta in the left-hander’s last start before the All-Star break. Liberatore had lost eight straight decisions.\nBurleson singled in the first run in a three-run third that put the Cardinals ahead 3-1. Iván Herrera scored on a wild pitch and Leo Bernal hit an RBI single.\nMasyn Winn doubled home a run and scored on JJ Wetherholt’s single in the fourth to stretch the lead to 5-1. Wetherholt had three hits and José Fermín added two.\nThe Pirates’ five-game winning streak ended. It matched their longest of the season.\nBrandon Lowe accounted for the Pirates’ lone run when he led off the second inning with his team-leading 34th homer, his first of two hits. Ryan O’Hearn had two doubles.\nBrandon Eisert (3-3) retired just two of the five betters he faced and was charged with three runs in relief of opener Lake Bachar.\nSt. Louis (77-81) must win its final four games to avoid its first consecutive losing seasons since 1958 and ’59. Pittsburgh (80-78) needs to at least split its last four games to finish with a winning record for the first time since 2018.\nUp next\nThe rubber match of the three game-series is Thursday, with St. Louis RHP Kyle Leahy (10-5, 3.65 ERA) facing 2025 NL Cy Young Award winner Paul Skenes (10-11, 3.91).\n___\nSee AP’s full MLB coverage here\nJohn Perrotto, The Associated Press",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "20e4788ae7a30593ef9a",
+    "title": "Rice hits 40th, 41st homers to power Yankees past Rays",
+    "source": "tsn.ca",
+    "author": "The Canadian Press",
+    "url": "https://www.tsn.ca/mlb/article/rice-hits-40th-41st-homers-to-power-yankees-past-rays/",
+    "published_iso": "2026-09-24T03:45:00+00:00",
+    "published_rfc2822": "Thu, 24 Sep 2026 03:45:00 +0000",
+    "body": "NEW YORK (AP) — Ben Rice hit his 40th and 41st home runs, Ryan McMahon added a grand slam while matching his career high with five RBIs and the New York Yankees beat the Tampa Bay Rays 9-2 on Wednesday night.\nGerrit Cole (10-9) allowed two runs and three hits in 5 2/3 innings and a season-high 105 pitches with eight strikeouts and three walks. The 2023 AL Cy Young Award winner had a 3.61 ERA and 131 strikeouts over 22 starts and 127 innings following his return in May from Tommy John surgery.\nA day after Tampa Bay clinched the AL East title, Rice hit the first pitch of the first inning from Mason Englert (0-4) into the right-field second deck for his fourth career leadoff homer and second this season.\nRice added a solo drive in the fourth for his fifth career multihomer game and finished with three hits. He is tied for the AL home run lead with Baltimore's Pete Alonso, the Rays' Junior Caminero and Houston's Yordan Alvarez.\nGeorge Lombard Jr. also homered for the Yankees and Cedric Mullins went deep for the Rays.\nNew York is assured of hosting a best-of-three AL Wild Card Series starting Tuesday, likely against Boston. The winner will face the Rays in a best-of-five Division Series.\nMcMahon had an RBI single in the second and boosted the lead to 7-0 in the third with his third career slam.\nEnglert, brought up to allow Rays starters extra rest ahead of the playoffs, allowed eight runs and nine hits in 4 2/3 innings.\nRays manager Kevin Cash said left-hander Shane McClanahan won't recover in time for the Division Series but left-hander Garrett Cleavinger and right-hander Tyler Wells are possibilities. All three have forearm tightness.\nUp next\nYankees RHP Cam Schlittler (14-6, 1.94 ERA) and Rays RHP Freddy Peralta (9-11, 4.56) start Thursday night's series finale.\n___\nSee AP’s full MLB coverage here\nThe Associated Press",
+    "tracked_people": [
+      {
+        "name": "Cy Young",
+        "role": "Legend / Hall of Famer",
+        "status": "Franchise Legacy",
+        "type": "legend",
+        "id": 59,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "Canada"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Rice hits 40th, 41st homers to power Yankees past Rays",
+    "original_body": "NEW YORK (AP) — Ben Rice hit his 40th and 41st home runs, Ryan McMahon added a grand slam while matching his career high with five RBIs and the New York Yankees beat the Tampa Bay Rays 9-2 on Wednesday night.\nGerrit Cole (10-9) allowed two runs and three hits in 5 2/3 innings and a season-high 105 pitches with eight strikeouts and three walks. The 2023 AL Cy Young Award winner had a 3.61 ERA and 131 strikeouts over 22 starts and 127 innings following his return in May from Tommy John surgery.\nA day after Tampa Bay clinched the AL East title, Rice hit the first pitch of the first inning from Mason Englert (0-4) into the right-field second deck for his fourth career leadoff homer and second this season.\nRice added a solo drive in the fourth for his fifth career multihomer game and finished with three hits. He is tied for the AL home run lead with Baltimore's Pete Alonso, the Rays' Junior Caminero and Houston's Yordan Alvarez.\nGeorge Lombard Jr. also homered for the Yankees and Cedric Mullins went deep for the Rays.\nNew York is assured of hosting a best-of-three AL Wild Card Series starting Tuesday, likely against Boston. The winner will face the Rays in a best-of-five Division Series.\nMcMahon had an RBI single in the second and boosted the lead to 7-0 in the third with his third career slam.\nEnglert, brought up to allow Rays starters extra rest ahead of the playoffs, allowed eight runs and nine hits in 4 2/3 innings.\nRays manager Kevin Cash said left-hander Shane McClanahan won't recover in time for the Division Series but left-hander Garrett Cleavinger and right-hander Tyler Wells are possibilities. All three have forearm tightness.\nUp next\nYankees RHP Cam Schlittler (14-6, 1.94 ERA) and Rays RHP Freddy Peralta (9-11, 4.56) start Thursday night's series finale.\n___\nSee AP’s full MLB coverage here\nThe Associated Press",
+    "rss_title": "Rice hits 40th, 41st homers to power Yankees past Rays",
+    "rss_body": "NEW YORK (AP) — Ben Rice hit his 40th and 41st home runs, Ryan McMahon added a grand slam while matching his career high with five RBIs and the New York Yankees beat the Tampa Bay Rays 9-2 on Wednesday night.\nGerrit Cole (10-9) allowed two runs and three hits in 5 2/3 innings and a season-high 105 pitches with eight strikeouts and three walks. The 2023 AL Cy Young Award winner had a 3.61 ERA and 131 strikeouts over 22 starts and 127 innings following his return in May from Tommy John surgery.\nA day after Tampa Bay clinched the AL East title, Rice hit the first pitch of the first inning from Mason Englert (0-4) into the right-field second deck for his fourth career leadoff homer and second this season.\nRice added a solo drive in the fourth for his fifth career multihomer game and finished with three hits. He is tied for the AL home run lead with Baltimore's Pete Alonso, the Rays' Junior Caminero and Houston's Yordan Alvarez.\nGeorge Lombard Jr. also homered for the Yankees and Cedric Mullins went deep for the Rays.\nNew York is assured of hosting a best-of-three AL Wild Card Series starting Tuesday, likely against Boston. The winner will face the Rays in a best-of-five Division Series.\nMcMahon had an RBI single in the second and boosted the lead to 7-0 in the third with his third career slam.\nEnglert, brought up to allow Rays starters extra rest ahead of the playoffs, allowed eight runs and nine hits in 4 2/3 innings.\nRays manager Kevin Cash said left-hander Shane McClanahan won't recover in time for the Division Series but left-hander Garrett Cleavinger and right-hander Tyler Wells are possibilities. All three have forearm tightness.\nUp next\nYankees RHP Cam Schlittler (14-6, 1.94 ERA) and Rays RHP Freddy Peralta (9-11, 4.56) start Thursday night's series finale.\n___\nSee AP’s full MLB coverage here\nThe Associated Press",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "3013eabe6bc2cf990bd0",
     "title": "Boston Red Sox' Jarren Duran Joins Exclusive List in Franchise History",
     "source": "roundtable.io",
@@ -272,102 +448,6 @@
         "body_characters": 2406
       }
     ]
-  },
-  {
-    "id": "8505744449e0c252ed6e",
-    "title": "Sonny Gray’s scoreless start powers Red Sox to close win over Guardians",
-    "source": "Boston Herald",
-    "author": "Gabrielle Starr",
-    "url": "https://www.bostonherald.com/2026/09/23/red-sox-cleveland-guardians-sonny-gray-foster-griffin-ceddanne-rafaela-injury-hamstring-andruw-monasterio-aroldis-chapman-chad-tracy-fenway-park-boston-mlb-postseason-news/",
-    "published_iso": "2026-09-24T02:28:56+00:00",
-    "published_rfc2822": "Thu, 24 Sep 2026 02:28:56 +0000",
-    "body": "The Boston Red Sox pulled off a 1-0 series-evening win over the visiting Cleveland Guardians on Wednesday night, despite the ongoing dearth of situational hitting that has plagued them for the last two weeks and intermittently throughout the season.\nBoston batters tallied 12 hits, but went 2 for 14 with runners in scoring position, and left 11 men on base in eight innings.\nFortunately for the home team, Sonny Gray was on form in his final start of the regular season. The veteran right-hander tossed six shutout innings, with four hits, one walk and three strikeouts.\nGray’s sixth scoreless start of at least six innings this year tied his single-season high first set in 2015 and matched in 2025. He is the first Red Sox pitcher to make at least six such starts in his age-36 season or older since Luis Tiant in 1977, and only the fourth in franchise history (also Cy Young, Lefty Grove).\n“Just a really good pitcher,” manager Chad Tracy said of his starter. “The level of consistency for him from start to finish has been very fun to watch, and impressive.”\nThough Gray’s pitch count sat at 77 (52 for strikes) after the sixth and the game remained scoreless, Tracy went to his bullpen. With Boston’s postseason ticket punched on Sunday, the short hook could suggest Gray is getting the ball for Game 1 of the Wild Card series on Tuesday.\nCleveland southpaw Foster Griffin was not nearly as adept at keeping the Red Sox off the diamond. He struck out seven and issued no walks, but yielded 10 hits in six innings of one-run ball.\nSave for Jarren Duran’s leadoff single and Andruw Monasterio’s two-out RBI single in the sixth, the Red Sox bailed Griffin out every time. They were 2 for 11 RISP through his six innings. Their nine men left on base during Griffin’s start included multiple in four of the first five frames and bases-loaded in the third.\n“Yeah, I mean, take the positives,” Tracy said of the offense. “I thought we swung the bat great. We actually got some hits today. … Between (the two-out hits) and the accumulation of hits and base runners throughout the game, I thought it was a pretty good offensive night. Obviously you’d like to score more, but we did take better plate appearances.”\nTyron Guerrero, Garrett Whitlock and Aroldis Chapman, Boston’s elite bullpen trio all season long, ensured the slim lead held until the end with a scoreless inning apiece. Tracy revealed postgame their appearances were “planned out, regardless of how the game went.”\n“That was great,” Tracy said. “To be able to score a run prior to that section of relievers coming in was fantastic.”\nDuran, who replaced Ceddanne Rafaela in center field in the top of the third, led off the bottom of the eighth with a single. His subsequent steal of second made 2026 his second career season with 20 home runs and 20 stolen bases (also 2024). Duran, Mookie Betts and Jackie Jensen are the only players in franchise history with multiple 20-20 seasons.\nRafaela’s first game back from a 10-day stint on the injured list with a right quad strain began in energetic fashion. He recorded each of the first three outs, including a diving catch to rob Guardians hitter Steven Kwan of a leadoff single.\nBut after pulling up lame at first base on his own leadoff single in the bottom of the second, Rafaela ultimately left the game with right hamstring tightness when the inning turned over. Tracy announced postgame that Rafaela will undergo an MRI on Thursday.\n“No, I think it’s more frustrating (than disappointing),” Tracy said of the Rafaela situation. “You want to see everybody get to that finish line healthy.\n“So more just when you see it, you’re concerned, you know? So (we) don’t know where we’re at with it yet. Hopefully, it’s not a huge deal, but still, yeah, makes your heart jump a little bit, and we’ll see where he’s at.”\nCleveland threatened against Whitlock in an eighth inning that saw both teams run out of ABS challenges. No. 9 hitter Brayan Rocchio led off with a single, and Whitlock issued a one-out walk to third baseman José Ramírez before getting an inning-ending double play from designated hitter Chase DeLauter.\nAfter the Red Sox stranded Duran in the bottom of the eighth, Chapman took the mound for the first time since Sept. 13. Boston’s All-Star closer was back in top form after being day-to-day with lat tightness. He struck out the side, Jo Adell, and pinch-hitters Angel Martínez and Angel Genao on 12 pitches.\nThe Red Sox are 85-73 with four games left to play. Wednesday marked Tracy’s first win since the interim tag was removed on Tuesday.",
-    "tracked_people": [
-      {
-        "name": "Andruw Monasterio",
-        "role": "Infielder",
-        "status": "Active",
-        "type": "player",
-        "id": 7,
-        "batch": 1
-      },
-      {
-        "name": "Jarren Duran",
-        "role": "Outfielder",
-        "status": "Active",
-        "type": "player",
-        "id": 14,
-        "batch": 1
-      },
-      {
-        "name": "Sonny Gray",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 17,
-        "batch": 1
-      },
-      {
-        "name": "Garrett Whitlock",
-        "role": "Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 28,
-        "batch": 1
-      },
-      {
-        "name": "Aroldis Chapman",
-        "role": "Relief Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 29,
-        "batch": 1
-      },
-      {
-        "name": "Ceddanne Rafaela",
-        "role": "Outfielder / Infielder",
-        "status": "10-day Injured List",
-        "type": "player",
-        "id": 32,
-        "batch": 2
-      },
-      {
-        "name": "Tyron Guerrero",
-        "role": "Pitcher",
-        "status": "15-day Injured List",
-        "type": "player",
-        "id": 35,
-        "batch": 2
-      },
-      {
-        "name": "Chad Tracy",
-        "role": "Manager",
-        "status": "Coaching Staff",
-        "type": "staff",
-        "id": 49,
-        "batch": 2
-      },
-      {
-        "name": "Cy Young",
-        "role": "Legend / Hall of Famer",
-        "status": "Franchise Legacy",
-        "type": "legend",
-        "id": 59,
-        "batch": 2
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "Sonny Gray’s scoreless start powers Red Sox to close win over Guardians",
-    "original_body": "The Boston Red Sox pulled off a 1-0 series-evening win over the visiting Cleveland Guardians on Wednesday night, despite the ongoing dearth of situational hitting that has plagued them for the last two weeks and intermittently throughout the season.\nBoston batters tallied 12 hits, but went 2 for 14 with runners in scoring position, and left 11 men on base in eight innings.\nFortunately for the home team, Sonny Gray was on form in his final start of the regular season. The veteran right-hander tossed six shutout innings, with four hits, one walk and three strikeouts.\nGray’s sixth scoreless start of at least six innings this year tied his single-season high first set in 2015 and matched in 2025. He is the first Red Sox pitcher to make at least six such starts in his age-36 season or older since Luis Tiant in 1977, and only the fourth in franchise history (also Cy Young, Lefty Grove).\n“Just a really good pitcher,” manager Chad Tracy said of his starter. “The level of consistency for him from start to finish has been very fun to watch, and impressive.”\nThough Gray’s pitch count sat at 77 (52 for strikes) after the sixth and the game remained scoreless, Tracy went to his bullpen. With Boston’s postseason ticket punched on Sunday, the short hook could suggest Gray is getting the ball for Game 1 of the Wild Card series on Tuesday.\nCleveland southpaw Foster Griffin was not nearly as adept at keeping the Red Sox off the diamond. He struck out seven and issued no walks, but yielded 10 hits in six innings of one-run ball.\nSave for Jarren Duran’s leadoff single and Andruw Monasterio’s two-out RBI single in the sixth, the Red Sox bailed Griffin out every time. They were 2 for 11 RISP through his six innings. Their nine men left on base during Griffin’s start included multiple in four of the first five frames and bases-loaded in the third.\n“Yeah, I mean, take the positives,” Tracy said of the offense. “I thought we swung the bat great. We actually got some hits today. … Between (the two-out hits) and the accumulation of hits and base runners throughout the game, I thought it was a pretty good offensive night. Obviously you’d like to score more, but we did take better plate appearances.”\nTyron Guerrero, Garrett Whitlock and Aroldis Chapman, Boston’s elite bullpen trio all season long, ensured the slim lead held until the end with a scoreless inning apiece. Tracy revealed postgame their appearances were “planned out, regardless of how the game went.”\n“That was great,” Tracy said. “To be able to score a run prior to that section of relievers coming in was fantastic.”\nDuran, who replaced Ceddanne Rafaela in center field in the top of the third, led off the bottom of the eighth with a single. His subsequent steal of second made 2026 his second career season with 20 home runs and 20 stolen bases (also 2024). Duran, Mookie Betts and Jackie Jensen are the only players in franchise history with multiple 20-20 seasons.\nRafaela’s first game back from a 10-day stint on the injured list with a right quad strain began in energetic fashion. He recorded each of the first three outs, including a diving catch to rob Guardians hitter Steven Kwan of a leadoff single.\nBut after pulling up lame at first base on his own leadoff single in the bottom of the second, Rafaela ultimately left the game with right hamstring tightness when the inning turned over. Tracy announced postgame that Rafaela will undergo an MRI on Thursday.\n“No, I think it’s more frustrating (than disappointing),” Tracy said of the Rafaela situation. “You want to see everybody get to that finish line healthy.\n“So more just when you see it, you’re concerned, you know? So (we) don’t know where we’re at with it yet. Hopefully, it’s not a huge deal, but still, yeah, makes your heart jump a little bit, and we’ll see where he’s at.”\nCleveland threatened against Whitlock in an eighth inning that saw both teams run out of ABS challenges. No. 9 hitter Brayan Rocchio led off with a single, and Whitlock issued a one-out walk to third baseman José Ramírez before getting an inning-ending double play from designated hitter Chase DeLauter.\nAfter the Red Sox stranded Duran in the bottom of the eighth, Chapman took the mound for the first time since Sept. 13. Boston’s All-Star closer was back in top form after being day-to-day with lat tightness. He struck out the side, Jo Adell, and pinch-hitters Angel Martínez and Angel Genao on 12 pitches.\nThe Red Sox are 85-73 with four games left to play. Wednesday marked Tracy’s first win since the interim tag was removed on Tuesday.",
-    "rss_title": "Sonny Gray’s scoreless start powers Red Sox to close win over Guardians",
-    "rss_body": "The Boston Red Sox pulled off a 1-0 series-evening win over the visiting Cleveland Guardians on Wednesday night, despite the ongoing dearth of situational hitting that has plagued them for the last two weeks and intermittently throughout the season.\nBoston batters tallied 12 hits, but went 2 for 14 with runners in scoring position, and left 11 men on base in eight innings.\nFortunately for the home team, Sonny Gray was on form in his final start of the regular season. The veteran right-hander tossed six shutout innings, with four hits, one walk and three strikeouts.\nGray’s sixth scoreless start of at least six innings this year tied his single-season high first set in 2015 and matched in 2025. He is the first Red Sox pitcher to make at least six such starts in his age-36 season or older since Luis Tiant in 1977, and only the fourth in franchise history (also Cy Young, Lefty Grove).\n“Just a really good pitcher,” manager Chad Tracy said of his starter. “The level of consistency for him from start to finish has been very fun to watch, and impressive.”\nThough Gray’s pitch count sat at 77 (52 for strikes) after the sixth and the game remained scoreless, Tracy went to his bullpen. With Boston’s postseason ticket punched on Sunday, the short hook could suggest Gray is getting the ball for Game 1 of the Wild Card series on Tuesday.\nCleveland southpaw Foster Griffin was not nearly as adept at keeping the Red Sox off the diamond. He struck out seven and issued no walks, but yielded 10 hits in six innings of one-run ball.\nSave for Jarren Duran’s leadoff single and Andruw Monasterio’s two-out RBI single in the sixth, the Red Sox bailed Griffin out every time. They were 2 for 11 RISP through his six innings. Their nine men left on base during Griffin’s start included multiple in four of the first five frames and bases-loaded in the third.\n“Yeah, I mean, take the positives,” Tracy said of the offense. “I thought we swung the bat great. We actually got some hits today. … Between (the two-out hits) and the accumulation of hits and base runners throughout the game, I thought it was a pretty good offensive night. Obviously you’d like to score more, but we did take better plate appearances.”\nTyron Guerrero, Garrett Whitlock and Aroldis Chapman, Boston’s elite bullpen trio all season long, ensured the slim lead held until the end with a scoreless inning apiece. Tracy revealed postgame their appearances were “planned out, regardless of how the game went.”\n“That was great,” Tracy said. “To be able to score a run prior to that section of relievers coming in was fantastic.”\nDuran, who replaced Ceddanne Rafaela in center field in the top of the third, led off the bottom of the eighth with a single. His subsequent steal of second made 2026 his second career season with 20 home runs and 20 stolen bases (also 2024). Duran, Mookie Betts and Jackie Jensen are the only players in franchise history with multiple 20-20 seasons.\nRafaela’s first game back from a 10-day stint on the injured list with a right quad strain began in energetic fashion. He recorded each of the first three outs, including a diving catch to rob Guardians hitter Steven Kwan of a leadoff single.\nBut after pulling up lame at first base on his own leadoff single in the bottom of the second, Rafaela ultimately left the game with right hamstring tightness when the inning turned over. Tracy announced postgame that Rafaela will undergo an MRI on Thursday.\n“No, I think it’s more frustrating (than disappointing),” Tracy said of the Rafaela situation. “You want to see everybody get to that finish line healthy.\n“So more just when you see it, you’re concerned, you know? So (we) don’t know where we’re at with it yet. Hopefully, it’s not a huge deal, but still, yeah, makes your heart jump a little bit, and we’ll see where he’s at.”\nCleveland threatened against Whitlock in an eighth inning that saw both teams run out of ABS challenges. No. 9 hitter Brayan Rocchio led off with a single, and Whitlock issued a one-out walk to third baseman José Ramírez before getting an inning-ending double play from designated hitter Chase DeLauter.\nAfter the Red Sox stranded Duran in the bottom of the eighth, Chapman took the mound for the first time since Sept. 13. Boston’s All-Star closer was back in top form after being day-to-day with lat tightness. He struck out the side, Jo Adell, and pinch-hitters Angel Martínez and Angel Genao on 12 pitches.\nThe Red Sox are 85-73 with four games left to play. Wednesday marked Tracy’s first win since the interim tag was removed on Tuesday.",
-    "translation_status": "fallback_original"
   },
   {
     "id": "bca0be817e1f0ab4d07a",
