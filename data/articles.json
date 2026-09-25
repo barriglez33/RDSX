@@ -1,5 +1,53 @@
 [
   {
+    "id": "20aaf6bfec67d8860cd5",
+    "title": "Red Sox Recall RHP Jedixson Paez",
+    "source": "MLB.com",
+    "author": "",
+    "url": "https://www.mlb.com/press-release/red-sox-recall-rhp-jedixson-paez",
+    "published_iso": "2026-09-25T20:11:19+00:00",
+    "published_rfc2822": "Fri, 25 Sep 2026 20:11:19 +0000",
+    "body": "BOSTON, MA—The Boston Red Sox today recalled right-handed pitcher Jedixson Paez. To make room, Boston optioned left-handed pitcher Raymond Burgos following the first game of today’s doubleheader against the Chicago Cubs.\nPaez, 22, has pitched in four Major League games (one start) this season with the Chicago White Sox (three games) and Red Sox (one start), his Major League debut, allowing 14 runs with three strikeouts over 6.2 innings. The right-hander has also posted a 3.69 ERA (29 ER/70.2 IP) with 82 strikeouts in 22 games (12 starts) between Double-A Portland (17 games, seven starts) and Triple-A Worcester (five starts) this season. Signed by Boston as an international free agent in January 2021, the Venezuela native owns a 3.31 ERA (139 ER/378.1 IP) with a 1.05 WHIP and 389 strikeouts in 95 career minor league games (70 starts).\nBurgos, 27, earned his second save of the season in the first game of today’s doubleheader against the Cubs, tossing 2.0 scoreless innings. The left-hander owns a 4.22 ERA (10 ER/21.1 IP) in nine appearances for Boston this season. He has also pitched in 17 games (15 starts) for Worcester, recording a 5.14 ERA (40 ER/70.0 IP) with 58 strikeouts. Originally selected by Cleveland in the 18th round of the 2016 First-Year Player Draft, the Puerto Rico native owns a 4.43 ERA (11 ER/22.1 IP) in 10 career Major League games with the San Francisco Giants (2024) and Red Sox (2026).",
+    "tracked_people": [
+      {
+        "name": "Raymond Burgos",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "Jedixson Paez",
+        "role": "Pitcher",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 44,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox Recall RHP Jedixson Paez",
+    "original_body": "BOSTON, MA—The Boston Red Sox today recalled right-handed pitcher Jedixson Paez. To make room, Boston optioned left-handed pitcher Raymond Burgos following the first game of today’s doubleheader against the Chicago Cubs.\nPaez, 22, has pitched in four Major League games (one start) this season with the Chicago White Sox (three games) and Red Sox (one start), his Major League debut, allowing 14 runs with three strikeouts over 6.2 innings. The right-hander has also posted a 3.69 ERA (29 ER/70.2 IP) with 82 strikeouts in 22 games (12 starts) between Double-A Portland (17 games, seven starts) and Triple-A Worcester (five starts) this season. Signed by Boston as an international free agent in January 2021, the Venezuela native owns a 3.31 ERA (139 ER/378.1 IP) with a 1.05 WHIP and 389 strikeouts in 95 career minor league games (70 starts).\nBurgos, 27, earned his second save of the season in the first game of today’s doubleheader against the Cubs, tossing 2.0 scoreless innings. The left-hander owns a 4.22 ERA (10 ER/21.1 IP) in nine appearances for Boston this season. He has also pitched in 17 games (15 starts) for Worcester, recording a 5.14 ERA (40 ER/70.0 IP) with 58 strikeouts. Originally selected by Cleveland in the 18th round of the 2016 First-Year Player Draft, the Puerto Rico native owns a 4.43 ERA (11 ER/22.1 IP) in 10 career Major League games with the San Francisco Giants (2024) and Red Sox (2026).",
+    "rss_title": "Red Sox Recall RHP Jedixson Paez",
+    "rss_body": "BOSTON, MA—The Boston Red Sox today recalled right-handed pitcher Jedixson Paez. To make room, Boston optioned left-handed pitcher Raymond Burgos following the first game of today’s doubleheader against the Chicago Cubs.\nPaez, 22, has pitched in four Major League games (one start) this season with the Chicago White Sox (three games) and Red Sox (one start), his Major League debut, allowing 14 runs with three strikeouts over 6.2 innings. The right-hander has also posted a 3.69 ERA (29 ER/70.2 IP) with 82 strikeouts in 22 games (12 starts) between Double-A Portland (17 games, seven starts) and Triple-A Worcester (five starts) this season. Signed by Boston as an international free agent in January 2021, the Venezuela native owns a 3.31 ERA (139 ER/378.1 IP) with a 1.05 WHIP and 389 strikeouts in 95 career minor league games (70 starts).\nBurgos, 27, earned his second save of the season in the first game of today’s doubleheader against the Cubs, tossing 2.0 scoreless innings. The left-hander owns a 4.22 ERA (10 ER/21.1 IP) in nine appearances for Boston this season. He has also pitched in 17 games (15 starts) for Worcester, recording a 5.14 ERA (40 ER/70.0 IP) with 58 strikeouts. Originally selected by Cleveland in the 18th round of the 2016 First-Year Player Draft, the Puerto Rico native owns a 4.43 ERA (11 ER/22.1 IP) in 10 career Major League games with the San Francisco Giants (2024) and Red Sox (2026).",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "NBC Sports",
+        "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/red-sox-recall-jedixson-paez-from-triple-a",
+        "title": "Red Sox recall Jedixson Paez from Triple-A",
+        "body_characters": 385
+      }
+    ]
+  },
+  {
     "id": "aa7f9ba01d449d93569d",
     "title": "Red Sox first-base concerns grow with Mickey Gasper injury news",
     "source": "Boston Herald",
@@ -237,46 +285,6 @@
     "original_body": "The Red Sox optioned Burgos after the first game of Friday's doubleheader against the Cubs.\nBurgos tossed two hitless and scoreless innings in Game 1, fanning three. With MLB not allowing teams to add an extra player for twin bills in September, Boston went ahead and swapped Burgos out for a fresh arm in Jedixson Paez.",
     "rss_title": "Red Sox's Raymond Burgos: Sent down Friday",
     "rss_body": "The Red Sox optioned Burgos after the first game of Friday's doubleheader against the Cubs.\nBurgos tossed two hitless and scoreless innings in Game 1, fanning three. With MLB not allowing teams to add an extra player for twin bills in September, Boston went ahead and swapped Burgos out for a fresh arm in Jedixson Paez.",
-    "translation_status": "fallback_original"
-  },
-  {
-    "id": "20aaf6bfec67d8860cd5",
-    "title": "Red Sox Recall RHP Jedixson Paez",
-    "source": "MLB.com",
-    "author": "",
-    "url": "https://www.mlb.com/press-release/red-sox-recall-rhp-jedixson-paez",
-    "published_iso": "2026-09-25T20:11:19+00:00",
-    "published_rfc2822": "Fri, 25 Sep 2026 20:11:19 +0000",
-    "body": "BOSTON, MA—The Boston Red Sox today recalled right-handed pitcher Jedixson Paez. To make room, Boston optioned left-handed pitcher Raymond Burgos following the first game of today’s doubleheader against the Chicago Cubs.\nPaez, 22, has pitched in four Major League games (one start) this season with the Chicago White Sox (three games) and Red Sox (one start), his Major League debut, allowing 14 runs with three strikeouts over 6.2 innings. The right-hander has also posted a 3.69 ERA (29 ER/70.2 IP) with 82 strikeouts in 22 games (12 starts) between Double-A Portland (17 games, seven starts) and Triple-A Worcester (five starts) this season. Signed by Boston as an international free agent in January 2021, the Venezuela native owns a 3.31 ERA (139 ER/378.1 IP) with a 1.05 WHIP and 389 strikeouts in 95 career minor league games (70 starts).\nBurgos, 27, earned his second save of the season in the first game of today’s doubleheader against the Cubs, tossing 2.0 scoreless innings. The left-hander owns a 4.22 ERA (10 ER/21.1 IP) in nine appearances for Boston this season. He has also pitched in 17 games (15 starts) for Worcester, recording a 5.14 ERA (40 ER/70.0 IP) with 58 strikeouts. Originally selected by Cleveland in the 18th round of the 2016 First-Year Player Draft, the Puerto Rico native owns a 4.43 ERA (11 ER/22.1 IP) in 10 career Major League games with the San Francisco Giants (2024) and Red Sox (2026).",
-    "tracked_people": [
-      {
-        "name": "Raymond Burgos",
-        "role": "Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 22,
-        "batch": 1
-      },
-      {
-        "name": "Jedixson Paez",
-        "role": "Pitcher",
-        "status": "Minor Leagues",
-        "type": "prospect",
-        "id": 44,
-        "batch": 2
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "Red Sox Recall RHP Jedixson Paez",
-    "original_body": "BOSTON, MA—The Boston Red Sox today recalled right-handed pitcher Jedixson Paez. To make room, Boston optioned left-handed pitcher Raymond Burgos following the first game of today’s doubleheader against the Chicago Cubs.\nPaez, 22, has pitched in four Major League games (one start) this season with the Chicago White Sox (three games) and Red Sox (one start), his Major League debut, allowing 14 runs with three strikeouts over 6.2 innings. The right-hander has also posted a 3.69 ERA (29 ER/70.2 IP) with 82 strikeouts in 22 games (12 starts) between Double-A Portland (17 games, seven starts) and Triple-A Worcester (five starts) this season. Signed by Boston as an international free agent in January 2021, the Venezuela native owns a 3.31 ERA (139 ER/378.1 IP) with a 1.05 WHIP and 389 strikeouts in 95 career minor league games (70 starts).\nBurgos, 27, earned his second save of the season in the first game of today’s doubleheader against the Cubs, tossing 2.0 scoreless innings. The left-hander owns a 4.22 ERA (10 ER/21.1 IP) in nine appearances for Boston this season. He has also pitched in 17 games (15 starts) for Worcester, recording a 5.14 ERA (40 ER/70.0 IP) with 58 strikeouts. Originally selected by Cleveland in the 18th round of the 2016 First-Year Player Draft, the Puerto Rico native owns a 4.43 ERA (11 ER/22.1 IP) in 10 career Major League games with the San Francisco Giants (2024) and Red Sox (2026).",
-    "rss_title": "Red Sox Recall RHP Jedixson Paez",
-    "rss_body": "BOSTON, MA—The Boston Red Sox today recalled right-handed pitcher Jedixson Paez. To make room, Boston optioned left-handed pitcher Raymond Burgos following the first game of today’s doubleheader against the Chicago Cubs.\nPaez, 22, has pitched in four Major League games (one start) this season with the Chicago White Sox (three games) and Red Sox (one start), his Major League debut, allowing 14 runs with three strikeouts over 6.2 innings. The right-hander has also posted a 3.69 ERA (29 ER/70.2 IP) with 82 strikeouts in 22 games (12 starts) between Double-A Portland (17 games, seven starts) and Triple-A Worcester (five starts) this season. Signed by Boston as an international free agent in January 2021, the Venezuela native owns a 3.31 ERA (139 ER/378.1 IP) with a 1.05 WHIP and 389 strikeouts in 95 career minor league games (70 starts).\nBurgos, 27, earned his second save of the season in the first game of today’s doubleheader against the Cubs, tossing 2.0 scoreless innings. The left-hander owns a 4.22 ERA (10 ER/21.1 IP) in nine appearances for Boston this season. He has also pitched in 17 games (15 starts) for Worcester, recording a 5.14 ERA (40 ER/70.0 IP) with 58 strikeouts. Originally selected by Cleveland in the 18th round of the 2016 First-Year Player Draft, the Puerto Rico native owns a 4.43 ERA (11 ER/22.1 IP) in 10 career Major League games with the San Francisco Giants (2024) and Red Sox (2026).",
     "translation_status": "fallback_original"
   },
   {
