@@ -1,5 +1,245 @@
 [
   {
+    "id": "aa7f9ba01d449d93569d",
+    "title": "Red Sox first-base concerns grow with Mickey Gasper injury news",
+    "source": "Boston Herald",
+    "author": "Gabrielle Starr",
+    "url": "https://www.bostonherald.com/2026/09/25/red-sox-first-base-concerns-grow-mickey-gasper-injury-willson-contreras-mlb-postseason-news/",
+    "published_iso": "2026-09-25T21:25:38+00:00",
+    "published_rfc2822": "Fri, 25 Sep 2026 21:25:38 +0000",
+    "body": "With Willson Contreras’ availability for next week’s Wild Card Series already in doubt following a hit-by-pitch to the hand on Sept. 17, the Boston Red Sox could ill afford another hit to their first-base depth.\nWhich is exactly what happened during Game 1 of Friday’s doubleheader against the visiting Chicago Cubs. Mickey Gasper, serving as catcher and batting second, did not return for the top of the sixth inning, due to right biceps discomfort.\nManager Chad Tracy clarified Gasper felt the discomfort on the swing in his fifth-inning strikeout against Cubs starter Clay Holmes, and said he was going to get an MRI.\n“He’s in some pretty good discomfort,” Tracy said.\nGasper has been one of the improbable heroes of this Red Sox season, particularly in the second half. After being recalled from Triple-A Worcester in mid-August, he hit .272 with a 1.119 OPS in 32 games entering Friday. His 22 hits in that span included all 10 of his career home runs.\nContreras has not played since taking a pitch to the top of his hand in Texas on Sept. 17. Though another CT scan on Thursday confirmed there is no fracture, the veteran infielder was unable to swing the bat the last two days due to lingering pain.\nBut on Friday morning, Tracy said they had not ruled out Contreras playing in the final game of the series.\n“Life certainly creates uncertainty,” Tracy said of the Contreras and Gasper injuries. “But like, obviously, we’re pushing. Our hope is we can get them there.”",
+    "tracked_people": [
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox first-base concerns grow with Mickey Gasper injury news",
+    "original_body": "With Willson Contreras’ availability for next week’s Wild Card Series already in doubt following a hit-by-pitch to the hand on Sept. 17, the Boston Red Sox could ill afford another hit to their first-base depth.\nWhich is exactly what happened during Game 1 of Friday’s doubleheader against the visiting Chicago Cubs. Mickey Gasper, serving as catcher and batting second, did not return for the top of the sixth inning, due to right biceps discomfort.\nManager Chad Tracy clarified Gasper felt the discomfort on the swing in his fifth-inning strikeout against Cubs starter Clay Holmes, and said he was going to get an MRI.\n“He’s in some pretty good discomfort,” Tracy said.\nGasper has been one of the improbable heroes of this Red Sox season, particularly in the second half. After being recalled from Triple-A Worcester in mid-August, he hit .272 with a 1.119 OPS in 32 games entering Friday. His 22 hits in that span included all 10 of his career home runs.\nContreras has not played since taking a pitch to the top of his hand in Texas on Sept. 17. Though another CT scan on Thursday confirmed there is no fracture, the veteran infielder was unable to swing the bat the last two days due to lingering pain.\nBut on Friday morning, Tracy said they had not ruled out Contreras playing in the final game of the series.\n“Life certainly creates uncertainty,” Tracy said of the Contreras and Gasper injuries. “But like, obviously, we’re pushing. Our hope is we can get them there.”",
+    "rss_title": "Red Sox first-base concerns grow with Mickey Gasper injury news",
+    "rss_body": "With Willson Contreras’ availability for next week’s Wild Card Series already in doubt following a hit-by-pitch to the hand on Sept. 17, the Boston Red Sox could ill afford another hit to their first-base depth.\nWhich is exactly what happened during Game 1 of Friday’s doubleheader against the visiting Chicago Cubs. Mickey Gasper, serving as catcher and batting second, did not return for the top of the sixth inning, due to right biceps discomfort.\nManager Chad Tracy clarified Gasper felt the discomfort on the swing in his fifth-inning strikeout against Cubs starter Clay Holmes, and said he was going to get an MRI.\n“He’s in some pretty good discomfort,” Tracy said.\nGasper has been one of the improbable heroes of this Red Sox season, particularly in the second half. After being recalled from Triple-A Worcester in mid-August, he hit .272 with a 1.119 OPS in 32 games entering Friday. His 22 hits in that span included all 10 of his career home runs.\nContreras has not played since taking a pitch to the top of his hand in Texas on Sept. 17. Though another CT scan on Thursday confirmed there is no fracture, the veteran infielder was unable to swing the bat the last two days due to lingering pain.\nBut on Friday morning, Tracy said they had not ruled out Contreras playing in the final game of the series.\n“Life certainly creates uncertainty,” Tracy said of the Contreras and Gasper injuries. “But like, obviously, we’re pushing. Our hope is we can get them there.”",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "8258ad59c6944167bda1",
+    "title": "Red Sox's Mickey Gasper: Expected to miss wild-card round",
+    "source": "CBS Sports",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/red-soxs-mickey-gasper-expected-to-miss-wild-card-round/",
+    "published_iso": "2026-09-25T20:53:24+00:00",
+    "published_rfc2822": "Fri, 25 Sep 2026 20:53:24 +0000",
+    "body": "Gasper will likely miss the AL Wild Card Series against the Yankees after suffering a biceps injury during the first game of Friday's doubleheader against the Cubs, Christopher Smith of MassLive.com reports.\nThe results of Gasper's MRI have not been disclosed, but it sounds like the Red Sox are preparing to be without him for at least the first round of the playoffs. Gasper was injured on a swinging strikeout in the fifth inning of Friday's matinee. Manager Chad Tracy said afterward that Gasper was in \"some pretty good discomfort.\"",
+    "tracked_people": [
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox's Mickey Gasper: Expected to miss wild-card round",
+    "original_body": "Gasper will likely miss the AL Wild Card Series against the Yankees after suffering a biceps injury during the first game of Friday's doubleheader against the Cubs, Christopher Smith of MassLive.com reports.\nThe results of Gasper's MRI have not been disclosed, but it sounds like the Red Sox are preparing to be without him for at least the first round of the playoffs. Gasper was injured on a swinging strikeout in the fifth inning of Friday's matinee. Manager Chad Tracy said afterward that Gasper was in \"some pretty good discomfort.\"",
+    "rss_title": "Red Sox's Mickey Gasper: Expected to miss wild-card round",
+    "rss_body": "Gasper will likely miss the AL Wild Card Series against the Yankees after suffering a biceps injury during the first game of Friday's doubleheader against the Cubs, Christopher Smith of MassLive.com reports.\nThe results of Gasper's MRI have not been disclosed, but it sounds like the Red Sox are preparing to be without him for at least the first round of the playoffs. Gasper was injured on a swinging strikeout in the fifth inning of Friday's matinee. Manager Chad Tracy said afterward that Gasper was in \"some pretty good discomfort.\"",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "cbc2df929162429b9b29",
+    "title": "Red Sox option Raymond Burgos back to Triple-A",
+    "source": "NBC Sports",
+    "author": "David Shovein; Raymond Burgos",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/red-sox-option-raymond-burgos-back-to-triple-a",
+    "published_iso": "2026-09-25T20:51:35+00:00",
+    "published_rfc2822": "Fri, 25 Sep 2026 20:51:35 +0000",
+    "body": "Red Sox optioned LHP Raymond Burgos to Triple-A Worcester.\n            \n                Burgos fired two perfect innings against the Cubs in the first game of Friday’s doubleheader, protecting a one-run advantage to earn a save. He was then optioned out before the nightcap so the Red Sox could add a fresh arm to the staff in Jedixson Paez. It’s possible that Burgos could get another opportunity with the Red Sox for the postseason.",
+    "tracked_people": [
+      {
+        "name": "Raymond Burgos",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "Jedixson Paez",
+        "role": "Pitcher",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 44,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox option Raymond Burgos back to Triple-A",
+    "original_body": "Red Sox optioned LHP Raymond Burgos to Triple-A Worcester.\n            \n                Burgos fired two perfect innings against the Cubs in the first game of Friday’s doubleheader, protecting a one-run advantage to earn a save. He was then optioned out before the nightcap so the Red Sox could add a fresh arm to the staff in Jedixson Paez. It’s possible that Burgos could get another opportunity with the Red Sox for the postseason.",
+    "rss_title": "Red Sox option Raymond Burgos back to Triple-A",
+    "rss_body": "Red Sox optioned LHP Raymond Burgos to Triple-A Worcester.\n            \n                Burgos fired two perfect innings against the Cubs in the first game of Friday’s doubleheader, protecting a one-run advantage to earn a save. He was then optioned out before the nightcap so the Red Sox could add a fresh arm to the staff in Jedixson Paez. It’s possible that Burgos could get another opportunity with the Red Sox for the postseason.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "6742178d86d41e2b3444",
+    "title": "Red Sox option Raymond Burgos, recall rookie for 2nd game of doubleheader",
+    "source": "Boston Herald",
+    "author": "Mac Cerullo",
+    "url": "https://www.bostonherald.com/2026/09/25/red-sox-option-raymond-burgos-recall-rookie-for-2nd-game-of-doubleheader/",
+    "published_iso": "2026-09-25T20:39:57+00:00",
+    "published_rfc2822": "Fri, 25 Sep 2026 20:39:57 +0000",
+    "body": "The Red Sox are bringing in a fresh arm for the second game of Friday’s doubleheader.\nAfter pitching on back-to-back days and throwing a combined 61 pitches, left-hander Raymond Burgos is being optioned to clear space for rookie right-hander Jedixson Paez.\nBurgos threw the final two innings of Boston’s last two games, tossing two scoreless innings in Thursday’s 1-0 loss to the Cleveland Guardians before earning the save with two scoreless innings in Game 1 of Friday’s doubleheader against the Chicago Cubs.\nHaving taken on that level of workload Burgos likely wouldn’t have been available to pitch again until Sunday at the earliest, and he certainly wouldn’t have been an option out of the bullpen in Friday’s Game 2.\nPaez has had a rocky rookie season in the majors. The 22-year-old was plucked from the Red Sox system by the Chicago White Sox in last winter’s Rule 5 Draft and made his MLB debut this past March. Paez made three appearances with the White Sox before being returned back to Boston, where he remained in the minors for the majority of the season until he was called back up for the club’s Sept. 1 game against the Seattle Mariners.\nPaez allowed eight runs on 10 hits and two walks over 3 2/3 innings in that game, and through his first four big league appearances he has posted an 18.90 ERA over 6 2/3 career innings.",
+    "tracked_people": [
+      {
+        "name": "Raymond Burgos",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "Jedixson Paez",
+        "role": "Pitcher",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 44,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox option Raymond Burgos, recall rookie for 2nd game of doubleheader",
+    "original_body": "The Red Sox are bringing in a fresh arm for the second game of Friday’s doubleheader.\nAfter pitching on back-to-back days and throwing a combined 61 pitches, left-hander Raymond Burgos is being optioned to clear space for rookie right-hander Jedixson Paez.\nBurgos threw the final two innings of Boston’s last two games, tossing two scoreless innings in Thursday’s 1-0 loss to the Cleveland Guardians before earning the save with two scoreless innings in Game 1 of Friday’s doubleheader against the Chicago Cubs.\nHaving taken on that level of workload Burgos likely wouldn’t have been available to pitch again until Sunday at the earliest, and he certainly wouldn’t have been an option out of the bullpen in Friday’s Game 2.\nPaez has had a rocky rookie season in the majors. The 22-year-old was plucked from the Red Sox system by the Chicago White Sox in last winter’s Rule 5 Draft and made his MLB debut this past March. Paez made three appearances with the White Sox before being returned back to Boston, where he remained in the minors for the majority of the season until he was called back up for the club’s Sept. 1 game against the Seattle Mariners.\nPaez allowed eight runs on 10 hits and two walks over 3 2/3 innings in that game, and through his first four big league appearances he has posted an 18.90 ERA over 6 2/3 career innings.",
+    "rss_title": "Red Sox option Raymond Burgos, recall rookie for 2nd game of doubleheader",
+    "rss_body": "The Red Sox are bringing in a fresh arm for the second game of Friday’s doubleheader.\nAfter pitching on back-to-back days and throwing a combined 61 pitches, left-hander Raymond Burgos is being optioned to clear space for rookie right-hander Jedixson Paez.\nBurgos threw the final two innings of Boston’s last two games, tossing two scoreless innings in Thursday’s 1-0 loss to the Cleveland Guardians before earning the save with two scoreless innings in Game 1 of Friday’s doubleheader against the Chicago Cubs.\nHaving taken on that level of workload Burgos likely wouldn’t have been available to pitch again until Sunday at the earliest, and he certainly wouldn’t have been an option out of the bullpen in Friday’s Game 2.\nPaez has had a rocky rookie season in the majors. The 22-year-old was plucked from the Red Sox system by the Chicago White Sox in last winter’s Rule 5 Draft and made his MLB debut this past March. Paez made three appearances with the White Sox before being returned back to Boston, where he remained in the minors for the majority of the season until he was called back up for the club’s Sept. 1 game against the Seattle Mariners.\nPaez allowed eight runs on 10 hits and two walks over 3 2/3 innings in that game, and through his first four big league appearances he has posted an 18.90 ERA over 6 2/3 career innings.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "d0cc3aeb41c8ae255fbf",
+    "title": "Willson Contreras could miss wild-card series against Yankees in potential massive Red Sox blow",
+    "source": "nypost.com",
+    "author": "Dylan Svoboda",
+    "url": "https://nypost.com/2026/09/25/sports/willson-contreras-could-miss-wild-card-series-in-potential-massive-red-sox-blow/",
+    "published_iso": "2026-09-25T20:25:00+00:00",
+    "published_rfc2822": "Fri, 25 Sep 2026 20:25:00 +0000",
+    "body": "The Red Sox’s best hitter could miss the wild-card round against the Yankees.\nBoston first baseman Willson Contreras’ status is in question after he was hit on the hand by a pitch last week, and he told reporters Thursday that he can’t swing a bat without pain.\n“I’m working hard with the trainers; the hand is slowly getting better,” Contreras said Thursday night, per MLB.com. “But I haven’t been able to swing the last two days. I’ll be honest with the team. I know Tuesday is a really important game. It’s a really important series, and I’ll be completely honest with the team.”\nContreras, a four-time All-Star, was hit on the knuckle of his right ring finger and pinkie on Sept. 17 and hasn’t played since.\nMLB.com reported that Contreras was able to swing before Boston’s mid-week series against the Guardians but couldn’t do so on Wednesday or Thursday.\nContreras is having one of the best seasons of his big league career, hitting .276/.387/.518 with 27 home runs and 81 RBIs.\n“It’s frustrating, if I’m being honest,” Contreras said. “I was hoping to swing today, and I couldn’t swing. I came into my locker just tearing up because that’s what we play for. We play to play in October, and it’s really frustrating when we’re doing the best you can do and you’re expecting to heal faster and that doesn’t happen.”\nContreras said tests didn’t find a fracture, with the lingering pain instead coming from inflammation and a bone bruise.\nHe plans to continue treatment over the next few days, but Contreras said he won’t force the issue if his hand still doesn’t feel right.\n“Hopefully, I can swing the bat tomorrow and Saturday and go from there,” he said. “But like I said, I’m an honest guy, and if I don’t feel confident in my hand to be able to play either Sunday or Tuesday, I’ll be completely honest with the team.\n“I don’t want to hurt the team in any way. I know that the guys here have been playing every single day, and I respect that. If I don’t feel good, I don’t want to take anybody’s spot. That’s my point. And the whole team is playing good, even though we lost tonight. The energy is still up. The guys can’t wait for Tuesday, and I can’t wait either. But we’ll see what happens.”\nContreras isn’t the only injured star coming into the series. The Yankees are in danger of being without Aaron Judge for at least the wild-card rivalry match.",
+    "tracked_people": [
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Willson Contreras could miss wild-card series against Yankees in potential massive Red Sox blow",
+    "original_body": "The Red Sox’s best hitter could miss the wild-card round against the Yankees.\nBoston first baseman Willson Contreras’ status is in question after he was hit on the hand by a pitch last week, and he told reporters Thursday that he can’t swing a bat without pain.\n“I’m working hard with the trainers; the hand is slowly getting better,” Contreras said Thursday night, per MLB.com. “But I haven’t been able to swing the last two days. I’ll be honest with the team. I know Tuesday is a really important game. It’s a really important series, and I’ll be completely honest with the team.”\nContreras, a four-time All-Star, was hit on the knuckle of his right ring finger and pinkie on Sept. 17 and hasn’t played since.\nMLB.com reported that Contreras was able to swing before Boston’s mid-week series against the Guardians but couldn’t do so on Wednesday or Thursday.\nContreras is having one of the best seasons of his big league career, hitting .276/.387/.518 with 27 home runs and 81 RBIs.\n“It’s frustrating, if I’m being honest,” Contreras said. “I was hoping to swing today, and I couldn’t swing. I came into my locker just tearing up because that’s what we play for. We play to play in October, and it’s really frustrating when we’re doing the best you can do and you’re expecting to heal faster and that doesn’t happen.”\nContreras said tests didn’t find a fracture, with the lingering pain instead coming from inflammation and a bone bruise.\nHe plans to continue treatment over the next few days, but Contreras said he won’t force the issue if his hand still doesn’t feel right.\n“Hopefully, I can swing the bat tomorrow and Saturday and go from there,” he said. “But like I said, I’m an honest guy, and if I don’t feel confident in my hand to be able to play either Sunday or Tuesday, I’ll be completely honest with the team.\n“I don’t want to hurt the team in any way. I know that the guys here have been playing every single day, and I respect that. If I don’t feel good, I don’t want to take anybody’s spot. That’s my point. And the whole team is playing good, even though we lost tonight. The energy is still up. The guys can’t wait for Tuesday, and I can’t wait either. But we’ll see what happens.”\nContreras isn’t the only injured star coming into the series. The Yankees are in danger of being without Aaron Judge for at least the wild-card rivalry match.",
+    "rss_title": "Willson Contreras could miss wild-card series against Yankees in potential massive Red Sox blow",
+    "rss_body": "The Red Sox’s best hitter could miss the wild-card round against the Yankees.\nBoston first baseman Willson Contreras’ status is in question after he was hit on the hand by a pitch last week, and he told reporters Thursday that he can’t swing a bat without pain.\n“I’m working hard with the trainers; the hand is slowly getting better,” Contreras said Thursday night, per MLB.com. “But I haven’t been able to swing the last two days. I’ll be honest with the team. I know Tuesday is a really important game. It’s a really important series, and I’ll be completely honest with the team.”\nContreras, a four-time All-Star, was hit on the knuckle of his right ring finger and pinkie on Sept. 17 and hasn’t played since.\nMLB.com reported that Contreras was able to swing before Boston’s mid-week series against the Guardians but couldn’t do so on Wednesday or Thursday.\nContreras is having one of the best seasons of his big league career, hitting .276/.387/.518 with 27 home runs and 81 RBIs.\n“It’s frustrating, if I’m being honest,” Contreras said. “I was hoping to swing today, and I couldn’t swing. I came into my locker just tearing up because that’s what we play for. We play to play in October, and it’s really frustrating when we’re doing the best you can do and you’re expecting to heal faster and that doesn’t happen.”\nContreras said tests didn’t find a fracture, with the lingering pain instead coming from inflammation and a bone bruise.\nHe plans to continue treatment over the next few days, but Contreras said he won’t force the issue if his hand still doesn’t feel right.\n“Hopefully, I can swing the bat tomorrow and Saturday and go from there,” he said. “But like I said, I’m an honest guy, and if I don’t feel confident in my hand to be able to play either Sunday or Tuesday, I’ll be completely honest with the team.\n“I don’t want to hurt the team in any way. I know that the guys here have been playing every single day, and I respect that. If I don’t feel good, I don’t want to take anybody’s spot. That’s my point. And the whole team is playing good, even though we lost tonight. The energy is still up. The guys can’t wait for Tuesday, and I can’t wait either. But we’ll see what happens.”\nContreras isn’t the only injured star coming into the series. The Yankees are in danger of being without Aaron Judge for at least the wild-card rivalry match.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "b7b24dc803efd2f54b17",
+    "title": "Red Sox's Raymond Burgos: Sent down Friday",
+    "source": "CBS Sports",
+    "author": "RotoWire Staff",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/red-soxs-raymond-burgos-sent-down-friday/",
+    "published_iso": "2026-09-25T20:25:00+00:00",
+    "published_rfc2822": "Fri, 25 Sep 2026 20:25:00 +0000",
+    "body": "The Red Sox optioned Burgos after the first game of Friday's doubleheader against the Cubs.\nBurgos tossed two hitless and scoreless innings in Game 1, fanning three. With MLB not allowing teams to add an extra player for twin bills in September, Boston went ahead and swapped Burgos out for a fresh arm in Jedixson Paez.",
+    "tracked_people": [
+      {
+        "name": "Raymond Burgos",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "Jedixson Paez",
+        "role": "Pitcher",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 44,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox's Raymond Burgos: Sent down Friday",
+    "original_body": "The Red Sox optioned Burgos after the first game of Friday's doubleheader against the Cubs.\nBurgos tossed two hitless and scoreless innings in Game 1, fanning three. With MLB not allowing teams to add an extra player for twin bills in September, Boston went ahead and swapped Burgos out for a fresh arm in Jedixson Paez.",
+    "rss_title": "Red Sox's Raymond Burgos: Sent down Friday",
+    "rss_body": "The Red Sox optioned Burgos after the first game of Friday's doubleheader against the Cubs.\nBurgos tossed two hitless and scoreless innings in Game 1, fanning three. With MLB not allowing teams to add an extra player for twin bills in September, Boston went ahead and swapped Burgos out for a fresh arm in Jedixson Paez.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "20aaf6bfec67d8860cd5",
     "title": "Red Sox Recall RHP Jedixson Paez",
     "source": "MLB.com",
@@ -37,6 +277,214 @@
     "original_body": "BOSTON, MA—The Boston Red Sox today recalled right-handed pitcher Jedixson Paez. To make room, Boston optioned left-handed pitcher Raymond Burgos following the first game of today’s doubleheader against the Chicago Cubs.\nPaez, 22, has pitched in four Major League games (one start) this season with the Chicago White Sox (three games) and Red Sox (one start), his Major League debut, allowing 14 runs with three strikeouts over 6.2 innings. The right-hander has also posted a 3.69 ERA (29 ER/70.2 IP) with 82 strikeouts in 22 games (12 starts) between Double-A Portland (17 games, seven starts) and Triple-A Worcester (five starts) this season. Signed by Boston as an international free agent in January 2021, the Venezuela native owns a 3.31 ERA (139 ER/378.1 IP) with a 1.05 WHIP and 389 strikeouts in 95 career minor league games (70 starts).\nBurgos, 27, earned his second save of the season in the first game of today’s doubleheader against the Cubs, tossing 2.0 scoreless innings. The left-hander owns a 4.22 ERA (10 ER/21.1 IP) in nine appearances for Boston this season. He has also pitched in 17 games (15 starts) for Worcester, recording a 5.14 ERA (40 ER/70.0 IP) with 58 strikeouts. Originally selected by Cleveland in the 18th round of the 2016 First-Year Player Draft, the Puerto Rico native owns a 4.43 ERA (11 ER/22.1 IP) in 10 career Major League games with the San Francisco Giants (2024) and Red Sox (2026).",
     "rss_title": "Red Sox Recall RHP Jedixson Paez",
     "rss_body": "BOSTON, MA—The Boston Red Sox today recalled right-handed pitcher Jedixson Paez. To make room, Boston optioned left-handed pitcher Raymond Burgos following the first game of today’s doubleheader against the Chicago Cubs.\nPaez, 22, has pitched in four Major League games (one start) this season with the Chicago White Sox (three games) and Red Sox (one start), his Major League debut, allowing 14 runs with three strikeouts over 6.2 innings. The right-hander has also posted a 3.69 ERA (29 ER/70.2 IP) with 82 strikeouts in 22 games (12 starts) between Double-A Portland (17 games, seven starts) and Triple-A Worcester (five starts) this season. Signed by Boston as an international free agent in January 2021, the Venezuela native owns a 3.31 ERA (139 ER/378.1 IP) with a 1.05 WHIP and 389 strikeouts in 95 career minor league games (70 starts).\nBurgos, 27, earned his second save of the season in the first game of today’s doubleheader against the Cubs, tossing 2.0 scoreless innings. The left-hander owns a 4.22 ERA (10 ER/21.1 IP) in nine appearances for Boston this season. He has also pitched in 17 games (15 starts) for Worcester, recording a 5.14 ERA (40 ER/70.0 IP) with 58 strikeouts. Originally selected by Cleveland in the 18th round of the 2016 First-Year Player Draft, the Puerto Rico native owns a 4.43 ERA (11 ER/22.1 IP) in 10 career Major League games with the San Francisco Giants (2024) and Red Sox (2026).",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "a282259fbe3895f50b58",
+    "title": "Roman Anthony rakes as Red Sox take Game 1 vs. Cubs",
+    "source": "Yahoo Sports",
+    "author": "Jake Reiser",
+    "url": "https://sports.yahoo.com/articles/roman-anthony-rakes-red-sox-200815612.html",
+    "published_iso": "2026-09-25T20:08:15+00:00",
+    "published_rfc2822": "Fri, 25 Sep 2026 20:08:15 +0000",
+    "body": "Alec Gamboa is not a starter. At least not at the Major League level caliber. But when the Red Sox needed someone to open a doubleheader on the last Friday of the regular season, they handed it to him anyway—and the Cubs made him pay for it quickly.\nTyrone Taylor doubled in the first inning to put Chicago on the board. Miguel Amaya followed with a two-run double in the second. Three runs in two innings, Clay Holmes cruising, and the Sox in a hole before most of Fenway (whoever was going to brave the risk of weather) had settled into their seats.\nThen the defense took over.\nCaleb Durbin threw Matt Shaw out at the plate in the second inning to keep the Cubs from stretching it further. Isiah Kiner-Falefa made a sliding grab in the third. Andruw Monasterio came up with a diving catch in the fourth. Not glamorous plays in the box score, but they kept 3-0 from turning into 5-0, and that mattered later.\nRoman Anthony was (finally) doing Roman Anthony things all afternoon. He went 3-for-3 with a walk and his fingerprints are on both comeback sequences that mattered. He got things started in the third when he scored on a Dansby Swanson throwing error to make it 3-1. Stayed alive. Kept the at-bats meaningful.\nIt stayed there until Adley Rutschman. With two on in the fifth against Caleb Thielbar, Rutschman hit a two-run double to tie the game. That's the at-bat the rest of this recap hangs on. There's no comeback without it.\nThe Cubs went to Aaron Civale in the seventh. Anthony tripled to right field, then Connor Wong stepped up and hit the go-ahead double. Red Sox 4, Cubs 3.\nWillson Contreras didn't play game one—his hand still won't let him swing without pain. Ceddanne Rafaela sat out too. You can file away what Boston did to Chicago's depleted lineup, but you can also file away that a team down 3-0 didn't pack it in. The seventh inning happened.\nGame 2 is next. They went ahead and won the first one.\nStuds\nRoman Anthony — 3-for-3 with a walk. On base four times. Scored on the error in the third to keep Boston in it, tripled in the seventh to set up the go-ahead, and was just relentless all afternoon. This was his game.\nAdley Rutschman — utschman's two-run double off Thielbar tied it and gave the whole thing a different shape. That's what you pay for.\nConnor Wong — Go-ahead double in the seventh coming in for Mickey Gasper. Simple entry in the ledger, but a needed go-ahead run.\nDud\nThe first two innings — Three runs on Gamboa before anyone got comfortable. Fair amount of that is on Gamboa, fair amount is just what happens when you open with a reliever and it doesn't work. The Sox survived it. They shouldn't count on that against a full-strength playoff opponent.\nThe wind — How many times did the wind knock balls down today? Yes for better with potential Cubbies homers knocked down, but also it's a hamper on an already struggling offense for the Sox.\nPlay of the Game\nRutschman's two-run double in the fifth. Down 3-1, two runners on, Cubs holding a lead that had felt comfortable since the second inning—and Rutschman turned the whole situation. That swing is why the seventh inning got to mean something.",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Connor Wong",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 2,
+        "batch": 1
+      },
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Isiah Kiner-Falefa",
+        "role": "Utility Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Alec Gamboa",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 23,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Roman Anthony rakes as Red Sox take Game 1 vs. Cubs",
+    "original_body": "Alec Gamboa is not a starter. At least not at the Major League level caliber. But when the Red Sox needed someone to open a doubleheader on the last Friday of the regular season, they handed it to him anyway—and the Cubs made him pay for it quickly.\nTyrone Taylor doubled in the first inning to put Chicago on the board. Miguel Amaya followed with a two-run double in the second. Three runs in two innings, Clay Holmes cruising, and the Sox in a hole before most of Fenway (whoever was going to brave the risk of weather) had settled into their seats.\nThen the defense took over.\nCaleb Durbin threw Matt Shaw out at the plate in the second inning to keep the Cubs from stretching it further. Isiah Kiner-Falefa made a sliding grab in the third. Andruw Monasterio came up with a diving catch in the fourth. Not glamorous plays in the box score, but they kept 3-0 from turning into 5-0, and that mattered later.\nRoman Anthony was (finally) doing Roman Anthony things all afternoon. He went 3-for-3 with a walk and his fingerprints are on both comeback sequences that mattered. He got things started in the third when he scored on a Dansby Swanson throwing error to make it 3-1. Stayed alive. Kept the at-bats meaningful.\nIt stayed there until Adley Rutschman. With two on in the fifth against Caleb Thielbar, Rutschman hit a two-run double to tie the game. That's the at-bat the rest of this recap hangs on. There's no comeback without it.\nThe Cubs went to Aaron Civale in the seventh. Anthony tripled to right field, then Connor Wong stepped up and hit the go-ahead double. Red Sox 4, Cubs 3.\nWillson Contreras didn't play game one—his hand still won't let him swing without pain. Ceddanne Rafaela sat out too. You can file away what Boston did to Chicago's depleted lineup, but you can also file away that a team down 3-0 didn't pack it in. The seventh inning happened.\nGame 2 is next. They went ahead and won the first one.\nStuds\nRoman Anthony — 3-for-3 with a walk. On base four times. Scored on the error in the third to keep Boston in it, tripled in the seventh to set up the go-ahead, and was just relentless all afternoon. This was his game.\nAdley Rutschman — utschman's two-run double off Thielbar tied it and gave the whole thing a different shape. That's what you pay for.\nConnor Wong — Go-ahead double in the seventh coming in for Mickey Gasper. Simple entry in the ledger, but a needed go-ahead run.\nDud\nThe first two innings — Three runs on Gamboa before anyone got comfortable. Fair amount of that is on Gamboa, fair amount is just what happens when you open with a reliever and it doesn't work. The Sox survived it. They shouldn't count on that against a full-strength playoff opponent.\nThe wind — How many times did the wind knock balls down today? Yes for better with potential Cubbies homers knocked down, but also it's a hamper on an already struggling offense for the Sox.\nPlay of the Game\nRutschman's two-run double in the fifth. Down 3-1, two runners on, Cubs holding a lead that had felt comfortable since the second inning—and Rutschman turned the whole situation. That swing is why the seventh inning got to mean something.",
+    "rss_title": "Roman Anthony rakes as Red Sox take Game 1 vs. Cubs",
+    "rss_body": "Alec Gamboa is not a starter. At least not at the Major League level caliber. But when the Red Sox needed someone to open a doubleheader on the last Friday of the regular season, they handed it to him anyway—and the Cubs made him pay for it quickly.\nTyrone Taylor doubled in the first inning to put Chicago on the board. Miguel Amaya followed with a two-run double in the second. Three runs in two innings, Clay Holmes cruising, and the Sox in a hole before most of Fenway (whoever was going to brave the risk of weather) had settled into their seats.\nThen the defense took over.\nCaleb Durbin threw Matt Shaw out at the plate in the second inning to keep the Cubs from stretching it further. Isiah Kiner-Falefa made a sliding grab in the third. Andruw Monasterio came up with a diving catch in the fourth. Not glamorous plays in the box score, but they kept 3-0 from turning into 5-0, and that mattered later.\nRoman Anthony was (finally) doing Roman Anthony things all afternoon. He went 3-for-3 with a walk and his fingerprints are on both comeback sequences that mattered. He got things started in the third when he scored on a Dansby Swanson throwing error to make it 3-1. Stayed alive. Kept the at-bats meaningful.\nIt stayed there until Adley Rutschman. With two on in the fifth against Caleb Thielbar, Rutschman hit a two-run double to tie the game. That's the at-bat the rest of this recap hangs on. There's no comeback without it.\nThe Cubs went to Aaron Civale in the seventh. Anthony tripled to right field, then Connor Wong stepped up and hit the go-ahead double. Red Sox 4, Cubs 3.\nWillson Contreras didn't play game one—his hand still won't let him swing without pain. Ceddanne Rafaela sat out too. You can file away what Boston did to Chicago's depleted lineup, but you can also file away that a team down 3-0 didn't pack it in. The seventh inning happened.\nGame 2 is next. They went ahead and won the first one.\nStuds\nRoman Anthony — 3-for-3 with a walk. On base four times. Scored on the error in the third to keep Boston in it, tripled in the seventh to set up the go-ahead, and was just relentless all afternoon. This was his game.\nAdley Rutschman — utschman's two-run double off Thielbar tied it and gave the whole thing a different shape. That's what you pay for.\nConnor Wong — Go-ahead double in the seventh coming in for Mickey Gasper. Simple entry in the ledger, but a needed go-ahead run.\nDud\nThe first two innings — Three runs on Gamboa before anyone got comfortable. Fair amount of that is on Gamboa, fair amount is just what happens when you open with a reliever and it doesn't work. The Sox survived it. They shouldn't count on that against a full-strength playoff opponent.\nThe wind — How many times did the wind knock balls down today? Yes for better with potential Cubbies homers knocked down, but also it's a hamper on an already struggling offense for the Sox.\nPlay of the Game\nRutschman's two-run double in the fifth. Down 3-1, two runners on, Cubs holding a lead that had felt comfortable since the second inning—and Rutschman turned the whole situation. That swing is why the seventh inning got to mean something.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "d0f9eba82985818738f1",
+    "title": "Red Sox take Game 1 of Cubs doubleheader, cement Wild Card seeding",
+    "source": "Boston Herald",
+    "author": "Gabrielle Starr",
+    "url": "https://www.bostonherald.com/2026/09/25/red-sox-chicago-cubs-roman-anthony-adley-rutschman-alec-gamboa-jake-bennett-mickey-gasper-alex-bregman-pete-crow-armstrong-pca-mlb-news/",
+    "published_iso": "2026-09-25T19:58:08+00:00",
+    "published_rfc2822": "Fri, 25 Sep 2026 19:58:08 +0000",
+    "body": "Amid whipping winds and the gathering storm off the coast, the Boston Red Sox and Chicago Cubs embarked upon a doubleheader Friday afternoon.\nIt looked bleak for the home team early on, as the Cubs took a 3-0 lead during Red Sox rookie left-hander Alec Gamboa’s two-inning opener.\nBut Roman Anthony is heating up at exactly the right time. His 3 for 3 performance, with two doubles, a triple, walk and two runs carried the Red Sox to a 4-3 win in the top half of the doubleheader.\nThe victory cemented the Red Sox as the second American League Wild Card team, meaning they are set for a rematch of last year’s Wild Card series at Yankee Stadium, which begins Tuesday.\n“Just had to find a way to win there, and find a way to just kind of play Red Sox baseball as we’ve done all year, with crazy scheduling and different things,” Anthony said.\nLeft fielder Tyrone Taylor gave the Cubs an instant lead in the first, with a two-out RBI double after Gamboa’s one-out walk to right-fielder Seiya Suzuki. First baseman Michael Busch and shortstop Dansby Swanson slid headfirst into home in rapid succession when catcher Miguel Amaya doubled with one out in the second for a 3-0 lead.\nSouthpaw Jake Bennett, a starter for all 19 games of this rookie season, replaced Gamboa in the third. Bennett’s first major league relief effort encompassed 3 2/3 scoreless innings in which he yielded three hits, walked one and struck out one.\n“He looked very comfortable, and was able to get in the zone right away,” Red Sox manager Chad Tracy said.\n“Definitely a little bit of an adrenaline rush, but at the end of the day it’s the same game,” Bennett said of the difference between starting and relieving. “Just in the case that I have to come out of the bullpen in the wild card, just good to have some experience doing it at this level.”\nRighty Greg Weissert (1 1/3 IP) and lefty Raymond Burgos (2 IP) held the Cubs off the rest of the way.\nThe Red Sox pitching staff entered Friday with 41 games with one or zero runs allowed, not only the most in the majors this season, but the club’s most in a season since the Live-Ball Era began in 1920. The Red Sox entered Friday with the third-best ERA in MLB. If they can hang on through the rest of the weekend, it will be their first season in the top three since 2007.\nThe bats have been Boston’s bigger issue this month, and most of the season, by far. Through 22 September games including Game 1 on Friday, the Red Sox are averaging 7.5 runners left on base per game, matching their dismal May mark.\nYet, the Red Sox were 2 for 13 with runners in scoring position, and left eight men on base, but they outhit the Cubs, 9-7, drew four walks and only struck out four times for an improvement over recent games.\n“Quite a few guys that swung the bats well, we got tons of big hits, especially in the second part of the game,” Tracy said. “It was a really good offensive showing, for sure.”\nAfter his wasted leadoff double in the first, Anthony scored the only Red Sox run through four innings, on Swanson’s throwing error in the bottom of the third.\nAnthony’s second double off Cubs starter Clay Holmes went to better use. He followed Isiah Kiner-Falefa’s leadoff single in the fifth, and both men scored when designated hitter Adley Rutschman greeted lefty reliever Caleb Thielbar with a two-run single.\nHolmes, a longtime New York Yankee, went 4 1/3 innings on 78 pitches (50 strikes). He allowed three runs, two earned, on five hits, walked three and struck out three.\nRed Sox catcher Mickey Gasper was Holmes’ final batter. After striking out against Holmes for the third time, Gasper was replaced at catcher by Connor Wong for the top of the sixth due to what the Red Sox later announced as right biceps discomfort.\n“He’s in some pretty good discomfort,” Tracy said of Gasper, who underwent an MRI after the game.\nWong’s entry proved otherwise fortuitous in the bottom of the seventh. His 12th double of the year rocketed down the third-base line, and Anthony, who tripled, jogged home for the go-ahead run.\nThat Anthony used the whole field with a double to left, double to center, and triple to right was among the most encouraging aspects of his offensive showing. Particularly as the swirling winds sent balls flying in unusual directions throughout the game.\n“When I’m using that other way, that’s the biggest thing for me, I’ve had a lot of success in the past, and when I’m going well, I’m hitting it where it’s pitched, and taking advantage of that wall over there, even on windy days like today,” Anthony said. “Just kind of continue to pass it along, and try to be just a problem (for pitchers) any way that you possibly can.”\nIt fell to Burgos to protect the one-run lead in the ninth. The Red Sox southpaw did so with a 1-2-3 inning that included winning a 10-pitch at-bat against National League MVP favorite Pete Crow-Armstrong for the second out.\nThe Red Sox are 86-74, with two regular-season games left to play.\nAfter that, they’re on to New York.",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Connor Wong",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 2,
+        "batch": 1
+      },
+      {
+        "name": "Isiah Kiner-Falefa",
+        "role": "Utility Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Jake Bennett",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 21,
+        "batch": 1
+      },
+      {
+        "name": "Raymond Burgos",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "Alec Gamboa",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 23,
+        "batch": 1
+      },
+      {
+        "name": "Greg Weissert",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 27,
+        "batch": 1
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox take Game 1 of Cubs doubleheader, cement Wild Card seeding",
+    "original_body": "Amid whipping winds and the gathering storm off the coast, the Boston Red Sox and Chicago Cubs embarked upon a doubleheader Friday afternoon.\nIt looked bleak for the home team early on, as the Cubs took a 3-0 lead during Red Sox rookie left-hander Alec Gamboa’s two-inning opener.\nBut Roman Anthony is heating up at exactly the right time. His 3 for 3 performance, with two doubles, a triple, walk and two runs carried the Red Sox to a 4-3 win in the top half of the doubleheader.\nThe victory cemented the Red Sox as the second American League Wild Card team, meaning they are set for a rematch of last year’s Wild Card series at Yankee Stadium, which begins Tuesday.\n“Just had to find a way to win there, and find a way to just kind of play Red Sox baseball as we’ve done all year, with crazy scheduling and different things,” Anthony said.\nLeft fielder Tyrone Taylor gave the Cubs an instant lead in the first, with a two-out RBI double after Gamboa’s one-out walk to right-fielder Seiya Suzuki. First baseman Michael Busch and shortstop Dansby Swanson slid headfirst into home in rapid succession when catcher Miguel Amaya doubled with one out in the second for a 3-0 lead.\nSouthpaw Jake Bennett, a starter for all 19 games of this rookie season, replaced Gamboa in the third. Bennett’s first major league relief effort encompassed 3 2/3 scoreless innings in which he yielded three hits, walked one and struck out one.\n“He looked very comfortable, and was able to get in the zone right away,” Red Sox manager Chad Tracy said.\n“Definitely a little bit of an adrenaline rush, but at the end of the day it’s the same game,” Bennett said of the difference between starting and relieving. “Just in the case that I have to come out of the bullpen in the wild card, just good to have some experience doing it at this level.”\nRighty Greg Weissert (1 1/3 IP) and lefty Raymond Burgos (2 IP) held the Cubs off the rest of the way.\nThe Red Sox pitching staff entered Friday with 41 games with one or zero runs allowed, not only the most in the majors this season, but the club’s most in a season since the Live-Ball Era began in 1920. The Red Sox entered Friday with the third-best ERA in MLB. If they can hang on through the rest of the weekend, it will be their first season in the top three since 2007.\nThe bats have been Boston’s bigger issue this month, and most of the season, by far. Through 22 September games including Game 1 on Friday, the Red Sox are averaging 7.5 runners left on base per game, matching their dismal May mark.\nYet, the Red Sox were 2 for 13 with runners in scoring position, and left eight men on base, but they outhit the Cubs, 9-7, drew four walks and only struck out four times for an improvement over recent games.\n“Quite a few guys that swung the bats well, we got tons of big hits, especially in the second part of the game,” Tracy said. “It was a really good offensive showing, for sure.”\nAfter his wasted leadoff double in the first, Anthony scored the only Red Sox run through four innings, on Swanson’s throwing error in the bottom of the third.\nAnthony’s second double off Cubs starter Clay Holmes went to better use. He followed Isiah Kiner-Falefa’s leadoff single in the fifth, and both men scored when designated hitter Adley Rutschman greeted lefty reliever Caleb Thielbar with a two-run single.\nHolmes, a longtime New York Yankee, went 4 1/3 innings on 78 pitches (50 strikes). He allowed three runs, two earned, on five hits, walked three and struck out three.\nRed Sox catcher Mickey Gasper was Holmes’ final batter. After striking out against Holmes for the third time, Gasper was replaced at catcher by Connor Wong for the top of the sixth due to what the Red Sox later announced as right biceps discomfort.\n“He’s in some pretty good discomfort,” Tracy said of Gasper, who underwent an MRI after the game.\nWong’s entry proved otherwise fortuitous in the bottom of the seventh. His 12th double of the year rocketed down the third-base line, and Anthony, who tripled, jogged home for the go-ahead run.\nThat Anthony used the whole field with a double to left, double to center, and triple to right was among the most encouraging aspects of his offensive showing. Particularly as the swirling winds sent balls flying in unusual directions throughout the game.\n“When I’m using that other way, that’s the biggest thing for me, I’ve had a lot of success in the past, and when I’m going well, I’m hitting it where it’s pitched, and taking advantage of that wall over there, even on windy days like today,” Anthony said. “Just kind of continue to pass it along, and try to be just a problem (for pitchers) any way that you possibly can.”\nIt fell to Burgos to protect the one-run lead in the ninth. The Red Sox southpaw did so with a 1-2-3 inning that included winning a 10-pitch at-bat against National League MVP favorite Pete Crow-Armstrong for the second out.\nThe Red Sox are 86-74, with two regular-season games left to play.\nAfter that, they’re on to New York.",
+    "rss_title": "Red Sox take Game 1 of Cubs doubleheader, cement Wild Card seeding",
+    "rss_body": "Amid whipping winds and the gathering storm off the coast, the Boston Red Sox and Chicago Cubs embarked upon a doubleheader Friday afternoon.\nIt looked bleak for the home team early on, as the Cubs took a 3-0 lead during Red Sox rookie left-hander Alec Gamboa’s two-inning opener.\nBut Roman Anthony is heating up at exactly the right time. His 3 for 3 performance, with two doubles, a triple, walk and two runs carried the Red Sox to a 4-3 win in the top half of the doubleheader.\nThe victory cemented the Red Sox as the second American League Wild Card team, meaning they are set for a rematch of last year’s Wild Card series at Yankee Stadium, which begins Tuesday.\n“Just had to find a way to win there, and find a way to just kind of play Red Sox baseball as we’ve done all year, with crazy scheduling and different things,” Anthony said.\nLeft fielder Tyrone Taylor gave the Cubs an instant lead in the first, with a two-out RBI double after Gamboa’s one-out walk to right-fielder Seiya Suzuki. First baseman Michael Busch and shortstop Dansby Swanson slid headfirst into home in rapid succession when catcher Miguel Amaya doubled with one out in the second for a 3-0 lead.\nSouthpaw Jake Bennett, a starter for all 19 games of this rookie season, replaced Gamboa in the third. Bennett’s first major league relief effort encompassed 3 2/3 scoreless innings in which he yielded three hits, walked one and struck out one.\n“He looked very comfortable, and was able to get in the zone right away,” Red Sox manager Chad Tracy said.\n“Definitely a little bit of an adrenaline rush, but at the end of the day it’s the same game,” Bennett said of the difference between starting and relieving. “Just in the case that I have to come out of the bullpen in the wild card, just good to have some experience doing it at this level.”\nRighty Greg Weissert (1 1/3 IP) and lefty Raymond Burgos (2 IP) held the Cubs off the rest of the way.\nThe Red Sox pitching staff entered Friday with 41 games with one or zero runs allowed, not only the most in the majors this season, but the club’s most in a season since the Live-Ball Era began in 1920. The Red Sox entered Friday with the third-best ERA in MLB. If they can hang on through the rest of the weekend, it will be their first season in the top three since 2007.\nThe bats have been Boston’s bigger issue this month, and most of the season, by far. Through 22 September games including Game 1 on Friday, the Red Sox are averaging 7.5 runners left on base per game, matching their dismal May mark.\nYet, the Red Sox were 2 for 13 with runners in scoring position, and left eight men on base, but they outhit the Cubs, 9-7, drew four walks and only struck out four times for an improvement over recent games.\n“Quite a few guys that swung the bats well, we got tons of big hits, especially in the second part of the game,” Tracy said. “It was a really good offensive showing, for sure.”\nAfter his wasted leadoff double in the first, Anthony scored the only Red Sox run through four innings, on Swanson’s throwing error in the bottom of the third.\nAnthony’s second double off Cubs starter Clay Holmes went to better use. He followed Isiah Kiner-Falefa’s leadoff single in the fifth, and both men scored when designated hitter Adley Rutschman greeted lefty reliever Caleb Thielbar with a two-run single.\nHolmes, a longtime New York Yankee, went 4 1/3 innings on 78 pitches (50 strikes). He allowed three runs, two earned, on five hits, walked three and struck out three.\nRed Sox catcher Mickey Gasper was Holmes’ final batter. After striking out against Holmes for the third time, Gasper was replaced at catcher by Connor Wong for the top of the sixth due to what the Red Sox later announced as right biceps discomfort.\n“He’s in some pretty good discomfort,” Tracy said of Gasper, who underwent an MRI after the game.\nWong’s entry proved otherwise fortuitous in the bottom of the seventh. His 12th double of the year rocketed down the third-base line, and Anthony, who tripled, jogged home for the go-ahead run.\nThat Anthony used the whole field with a double to left, double to center, and triple to right was among the most encouraging aspects of his offensive showing. Particularly as the swirling winds sent balls flying in unusual directions throughout the game.\n“When I’m using that other way, that’s the biggest thing for me, I’ve had a lot of success in the past, and when I’m going well, I’m hitting it where it’s pitched, and taking advantage of that wall over there, even on windy days like today,” Anthony said. “Just kind of continue to pass it along, and try to be just a problem (for pitchers) any way that you possibly can.”\nIt fell to Burgos to protect the one-run lead in the ninth. The Red Sox southpaw did so with a 1-2-3 inning that included winning a 10-pitch at-bat against National League MVP favorite Pete Crow-Armstrong for the second out.\nThe Red Sox are 86-74, with two regular-season games left to play.\nAfter that, they’re on to New York.",
     "translation_status": "fallback_original"
   },
   {
