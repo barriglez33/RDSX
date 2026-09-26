@@ -1,5 +1,269 @@
 [
   {
+    "id": "5ffc53e9694a3b31e14a",
+    "title": "Red Sox sweep doubleheader as Wilyer Abreu delivers late; Gasper likely out for Yankees",
+    "source": "Boston Sports Journal",
+    "author": "Chris Henrique",
+    "url": "https://www.bostonsportsjournal.com/2026/09/25/red-sox-sweep-doubleheader-as-wilyer-abreu-delivers-late-gasper-likely-out-for-yankees",
+    "published_iso": "2026-09-26T01:29:24+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 01:29:24 +0000",
+    "body": "By the time the Red Sox took the field for the second game of Friday’s doubleheader, their postseason destination was already set.\nThey still found a way to finish a long day at Fenway Park with another win.\nWilyer Abreu snapped an 0-for-11 skid with a two-run double in the eighth inning, while Brayan Bello and Jedixson Paez combined for a shutout as the Red Sox completed a doubleheader sweep of the Cubs with a 2-0 victory.\nBoston improved to 87-74 after winning the opener, 4-3, earlier Friday. That victory locked the Red Sox into the No. 5 seed in the American League and officially set up a rematch with the Yankees in the best-of-three Wild Card Series beginning Tuesday at Yankee Stadium.\nWith the standings no longer a concern, the rest of the weekend is about getting ready for New York.\nAbreu entered Game 2 mired in a difficult September, carrying a .622 OPS for the month. He had gone hitless in his first seven at-bats of the doubleheader, including two strikeouts, before stepping to the plate with two outs in the eighth.\nThis time, Abreu delivered, ripping a two-run double to break a scoreless tie and give Boston a 2-0 lead.\nThe hit snapped an 0-for-11 skid for Abreu, whose streaky nature has been on display over the past two months. He posted a .971 OPS in August before cooling considerably in September.\nAfter reaching base four times and collecting three extra-base hits in Game 1, Roman Anthony went 1-for-3 with a walk in the nightcap. He finished the doubleheader 4-for-6 with two doubles, a triple and two walks. Over his last six games, Anthony is 10-for-28 (.357) with six extra-base hits.\nFor an offense that has struggled throughout September, getting its leadoff hitter hot heading into the postseason could provide a significant boost.\nThe pitching was the bigger story in Game 2, with Bello continuing his impressive turnaround by tossing four scoreless innings against the Cubs.\nHis season looked much different before a demotion to Triple-A Worcester. Since returning to the majors, Bello has allowed one run or fewer in 12 of his 14 appearances, posting a 2.11 ERA with 13 runs allowed over 55 1/3 innings.\nBello isn’t expected to start during the Wild Card Series, but his work since returning from Worcester has strengthened his case for a spot on the postseason roster, where he could return to his role out of the bullpen.\nPaez provided length to the bullpen in Game 2, allowing Chad Tracy to rest his relievers with the travel day coming on Saturday.\nThe Red Sox recalled the 22-year-old between games after optioning Raymond Burgos, who earned the save with two scoreless innings in the opener.\nPaez’s first appearance with Boston on Sept. 1 was one to forget. He surrendered eight runs over 3 2/3 innings against Seattle. Paez replaced Bello and tossed five scoreless innings to finish the game, limiting the Cubs to three hits without issuing a walk while striking out four.\nPaez became the first Red Sox pitcher to finish a victory with at least five scoreless innings since Scott Taylor threw 6 2/3 scoreless innings against the Yankees on Oct. 3, 1992. The right-hander is also just the fifth pitcher in franchise history to accomplish the feat within his first five career games and only the second in the last 70 years, joining Taylor.\nThe Red Sox finished their 2026 slate at Fenway Park with a 41-39 record after sweeping Friday’s doubleheader. Boston also secured its first series victory since Sept. 15, finishing the season 24-26-2 in series play and 11-14-1 at home. The Red Sox won 18 of their final 30 series overall, including 10 of their final 16 at home dating to June 12.\nWith a nor’easter expected to impact New England this weekend, Major League Baseball moved Sunday’s finale to Tropicana Field in St. Petersburg. The Red Sox and Cubs will fly to Florida following Friday’s doubleheader and play Sunday at 3:05 p.m.\nGasper Likely Out for Wild Card Series\nMickey Gasper will likely miss the Red Sox’ Wild Card Series against the Yankees after suffering a right biceps injury during Friday’s 4-3 win over the Cubs, according to MassLive’s Chris Smith.\nThe Red Sox officially termed the injury “right biceps discomfort.”\nGasper started behind the plate and appeared to injure his biceps while swinging through a pitch for a strikeout in the fifth inning. He was removed immediately, with Connor Wong replacing him at catcher to begin the sixth.\n“I think he’s going over to get an MRI right now,” Tracy said after the game. “He’s in some pretty good discomfort. So I don’t know exactly what it is but he struck out on that last swing and had some discomfort in his biceps.”\nFollowing the Game 2 win, Tracy told reporters that Gasper suffered a significant biceps injury.\nChad Tracy confirms after the game that it looks like a \"significant\" biceps injury for Mickey Gasper.\n\"It's probably going to take him out.\"\nBrutal. pic.twitter.com/ncoEQrgFhr\nThe timing is particularly unfortunate for Gasper, who had carved out a meaningful role in Boston’s lineup. The 30-year-old is batting .251 with 10 doubles, nine home runs and 24 RBI while making starts at catcher, first base and designated hitter.\nBetween Boston and Triple-A Worcester, Gasper has hit 19 home runs this season. His likely absence also creates another decision as the Red Sox construct their Wild Card roster.\nBoston is expected to carry 14 position players and 12 pitchers against New York. Gasper’s injury could open a spot for",
+    "tracked_people": [
+      {
+        "name": "Connor Wong",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 2,
+        "batch": 1
+      },
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Brayan Bello",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Raymond Burgos",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 22,
+        "batch": 1
+      },
+      {
+        "name": "Jedixson Paez",
+        "role": "Pitcher",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 44,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox sweep doubleheader as Wilyer Abreu delivers late; Gasper likely out for Yankees",
+    "original_body": "By the time the Red Sox took the field for the second game of Friday’s doubleheader, their postseason destination was already set.\nThey still found a way to finish a long day at Fenway Park with another win.\nWilyer Abreu snapped an 0-for-11 skid with a two-run double in the eighth inning, while Brayan Bello and Jedixson Paez combined for a shutout as the Red Sox completed a doubleheader sweep of the Cubs with a 2-0 victory.\nBoston improved to 87-74 after winning the opener, 4-3, earlier Friday. That victory locked the Red Sox into the No. 5 seed in the American League and officially set up a rematch with the Yankees in the best-of-three Wild Card Series beginning Tuesday at Yankee Stadium.\nWith the standings no longer a concern, the rest of the weekend is about getting ready for New York.\nAbreu entered Game 2 mired in a difficult September, carrying a .622 OPS for the month. He had gone hitless in his first seven at-bats of the doubleheader, including two strikeouts, before stepping to the plate with two outs in the eighth.\nThis time, Abreu delivered, ripping a two-run double to break a scoreless tie and give Boston a 2-0 lead.\nThe hit snapped an 0-for-11 skid for Abreu, whose streaky nature has been on display over the past two months. He posted a .971 OPS in August before cooling considerably in September.\nAfter reaching base four times and collecting three extra-base hits in Game 1, Roman Anthony went 1-for-3 with a walk in the nightcap. He finished the doubleheader 4-for-6 with two doubles, a triple and two walks. Over his last six games, Anthony is 10-for-28 (.357) with six extra-base hits.\nFor an offense that has struggled throughout September, getting its leadoff hitter hot heading into the postseason could provide a significant boost.\nThe pitching was the bigger story in Game 2, with Bello continuing his impressive turnaround by tossing four scoreless innings against the Cubs.\nHis season looked much different before a demotion to Triple-A Worcester. Since returning to the majors, Bello has allowed one run or fewer in 12 of his 14 appearances, posting a 2.11 ERA with 13 runs allowed over 55 1/3 innings.\nBello isn’t expected to start during the Wild Card Series, but his work since returning from Worcester has strengthened his case for a spot on the postseason roster, where he could return to his role out of the bullpen.\nPaez provided length to the bullpen in Game 2, allowing Chad Tracy to rest his relievers with the travel day coming on Saturday.\nThe Red Sox recalled the 22-year-old between games after optioning Raymond Burgos, who earned the save with two scoreless innings in the opener.\nPaez’s first appearance with Boston on Sept. 1 was one to forget. He surrendered eight runs over 3 2/3 innings against Seattle. Paez replaced Bello and tossed five scoreless innings to finish the game, limiting the Cubs to three hits without issuing a walk while striking out four.\nPaez became the first Red Sox pitcher to finish a victory with at least five scoreless innings since Scott Taylor threw 6 2/3 scoreless innings against the Yankees on Oct. 3, 1992. The right-hander is also just the fifth pitcher in franchise history to accomplish the feat within his first five career games and only the second in the last 70 years, joining Taylor.\nThe Red Sox finished their 2026 slate at Fenway Park with a 41-39 record after sweeping Friday’s doubleheader. Boston also secured its first series victory since Sept. 15, finishing the season 24-26-2 in series play and 11-14-1 at home. The Red Sox won 18 of their final 30 series overall, including 10 of their final 16 at home dating to June 12.\nWith a nor’easter expected to impact New England this weekend, Major League Baseball moved Sunday’s finale to Tropicana Field in St. Petersburg. The Red Sox and Cubs will fly to Florida following Friday’s doubleheader and play Sunday at 3:05 p.m.\nGasper Likely Out for Wild Card Series\nMickey Gasper will likely miss the Red Sox’ Wild Card Series against the Yankees after suffering a right biceps injury during Friday’s 4-3 win over the Cubs, according to MassLive’s Chris Smith.\nThe Red Sox officially termed the injury “right biceps discomfort.”\nGasper started behind the plate and appeared to injure his biceps while swinging through a pitch for a strikeout in the fifth inning. He was removed immediately, with Connor Wong replacing him at catcher to begin the sixth.\n“I think he’s going over to get an MRI right now,” Tracy said after the game. “He’s in some pretty good discomfort. So I don’t know exactly what it is but he struck out on that last swing and had some discomfort in his biceps.”\nFollowing the Game 2 win, Tracy told reporters that Gasper suffered a significant biceps injury.\nChad Tracy confirms after the game that it looks like a \"significant\" biceps injury for Mickey Gasper.\n\"It's probably going to take him out.\"\nBrutal. pic.twitter.com/ncoEQrgFhr\nThe timing is particularly unfortunate for Gasper, who had carved out a meaningful role in Boston’s lineup. The 30-year-old is batting .251 with 10 doubles, nine home runs and 24 RBI while making starts at catcher, first base and designated hitter.\nBetween Boston and Triple-A Worcester, Gasper has hit 19 home runs this season. His likely absence also creates another decision as the Red Sox construct their Wild Card roster.\nBoston is expected to carry 14 position players and 12 pitchers against New York. Gasper’s injury could open a spot for",
+    "rss_title": "Red Sox sweep doubleheader as Wilyer Abreu delivers late; Gasper likely out for Yankees",
+    "rss_body": "By the time the Red Sox took the field for the second game of Friday’s doubleheader, their postseason destination was already set.\nThey still found a way to finish a long day at Fenway Park with another win.\nWilyer Abreu snapped an 0-for-11 skid with a two-run double in the eighth inning, while Brayan Bello and Jedixson Paez combined for a shutout as the Red Sox completed a doubleheader sweep of the Cubs with a 2-0 victory.\nBoston improved to 87-74 after winning the opener, 4-3, earlier Friday. That victory locked the Red Sox into the No. 5 seed in the American League and officially set up a rematch with the Yankees in the best-of-three Wild Card Series beginning Tuesday at Yankee Stadium.\nWith the standings no longer a concern, the rest of the weekend is about getting ready for New York.\nAbreu entered Game 2 mired in a difficult September, carrying a .622 OPS for the month. He had gone hitless in his first seven at-bats of the doubleheader, including two strikeouts, before stepping to the plate with two outs in the eighth.\nThis time, Abreu delivered, ripping a two-run double to break a scoreless tie and give Boston a 2-0 lead.\nThe hit snapped an 0-for-11 skid for Abreu, whose streaky nature has been on display over the past two months. He posted a .971 OPS in August before cooling considerably in September.\nAfter reaching base four times and collecting three extra-base hits in Game 1, Roman Anthony went 1-for-3 with a walk in the nightcap. He finished the doubleheader 4-for-6 with two doubles, a triple and two walks. Over his last six games, Anthony is 10-for-28 (.357) with six extra-base hits.\nFor an offense that has struggled throughout September, getting its leadoff hitter hot heading into the postseason could provide a significant boost.\nThe pitching was the bigger story in Game 2, with Bello continuing his impressive turnaround by tossing four scoreless innings against the Cubs.\nHis season looked much different before a demotion to Triple-A Worcester. Since returning to the majors, Bello has allowed one run or fewer in 12 of his 14 appearances, posting a 2.11 ERA with 13 runs allowed over 55 1/3 innings.\nBello isn’t expected to start during the Wild Card Series, but his work since returning from Worcester has strengthened his case for a spot on the postseason roster, where he could return to his role out of the bullpen.\nPaez provided length to the bullpen in Game 2, allowing Chad Tracy to rest his relievers with the travel day coming on Saturday.\nThe Red Sox recalled the 22-year-old between games after optioning Raymond Burgos, who earned the save with two scoreless innings in the opener.\nPaez’s first appearance with Boston on Sept. 1 was one to forget. He surrendered eight runs over 3 2/3 innings against Seattle. Paez replaced Bello and tossed five scoreless innings to finish the game, limiting the Cubs to three hits without issuing a walk while striking out four.\nPaez became the first Red Sox pitcher to finish a victory with at least five scoreless innings since Scott Taylor threw 6 2/3 scoreless innings against the Yankees on Oct. 3, 1992. The right-hander is also just the fifth pitcher in franchise history to accomplish the feat within his first five career games and only the second in the last 70 years, joining Taylor.\nThe Red Sox finished their 2026 slate at Fenway Park with a 41-39 record after sweeping Friday’s doubleheader. Boston also secured its first series victory since Sept. 15, finishing the season 24-26-2 in series play and 11-14-1 at home. The Red Sox won 18 of their final 30 series overall, including 10 of their final 16 at home dating to June 12.\nWith a nor’easter expected to impact New England this weekend, Major League Baseball moved Sunday’s finale to Tropicana Field in St. Petersburg. The Red Sox and Cubs will fly to Florida following Friday’s doubleheader and play Sunday at 3:05 p.m.\nGasper Likely Out for Wild Card Series\nMickey Gasper will likely miss the Red Sox’ Wild Card Series against the Yankees after suffering a right biceps injury during Friday’s 4-3 win over the Cubs, according to MassLive’s Chris Smith.\nThe Red Sox officially termed the injury “right biceps discomfort.”\nGasper started behind the plate and appeared to injure his biceps while swinging through a pitch for a strikeout in the fifth inning. He was removed immediately, with Connor Wong replacing him at catcher to begin the sixth.\n“I think he’s going over to get an MRI right now,” Tracy said after the game. “He’s in some pretty good discomfort. So I don’t know exactly what it is but he struck out on that last swing and had some discomfort in his biceps.”\nFollowing the Game 2 win, Tracy told reporters that Gasper suffered a significant biceps injury.\nChad Tracy confirms after the game that it looks like a \"significant\" biceps injury for Mickey Gasper.\n\"It's probably going to take him out.\"\nBrutal. pic.twitter.com/ncoEQrgFhr\nThe timing is particularly unfortunate for Gasper, who had carved out a meaningful role in Boston’s lineup. The 30-year-old is batting .251 with 10 doubles, nine home runs and 24 RBI while making starts at catcher, first base and designated hitter.\nBetween Boston and Triple-A Worcester, Gasper has hit 19 home runs this season. His likely absence also creates another decision as the Red Sox construct their Wild Card roster.\nBoston is expected to carry 14 position players and 12 pitchers against New York. Gasper’s injury could open a spot for",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "1f858bece9417fe512ed",
+    "title": "Roman Anthony triples, doubles twice in victory",
+    "source": "NBC Sports",
+    "author": "Matthew Pouliot; Roman Anthony",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-09-25/roman-anthony-triples-doubles-twice-in-victory",
+    "published_iso": "2026-09-26T00:57:50+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 00:57:50 +0000",
+    "body": "Roman Anthony tripled, doubled twice, walked and scored three times in leading the Red Sox to a 4-3 win over the Cubs in the first game of Friday’s doubleheader.\n            \n                The win ensures that the Red Sox will get the fifth seed and face the Yankees in the Bronx in the Wild Card. It’s Anthony’s second time doubling twice and first time collecting three extra-base hits in a major league game. He’d struggled a bit the last two weeks, but he’s hit a fine .265/.321/.490 in 23 games since coming off the injured list at the end of last month.",
+    "tracked_people": [
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Roman Anthony triples, doubles twice in victory",
+    "original_body": "Roman Anthony tripled, doubled twice, walked and scored three times in leading the Red Sox to a 4-3 win over the Cubs in the first game of Friday’s doubleheader.\n            \n                The win ensures that the Red Sox will get the fifth seed and face the Yankees in the Bronx in the Wild Card. It’s Anthony’s second time doubling twice and first time collecting three extra-base hits in a major league game. He’d struggled a bit the last two weeks, but he’s hit a fine .265/.321/.490 in 23 games since coming off the injured list at the end of last month.",
+    "rss_title": "Roman Anthony triples, doubles twice in victory",
+    "rss_body": "Roman Anthony tripled, doubled twice, walked and scored three times in leading the Red Sox to a 4-3 win over the Cubs in the first game of Friday’s doubleheader.\n            \n                The win ensures that the Red Sox will get the fifth seed and face the Yankees in the Bronx in the Wild Card. It’s Anthony’s second time doubling twice and first time collecting three extra-base hits in a major league game. He’d struggled a bit the last two weeks, but he’s hit a fine .265/.321/.490 in 23 games since coming off the injured list at the end of last month.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "21bf9fa862134625bd21",
+    "title": "Wilyer Abreu’s two-run double helps Red Sox complete doubleheader sweep",
+    "source": "Boston Herald",
+    "author": "Mac Cerullo",
+    "url": "https://www.bostonherald.com/2026/09/25/wilyer-abreus-two-run-double-helps-red-sox-complete-doubleheader-sweep/",
+    "published_iso": "2026-09-26T00:56:52+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 00:56:52 +0000",
+    "body": "Wilyer Abreu has been one of Boston’s most impactful all-around players, but lately the talented right fielder has been stuck in a serious rut.\nOver the past few weeks Abreu has seen his offensive production fall off a cliff. Coming into the day he was batting .177 with a .546 OPS and four extra-base hits over his last 17 games since Sept. 3, and during Friday’s doubleheader he started 0 for 7 his first seven trips to the plate.\nThat kind of slump will put a strain on anyone’s confidence, but after striking out in the bottom of the sixth, Abreu said he was approached by veteran teammate Sonny Gray, who gave him a badly needed pep talk.\n“It helped me a lot,” Abreu said. “He’s a vet, he’s got a lot of years here and how to handle those situations, so he give me good advice to feel good with my body, with my athleticism, and trust myself, try to get my confidence back and that was huge.”\nThe next time up, Abreu reminded everyone at Fenway Park who he really is.\nAbreu’s go-ahead two-run double in the bottom of the eighth was the difference in Friday night’s 2-0 win over the Chicago Cubs. The right fielder stepped to the plate with two on and two outs in a scoreless game and crushed an opposite-field line drive high off the Green Monster.\nThat swing helped the Red Sox seal the doubleheader sweep, and the two clubs will now fly to St. Petersburg to get out ahead of the impending nor’easter to finish the regular season on Sunday at Tropicana Field.\nIn what was likely his final appearance of the regular season, Brayan Bello capped off his season of turbulence and redemption in style. The right-hander threw four-plus scoreless innings, held the Cubs to four hits and a walk and struck out two while throwing 39 of his 58 pitches for strikes.\nBello wraps up the year with a 4.33 ERA, a deceptively average mark for what was an extraordinarily unique journey. After earning himself a demotion following a disastrous first half that saw him lose his spot in the rotation, Bello finished the season with a 2.11 ERA over 55 1/3 innings in his last 14 appearances since being called back up just prior to the All-Star break.\nFollowing the game Bello said he’s happy and grateful for the way his season ended, adding that the whole year was a big learning experience.\n“I learned not to let bad moments dictate how the next one is going to be,” Bello said via interpreter Carlos Villoria Benítez. “Also I learned how to compete in the zone, I feel like in the second half I was able to compete in the zone and beat hitters in the zone, something that I wasn’t able to do in the first half.”\nBello gave way to rookie Jedixson Paez, who was called up between the two games and who has also endured an eventful first year in the majors. The 22-year-old had never pitched above Single-A prior to this season before he was poached by the Chicago White Sox in the Rule 5 Draft, and the right-hander made three uninspiring appearances for the White Sox before he was returned to Boston.\nAfter spending most of the season in the Red Sox minor league system, he was called back up for a spot start on Sept. 1 and got shelled, allowing eight runs in 3 2/3 innings in a loss to the Seattle Mariners. But needing to cover some innings ahead of the club’s upcoming playoff run, Paez came through and gave the Red Sox five scoreless frames in what was by far the best outing of his MLB career so far.\n“The first chance he got it didn’t probably go how he wanted and he gets another opportunity and goes out there and spins five scoreless innings and attacks the zone,” said Red Sox manager Chad Tracy. “It was awesome.”\nOffensively the Red Sox were stymied by Cubs starter David Peterson, who held Boston to three hits and two walks over five shutout innings. The Red Sox had runners reach third base in both the third and fourth innings but couldn’t get the go-ahead runner home.\nBoston didn’t fare much better against the Cubs bullpen, but the Red Sox finally got another chance in the bottom of the eighth when Isiah Kiner-Falefa and Jahmai Jones each walked to put two men on with two outs.\nThat brought Abreu to the plate to face left-hander Ryan Rolison, and the outfielder smoked an opposite-field line drive 100.5 mph off the bat high off the Green Monster. Kiner-Falefa and Jones both came around to score, and that was all she wrote.\nPaez returned for the top of the ninth despite initially seeming to deal with a cramping issue while warming up, but after a brief visit by the trainer, he stayed in the game and sent the Cubs down 1-2-3 to end the game.\nWith this weekend’s finale relocated to St. Petersburg, Fla., Friday night marked the final regular season game at Fenway Park this season. The next time the Red Sox are back in Boston, it will either be for Game 3 of the American League Divisional Series against the Tampa Bay Rays, or for the end-of-the-season press conference should the club lose to the Yankees in the Wild Card round again.\nBefore they even knew when and where their last game would be, Tracy told his players to prepare to spend 11 days on the road, and Abreu said the team is determined to bring playoff baseball back to Fenway Park for the first time since 2021.\n“I think the fans deserve it,” Abreu said. “It’s been five years that Boston hasn’t seen any playoff games, so I think we have to give them that opportunity to see playoff games again here at Fenway Park.”\nIn the meantime, the Red Sox and Cubs will play one more at Tropicana Field on Sunday starting at 3:05 p.m.",
+    "tracked_people": [
+      {
+        "name": "Isiah Kiner-Falefa",
+        "role": "Utility Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Brayan Bello",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Jedixson Paez",
+        "role": "Pitcher",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 44,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Wilyer Abreu’s two-run double helps Red Sox complete doubleheader sweep",
+    "original_body": "Wilyer Abreu has been one of Boston’s most impactful all-around players, but lately the talented right fielder has been stuck in a serious rut.\nOver the past few weeks Abreu has seen his offensive production fall off a cliff. Coming into the day he was batting .177 with a .546 OPS and four extra-base hits over his last 17 games since Sept. 3, and during Friday’s doubleheader he started 0 for 7 his first seven trips to the plate.\nThat kind of slump will put a strain on anyone’s confidence, but after striking out in the bottom of the sixth, Abreu said he was approached by veteran teammate Sonny Gray, who gave him a badly needed pep talk.\n“It helped me a lot,” Abreu said. “He’s a vet, he’s got a lot of years here and how to handle those situations, so he give me good advice to feel good with my body, with my athleticism, and trust myself, try to get my confidence back and that was huge.”\nThe next time up, Abreu reminded everyone at Fenway Park who he really is.\nAbreu’s go-ahead two-run double in the bottom of the eighth was the difference in Friday night’s 2-0 win over the Chicago Cubs. The right fielder stepped to the plate with two on and two outs in a scoreless game and crushed an opposite-field line drive high off the Green Monster.\nThat swing helped the Red Sox seal the doubleheader sweep, and the two clubs will now fly to St. Petersburg to get out ahead of the impending nor’easter to finish the regular season on Sunday at Tropicana Field.\nIn what was likely his final appearance of the regular season, Brayan Bello capped off his season of turbulence and redemption in style. The right-hander threw four-plus scoreless innings, held the Cubs to four hits and a walk and struck out two while throwing 39 of his 58 pitches for strikes.\nBello wraps up the year with a 4.33 ERA, a deceptively average mark for what was an extraordinarily unique journey. After earning himself a demotion following a disastrous first half that saw him lose his spot in the rotation, Bello finished the season with a 2.11 ERA over 55 1/3 innings in his last 14 appearances since being called back up just prior to the All-Star break.\nFollowing the game Bello said he’s happy and grateful for the way his season ended, adding that the whole year was a big learning experience.\n“I learned not to let bad moments dictate how the next one is going to be,” Bello said via interpreter Carlos Villoria Benítez. “Also I learned how to compete in the zone, I feel like in the second half I was able to compete in the zone and beat hitters in the zone, something that I wasn’t able to do in the first half.”\nBello gave way to rookie Jedixson Paez, who was called up between the two games and who has also endured an eventful first year in the majors. The 22-year-old had never pitched above Single-A prior to this season before he was poached by the Chicago White Sox in the Rule 5 Draft, and the right-hander made three uninspiring appearances for the White Sox before he was returned to Boston.\nAfter spending most of the season in the Red Sox minor league system, he was called back up for a spot start on Sept. 1 and got shelled, allowing eight runs in 3 2/3 innings in a loss to the Seattle Mariners. But needing to cover some innings ahead of the club’s upcoming playoff run, Paez came through and gave the Red Sox five scoreless frames in what was by far the best outing of his MLB career so far.\n“The first chance he got it didn’t probably go how he wanted and he gets another opportunity and goes out there and spins five scoreless innings and attacks the zone,” said Red Sox manager Chad Tracy. “It was awesome.”\nOffensively the Red Sox were stymied by Cubs starter David Peterson, who held Boston to three hits and two walks over five shutout innings. The Red Sox had runners reach third base in both the third and fourth innings but couldn’t get the go-ahead runner home.\nBoston didn’t fare much better against the Cubs bullpen, but the Red Sox finally got another chance in the bottom of the eighth when Isiah Kiner-Falefa and Jahmai Jones each walked to put two men on with two outs.\nThat brought Abreu to the plate to face left-hander Ryan Rolison, and the outfielder smoked an opposite-field line drive 100.5 mph off the bat high off the Green Monster. Kiner-Falefa and Jones both came around to score, and that was all she wrote.\nPaez returned for the top of the ninth despite initially seeming to deal with a cramping issue while warming up, but after a brief visit by the trainer, he stayed in the game and sent the Cubs down 1-2-3 to end the game.\nWith this weekend’s finale relocated to St. Petersburg, Fla., Friday night marked the final regular season game at Fenway Park this season. The next time the Red Sox are back in Boston, it will either be for Game 3 of the American League Divisional Series against the Tampa Bay Rays, or for the end-of-the-season press conference should the club lose to the Yankees in the Wild Card round again.\nBefore they even knew when and where their last game would be, Tracy told his players to prepare to spend 11 days on the road, and Abreu said the team is determined to bring playoff baseball back to Fenway Park for the first time since 2021.\n“I think the fans deserve it,” Abreu said. “It’s been five years that Boston hasn’t seen any playoff games, so I think we have to give them that opportunity to see playoff games again here at Fenway Park.”\nIn the meantime, the Red Sox and Cubs will play one more at Tropicana Field on Sunday starting at 3:05 p.m.",
+    "rss_title": "Wilyer Abreu’s two-run double helps Red Sox complete doubleheader sweep",
+    "rss_body": "Wilyer Abreu has been one of Boston’s most impactful all-around players, but lately the talented right fielder has been stuck in a serious rut.\nOver the past few weeks Abreu has seen his offensive production fall off a cliff. Coming into the day he was batting .177 with a .546 OPS and four extra-base hits over his last 17 games since Sept. 3, and during Friday’s doubleheader he started 0 for 7 his first seven trips to the plate.\nThat kind of slump will put a strain on anyone’s confidence, but after striking out in the bottom of the sixth, Abreu said he was approached by veteran teammate Sonny Gray, who gave him a badly needed pep talk.\n“It helped me a lot,” Abreu said. “He’s a vet, he’s got a lot of years here and how to handle those situations, so he give me good advice to feel good with my body, with my athleticism, and trust myself, try to get my confidence back and that was huge.”\nThe next time up, Abreu reminded everyone at Fenway Park who he really is.\nAbreu’s go-ahead two-run double in the bottom of the eighth was the difference in Friday night’s 2-0 win over the Chicago Cubs. The right fielder stepped to the plate with two on and two outs in a scoreless game and crushed an opposite-field line drive high off the Green Monster.\nThat swing helped the Red Sox seal the doubleheader sweep, and the two clubs will now fly to St. Petersburg to get out ahead of the impending nor’easter to finish the regular season on Sunday at Tropicana Field.\nIn what was likely his final appearance of the regular season, Brayan Bello capped off his season of turbulence and redemption in style. The right-hander threw four-plus scoreless innings, held the Cubs to four hits and a walk and struck out two while throwing 39 of his 58 pitches for strikes.\nBello wraps up the year with a 4.33 ERA, a deceptively average mark for what was an extraordinarily unique journey. After earning himself a demotion following a disastrous first half that saw him lose his spot in the rotation, Bello finished the season with a 2.11 ERA over 55 1/3 innings in his last 14 appearances since being called back up just prior to the All-Star break.\nFollowing the game Bello said he’s happy and grateful for the way his season ended, adding that the whole year was a big learning experience.\n“I learned not to let bad moments dictate how the next one is going to be,” Bello said via interpreter Carlos Villoria Benítez. “Also I learned how to compete in the zone, I feel like in the second half I was able to compete in the zone and beat hitters in the zone, something that I wasn’t able to do in the first half.”\nBello gave way to rookie Jedixson Paez, who was called up between the two games and who has also endured an eventful first year in the majors. The 22-year-old had never pitched above Single-A prior to this season before he was poached by the Chicago White Sox in the Rule 5 Draft, and the right-hander made three uninspiring appearances for the White Sox before he was returned to Boston.\nAfter spending most of the season in the Red Sox minor league system, he was called back up for a spot start on Sept. 1 and got shelled, allowing eight runs in 3 2/3 innings in a loss to the Seattle Mariners. But needing to cover some innings ahead of the club’s upcoming playoff run, Paez came through and gave the Red Sox five scoreless frames in what was by far the best outing of his MLB career so far.\n“The first chance he got it didn’t probably go how he wanted and he gets another opportunity and goes out there and spins five scoreless innings and attacks the zone,” said Red Sox manager Chad Tracy. “It was awesome.”\nOffensively the Red Sox were stymied by Cubs starter David Peterson, who held Boston to three hits and two walks over five shutout innings. The Red Sox had runners reach third base in both the third and fourth innings but couldn’t get the go-ahead runner home.\nBoston didn’t fare much better against the Cubs bullpen, but the Red Sox finally got another chance in the bottom of the eighth when Isiah Kiner-Falefa and Jahmai Jones each walked to put two men on with two outs.\nThat brought Abreu to the plate to face left-hander Ryan Rolison, and the outfielder smoked an opposite-field line drive 100.5 mph off the bat high off the Green Monster. Kiner-Falefa and Jones both came around to score, and that was all she wrote.\nPaez returned for the top of the ninth despite initially seeming to deal with a cramping issue while warming up, but after a brief visit by the trainer, he stayed in the game and sent the Cubs down 1-2-3 to end the game.\nWith this weekend’s finale relocated to St. Petersburg, Fla., Friday night marked the final regular season game at Fenway Park this season. The next time the Red Sox are back in Boston, it will either be for Game 3 of the American League Divisional Series against the Tampa Bay Rays, or for the end-of-the-season press conference should the club lose to the Yankees in the Wild Card round again.\nBefore they even knew when and where their last game would be, Tracy told his players to prepare to spend 11 days on the road, and Abreu said the team is determined to bring playoff baseball back to Fenway Park for the first time since 2021.\n“I think the fans deserve it,” Abreu said. “It’s been five years that Boston hasn’t seen any playoff games, so I think we have to give them that opportunity to see playoff games again here at Fenway Park.”\nIn the meantime, the Red Sox and Cubs will play one more at Tropicana Field on Sunday starting at 3:05 p.m.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "10bd44667d0ba9ba2f4c",
+    "title": "Wilyer Abreu's timely hit allows Red Sox to sweep twin bill with Cubs",
+    "source": "Field Level Media",
+    "author": "",
+    "url": "https://fieldlevelmedia.com/mlb/wilyer-abreus-timely-hit-allows-red-sox-to-sweep-twin-bill-with-cubs/",
+    "published_iso": "2026-09-26T00:56:15+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 00:56:15 +0000",
+    "body": "Wilyer Abreu broke a scoreless deadlock with a two-out, two-run double in the eighth inning, lifting the Boston Red Sox to a 2-0 win and a doubleheader sweep over the visiting Chicago Cubs on Friday evening.\nAbreu was in a 0-for-11 slump before smacking the big hit high off the Green Monster in left-center field. Isiah Kiner-Falefa and Jahmai Jones both walked to set the stage for Abreu’s heroics, with the first walk coming off Chicago’s initial reliever Javier Assad (6-2) in an eventual loss.\nThe Red Sox (87-74) were limited to just four hits, but Jedixson Paez (1-1) made them stand up while dealing the final five innings en route to his first big-league win. Paez, who was recalled from Triple-A Worcester in between games, scattered three hits, struck out five and did not issue a walk in relief of starter Brayan Bello.\nThe Cubs (88-73) had seven hits, including two apiece by Seiya Suzuki, Michael Busch and Nico Hoerner.\nAfter Chicago starter David Peterson fanned six across five innings of three-hit ball, Assad had struck out the heart of the Boston lineup in order in the sixth and retired the first six men he faced.\nBello escaped a near-immediate jam in the first. After striking out leadoff hitter Pete Crow-Armstrong, Suzuki walked and Busch dunked a single into shallow left field, but back-to-back outs in the air ended the threat.\nThe Boston righty also induced double plays to halt potential rallies after leadoff singles by Hoerner in the second and Busch in the fourth. Kiner-Falefa made a diving stop and spun a 4-6-3 ball to erase Hoerner.\nPaez replaced Bello following Hoerner’s leadoff knock in the fifth. Matt Shaw lined a two-out single that ricocheted off the umpire standing up the middle before runners were stranded on the corners.\nMeanwhile, the Red Sox were hitless until Kiner-Falefa opened the third with a line-drive single to center. He reached third on Anthony’s knock to right, but Peterson retired the next two.\nIn the fifth, a leadoff walk to Kiner-Falefa was wasted.\nThe teams’ season finale was moved to Sunday at a neutral location in St. Petersburg, Fla., due to inclement weather expected to impact Boston all weekend.\n–Field Level Media",
+    "tracked_people": [
+      {
+        "name": "Isiah Kiner-Falefa",
+        "role": "Utility Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Brayan Bello",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Jedixson Paez",
+        "role": "Pitcher",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 44,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Wilyer Abreu's timely hit allows Red Sox to sweep twin bill with Cubs",
+    "original_body": "Wilyer Abreu broke a scoreless deadlock with a two-out, two-run double in the eighth inning, lifting the Boston Red Sox to a 2-0 win and a doubleheader sweep over the visiting Chicago Cubs on Friday evening.\nAbreu was in a 0-for-11 slump before smacking the big hit high off the Green Monster in left-center field. Isiah Kiner-Falefa and Jahmai Jones both walked to set the stage for Abreu’s heroics, with the first walk coming off Chicago’s initial reliever Javier Assad (6-2) in an eventual loss.\nThe Red Sox (87-74) were limited to just four hits, but Jedixson Paez (1-1) made them stand up while dealing the final five innings en route to his first big-league win. Paez, who was recalled from Triple-A Worcester in between games, scattered three hits, struck out five and did not issue a walk in relief of starter Brayan Bello.\nThe Cubs (88-73) had seven hits, including two apiece by Seiya Suzuki, Michael Busch and Nico Hoerner.\nAfter Chicago starter David Peterson fanned six across five innings of three-hit ball, Assad had struck out the heart of the Boston lineup in order in the sixth and retired the first six men he faced.\nBello escaped a near-immediate jam in the first. After striking out leadoff hitter Pete Crow-Armstrong, Suzuki walked and Busch dunked a single into shallow left field, but back-to-back outs in the air ended the threat.\nThe Boston righty also induced double plays to halt potential rallies after leadoff singles by Hoerner in the second and Busch in the fourth. Kiner-Falefa made a diving stop and spun a 4-6-3 ball to erase Hoerner.\nPaez replaced Bello following Hoerner’s leadoff knock in the fifth. Matt Shaw lined a two-out single that ricocheted off the umpire standing up the middle before runners were stranded on the corners.\nMeanwhile, the Red Sox were hitless until Kiner-Falefa opened the third with a line-drive single to center. He reached third on Anthony’s knock to right, but Peterson retired the next two.\nIn the fifth, a leadoff walk to Kiner-Falefa was wasted.\nThe teams’ season finale was moved to Sunday at a neutral location in St. Petersburg, Fla., due to inclement weather expected to impact Boston all weekend.\n–Field Level Media",
+    "rss_title": "Wilyer Abreu's timely hit allows Red Sox to sweep twin bill with Cubs",
+    "rss_body": "Wilyer Abreu broke a scoreless deadlock with a two-out, two-run double in the eighth inning, lifting the Boston Red Sox to a 2-0 win and a doubleheader sweep over the visiting Chicago Cubs on Friday evening.\nAbreu was in a 0-for-11 slump before smacking the big hit high off the Green Monster in left-center field. Isiah Kiner-Falefa and Jahmai Jones both walked to set the stage for Abreu’s heroics, with the first walk coming off Chicago’s initial reliever Javier Assad (6-2) in an eventual loss.\nThe Red Sox (87-74) were limited to just four hits, but Jedixson Paez (1-1) made them stand up while dealing the final five innings en route to his first big-league win. Paez, who was recalled from Triple-A Worcester in between games, scattered three hits, struck out five and did not issue a walk in relief of starter Brayan Bello.\nThe Cubs (88-73) had seven hits, including two apiece by Seiya Suzuki, Michael Busch and Nico Hoerner.\nAfter Chicago starter David Peterson fanned six across five innings of three-hit ball, Assad had struck out the heart of the Boston lineup in order in the sixth and retired the first six men he faced.\nBello escaped a near-immediate jam in the first. After striking out leadoff hitter Pete Crow-Armstrong, Suzuki walked and Busch dunked a single into shallow left field, but back-to-back outs in the air ended the threat.\nThe Boston righty also induced double plays to halt potential rallies after leadoff singles by Hoerner in the second and Busch in the fourth. Kiner-Falefa made a diving stop and spun a 4-6-3 ball to erase Hoerner.\nPaez replaced Bello following Hoerner’s leadoff knock in the fifth. Matt Shaw lined a two-out single that ricocheted off the umpire standing up the middle before runners were stranded on the corners.\nMeanwhile, the Red Sox were hitless until Kiner-Falefa opened the third with a line-drive single to center. He reached third on Anthony’s knock to right, but Peterson retired the next two.\nIn the fifth, a leadoff walk to Kiner-Falefa was wasted.\nThe teams’ season finale was moved to Sunday at a neutral location in St. Petersburg, Fla., due to inclement weather expected to impact Boston all weekend.\n–Field Level Media",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "7d81f09fec1931bc6514",
     "title": "Red Sox beat Cubs 2-0 to sweep doubleheader after setting Wild Card Series matchup with Yankees",
     "source": "WRAL",
@@ -53,6 +317,70 @@
     "original_body": "BOSTON (AP) — Wilyer Abreu hit a two-run double in the eighth inning, and the Boston Red Sox beat the Chicago White Sox 2-0 Friday night to sweep a doubleheader.\nBrayan Bello allowed four hits over four innings and rookie Jedixson Páez (1-1) gave up three hits in five innings with four strikeouts in his first big league win.\nOther WRAL Top Stories\nChicago dropped two games back of San Diego for the top NL wild card. The Padres hosted Arizona later Friday.\nJavier Assad (6-2) was the loser. Chicago starter David Petersen allowed three hits over five innings and struck out six.\nIn the first game, Connor Wong hit a tiebreaking double in the seventh inning, to help the Red Sox rally from a three-run deficit in a 4-3 win that clinched the No. 5 seed in the AL playoffs.\nBoston will play its Wild Card Series for the second year in a row at the New York Yankees, who won last season’s best-of-three matchup 2-1. It will be the seventh Red Sox-Yankees postseason series.\nFriday’s opener was originally scheduled for Sunday afternoon but was moved up because a significant storm was forecast. The series finale, which had been slated for Saturday night, will now be played on Sunday afternoon in St. Petersburg, Florida.\nUp Next\nNeither team had announced Sunday pitching plans.\n___\nSee AP’s full MLB coverage here",
     "rss_title": "Red Sox beat Cubs 2-0 to sweep doubleheader after setting Wild Card Series matchup with Yankees",
     "rss_body": "BOSTON (AP) — Wilyer Abreu hit a two-run double in the eighth inning, and the Boston Red Sox beat the Chicago White Sox 2-0 Friday night to sweep a doubleheader.\nBrayan Bello allowed four hits over four innings and rookie Jedixson Páez (1-1) gave up three hits in five innings with four strikeouts in his first big league win.\nOther WRAL Top Stories\nChicago dropped two games back of San Diego for the top NL wild card. The Padres hosted Arizona later Friday.\nJavier Assad (6-2) was the loser. Chicago starter David Petersen allowed three hits over five innings and struck out six.\nIn the first game, Connor Wong hit a tiebreaking double in the seventh inning, to help the Red Sox rally from a three-run deficit in a 4-3 win that clinched the No. 5 seed in the AL playoffs.\nBoston will play its Wild Card Series for the second year in a row at the New York Yankees, who won last season’s best-of-three matchup 2-1. It will be the seventh Red Sox-Yankees postseason series.\nFriday’s opener was originally scheduled for Sunday afternoon but was moved up because a significant storm was forecast. The series finale, which had been slated for Saturday night, will now be played on Sunday afternoon in St. Petersburg, Florida.\nUp Next\nNeither team had announced Sunday pitching plans.\n___\nSee AP’s full MLB coverage here",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "66466642ba5be2e72999",
+    "title": "Isiah Kiner-Falefa toca la segunda base tras revisión | 25/09/2026",
+    "source": "MLB.com",
+    "author": "",
+    "url": "https://www.mlb.com/es/video/isiah-kiner-falefa-touches-second-base-after-review",
+    "published_iso": "2026-09-26T00:34:27+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 00:34:27 +0000",
+    "body": "Isiah Kiner-Falefa toca la segunda base tras la revisión\nCubs @ Red Sox\n25 de septiembre de 2026 | 00:00:38\nTras la revisión, se confirma la decisión tomada en el terreno de: Isiah Kiner-Falefa sí que toca la segunda base tras volver corriendo a la primera",
+    "tracked_people": [
+      {
+        "name": "Isiah Kiner-Falefa",
+        "role": "Utility Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Isiah Kiner-Falefa toca la segunda base tras revisión | 25/09/2026",
+    "original_body": "Isiah Kiner-Falefa toca la segunda base tras la revisión\nCubs @ Red Sox\n25 de septiembre de 2026 | 00:00:38\nTras la revisión, se confirma la decisión tomada en el terreno de: Isiah Kiner-Falefa sí que toca la segunda base tras volver corriendo a la primera",
+    "rss_title": "Isiah Kiner-Falefa toca la segunda base tras revisión | 25/09/2026",
+    "rss_body": "Isiah Kiner-Falefa toca la segunda base tras la revisión\nCubs @ Red Sox\n25 de septiembre de 2026 | 00:00:38\nTras la revisión, se confirma la decisión tomada en el terreno de: Isiah Kiner-Falefa sí que toca la segunda base tras volver corriendo a la primera",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "1a743dddd371dc8cfff6",
+    "title": "Alex Bregman returns to Chicago Cubs lineup, but 4-3 loss in Game 1 of DH jeopardizes top wild-card seed",
+    "source": "Chicago Tribune",
+    "author": "Meghan Montemurro",
+    "url": "https://www.chicagotribune.com/2026/09/25/chicago-cubs-alex-bregman-wild-card/",
+    "published_iso": "2026-09-26T00:01:12+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 00:01:12 +0000",
+    "body": "BOSTON — Alex Bregman didn’t want to be thinking about his facial fractures when he finally got back into game action.\nHe had been an inch away from a potential career-ending injury to his eye when he took a foul ball to his left cheek while standing near the on-deck circle Sunday in Cincinnati. Five days later, Bregman was back in the lineup as the Chicago Cubs designated hitter in Game 1 of Friday’s doubleheader against the Boston Red Sox.\n“Didn’t think about it one time,” Bregman said of his face afterward. “All I was thinking about was what I normally go through when in the batter’s box and in the dugout. The mechanics were terrible today, so hopefully just fix those and get back to crushing it.”\nBregman finished 0-for-4 with a strikeout in the Cubs’ 4-3 loss and didn’t start Game 2 on Friday at Fenway Park. He had a special double-flapped helmet ready to put on had he reached base to further protect his face.\n“My hands were going back and my body was sliding forward,” Bregman said of his at-bats. “I just need to correct that real quick and be back to killing.”\nThe Cubs lost 2-0 in Game 2 and fell two games behind the Padres for the top National League wild-card seed, pending the Padres-Arizona Diamondbacks result later Friday in San Diego. The Cubs, who clinched a playoff berth Thursday, are in a virtual tie with the Phillies, who entered Friday as the No. 3 wild card before their game against the Tampa Bay Rays in Philadelphia. The Cubs own the tiebreaker over the Padres and Phillies.\nThe wild-card series, which are Tuesday-Thursday in both leagues, are a best-of-three format, with the higher seed playing host for the entire series. The Cubs need some help to catch the Padres for the top wild card, which would give them the NL’s No. 4 seed and home-field advantage in the opening series.\nBregman had been itching to get into Thursday’s game, manager Craig Counsell said. Once they got all the information from the doctors Monday, the involved parties sat and talked, ultimately eying Friday as the day that made sense for Bregman to return if everything went well. Following clearance by doctors and having two very good days of work, everything aligned for Bregman to start in his return to Boston, where he spent the 2025 season.\n“It’s incredible that we’re talking about that he’s going to be in the lineup,” Counsell said. “A testament to his toughness, number one, and his just desire to play baseball. … This is a unique situation, but he feels up to go, and then the doctors have said you can go.”\nBregman’s return isn’t without risk, which the Cubs talked discussed with the veteran, but both parties felt they’ve done the best they could to minimize them moving forward.\n“There was a lot of unknowns, and it was a freak injury, it’s an injury that we don’t deal with very often, that you don’t experience very often,” Counsell said. “Alex’s best trait is the man loves baseball, and he’s super competitive, and he’s relentless in his pursuit to be a little bit better, and so that just rubs off on people, and he loves it, and he talks about it nonstop.”\nThe Cubs built a three-run lead early in Game 1, though a stiff wind prevented Tyrone Taylor’s RBI double in the first and Miguel Amaya’s two-run double in the second — both off the Green Monster in left field — from being home runs.\nRight-hander Clay Holmes wasn’t as sharp as the Cubs needed him to be. He struggled again with walks, issuing three free passes in 4 1/3 innings. That contributed to three runs (two earned) on five hits, and he struck out three.\n“It comes down to filling the zone up, and when I do that, good things happen,” Holmes said. “The pitch count stays down, and I rely on my strengths, but yeah, really, it’s just filling the zone up more, and it put us in a much better place.”\nHolmes has walked 15 batters in his last 19 2/3 innings spanning four starts. His walks are predominately coming against left-handed hitters.\n“That’s why every single pitch matters,” Counsell said. “You get yourself in a bad count or you throw one close pitch that doesn’t quite nip the corner or whatever so that’s why every pitch is important to be competitive with.”",
+    "tracked_people": [
+      {
+        "name": "Alex Bregman",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Alex Bregman returns to Chicago Cubs lineup, but 4-3 loss in Game 1 of DH jeopardizes top wild-card seed",
+    "original_body": "BOSTON — Alex Bregman didn’t want to be thinking about his facial fractures when he finally got back into game action.\nHe had been an inch away from a potential career-ending injury to his eye when he took a foul ball to his left cheek while standing near the on-deck circle Sunday in Cincinnati. Five days later, Bregman was back in the lineup as the Chicago Cubs designated hitter in Game 1 of Friday’s doubleheader against the Boston Red Sox.\n“Didn’t think about it one time,” Bregman said of his face afterward. “All I was thinking about was what I normally go through when in the batter’s box and in the dugout. The mechanics were terrible today, so hopefully just fix those and get back to crushing it.”\nBregman finished 0-for-4 with a strikeout in the Cubs’ 4-3 loss and didn’t start Game 2 on Friday at Fenway Park. He had a special double-flapped helmet ready to put on had he reached base to further protect his face.\n“My hands were going back and my body was sliding forward,” Bregman said of his at-bats. “I just need to correct that real quick and be back to killing.”\nThe Cubs lost 2-0 in Game 2 and fell two games behind the Padres for the top National League wild-card seed, pending the Padres-Arizona Diamondbacks result later Friday in San Diego. The Cubs, who clinched a playoff berth Thursday, are in a virtual tie with the Phillies, who entered Friday as the No. 3 wild card before their game against the Tampa Bay Rays in Philadelphia. The Cubs own the tiebreaker over the Padres and Phillies.\nThe wild-card series, which are Tuesday-Thursday in both leagues, are a best-of-three format, with the higher seed playing host for the entire series. The Cubs need some help to catch the Padres for the top wild card, which would give them the NL’s No. 4 seed and home-field advantage in the opening series.\nBregman had been itching to get into Thursday’s game, manager Craig Counsell said. Once they got all the information from the doctors Monday, the involved parties sat and talked, ultimately eying Friday as the day that made sense for Bregman to return if everything went well. Following clearance by doctors and having two very good days of work, everything aligned for Bregman to start in his return to Boston, where he spent the 2025 season.\n“It’s incredible that we’re talking about that he’s going to be in the lineup,” Counsell said. “A testament to his toughness, number one, and his just desire to play baseball. … This is a unique situation, but he feels up to go, and then the doctors have said you can go.”\nBregman’s return isn’t without risk, which the Cubs talked discussed with the veteran, but both parties felt they’ve done the best they could to minimize them moving forward.\n“There was a lot of unknowns, and it was a freak injury, it’s an injury that we don’t deal with very often, that you don’t experience very often,” Counsell said. “Alex’s best trait is the man loves baseball, and he’s super competitive, and he’s relentless in his pursuit to be a little bit better, and so that just rubs off on people, and he loves it, and he talks about it nonstop.”\nThe Cubs built a three-run lead early in Game 1, though a stiff wind prevented Tyrone Taylor’s RBI double in the first and Miguel Amaya’s two-run double in the second — both off the Green Monster in left field — from being home runs.\nRight-hander Clay Holmes wasn’t as sharp as the Cubs needed him to be. He struggled again with walks, issuing three free passes in 4 1/3 innings. That contributed to three runs (two earned) on five hits, and he struck out three.\n“It comes down to filling the zone up, and when I do that, good things happen,” Holmes said. “The pitch count stays down, and I rely on my strengths, but yeah, really, it’s just filling the zone up more, and it put us in a much better place.”\nHolmes has walked 15 batters in his last 19 2/3 innings spanning four starts. His walks are predominately coming against left-handed hitters.\n“That’s why every single pitch matters,” Counsell said. “You get yourself in a bad count or you throw one close pitch that doesn’t quite nip the corner or whatever so that’s why every pitch is important to be competitive with.”",
+    "rss_title": "Alex Bregman returns to Chicago Cubs lineup, but 4-3 loss in Game 1 of DH jeopardizes top wild-card seed",
+    "rss_body": "BOSTON — Alex Bregman didn’t want to be thinking about his facial fractures when he finally got back into game action.\nHe had been an inch away from a potential career-ending injury to his eye when he took a foul ball to his left cheek while standing near the on-deck circle Sunday in Cincinnati. Five days later, Bregman was back in the lineup as the Chicago Cubs designated hitter in Game 1 of Friday’s doubleheader against the Boston Red Sox.\n“Didn’t think about it one time,” Bregman said of his face afterward. “All I was thinking about was what I normally go through when in the batter’s box and in the dugout. The mechanics were terrible today, so hopefully just fix those and get back to crushing it.”\nBregman finished 0-for-4 with a strikeout in the Cubs’ 4-3 loss and didn’t start Game 2 on Friday at Fenway Park. He had a special double-flapped helmet ready to put on had he reached base to further protect his face.\n“My hands were going back and my body was sliding forward,” Bregman said of his at-bats. “I just need to correct that real quick and be back to killing.”\nThe Cubs lost 2-0 in Game 2 and fell two games behind the Padres for the top National League wild-card seed, pending the Padres-Arizona Diamondbacks result later Friday in San Diego. The Cubs, who clinched a playoff berth Thursday, are in a virtual tie with the Phillies, who entered Friday as the No. 3 wild card before their game against the Tampa Bay Rays in Philadelphia. The Cubs own the tiebreaker over the Padres and Phillies.\nThe wild-card series, which are Tuesday-Thursday in both leagues, are a best-of-three format, with the higher seed playing host for the entire series. The Cubs need some help to catch the Padres for the top wild card, which would give them the NL’s No. 4 seed and home-field advantage in the opening series.\nBregman had been itching to get into Thursday’s game, manager Craig Counsell said. Once they got all the information from the doctors Monday, the involved parties sat and talked, ultimately eying Friday as the day that made sense for Bregman to return if everything went well. Following clearance by doctors and having two very good days of work, everything aligned for Bregman to start in his return to Boston, where he spent the 2025 season.\n“It’s incredible that we’re talking about that he’s going to be in the lineup,” Counsell said. “A testament to his toughness, number one, and his just desire to play baseball. … This is a unique situation, but he feels up to go, and then the doctors have said you can go.”\nBregman’s return isn’t without risk, which the Cubs talked discussed with the veteran, but both parties felt they’ve done the best they could to minimize them moving forward.\n“There was a lot of unknowns, and it was a freak injury, it’s an injury that we don’t deal with very often, that you don’t experience very often,” Counsell said. “Alex’s best trait is the man loves baseball, and he’s super competitive, and he’s relentless in his pursuit to be a little bit better, and so that just rubs off on people, and he loves it, and he talks about it nonstop.”\nThe Cubs built a three-run lead early in Game 1, though a stiff wind prevented Tyrone Taylor’s RBI double in the first and Miguel Amaya’s two-run double in the second — both off the Green Monster in left field — from being home runs.\nRight-hander Clay Holmes wasn’t as sharp as the Cubs needed him to be. He struggled again with walks, issuing three free passes in 4 1/3 innings. That contributed to three runs (two earned) on five hits, and he struck out three.\n“It comes down to filling the zone up, and when I do that, good things happen,” Holmes said. “The pitch count stays down, and I rely on my strengths, but yeah, really, it’s just filling the zone up more, and it put us in a much better place.”\nHolmes has walked 15 batters in his last 19 2/3 innings spanning four starts. His walks are predominately coming against left-handed hitters.\n“That’s why every single pitch matters,” Counsell said. “You get yourself in a bad count or you throw one close pitch that doesn’t quite nip the corner or whatever so that’s why every pitch is important to be competitive with.”",
     "translation_status": "fallback_original"
   },
   {
