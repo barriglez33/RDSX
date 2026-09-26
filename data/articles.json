@@ -1,5 +1,61 @@
 [
   {
+    "id": "7d81f09fec1931bc6514",
+    "title": "Red Sox beat Cubs 2-0 to sweep doubleheader after setting Wild Card Series matchup with Yankees",
+    "source": "WRAL",
+    "author": "KYLE HIGHTOWER",
+    "url": "https://www.wral.com/news/ap/ac78f-red-sox-beat-cubs-2-0-to-sweep-doubleheader-after-setting-wild-card-series-matchup-with-yankees/",
+    "published_iso": "2026-09-26T00:47:48+00:00",
+    "published_rfc2822": "Sat, 26 Sep 2026 00:47:48 +0000",
+    "body": "BOSTON (AP) — Wilyer Abreu hit a two-run double in the eighth inning, and the Boston Red Sox beat the Chicago White Sox 2-0 Friday night to sweep a doubleheader.\nBrayan Bello allowed four hits over four innings and rookie Jedixson Páez (1-1) gave up three hits in five innings with four strikeouts in his first big league win.\nOther WRAL Top Stories\nChicago dropped two games back of San Diego for the top NL wild card. The Padres hosted Arizona later Friday.\nJavier Assad (6-2) was the loser. Chicago starter David Petersen allowed three hits over five innings and struck out six.\nIn the first game, Connor Wong hit a tiebreaking double in the seventh inning, to help the Red Sox rally from a three-run deficit in a 4-3 win that clinched the No. 5 seed in the AL playoffs.\nBoston will play its Wild Card Series for the second year in a row at the New York Yankees, who won last season’s best-of-three matchup 2-1. It will be the seventh Red Sox-Yankees postseason series.\nFriday’s opener was originally scheduled for Sunday afternoon but was moved up because a significant storm was forecast. The series finale, which had been slated for Saturday night, will now be played on Sunday afternoon in St. Petersburg, Florida.\nUp Next\nNeither team had announced Sunday pitching plans.\n___\nSee AP’s full MLB coverage here",
+    "tracked_people": [
+      {
+        "name": "Connor Wong",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 2,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Brayan Bello",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Jedixson Paez",
+        "role": "Pitcher",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 44,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox beat Cubs 2-0 to sweep doubleheader after setting Wild Card Series matchup with Yankees",
+    "original_body": "BOSTON (AP) — Wilyer Abreu hit a two-run double in the eighth inning, and the Boston Red Sox beat the Chicago White Sox 2-0 Friday night to sweep a doubleheader.\nBrayan Bello allowed four hits over four innings and rookie Jedixson Páez (1-1) gave up three hits in five innings with four strikeouts in his first big league win.\nOther WRAL Top Stories\nChicago dropped two games back of San Diego for the top NL wild card. The Padres hosted Arizona later Friday.\nJavier Assad (6-2) was the loser. Chicago starter David Petersen allowed three hits over five innings and struck out six.\nIn the first game, Connor Wong hit a tiebreaking double in the seventh inning, to help the Red Sox rally from a three-run deficit in a 4-3 win that clinched the No. 5 seed in the AL playoffs.\nBoston will play its Wild Card Series for the second year in a row at the New York Yankees, who won last season’s best-of-three matchup 2-1. It will be the seventh Red Sox-Yankees postseason series.\nFriday’s opener was originally scheduled for Sunday afternoon but was moved up because a significant storm was forecast. The series finale, which had been slated for Saturday night, will now be played on Sunday afternoon in St. Petersburg, Florida.\nUp Next\nNeither team had announced Sunday pitching plans.\n___\nSee AP’s full MLB coverage here",
+    "rss_title": "Red Sox beat Cubs 2-0 to sweep doubleheader after setting Wild Card Series matchup with Yankees",
+    "rss_body": "BOSTON (AP) — Wilyer Abreu hit a two-run double in the eighth inning, and the Boston Red Sox beat the Chicago White Sox 2-0 Friday night to sweep a doubleheader.\nBrayan Bello allowed four hits over four innings and rookie Jedixson Páez (1-1) gave up three hits in five innings with four strikeouts in his first big league win.\nOther WRAL Top Stories\nChicago dropped two games back of San Diego for the top NL wild card. The Padres hosted Arizona later Friday.\nJavier Assad (6-2) was the loser. Chicago starter David Petersen allowed three hits over five innings and struck out six.\nIn the first game, Connor Wong hit a tiebreaking double in the seventh inning, to help the Red Sox rally from a three-run deficit in a 4-3 win that clinched the No. 5 seed in the AL playoffs.\nBoston will play its Wild Card Series for the second year in a row at the New York Yankees, who won last season’s best-of-three matchup 2-1. It will be the seventh Red Sox-Yankees postseason series.\nFriday’s opener was originally scheduled for Sunday afternoon but was moved up because a significant storm was forecast. The series finale, which had been slated for Saturday night, will now be played on Sunday afternoon in St. Petersburg, Florida.\nUp Next\nNeither team had announced Sunday pitching plans.\n___\nSee AP’s full MLB coverage here",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "6d52ad4ce430e8ce9332",
     "title": "Red-hot Gasper exits with biceps discomfort, undergoes MRI during twin bill",
     "source": "MLB.com",
