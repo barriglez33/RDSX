@@ -1,5 +1,429 @@
 [
   {
+    "id": "b51e093812b224606147",
+    "title": "Red Sox slugger back in lineup, key reliever goes to IL ahead of final game",
+    "source": "Boston Herald",
+    "author": "Mac Cerullo",
+    "url": "https://www.bostonherald.com/2026/09/27/red-sox-slugger-back-in-lineup-key-reliever-goes-to-il-ahead-of-final-game/",
+    "published_iso": "2026-09-27T16:51:50+00:00",
+    "published_rfc2822": "Sun, 27 Sep 2026 16:51:50 +0000",
+    "body": "Willson Contreras is back in the lineup for the final game of the regular season, but the Red Sox got some bad injury news on the eve of the playoffs.\nTyron Guerrero, one of the club’s top set-up man, has been placed on the 15-day injured list with a right shoulder strain. He won’t be eligible to return until Oct. 9, which means he will be sidelined through at least the American League Divisional Series.\nThe Red Sox also placed catcher Mickey Gasper on the 10-day IL with a right biceps strain, transferred outfielder Eli White to the 60-day IL, optioned right-hander Jedixson Paez, called up outfielder Nate Eaton and right-hander Wyatt Olds and activated right-hander Tanner Houck, who will start Sunday’s finale at Tropicana Field against the Chicago Cubs after missing the entire season recovering from Tommy John surgery.\nGuerrero was only recently activated from the IL after missing 17 games with right shoulder inflammation. He was activated last Sunday and appeared in two games this past week, tossing one scoreless inning each against the Tampa Bay Rays last Sunday and against the Cleveland Guardians on Wednesday.\nEvidently he suffered a setback, and with Justin Slaten also sidelined the Red Sox bullpen will enter October without two key set-up men behind Aroldis Chapman and Garrett Whitlock.\nContreras being back for the finale is, however, highly encouraging. The veteran slugger has been Boston’s best all-around hitter this season but hasn’t played since being hit on the right hand by a pitch on Sept. 17 against the Texas Rangers. He avoided a fracture but was unable to swing pain free for more than a week, and this past Thursday he expressed significant concern about his potential availability for the Wild Card Series.\nContreras will serve as the designated hitter on Sunday and will bat third.",
+    "tracked_people": [
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Nate Eaton",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Wyatt Olds",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 26,
+        "batch": 1
+      },
+      {
+        "name": "Garrett Whitlock",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 28,
+        "batch": 1
+      },
+      {
+        "name": "Aroldis Chapman",
+        "role": "Relief Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 29,
+        "batch": 1
+      },
+      {
+        "name": "Eli White",
+        "role": "Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 33,
+        "batch": 2
+      },
+      {
+        "name": "Tyron Guerrero",
+        "role": "Pitcher",
+        "status": "15-day Injured List",
+        "type": "player",
+        "id": 35,
+        "batch": 2
+      },
+      {
+        "name": "Justin Slaten",
+        "role": "Pitcher",
+        "status": "15-day Injured List",
+        "type": "player",
+        "id": 36,
+        "batch": 2
+      },
+      {
+        "name": "Tanner Houck",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 40,
+        "batch": 2
+      },
+      {
+        "name": "Jedixson Paez",
+        "role": "Pitcher",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 44,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox slugger back in lineup, key reliever goes to IL ahead of final game",
+    "original_body": "Willson Contreras is back in the lineup for the final game of the regular season, but the Red Sox got some bad injury news on the eve of the playoffs.\nTyron Guerrero, one of the club’s top set-up man, has been placed on the 15-day injured list with a right shoulder strain. He won’t be eligible to return until Oct. 9, which means he will be sidelined through at least the American League Divisional Series.\nThe Red Sox also placed catcher Mickey Gasper on the 10-day IL with a right biceps strain, transferred outfielder Eli White to the 60-day IL, optioned right-hander Jedixson Paez, called up outfielder Nate Eaton and right-hander Wyatt Olds and activated right-hander Tanner Houck, who will start Sunday’s finale at Tropicana Field against the Chicago Cubs after missing the entire season recovering from Tommy John surgery.\nGuerrero was only recently activated from the IL after missing 17 games with right shoulder inflammation. He was activated last Sunday and appeared in two games this past week, tossing one scoreless inning each against the Tampa Bay Rays last Sunday and against the Cleveland Guardians on Wednesday.\nEvidently he suffered a setback, and with Justin Slaten also sidelined the Red Sox bullpen will enter October without two key set-up men behind Aroldis Chapman and Garrett Whitlock.\nContreras being back for the finale is, however, highly encouraging. The veteran slugger has been Boston’s best all-around hitter this season but hasn’t played since being hit on the right hand by a pitch on Sept. 17 against the Texas Rangers. He avoided a fracture but was unable to swing pain free for more than a week, and this past Thursday he expressed significant concern about his potential availability for the Wild Card Series.\nContreras will serve as the designated hitter on Sunday and will bat third.",
+    "rss_title": "Red Sox slugger back in lineup, key reliever goes to IL ahead of final game",
+    "rss_body": "Willson Contreras is back in the lineup for the final game of the regular season, but the Red Sox got some bad injury news on the eve of the playoffs.\nTyron Guerrero, one of the club’s top set-up man, has been placed on the 15-day injured list with a right shoulder strain. He won’t be eligible to return until Oct. 9, which means he will be sidelined through at least the American League Divisional Series.\nThe Red Sox also placed catcher Mickey Gasper on the 10-day IL with a right biceps strain, transferred outfielder Eli White to the 60-day IL, optioned right-hander Jedixson Paez, called up outfielder Nate Eaton and right-hander Wyatt Olds and activated right-hander Tanner Houck, who will start Sunday’s finale at Tropicana Field against the Chicago Cubs after missing the entire season recovering from Tommy John surgery.\nGuerrero was only recently activated from the IL after missing 17 games with right shoulder inflammation. He was activated last Sunday and appeared in two games this past week, tossing one scoreless inning each against the Tampa Bay Rays last Sunday and against the Cleveland Guardians on Wednesday.\nEvidently he suffered a setback, and with Justin Slaten also sidelined the Red Sox bullpen will enter October without two key set-up men behind Aroldis Chapman and Garrett Whitlock.\nContreras being back for the finale is, however, highly encouraging. The veteran slugger has been Boston’s best all-around hitter this season but hasn’t played since being hit on the right hand by a pitch on Sept. 17 against the Texas Rangers. He avoided a fracture but was unable to swing pain free for more than a week, and this past Thursday he expressed significant concern about his potential availability for the Wild Card Series.\nContreras will serve as the designated hitter on Sunday and will bat third.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "ea2d20e71be2a9154165",
+    "title": "Red Sox tab Tanner Houck for shocking Game 162 start, announce depressing Tyron Guerrero news",
+    "source": "BoSox Injection",
+    "author": "Katie Manganelli",
+    "url": "https://bosoxinjection.com/red-sox-tab-tanner-houck-for-shocking-game-162-start-announce-depressing-tyron-guerrero-news",
+    "published_iso": "2026-09-27T16:38:06+00:00",
+    "published_rfc2822": "Sun, 27 Sep 2026 16:38:06 +0000",
+    "body": "After a long rollercoaster of a season, the Chicago Cubs and Boston Red Sox will close it out at Tropicana Field due to a dangerous nor'easter over Massachusetts and many other states. The Red Sox and Cubs have both clinched playoff spots so the outcome of game 162 can't benefit or hinder either team.\nBecause of the lack of stakes, the Red Sox can take a risk. Tanner Houck will start the game for Boston after spending the entire season on the injured list healing Tommy John surgery, according to Tim Healey of The Boston Globe.\nThere has been no report on the expected length of Houck's start. The Red Sox could try to get multiple innings out of him to rest as many pitchers as possible, or he could pitch one or two frames with a bullpen game to follow. Jen McCaffrey of The Athletic reports that Houck has been built up for about three innings of work, but an appearance of that length could take him out of consideration for Red Sox's Wild Card roster since he's fresh off a long-term injury (subscription required).\nHouck hasn't pitched in the big leagues since May 12, 2025. After he posted a career-best 3.12 ERA as Boston's ace in 2024, Houck experienced a severe regression in 2025. He logged an 8.04 ERA and 1.69 WHIP over 43.2 frames last season. The Red Sox optioned him to Triple-A to figure out his struggles, but he never looked as good as he did the year before. Late in the season, Boston discovered his injury and he underwent surgery.\nRed Sox activate Tanner Houck for surprise game 162 start, put Tyron Guerrero back on IL with shoulder issue\nHouck and the Red Sox have been pushing for the righty's return as a bullpen arm, and there's now an easy roster spot for him after more brutal Sox injury news. Tyron Guerrero has been placed back on the injured list with a shoulder strain. Healey reports that the injury will keep him out for at least the first two rounds of the postseason.\nGuerrero was on the IL from September 1-20 with right shoulder inflammation and losing him again is a crushing blow for Boston's bullpen. The flamethrower quickly emerged as a key setup man for the Sox this year and they'll be short a dangerous option in the later innings. He posted a 3.10 ERA, 1.11 WHIP, 41 strikeouts and eight walks over 40.2 frames this season.\nGuerrero's absence puts more pressure on the Sox's relief arms to maintain the high standard they've set as a group this year (league-best 2.99 ERA). Houck will hopefully be joined in the bullpen by Garrett Crochet, who is also hopinig to make a triumphant return as a reliever in the coming days. Boston will also need lefty setup man Erik Miller at his best following some recent mechanical struggles.",
+    "tracked_people": [
+      {
+        "name": "Erik Miller",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 1
+      },
+      {
+        "name": "Tyron Guerrero",
+        "role": "Pitcher",
+        "status": "15-day Injured List",
+        "type": "player",
+        "id": 35,
+        "batch": 2
+      },
+      {
+        "name": "Garrett Crochet",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 39,
+        "batch": 2
+      },
+      {
+        "name": "Tanner Houck",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 40,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox tab Tanner Houck for shocking Game 162 start, announce depressing Tyron Guerrero news",
+    "original_body": "After a long rollercoaster of a season, the Chicago Cubs and Boston Red Sox will close it out at Tropicana Field due to a dangerous nor'easter over Massachusetts and many other states. The Red Sox and Cubs have both clinched playoff spots so the outcome of game 162 can't benefit or hinder either team.\nBecause of the lack of stakes, the Red Sox can take a risk. Tanner Houck will start the game for Boston after spending the entire season on the injured list healing Tommy John surgery, according to Tim Healey of The Boston Globe.\nThere has been no report on the expected length of Houck's start. The Red Sox could try to get multiple innings out of him to rest as many pitchers as possible, or he could pitch one or two frames with a bullpen game to follow. Jen McCaffrey of The Athletic reports that Houck has been built up for about three innings of work, but an appearance of that length could take him out of consideration for Red Sox's Wild Card roster since he's fresh off a long-term injury (subscription required).\nHouck hasn't pitched in the big leagues since May 12, 2025. After he posted a career-best 3.12 ERA as Boston's ace in 2024, Houck experienced a severe regression in 2025. He logged an 8.04 ERA and 1.69 WHIP over 43.2 frames last season. The Red Sox optioned him to Triple-A to figure out his struggles, but he never looked as good as he did the year before. Late in the season, Boston discovered his injury and he underwent surgery.\nRed Sox activate Tanner Houck for surprise game 162 start, put Tyron Guerrero back on IL with shoulder issue\nHouck and the Red Sox have been pushing for the righty's return as a bullpen arm, and there's now an easy roster spot for him after more brutal Sox injury news. Tyron Guerrero has been placed back on the injured list with a shoulder strain. Healey reports that the injury will keep him out for at least the first two rounds of the postseason.\nGuerrero was on the IL from September 1-20 with right shoulder inflammation and losing him again is a crushing blow for Boston's bullpen. The flamethrower quickly emerged as a key setup man for the Sox this year and they'll be short a dangerous option in the later innings. He posted a 3.10 ERA, 1.11 WHIP, 41 strikeouts and eight walks over 40.2 frames this season.\nGuerrero's absence puts more pressure on the Sox's relief arms to maintain the high standard they've set as a group this year (league-best 2.99 ERA). Houck will hopefully be joined in the bullpen by Garrett Crochet, who is also hopinig to make a triumphant return as a reliever in the coming days. Boston will also need lefty setup man Erik Miller at his best following some recent mechanical struggles.",
+    "rss_title": "Red Sox tab Tanner Houck for shocking Game 162 start, announce depressing Tyron Guerrero news",
+    "rss_body": "After a long rollercoaster of a season, the Chicago Cubs and Boston Red Sox will close it out at Tropicana Field due to a dangerous nor'easter over Massachusetts and many other states. The Red Sox and Cubs have both clinched playoff spots so the outcome of game 162 can't benefit or hinder either team.\nBecause of the lack of stakes, the Red Sox can take a risk. Tanner Houck will start the game for Boston after spending the entire season on the injured list healing Tommy John surgery, according to Tim Healey of The Boston Globe.\nThere has been no report on the expected length of Houck's start. The Red Sox could try to get multiple innings out of him to rest as many pitchers as possible, or he could pitch one or two frames with a bullpen game to follow. Jen McCaffrey of The Athletic reports that Houck has been built up for about three innings of work, but an appearance of that length could take him out of consideration for Red Sox's Wild Card roster since he's fresh off a long-term injury (subscription required).\nHouck hasn't pitched in the big leagues since May 12, 2025. After he posted a career-best 3.12 ERA as Boston's ace in 2024, Houck experienced a severe regression in 2025. He logged an 8.04 ERA and 1.69 WHIP over 43.2 frames last season. The Red Sox optioned him to Triple-A to figure out his struggles, but he never looked as good as he did the year before. Late in the season, Boston discovered his injury and he underwent surgery.\nRed Sox activate Tanner Houck for surprise game 162 start, put Tyron Guerrero back on IL with shoulder issue\nHouck and the Red Sox have been pushing for the righty's return as a bullpen arm, and there's now an easy roster spot for him after more brutal Sox injury news. Tyron Guerrero has been placed back on the injured list with a shoulder strain. Healey reports that the injury will keep him out for at least the first two rounds of the postseason.\nGuerrero was on the IL from September 1-20 with right shoulder inflammation and losing him again is a crushing blow for Boston's bullpen. The flamethrower quickly emerged as a key setup man for the Sox this year and they'll be short a dangerous option in the later innings. He posted a 3.10 ERA, 1.11 WHIP, 41 strikeouts and eight walks over 40.2 frames this season.\nGuerrero's absence puts more pressure on the Sox's relief arms to maintain the high standard they've set as a group this year (league-best 2.99 ERA). Houck will hopefully be joined in the bullpen by Garrett Crochet, who is also hopinig to make a triumphant return as a reliever in the coming days. Boston will also need lefty setup man Erik Miller at his best following some recent mechanical struggles.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "3c362cebb8c42a615367",
+    "title": "Red Sox Announce Surprise Decision on Starting Pitcher Before Cubs Season Finale",
+    "source": "heavy.com",
+    "author": "Jonathan Vankin",
+    "url": "https://heavy.com/sports/mlb/boston-red-sox/red-sox-surprise-starting-pitcher-decision/",
+    "published_iso": "2026-09-27T16:30:29+00:00",
+    "published_rfc2822": "Sun, 27 Sep 2026 16:30:29 +0000",
+    "body": "The Boston Red Sox made a surprise announcement before their season-ending game against the Chicago Cubs in Tampa Bay Sunday. Tanner Houck will take the mound for the Red Sox, starting the game and concluding an injury rehab that has stretched more than 16 months since his last big league pitch.\nThe assignment came together late, a sign of how unsettled Boston’s roster still is, and it puts real pressure on an arm that hasn’t thrown a competitive pitch since Tommy John surgery sidelined him last year.\nGame 162 was never supposed to happen in Florida. A forecasted nor’easter pushed the finale to Tropicana Field, according to theScore‘s Simon Sharkey-Gotlieb, sending both clubs to St. Petersburg right after Friday’s doubleheader at Fenway Park.\nBoston is locked into the American League’s No. 5 seed and opens the Wild Card Series Tuesday at Yankee Stadium. The Cubs, already in the playoffs, send left-hander Shota Imanaga to the mound while they play out the string for seeding.\nMLB.com’s own lineup page still listed Boston’s starter as TBD deep into Sunday morning, but beat reporters closed the gap first, with The Boston Globe’s Tim Healey and MassLive’s Chris Cotillo both confirming Houck’s assignment hours before first pitch.\n| BOSTON RED SOX — ROSTER MOVES |  | \n|---|---|\n| Move | Details | \n| Recalled | Infielder/outfielder Nate Eaton and right-handed pitcher Wyatt Olds. | \n| Reinstated | Right-handed pitcher Tanner Houck from the 60-Day Injured List; he will start today’s game against the Chicago Cubs. | \n| Placed on IL | Catcher/first baseman Mickey Gasper — 10-Day IL (retroactive to Sept. 26), right biceps strain. | \n| Placed on IL | Right-handed pitcher Tyron Guerrero — 15-Day IL (retroactive to Sept. 24), right shoulder strain. | \n| Transferred | Outfielder Eli White to the 60-Day Injured List. | \n| Boston Red Sox roster moves, Fenway Park, Boston, MA. |  | \nTanner Houck and the Boston Red Sox’s 16-Month Wait\nHouck’s 2025 season came apart fast. He opened the year as Boston’s No. 2 starter behind Garrett Crochet, then posted an 8.04 ERA across nine outings, including two starts in which he allowed 11 earned runs apiece, against Tampa Bay and Detroit.\nThat Detroit start, a 14-2 loss in which he walked three and struck out none, stands as Houck’s last big league appearance before Sunday.\nHe landed on the injured list days later with a right flexor strain, and a rehab assignment that July got cut short by the same elbow. Tommy John surgery followed in August 2025, then a return to the 60-day injured list this past February wiped out his entire 2026 regular season.\nHouck made his final tuneup Saturday, Sept. 19, for Triple-A Worcester, allowing two runs, one earned on a solo homer, over 3 1/3 relief innings, his fourth and last rehab outing.\n“Long year, long process. But this was the goal from Day 1,” Houck said, recalling the target he set in spring, as quoted by MLB.com‘s Ian Browne.\nInterim manager Chad Tracy has kept his read on Houck simple.\n“Let’s see how these outings go and how he feels and go from there,” Tracy said, as quoted by MLB.com.\n| BOSTON RED SOX STARTING LINEUP |  |  |  |  | \n|---|---|---|---|---|\n| SP: Tanner Houck (RHP) • Reinstated from 60-Day IL |  |  |  |  | \n| September 27, 2026 • Fenway Park, Boston, MA • 3:05 PM ET • Cubs at Red Sox |  |  |  |  | \n| # | Player | Pos | AVG | SLG | \n| 1 | Roman Anthony | LF | .248 | .400 | \n| 2 | Adley Rutschman | C | .240 | .417 | \n| 3 | Willson Contreras | DH | .276 | .518 | \n| 4 | Wilyer Abreu | RF | .249 | .448 | \n| 5 | Ceddanne Rafaela | CF | .282 | .442 | \n| 6 | Nick Sogard | 2B | .254 | .386 | \n| 7 | Caleb Durbin | 3B | .248 | .379 | \n| 8 | Trevor Story | SS | .237 | .353 | \n| 9 | Andruw Monasterio | 1B | .235 | .374 | \n| Lineups confirmed. Season stats shown (AVG / SLG). Umpire: Emil Jimenez • Weather: 83°, Wind 6 mph • O/U: 7.5 Runs • Line: CHC -119 / BOS -102. |  |  |  |  | \nBoston Red Sox Weigh Tanner Houck for October\nHouck, 30, was Boston’s first-round pick in 2017, No. 24 overall out of Missouri, debuted in September 2020 and is now the longest-tenured player on the Red Sox roster. He made the All-Star team in 2024, going 9-10 with a 3.12 ERA over 30 starts, and carries a career mark of 24-32 with a 3.97 ERA and 449 strikeouts across parts of seven seasons.\nNone of that guarantees him a Wild Card Series spot. According to a Just Baseball roster projection, however, Houck may beat out fellow rehabbing reliever Johan Oviedo for a bullpen job largely on the strength of his postseason experience.\nThe Boston Globe‘s Peter Abraham raised the same possibility last week, writing that Houck could factor into the Wild Card mix if his rehab wrapped up cleanly.\nNo official roster has been announced. Boston will make that call after tonight’s results, with Houck’s final piece of evidence sitting right in front of them.\n| CHICAGO CUBS STARTING LINEUP |  |  |  |  | \n|---|---|---|---|---|\n| SP: Shota Imanaga (LHP) • 11-10, 3.74 ERA |  |  |  |  | \n| September 27, 2026 • Fenway Park, Boston, MA • 3:05 PM ET • Cubs at Red Sox |  |  |  |  | \n| # | Player | Pos | AVG | SLG | \n| 1 | Pete Crow-Armstrong | CF | .278 | .570 | \n| 2 | Alex Bregman | DH | .260 | .449 | \n| 3 | Michael Busch | 1B | .243 | .395 | \n| 4 | Ian Happ | LF | .220 | .416 | \n| 5 | Michael Conforto | RF | .237 | .466 | \n| 6 | Nico Hoerner | 2B | .264 | .351 | \n| 7 | Pedro Ramírez | 3B | .257 | .401 | \n| 8 | Dansby Swanson | SS | .214 | .400 | \n| 9 | Miguel Amaya | C | .232 | .370 | \n| Lineups confirmed. Season stats shown (AVG / SLG). Umpire: Emil Jimenez • Weather: 83°, Wind 6 mph • O/U: 7.5 Runs • Line: CHC -119 / BOS -102. |  |  |  |  |",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Alex Bregman",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Trevor Story",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Nick Sogard",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Nate Eaton",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Wyatt Olds",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 26,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Eli White",
+        "role": "Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 33,
+        "batch": 2
+      },
+      {
+        "name": "Tyron Guerrero",
+        "role": "Pitcher",
+        "status": "15-day Injured List",
+        "type": "player",
+        "id": 35,
+        "batch": 2
+      },
+      {
+        "name": "Garrett Crochet",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 39,
+        "batch": 2
+      },
+      {
+        "name": "Tanner Houck",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 40,
+        "batch": 2
+      },
+      {
+        "name": "Johan Oviedo",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 42,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox Announce Surprise Decision on Starting Pitcher Before Cubs Season Finale",
+    "original_body": "The Boston Red Sox made a surprise announcement before their season-ending game against the Chicago Cubs in Tampa Bay Sunday. Tanner Houck will take the mound for the Red Sox, starting the game and concluding an injury rehab that has stretched more than 16 months since his last big league pitch.\nThe assignment came together late, a sign of how unsettled Boston’s roster still is, and it puts real pressure on an arm that hasn’t thrown a competitive pitch since Tommy John surgery sidelined him last year.\nGame 162 was never supposed to happen in Florida. A forecasted nor’easter pushed the finale to Tropicana Field, according to theScore‘s Simon Sharkey-Gotlieb, sending both clubs to St. Petersburg right after Friday’s doubleheader at Fenway Park.\nBoston is locked into the American League’s No. 5 seed and opens the Wild Card Series Tuesday at Yankee Stadium. The Cubs, already in the playoffs, send left-hander Shota Imanaga to the mound while they play out the string for seeding.\nMLB.com’s own lineup page still listed Boston’s starter as TBD deep into Sunday morning, but beat reporters closed the gap first, with The Boston Globe’s Tim Healey and MassLive’s Chris Cotillo both confirming Houck’s assignment hours before first pitch.\n| BOSTON RED SOX — ROSTER MOVES |  | \n|---|---|\n| Move | Details | \n| Recalled | Infielder/outfielder Nate Eaton and right-handed pitcher Wyatt Olds. | \n| Reinstated | Right-handed pitcher Tanner Houck from the 60-Day Injured List; he will start today’s game against the Chicago Cubs. | \n| Placed on IL | Catcher/first baseman Mickey Gasper — 10-Day IL (retroactive to Sept. 26), right biceps strain. | \n| Placed on IL | Right-handed pitcher Tyron Guerrero — 15-Day IL (retroactive to Sept. 24), right shoulder strain. | \n| Transferred | Outfielder Eli White to the 60-Day Injured List. | \n| Boston Red Sox roster moves, Fenway Park, Boston, MA. |  | \nTanner Houck and the Boston Red Sox’s 16-Month Wait\nHouck’s 2025 season came apart fast. He opened the year as Boston’s No. 2 starter behind Garrett Crochet, then posted an 8.04 ERA across nine outings, including two starts in which he allowed 11 earned runs apiece, against Tampa Bay and Detroit.\nThat Detroit start, a 14-2 loss in which he walked three and struck out none, stands as Houck’s last big league appearance before Sunday.\nHe landed on the injured list days later with a right flexor strain, and a rehab assignment that July got cut short by the same elbow. Tommy John surgery followed in August 2025, then a return to the 60-day injured list this past February wiped out his entire 2026 regular season.\nHouck made his final tuneup Saturday, Sept. 19, for Triple-A Worcester, allowing two runs, one earned on a solo homer, over 3 1/3 relief innings, his fourth and last rehab outing.\n“Long year, long process. But this was the goal from Day 1,” Houck said, recalling the target he set in spring, as quoted by MLB.com‘s Ian Browne.\nInterim manager Chad Tracy has kept his read on Houck simple.\n“Let’s see how these outings go and how he feels and go from there,” Tracy said, as quoted by MLB.com.\n| BOSTON RED SOX STARTING LINEUP |  |  |  |  | \n|---|---|---|---|---|\n| SP: Tanner Houck (RHP) • Reinstated from 60-Day IL |  |  |  |  | \n| September 27, 2026 • Fenway Park, Boston, MA • 3:05 PM ET • Cubs at Red Sox |  |  |  |  | \n| # | Player | Pos | AVG | SLG | \n| 1 | Roman Anthony | LF | .248 | .400 | \n| 2 | Adley Rutschman | C | .240 | .417 | \n| 3 | Willson Contreras | DH | .276 | .518 | \n| 4 | Wilyer Abreu | RF | .249 | .448 | \n| 5 | Ceddanne Rafaela | CF | .282 | .442 | \n| 6 | Nick Sogard | 2B | .254 | .386 | \n| 7 | Caleb Durbin | 3B | .248 | .379 | \n| 8 | Trevor Story | SS | .237 | .353 | \n| 9 | Andruw Monasterio | 1B | .235 | .374 | \n| Lineups confirmed. Season stats shown (AVG / SLG). Umpire: Emil Jimenez • Weather: 83°, Wind 6 mph • O/U: 7.5 Runs • Line: CHC -119 / BOS -102. |  |  |  |  | \nBoston Red Sox Weigh Tanner Houck for October\nHouck, 30, was Boston’s first-round pick in 2017, No. 24 overall out of Missouri, debuted in September 2020 and is now the longest-tenured player on the Red Sox roster. He made the All-Star team in 2024, going 9-10 with a 3.12 ERA over 30 starts, and carries a career mark of 24-32 with a 3.97 ERA and 449 strikeouts across parts of seven seasons.\nNone of that guarantees him a Wild Card Series spot. According to a Just Baseball roster projection, however, Houck may beat out fellow rehabbing reliever Johan Oviedo for a bullpen job largely on the strength of his postseason experience.\nThe Boston Globe‘s Peter Abraham raised the same possibility last week, writing that Houck could factor into the Wild Card mix if his rehab wrapped up cleanly.\nNo official roster has been announced. Boston will make that call after tonight’s results, with Houck’s final piece of evidence sitting right in front of them.\n| CHICAGO CUBS STARTING LINEUP |  |  |  |  | \n|---|---|---|---|---|\n| SP: Shota Imanaga (LHP) • 11-10, 3.74 ERA |  |  |  |  | \n| September 27, 2026 • Fenway Park, Boston, MA • 3:05 PM ET • Cubs at Red Sox |  |  |  |  | \n| # | Player | Pos | AVG | SLG | \n| 1 | Pete Crow-Armstrong | CF | .278 | .570 | \n| 2 | Alex Bregman | DH | .260 | .449 | \n| 3 | Michael Busch | 1B | .243 | .395 | \n| 4 | Ian Happ | LF | .220 | .416 | \n| 5 | Michael Conforto | RF | .237 | .466 | \n| 6 | Nico Hoerner | 2B | .264 | .351 | \n| 7 | Pedro Ramírez | 3B | .257 | .401 | \n| 8 | Dansby Swanson | SS | .214 | .400 | \n| 9 | Miguel Amaya | C | .232 | .370 | \n| Lineups confirmed. Season stats shown (AVG / SLG). Umpire: Emil Jimenez • Weather: 83°, Wind 6 mph • O/U: 7.5 Runs • Line: CHC -119 / BOS -102. |  |  |  |  |",
+    "rss_title": "Red Sox Announce Surprise Decision on Starting Pitcher Before Cubs Season Finale",
+    "rss_body": "The Boston Red Sox made a surprise announcement before their season-ending game against the Chicago Cubs in Tampa Bay Sunday. Tanner Houck will take the mound for the Red Sox, starting the game and concluding an injury rehab that has stretched more than 16 months since his last big league pitch.\nThe assignment came together late, a sign of how unsettled Boston’s roster still is, and it puts real pressure on an arm that hasn’t thrown a competitive pitch since Tommy John surgery sidelined him last year.\nGame 162 was never supposed to happen in Florida. A forecasted nor’easter pushed the finale to Tropicana Field, according to theScore‘s Simon Sharkey-Gotlieb, sending both clubs to St. Petersburg right after Friday’s doubleheader at Fenway Park.\nBoston is locked into the American League’s No. 5 seed and opens the Wild Card Series Tuesday at Yankee Stadium. The Cubs, already in the playoffs, send left-hander Shota Imanaga to the mound while they play out the string for seeding.\nMLB.com’s own lineup page still listed Boston’s starter as TBD deep into Sunday morning, but beat reporters closed the gap first, with The Boston Globe’s Tim Healey and MassLive’s Chris Cotillo both confirming Houck’s assignment hours before first pitch.\n| BOSTON RED SOX — ROSTER MOVES |  | \n|---|---|\n| Move | Details | \n| Recalled | Infielder/outfielder Nate Eaton and right-handed pitcher Wyatt Olds. | \n| Reinstated | Right-handed pitcher Tanner Houck from the 60-Day Injured List; he will start today’s game against the Chicago Cubs. | \n| Placed on IL | Catcher/first baseman Mickey Gasper — 10-Day IL (retroactive to Sept. 26), right biceps strain. | \n| Placed on IL | Right-handed pitcher Tyron Guerrero — 15-Day IL (retroactive to Sept. 24), right shoulder strain. | \n| Transferred | Outfielder Eli White to the 60-Day Injured List. | \n| Boston Red Sox roster moves, Fenway Park, Boston, MA. |  | \nTanner Houck and the Boston Red Sox’s 16-Month Wait\nHouck’s 2025 season came apart fast. He opened the year as Boston’s No. 2 starter behind Garrett Crochet, then posted an 8.04 ERA across nine outings, including two starts in which he allowed 11 earned runs apiece, against Tampa Bay and Detroit.\nThat Detroit start, a 14-2 loss in which he walked three and struck out none, stands as Houck’s last big league appearance before Sunday.\nHe landed on the injured list days later with a right flexor strain, and a rehab assignment that July got cut short by the same elbow. Tommy John surgery followed in August 2025, then a return to the 60-day injured list this past February wiped out his entire 2026 regular season.\nHouck made his final tuneup Saturday, Sept. 19, for Triple-A Worcester, allowing two runs, one earned on a solo homer, over 3 1/3 relief innings, his fourth and last rehab outing.\n“Long year, long process. But this was the goal from Day 1,” Houck said, recalling the target he set in spring, as quoted by MLB.com‘s Ian Browne.\nInterim manager Chad Tracy has kept his read on Houck simple.\n“Let’s see how these outings go and how he feels and go from there,” Tracy said, as quoted by MLB.com.\n| BOSTON RED SOX STARTING LINEUP |  |  |  |  | \n|---|---|---|---|---|\n| SP: Tanner Houck (RHP) • Reinstated from 60-Day IL |  |  |  |  | \n| September 27, 2026 • Fenway Park, Boston, MA • 3:05 PM ET • Cubs at Red Sox |  |  |  |  | \n| # | Player | Pos | AVG | SLG | \n| 1 | Roman Anthony | LF | .248 | .400 | \n| 2 | Adley Rutschman | C | .240 | .417 | \n| 3 | Willson Contreras | DH | .276 | .518 | \n| 4 | Wilyer Abreu | RF | .249 | .448 | \n| 5 | Ceddanne Rafaela | CF | .282 | .442 | \n| 6 | Nick Sogard | 2B | .254 | .386 | \n| 7 | Caleb Durbin | 3B | .248 | .379 | \n| 8 | Trevor Story | SS | .237 | .353 | \n| 9 | Andruw Monasterio | 1B | .235 | .374 | \n| Lineups confirmed. Season stats shown (AVG / SLG). Umpire: Emil Jimenez • Weather: 83°, Wind 6 mph • O/U: 7.5 Runs • Line: CHC -119 / BOS -102. |  |  |  |  | \nBoston Red Sox Weigh Tanner Houck for October\nHouck, 30, was Boston’s first-round pick in 2017, No. 24 overall out of Missouri, debuted in September 2020 and is now the longest-tenured player on the Red Sox roster. He made the All-Star team in 2024, going 9-10 with a 3.12 ERA over 30 starts, and carries a career mark of 24-32 with a 3.97 ERA and 449 strikeouts across parts of seven seasons.\nNone of that guarantees him a Wild Card Series spot. According to a Just Baseball roster projection, however, Houck may beat out fellow rehabbing reliever Johan Oviedo for a bullpen job largely on the strength of his postseason experience.\nThe Boston Globe‘s Peter Abraham raised the same possibility last week, writing that Houck could factor into the Wild Card mix if his rehab wrapped up cleanly.\nNo official roster has been announced. Boston will make that call after tonight’s results, with Houck’s final piece of evidence sitting right in front of them.\n| CHICAGO CUBS STARTING LINEUP |  |  |  |  | \n|---|---|---|---|---|\n| SP: Shota Imanaga (LHP) • 11-10, 3.74 ERA |  |  |  |  | \n| September 27, 2026 • Fenway Park, Boston, MA • 3:05 PM ET • Cubs at Red Sox |  |  |  |  | \n| # | Player | Pos | AVG | SLG | \n| 1 | Pete Crow-Armstrong | CF | .278 | .570 | \n| 2 | Alex Bregman | DH | .260 | .449 | \n| 3 | Michael Busch | 1B | .243 | .395 | \n| 4 | Ian Happ | LF | .220 | .416 | \n| 5 | Michael Conforto | RF | .237 | .466 | \n| 6 | Nico Hoerner | 2B | .264 | .351 | \n| 7 | Pedro Ramírez | 3B | .257 | .401 | \n| 8 | Dansby Swanson | SS | .214 | .400 | \n| 9 | Miguel Amaya | C | .232 | .370 | \n| Lineups confirmed. Season stats shown (AVG / SLG). Umpire: Emil Jimenez • Weather: 83°, Wind 6 mph • O/U: 7.5 Runs • Line: CHC -119 / BOS -102. |  |  |  |  |",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "faf8ce27cdf96d039ac1",
+    "title": "Tanner Houck News: Activated, starting Sunday",
+    "source": "RotoWire",
+    "author": "RotoWire Staff",
+    "url": "https://www.rotowire.com/baseball/headlines/tanner-houck-news-activated-starting-sunday-1027443",
+    "published_iso": "2026-09-27T16:28:35+00:00",
+    "published_rfc2822": "Sun, 27 Sep 2026 16:28:35 +0000",
+    "body": "Tanner Houck News: Activated, starting Sunday\nThe Red Sox reinstated Houck (elbow) from the 60-day injured list Sunday. He will start Boston's regular-season finale against the Cubs.\nHouck will return to make a lone big-league appearance in 2026 on the final day of the regular season after completing his long recovery from hybrid UCL reconstruction surgery. The right-hander made four minor-league rehab appearances in September, most recently completing 3.1 innings on 42 pitches for Triple-A Durham on Sept. 19. Houck will likely be operating with a limited workload Sunday and may not work deep enough into his start to qualify for a win.",
+    "tracked_people": [
+      {
+        "name": "Tanner Houck",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 40,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Tanner Houck News: Activated, starting Sunday",
+    "original_body": "Tanner Houck News: Activated, starting Sunday\nThe Red Sox reinstated Houck (elbow) from the 60-day injured list Sunday. He will start Boston's regular-season finale against the Cubs.\nHouck will return to make a lone big-league appearance in 2026 on the final day of the regular season after completing his long recovery from hybrid UCL reconstruction surgery. The right-hander made four minor-league rehab appearances in September, most recently completing 3.1 innings on 42 pitches for Triple-A Durham on Sept. 19. Houck will likely be operating with a limited workload Sunday and may not work deep enough into his start to qualify for a win.",
+    "rss_title": "Tanner Houck News: Activated, starting Sunday",
+    "rss_body": "Tanner Houck News: Activated, starting Sunday\nThe Red Sox reinstated Houck (elbow) from the 60-day injured list Sunday. He will start Boston's regular-season finale against the Cubs.\nHouck will return to make a lone big-league appearance in 2026 on the final day of the regular season after completing his long recovery from hybrid UCL reconstruction surgery. The right-hander made four minor-league rehab appearances in September, most recently completing 3.1 innings on 42 pitches for Triple-A Durham on Sept. 19. Houck will likely be operating with a limited workload Sunday and may not work deep enough into his start to qualify for a win.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "a2c1322784290eb7c950",
+    "title": "Red Sox Have Secret Weapon to Unleash on Yankees Series",
+    "source": "Sports Illustrated",
+    "author": "Patrick McAvoy; Unknown",
+    "url": "https://www.si.com/mlb/red-sox/onsi/red-sox-have-secret-weapon-to-unleash-on-yankees-series-pat3",
+    "published_iso": "2026-09-27T16:00:01+00:00",
+    "published_rfc2822": "Sun, 27 Sep 2026 16:00:01 +0000",
+    "body": "The Boston Red Sox have just one more regular season game left to be played in 2026 on Sunday before a wild-card series against the New York Yankees will kick off on Tuesday at Yankee Stadium.\nBeforehand, the Red Sox should find a way to get Romy Gonzalez on the playoff roster. The easiest way to do so would be to replace Andruw Monasterio with Gonzalez. Now, this isn't to say that Monasterio hasn't been a solid depth piece for Boston this season. He has been. But Gonzalez has been red-hot at the plate down in Triple-A, has helped to carry the load at first base last season and has specifically had success against Max Fried, who is expected to be the Yankees' Game 1 starter, per USA Today's Bob Nightengale.\nRed Sox fans know what Gonzalez can do. This is a guy who absolutely crushes lefties. It's why he had such a large role in 2025. He began the 2026 season on the Injured List and then struggled in 19 games after being promoted. But at the time he was activated, the Red Sox's offense was thin and arguably too much was asked of Gonzalez right away. He hasn't played in a big league game since July 29 after being demoted. He's been down in Triple-A and has been crushing. Since Aug. 25, Gonzalez has slashed .388/.456/.633 with a 1.089 OPS, two home runs, 13 RBIs, seven walks, six doubles and eight runs scored. That should be enough to get a look in the playoffs.\nThe Red Sox Should Give Romy Gonzalez A Shot\nBut he's also had success against Fried. Gonzalez has faced the lefty a handful of times and is 2-for-7 with a triple and two walks.\nIn 2025, Gonzalez slashed .331/.378/.600 with a .978 OPS against lefties, to go along with seven homers and 25 RBIs.\nAgain, Fried is likely to take the hill for the Yankees in Game 1. Then, the righty Cam Schlittler would likely be on the mound in Game 2. If the Red Sox were to make it to a Game 3, the likely hurlers would be the lefty Carlos Rodón or the righty Gerrit Cole. The fact that the Yankees could roll with two elite lefties should be enough for the Red Sox to give Gonzalez a shot.\nEspecially, with Willson Contreras up in the air, the Red Sox should be stocking up on righty batters. Monasterio has been good this season, but he doesn't have the offensive upside that Gonzalez does. He has had success vs. lefties and is red-hot. He should be on Boston's playoff roster, despite not finishing the regular season in the majors.\nPatrick McAvoy's experiences include local and national sports coverage at the New England Sports Network with a focus on baseball and basketball. Outside of journalism, Patrick received an MBA at Brandeis University. For all business/marketing inquiries regarding Boston Red Sox On SI, please reach out to Scott Neville: scott@moreviewsmedia.com\nFollow patmcavoy",
+    "tracked_people": [
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Romy Gonzalez",
+        "role": "Designated Hitter",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 48,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox Have Secret Weapon to Unleash on Yankees Series",
+    "original_body": "The Boston Red Sox have just one more regular season game left to be played in 2026 on Sunday before a wild-card series against the New York Yankees will kick off on Tuesday at Yankee Stadium.\nBeforehand, the Red Sox should find a way to get Romy Gonzalez on the playoff roster. The easiest way to do so would be to replace Andruw Monasterio with Gonzalez. Now, this isn't to say that Monasterio hasn't been a solid depth piece for Boston this season. He has been. But Gonzalez has been red-hot at the plate down in Triple-A, has helped to carry the load at first base last season and has specifically had success against Max Fried, who is expected to be the Yankees' Game 1 starter, per USA Today's Bob Nightengale.\nRed Sox fans know what Gonzalez can do. This is a guy who absolutely crushes lefties. It's why he had such a large role in 2025. He began the 2026 season on the Injured List and then struggled in 19 games after being promoted. But at the time he was activated, the Red Sox's offense was thin and arguably too much was asked of Gonzalez right away. He hasn't played in a big league game since July 29 after being demoted. He's been down in Triple-A and has been crushing. Since Aug. 25, Gonzalez has slashed .388/.456/.633 with a 1.089 OPS, two home runs, 13 RBIs, seven walks, six doubles and eight runs scored. That should be enough to get a look in the playoffs.\nThe Red Sox Should Give Romy Gonzalez A Shot\nBut he's also had success against Fried. Gonzalez has faced the lefty a handful of times and is 2-for-7 with a triple and two walks.\nIn 2025, Gonzalez slashed .331/.378/.600 with a .978 OPS against lefties, to go along with seven homers and 25 RBIs.\nAgain, Fried is likely to take the hill for the Yankees in Game 1. Then, the righty Cam Schlittler would likely be on the mound in Game 2. If the Red Sox were to make it to a Game 3, the likely hurlers would be the lefty Carlos Rodón or the righty Gerrit Cole. The fact that the Yankees could roll with two elite lefties should be enough for the Red Sox to give Gonzalez a shot.\nEspecially, with Willson Contreras up in the air, the Red Sox should be stocking up on righty batters. Monasterio has been good this season, but he doesn't have the offensive upside that Gonzalez does. He has had success vs. lefties and is red-hot. He should be on Boston's playoff roster, despite not finishing the regular season in the majors.\nPatrick McAvoy's experiences include local and national sports coverage at the New England Sports Network with a focus on baseball and basketball. Outside of journalism, Patrick received an MBA at Brandeis University. For all business/marketing inquiries regarding Boston Red Sox On SI, please reach out to Scott Neville: scott@moreviewsmedia.com\nFollow patmcavoy",
+    "rss_title": "Red Sox Have Secret Weapon to Unleash on Yankees Series",
+    "rss_body": "The Boston Red Sox have just one more regular season game left to be played in 2026 on Sunday before a wild-card series against the New York Yankees will kick off on Tuesday at Yankee Stadium.\nBeforehand, the Red Sox should find a way to get Romy Gonzalez on the playoff roster. The easiest way to do so would be to replace Andruw Monasterio with Gonzalez. Now, this isn't to say that Monasterio hasn't been a solid depth piece for Boston this season. He has been. But Gonzalez has been red-hot at the plate down in Triple-A, has helped to carry the load at first base last season and has specifically had success against Max Fried, who is expected to be the Yankees' Game 1 starter, per USA Today's Bob Nightengale.\nRed Sox fans know what Gonzalez can do. This is a guy who absolutely crushes lefties. It's why he had such a large role in 2025. He began the 2026 season on the Injured List and then struggled in 19 games after being promoted. But at the time he was activated, the Red Sox's offense was thin and arguably too much was asked of Gonzalez right away. He hasn't played in a big league game since July 29 after being demoted. He's been down in Triple-A and has been crushing. Since Aug. 25, Gonzalez has slashed .388/.456/.633 with a 1.089 OPS, two home runs, 13 RBIs, seven walks, six doubles and eight runs scored. That should be enough to get a look in the playoffs.\nThe Red Sox Should Give Romy Gonzalez A Shot\nBut he's also had success against Fried. Gonzalez has faced the lefty a handful of times and is 2-for-7 with a triple and two walks.\nIn 2025, Gonzalez slashed .331/.378/.600 with a .978 OPS against lefties, to go along with seven homers and 25 RBIs.\nAgain, Fried is likely to take the hill for the Yankees in Game 1. Then, the righty Cam Schlittler would likely be on the mound in Game 2. If the Red Sox were to make it to a Game 3, the likely hurlers would be the lefty Carlos Rodón or the righty Gerrit Cole. The fact that the Yankees could roll with two elite lefties should be enough for the Red Sox to give Gonzalez a shot.\nEspecially, with Willson Contreras up in the air, the Red Sox should be stocking up on righty batters. Monasterio has been good this season, but he doesn't have the offensive upside that Gonzalez does. He has had success vs. lefties and is red-hot. He should be on Boston's playoff roster, despite not finishing the regular season in the majors.\nPatrick McAvoy's experiences include local and national sports coverage at the New England Sports Network with a focus on baseball and basketball. Outside of journalism, Patrick received an MBA at Brandeis University. For all business/marketing inquiries regarding Boston Red Sox On SI, please reach out to Scott Neville: scott@moreviewsmedia.com\nFollow patmcavoy",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "30cd0013c7a111ee26fa",
     "title": "Roman Anthony’s breakout against Cubs could save the Red Sox at just the right time",
     "source": "BoSox Injection",
