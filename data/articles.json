@@ -1,5 +1,293 @@
 [
   {
+    "id": "16963e260006a656a5c2",
+    "title": "Chad Tracy could swing the series between the Red Sox and Yankees",
+    "source": "Over the Monster",
+    "author": "Keagan Stiefel",
+    "url": "https://www.overthemonster.com/red-sox-analysis/109599/chad-tracy-could-swing-the-series-between-the-red-sox-and-yankees",
+    "published_iso": "2026-09-29T10:00:00+00:00",
+    "published_rfc2822": "Tue, 29 Sep 2026 10:00:00 +0000",
+    "body": "Chad Tracy is hardly the only person that has been added to the fold between the Boston Red Sox and New York Yankees’ back-to-back meetings in the American League Wild Card Series.\nThe Red Sox have made substantial additions to the rotation, with Payton Tolle, Sonny Gray, and Ranger Suarez being named the starting pitchers for the best-of-three series at Yankee Stadium — making for a much deeper unit than the one that fell off a cliff after Garrett Crochet last season and relied on the likes of Brayan Bello and Connelly Early. Roman Anthony, Willson Contreras, Adley Rutschman, and Caleb Durbin will join the lineup in hopes to scrape together more than the six total runs they scored last season. Crochet could end up joining the bullpen in his return from injury, along with newcomers Erik Miller and Jake Bennett, which is a pretty decent group of pitchers being added to one of the very best units in baseball this season.\nThe Yankees will also be in a better position on the pitching side, with Gerrit Cole serving as the do-or-die option behind Cam Schlittler and Max Fried. Luis Garcia Jr., Heliot Ramos, and George Lombard Jr. should help the lineup against left-handers, though there is something to be said about the so-so status of Aaron Judge.\nIf we can boil all of that down, though, only one man can completely swing the series…\nChad Tracy.\nTracy’s most difficult decisions might come before the season even starts, as he will be relied upon heavily to figure out who will fill out the roster — Braiden Ward? Jarren Duran? Curtis Mead? Jahmai Jones? Nate Eaton? Isiah Kiner-Falefa? Crochet?\nIt’s not going to be easy, but all of that pales in comparison to making decisions with who will play, when they will play, and how he manages things when the lights are at their brightest in The Bronx.\n“It’s the playoffs, so we’re at the point in the season where teams that are remaining need to win or they’re going home,” Tracy said during his media availability on Monday. “I have a feel for that.\n“… It’s all hands on deck. I think everyone is aware that during the playoffs it’s about winning moments and being aggressive — all those things. I think most of our guys who have been around understand that, so we’re going to go out and play our butts off and manage and do everything we can to win each game.”\nAlex Cora, the manager of last year’s squad that became the first in history to lose the best-of-three series after taking a lead, made some… interesting decisions in hindsight.\nBello was pulled after 2 1/3 innings in Game 2, which led to Justin Wilson, Zack Kelly, Garrett Whitlock, and Tolle being used out of the bullpen and becoming unavailable for Game 3. Nate Eaton started over Wilyer Abreu in Game 2. Rob Refsnyder got two starts over Masataka Yoshida, which makes sense considering they faced two left-handers, but he finished 0-for-5 while the latter went 4-for-7. Nathaniel Lowe played in all three games, while Nick Sogard only played in two.\nIt’s easy to go back in time and poke holes though these decisions with the benefit of hindsight, but that’s kind of the whole point in looking ahead at the same two teams playing each other again with one of them being led by someone new.\nTracy needs to avoid making similar mistakes, and he needs to do it without the benefit of years of experience in similar situations. The Red Sox stripped him of that interim tag because they believe he can, and it’s only a matter of time before we find out whether or not they’re right.",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Isiah Kiner-Falefa",
+        "role": "Utility Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 6,
+        "batch": 1
+      },
+      {
+        "name": "Nick Sogard",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Nate Eaton",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Brayan Bello",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 16,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Ranger Suárez",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Jake Bennett",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 21,
+        "batch": 1
+      },
+      {
+        "name": "Erik Miller",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 1
+      },
+      {
+        "name": "Garrett Whitlock",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 28,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      },
+      {
+        "name": "Masataka Yoshida",
+        "role": "Designated Hitter",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 34,
+        "batch": 2
+      },
+      {
+        "name": "Garrett Crochet",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 39,
+        "batch": 2
+      },
+      {
+        "name": "Zack Kelly",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 41,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Chad Tracy could swing the series between the Red Sox and Yankees",
+    "original_body": "Chad Tracy is hardly the only person that has been added to the fold between the Boston Red Sox and New York Yankees’ back-to-back meetings in the American League Wild Card Series.\nThe Red Sox have made substantial additions to the rotation, with Payton Tolle, Sonny Gray, and Ranger Suarez being named the starting pitchers for the best-of-three series at Yankee Stadium — making for a much deeper unit than the one that fell off a cliff after Garrett Crochet last season and relied on the likes of Brayan Bello and Connelly Early. Roman Anthony, Willson Contreras, Adley Rutschman, and Caleb Durbin will join the lineup in hopes to scrape together more than the six total runs they scored last season. Crochet could end up joining the bullpen in his return from injury, along with newcomers Erik Miller and Jake Bennett, which is a pretty decent group of pitchers being added to one of the very best units in baseball this season.\nThe Yankees will also be in a better position on the pitching side, with Gerrit Cole serving as the do-or-die option behind Cam Schlittler and Max Fried. Luis Garcia Jr., Heliot Ramos, and George Lombard Jr. should help the lineup against left-handers, though there is something to be said about the so-so status of Aaron Judge.\nIf we can boil all of that down, though, only one man can completely swing the series…\nChad Tracy.\nTracy’s most difficult decisions might come before the season even starts, as he will be relied upon heavily to figure out who will fill out the roster — Braiden Ward? Jarren Duran? Curtis Mead? Jahmai Jones? Nate Eaton? Isiah Kiner-Falefa? Crochet?\nIt’s not going to be easy, but all of that pales in comparison to making decisions with who will play, when they will play, and how he manages things when the lights are at their brightest in The Bronx.\n“It’s the playoffs, so we’re at the point in the season where teams that are remaining need to win or they’re going home,” Tracy said during his media availability on Monday. “I have a feel for that.\n“… It’s all hands on deck. I think everyone is aware that during the playoffs it’s about winning moments and being aggressive — all those things. I think most of our guys who have been around understand that, so we’re going to go out and play our butts off and manage and do everything we can to win each game.”\nAlex Cora, the manager of last year’s squad that became the first in history to lose the best-of-three series after taking a lead, made some… interesting decisions in hindsight.\nBello was pulled after 2 1/3 innings in Game 2, which led to Justin Wilson, Zack Kelly, Garrett Whitlock, and Tolle being used out of the bullpen and becoming unavailable for Game 3. Nate Eaton started over Wilyer Abreu in Game 2. Rob Refsnyder got two starts over Masataka Yoshida, which makes sense considering they faced two left-handers, but he finished 0-for-5 while the latter went 4-for-7. Nathaniel Lowe played in all three games, while Nick Sogard only played in two.\nIt’s easy to go back in time and poke holes though these decisions with the benefit of hindsight, but that’s kind of the whole point in looking ahead at the same two teams playing each other again with one of them being led by someone new.\nTracy needs to avoid making similar mistakes, and he needs to do it without the benefit of years of experience in similar situations. The Red Sox stripped him of that interim tag because they believe he can, and it’s only a matter of time before we find out whether or not they’re right.",
+    "rss_title": "Chad Tracy could swing the series between the Red Sox and Yankees",
+    "rss_body": "Chad Tracy is hardly the only person that has been added to the fold between the Boston Red Sox and New York Yankees’ back-to-back meetings in the American League Wild Card Series.\nThe Red Sox have made substantial additions to the rotation, with Payton Tolle, Sonny Gray, and Ranger Suarez being named the starting pitchers for the best-of-three series at Yankee Stadium — making for a much deeper unit than the one that fell off a cliff after Garrett Crochet last season and relied on the likes of Brayan Bello and Connelly Early. Roman Anthony, Willson Contreras, Adley Rutschman, and Caleb Durbin will join the lineup in hopes to scrape together more than the six total runs they scored last season. Crochet could end up joining the bullpen in his return from injury, along with newcomers Erik Miller and Jake Bennett, which is a pretty decent group of pitchers being added to one of the very best units in baseball this season.\nThe Yankees will also be in a better position on the pitching side, with Gerrit Cole serving as the do-or-die option behind Cam Schlittler and Max Fried. Luis Garcia Jr., Heliot Ramos, and George Lombard Jr. should help the lineup against left-handers, though there is something to be said about the so-so status of Aaron Judge.\nIf we can boil all of that down, though, only one man can completely swing the series…\nChad Tracy.\nTracy’s most difficult decisions might come before the season even starts, as he will be relied upon heavily to figure out who will fill out the roster — Braiden Ward? Jarren Duran? Curtis Mead? Jahmai Jones? Nate Eaton? Isiah Kiner-Falefa? Crochet?\nIt’s not going to be easy, but all of that pales in comparison to making decisions with who will play, when they will play, and how he manages things when the lights are at their brightest in The Bronx.\n“It’s the playoffs, so we’re at the point in the season where teams that are remaining need to win or they’re going home,” Tracy said during his media availability on Monday. “I have a feel for that.\n“… It’s all hands on deck. I think everyone is aware that during the playoffs it’s about winning moments and being aggressive — all those things. I think most of our guys who have been around understand that, so we’re going to go out and play our butts off and manage and do everything we can to win each game.”\nAlex Cora, the manager of last year’s squad that became the first in history to lose the best-of-three series after taking a lead, made some… interesting decisions in hindsight.\nBello was pulled after 2 1/3 innings in Game 2, which led to Justin Wilson, Zack Kelly, Garrett Whitlock, and Tolle being used out of the bullpen and becoming unavailable for Game 3. Nate Eaton started over Wilyer Abreu in Game 2. Rob Refsnyder got two starts over Masataka Yoshida, which makes sense considering they faced two left-handers, but he finished 0-for-5 while the latter went 4-for-7. Nathaniel Lowe played in all three games, while Nick Sogard only played in two.\nIt’s easy to go back in time and poke holes though these decisions with the benefit of hindsight, but that’s kind of the whole point in looking ahead at the same two teams playing each other again with one of them being led by someone new.\nTracy needs to avoid making similar mistakes, and he needs to do it without the benefit of years of experience in similar situations. The Red Sox stripped him of that interim tag because they believe he can, and it’s only a matter of time before we find out whether or not they’re right.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "eaf5dce8a27a6bc479b1",
+    "title": "Biggest Takeaways from Chad Tracy's Pre-Postseason Media Availability",
+    "source": "Yahoo Sports",
+    "author": "Zach Coe",
+    "url": "https://sports.yahoo.com/articles/biggest-takeaways-chad-tracys-pre-214843332.html",
+    "published_iso": "2026-09-28T21:48:43+00:00",
+    "published_rfc2822": "Mon, 28 Sep 2026 21:48:43 +0000",
+    "body": "RedSoxRoundtable's Zach Coe discusses some roster decisions to keep an eye on ahead of the postseason rosters finalizing on the 'Entering Kenmore' Podcast. Subscribe on YouTube and be sure to join our FREE community over on RedSoxRoundtable.com!\nThe Boston Red Sox have arrived in New York ahead of their Wild Card series against the New York Yankees, which begins Tuesday night (8:00 p.m. ET). Before taking the field to determine who advances to a divisional-round series against the Tampa Bay Rays, both teams were made available to the media Monday afternoon at Yankee Stadium.\nHere's what you need to know about Red Sox manager Chad Tracy's media availability:\nPayton Tolle further cements his status as a budding ace\nThe big story of Tracy's availability was the announcement of the starting rotation for the series, headlined by 23-year-old rookie Payton Tolle taking the mound in Tuesday's Game 1. Tolle has already established himself as one of baseball's best young arms, putting together a rookie campaign that should see him finish in the top three in American League Rookie of the Year voting.\nEven with Tolle's regular-season success, few, if any, other 23-year-old rookies would be trusted to take the mound in Game 1 of a postseason series in an environment as hostile as Yankee Stadium.\n\"Just felt like with his power stuff that was the best choice for Game 1,\" Tracy said of the decision to start Tolle. \"I know his age; I know he's a rookie, but as far as he approaches baseball and big moments, that part won't bother him. He's a pretty special personality... he's just going to go out there and pitch his game regardless of what it is,\" he continued.\nTolle has earned the trust and respect of his teammates and coaching staff, and they feel confident in his ability to go head-to-head with the likely American League Cy Young Award winner, Yankees starter Cam Schlittler, which is a real testament to his future as the Red Sox' ace.\nGarrett Crochet's status remains up in the air\nSpeaking of Cy Young-caliber pitchers, the 2025 AL Cy Young runner-up Garrett Crochet traveled with the team to New York after throwing a live bullpen in Ft. Myers on Saturday. Despite being with the team, Crochet's status for the Wild Card round remains up in the air as the team continues to monitor his left shoulder's recovery after each day of work.\nIn order to activate Crochet, the Red Sox brass will have several questions they'll need to answer: most importantly, how many games would Crochet be available to pitch in? While an arm like Crochet's in the bullpen could be a massive weapon for Tracy, if he can only pitch once in the three-game set, would the roster spot be better served by a pitcher who can give you multiple appearances?\n\"If we're able to activate [Crochet], obviously he's available, right? But I think beyond that, if we were to use him, the availability- whether that be the next day- would still be contingent on us continuing to evaluate him,\" Tracy said of Crochet's potential availability.\nWith Tyron Guerrero injured and out for at least the first two rounds of the postseason, creating a major hole in the back end of the Boston bullpen, it would be a relative surprise to see Crochet not on the Wild Card roster.\nWillson Contreras will return to first base\nAfter a pitch hit him in the hand in Boston's 4-3 win over the Texas Rangers on Sept. 17, Red Sox All-Star first baseman Willson Contreras cast doubt on his postseason availability after Thursday's series finale against the Cleveland Guardians. However, the 34-year-old returned to the lineup for Sunday's regular-season finale against the Chicago Cubs, logging two at-bats as the designated hitter.\nTracy told reporters that Contreras' inclusion in the lineup as DH was simply to give him some live reps in a game and that, as long as he checks out well after Monday's workouts, the plan was for him to return to first base Tuesday night.\nBraiden Ward remains an option to make the roster\nOne of the Red Sox' most underrated moves made ahead of the trade deadline was an under-the-radar deal made with the Atlanta Braves to acquire outfielder Eli White. The 32-year-old was set to serve a crucial role on the postseason roster as the fourth outfielder and pinch-running specialist. However, those plans were cut short when White sustained a torn ligament in his right foot on Sept. 8, requiring surgery that ended his season.\nAs a result of White's injury, the door opened for spring-training standout Braiden Ward, who set a Triple-A club record for most stolen bases in a single season, to join the club for his big-league debut as a base-running specialist.\nThe 27-year-old is with the club in New York, but Tracy cautioned reporters not to read too much into his presence, as the roster is still being worked through.\nUp next for the Sox\nAfter weeks of discussion about what felt like an inevitable postseason matchup, the two rivals will take the field at Yankee Stadium on Tuesday night to kick off the best-of-three series. Tolle (9-6, 3.03 ERA) gets the start for Boston opposite Schlittler (14-6, 1.95 ERA) for New York. First pitch is set for 8:00 p.m. ET.\nFor more on the Wild Card series\nZach Coe and David Azer are back on the 'Entering Kenmore' Podcast, previewing the Red Sox' Wild Card matchup with the Yankees. Check it out wherever you get your podcasts or in the YouTube player below.",
+    "tracked_people": [
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Eli White",
+        "role": "Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 33,
+        "batch": 2
+      },
+      {
+        "name": "Tyron Guerrero",
+        "role": "Pitcher",
+        "status": "15-day Injured List",
+        "type": "player",
+        "id": 35,
+        "batch": 2
+      },
+      {
+        "name": "Garrett Crochet",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 39,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      },
+      {
+        "name": "Cy Young",
+        "role": "Legend / Hall of Famer",
+        "status": "Franchise Legacy",
+        "type": "legend",
+        "id": 59,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Biggest Takeaways from Chad Tracy's Pre-Postseason Media Availability",
+    "original_body": "RedSoxRoundtable's Zach Coe discusses some roster decisions to keep an eye on ahead of the postseason rosters finalizing on the 'Entering Kenmore' Podcast. Subscribe on YouTube and be sure to join our FREE community over on RedSoxRoundtable.com!\nThe Boston Red Sox have arrived in New York ahead of their Wild Card series against the New York Yankees, which begins Tuesday night (8:00 p.m. ET). Before taking the field to determine who advances to a divisional-round series against the Tampa Bay Rays, both teams were made available to the media Monday afternoon at Yankee Stadium.\nHere's what you need to know about Red Sox manager Chad Tracy's media availability:\nPayton Tolle further cements his status as a budding ace\nThe big story of Tracy's availability was the announcement of the starting rotation for the series, headlined by 23-year-old rookie Payton Tolle taking the mound in Tuesday's Game 1. Tolle has already established himself as one of baseball's best young arms, putting together a rookie campaign that should see him finish in the top three in American League Rookie of the Year voting.\nEven with Tolle's regular-season success, few, if any, other 23-year-old rookies would be trusted to take the mound in Game 1 of a postseason series in an environment as hostile as Yankee Stadium.\n\"Just felt like with his power stuff that was the best choice for Game 1,\" Tracy said of the decision to start Tolle. \"I know his age; I know he's a rookie, but as far as he approaches baseball and big moments, that part won't bother him. He's a pretty special personality... he's just going to go out there and pitch his game regardless of what it is,\" he continued.\nTolle has earned the trust and respect of his teammates and coaching staff, and they feel confident in his ability to go head-to-head with the likely American League Cy Young Award winner, Yankees starter Cam Schlittler, which is a real testament to his future as the Red Sox' ace.\nGarrett Crochet's status remains up in the air\nSpeaking of Cy Young-caliber pitchers, the 2025 AL Cy Young runner-up Garrett Crochet traveled with the team to New York after throwing a live bullpen in Ft. Myers on Saturday. Despite being with the team, Crochet's status for the Wild Card round remains up in the air as the team continues to monitor his left shoulder's recovery after each day of work.\nIn order to activate Crochet, the Red Sox brass will have several questions they'll need to answer: most importantly, how many games would Crochet be available to pitch in? While an arm like Crochet's in the bullpen could be a massive weapon for Tracy, if he can only pitch once in the three-game set, would the roster spot be better served by a pitcher who can give you multiple appearances?\n\"If we're able to activate [Crochet], obviously he's available, right? But I think beyond that, if we were to use him, the availability- whether that be the next day- would still be contingent on us continuing to evaluate him,\" Tracy said of Crochet's potential availability.\nWith Tyron Guerrero injured and out for at least the first two rounds of the postseason, creating a major hole in the back end of the Boston bullpen, it would be a relative surprise to see Crochet not on the Wild Card roster.\nWillson Contreras will return to first base\nAfter a pitch hit him in the hand in Boston's 4-3 win over the Texas Rangers on Sept. 17, Red Sox All-Star first baseman Willson Contreras cast doubt on his postseason availability after Thursday's series finale against the Cleveland Guardians. However, the 34-year-old returned to the lineup for Sunday's regular-season finale against the Chicago Cubs, logging two at-bats as the designated hitter.\nTracy told reporters that Contreras' inclusion in the lineup as DH was simply to give him some live reps in a game and that, as long as he checks out well after Monday's workouts, the plan was for him to return to first base Tuesday night.\nBraiden Ward remains an option to make the roster\nOne of the Red Sox' most underrated moves made ahead of the trade deadline was an under-the-radar deal made with the Atlanta Braves to acquire outfielder Eli White. The 32-year-old was set to serve a crucial role on the postseason roster as the fourth outfielder and pinch-running specialist. However, those plans were cut short when White sustained a torn ligament in his right foot on Sept. 8, requiring surgery that ended his season.\nAs a result of White's injury, the door opened for spring-training standout Braiden Ward, who set a Triple-A club record for most stolen bases in a single season, to join the club for his big-league debut as a base-running specialist.\nThe 27-year-old is with the club in New York, but Tracy cautioned reporters not to read too much into his presence, as the roster is still being worked through.\nUp next for the Sox\nAfter weeks of discussion about what felt like an inevitable postseason matchup, the two rivals will take the field at Yankee Stadium on Tuesday night to kick off the best-of-three series. Tolle (9-6, 3.03 ERA) gets the start for Boston opposite Schlittler (14-6, 1.95 ERA) for New York. First pitch is set for 8:00 p.m. ET.\nFor more on the Wild Card series\nZach Coe and David Azer are back on the 'Entering Kenmore' Podcast, previewing the Red Sox' Wild Card matchup with the Yankees. Check it out wherever you get your podcasts or in the YouTube player below.",
+    "rss_title": "Biggest Takeaways from Chad Tracy's Pre-Postseason Media Availability",
+    "rss_body": "RedSoxRoundtable's Zach Coe discusses some roster decisions to keep an eye on ahead of the postseason rosters finalizing on the 'Entering Kenmore' Podcast. Subscribe on YouTube and be sure to join our FREE community over on RedSoxRoundtable.com!\nThe Boston Red Sox have arrived in New York ahead of their Wild Card series against the New York Yankees, which begins Tuesday night (8:00 p.m. ET). Before taking the field to determine who advances to a divisional-round series against the Tampa Bay Rays, both teams were made available to the media Monday afternoon at Yankee Stadium.\nHere's what you need to know about Red Sox manager Chad Tracy's media availability:\nPayton Tolle further cements his status as a budding ace\nThe big story of Tracy's availability was the announcement of the starting rotation for the series, headlined by 23-year-old rookie Payton Tolle taking the mound in Tuesday's Game 1. Tolle has already established himself as one of baseball's best young arms, putting together a rookie campaign that should see him finish in the top three in American League Rookie of the Year voting.\nEven with Tolle's regular-season success, few, if any, other 23-year-old rookies would be trusted to take the mound in Game 1 of a postseason series in an environment as hostile as Yankee Stadium.\n\"Just felt like with his power stuff that was the best choice for Game 1,\" Tracy said of the decision to start Tolle. \"I know his age; I know he's a rookie, but as far as he approaches baseball and big moments, that part won't bother him. He's a pretty special personality... he's just going to go out there and pitch his game regardless of what it is,\" he continued.\nTolle has earned the trust and respect of his teammates and coaching staff, and they feel confident in his ability to go head-to-head with the likely American League Cy Young Award winner, Yankees starter Cam Schlittler, which is a real testament to his future as the Red Sox' ace.\nGarrett Crochet's status remains up in the air\nSpeaking of Cy Young-caliber pitchers, the 2025 AL Cy Young runner-up Garrett Crochet traveled with the team to New York after throwing a live bullpen in Ft. Myers on Saturday. Despite being with the team, Crochet's status for the Wild Card round remains up in the air as the team continues to monitor his left shoulder's recovery after each day of work.\nIn order to activate Crochet, the Red Sox brass will have several questions they'll need to answer: most importantly, how many games would Crochet be available to pitch in? While an arm like Crochet's in the bullpen could be a massive weapon for Tracy, if he can only pitch once in the three-game set, would the roster spot be better served by a pitcher who can give you multiple appearances?\n\"If we're able to activate [Crochet], obviously he's available, right? But I think beyond that, if we were to use him, the availability- whether that be the next day- would still be contingent on us continuing to evaluate him,\" Tracy said of Crochet's potential availability.\nWith Tyron Guerrero injured and out for at least the first two rounds of the postseason, creating a major hole in the back end of the Boston bullpen, it would be a relative surprise to see Crochet not on the Wild Card roster.\nWillson Contreras will return to first base\nAfter a pitch hit him in the hand in Boston's 4-3 win over the Texas Rangers on Sept. 17, Red Sox All-Star first baseman Willson Contreras cast doubt on his postseason availability after Thursday's series finale against the Cleveland Guardians. However, the 34-year-old returned to the lineup for Sunday's regular-season finale against the Chicago Cubs, logging two at-bats as the designated hitter.\nTracy told reporters that Contreras' inclusion in the lineup as DH was simply to give him some live reps in a game and that, as long as he checks out well after Monday's workouts, the plan was for him to return to first base Tuesday night.\nBraiden Ward remains an option to make the roster\nOne of the Red Sox' most underrated moves made ahead of the trade deadline was an under-the-radar deal made with the Atlanta Braves to acquire outfielder Eli White. The 32-year-old was set to serve a crucial role on the postseason roster as the fourth outfielder and pinch-running specialist. However, those plans were cut short when White sustained a torn ligament in his right foot on Sept. 8, requiring surgery that ended his season.\nAs a result of White's injury, the door opened for spring-training standout Braiden Ward, who set a Triple-A club record for most stolen bases in a single season, to join the club for his big-league debut as a base-running specialist.\nThe 27-year-old is with the club in New York, but Tracy cautioned reporters not to read too much into his presence, as the roster is still being worked through.\nUp next for the Sox\nAfter weeks of discussion about what felt like an inevitable postseason matchup, the two rivals will take the field at Yankee Stadium on Tuesday night to kick off the best-of-three series. Tolle (9-6, 3.03 ERA) gets the start for Boston opposite Schlittler (14-6, 1.95 ERA) for New York. First pitch is set for 8:00 p.m. ET.\nFor more on the Wild Card series\nZach Coe and David Azer are back on the 'Entering Kenmore' Podcast, previewing the Red Sox' Wild Card matchup with the Yankees. Check it out wherever you get your podcasts or in the YouTube player below.",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "roundtable.io",
+        "url": "https://roundtable.io/sports/mlb/red-sox/news/biggest-takeaways-from-chad-tracys-pre-postseason-media-availability",
+        "title": "Biggest Takeaways from Chad Tracy's Pre-Postseason Media Availability",
+        "body_characters": 4999
+      }
+    ]
+  },
+  {
     "id": "6d37f6475c7d27bab61a",
     "title": "Yankees y Red Sox anuncian a sus abridores para los Playoffs MLB 2026",
     "source": "Mediotiempo",
@@ -221,86 +509,6 @@
     "original_body": "With the MLB playoffs starting this week, the New York Mets will be watching from afar.\nAfter a disappointing 2026 season, all eyes will be on the Mets this offseason to turn things around.\nAmong the list of things the Mets could add, a depth starter (or any starters, for that matter) is likely at the top of the list.\nRecently, FanSided.com's Jake Elman linked the Mets to free agent starter Shane Bieber, who has spent the last two seasons with the Toronto Blue Jays.\nMore MLB on Heavy: Atlanta Braves Receive Clarity on Phillies' Pitching Plans Ahead of Wild Card Series\nShould the Mets Pursue Former Cy Young Winner Shane Bieber?\nHe's sort of long removed from winning the AL Cy Young, but Shane Bieber was once one of the best starters in all of MLB.\nWhile the free agency period doesn't open up until the end of the current season (so, November), teams like the Mets are thinking about what big splashes they can make.\nBieber suffered a season-ending injury in 2026, and has pitched just 95.1 innings over the last two seasons.\nHere is what Elman had to say about the Mets potentially being in on Shane Bieber:\n\"That said, the Mets must add another veteran starter this offseason. Peralta and Clay Holmes are obviously gone, and Kodai Senga is likely facing a trade or a permanent move to the bullpen.\"\nIt's an interesting name to watch for, but my intuition would lead me to believe David Stearns and company may want to target a more durable, effective starter if they are going to bring out the Brink's truck.\nMore MLB on Heavy: Chicago Cubs Quietly Demote Player Before Padres Playoff Series\nThis article was originally published on HEAVY\nThe post New York Mets Linked to Former Cy Young Starter in MLB Free Agency appeared first on HEAVY.",
     "rss_title": "New York Mets Linked to Former Cy Young Starter in MLB Free Agency",
     "rss_body": "With the MLB playoffs starting this week, the New York Mets will be watching from afar.\nAfter a disappointing 2026 season, all eyes will be on the Mets this offseason to turn things around.\nAmong the list of things the Mets could add, a depth starter (or any starters, for that matter) is likely at the top of the list.\nRecently, FanSided.com's Jake Elman linked the Mets to free agent starter Shane Bieber, who has spent the last two seasons with the Toronto Blue Jays.\nMore MLB on Heavy: Atlanta Braves Receive Clarity on Phillies' Pitching Plans Ahead of Wild Card Series\nShould the Mets Pursue Former Cy Young Winner Shane Bieber?\nHe's sort of long removed from winning the AL Cy Young, but Shane Bieber was once one of the best starters in all of MLB.\nWhile the free agency period doesn't open up until the end of the current season (so, November), teams like the Mets are thinking about what big splashes they can make.\nBieber suffered a season-ending injury in 2026, and has pitched just 95.1 innings over the last two seasons.\nHere is what Elman had to say about the Mets potentially being in on Shane Bieber:\n\"That said, the Mets must add another veteran starter this offseason. Peralta and Clay Holmes are obviously gone, and Kodai Senga is likely facing a trade or a permanent move to the bullpen.\"\nIt's an interesting name to watch for, but my intuition would lead me to believe David Stearns and company may want to target a more durable, effective starter if they are going to bring out the Brink's truck.\nMore MLB on Heavy: Chicago Cubs Quietly Demote Player Before Padres Playoff Series\nThis article was originally published on HEAVY\nThe post New York Mets Linked to Former Cy Young Starter in MLB Free Agency appeared first on HEAVY.",
-    "translation_status": "fallback_original"
-  },
-  {
-    "id": "eaf5dce8a27a6bc479b1",
-    "title": "Biggest Takeaways from Chad Tracy's Pre-Postseason Media Availability",
-    "source": "Yahoo Sports",
-    "author": "Zach Coe",
-    "url": "https://sports.yahoo.com/articles/biggest-takeaways-chad-tracys-pre-214843332.html",
-    "published_iso": "2026-09-28T21:48:43+00:00",
-    "published_rfc2822": "Mon, 28 Sep 2026 21:48:43 +0000",
-    "body": "RedSoxRoundtable's Zach Coe discusses some roster decisions to keep an eye on ahead of the postseason rosters finalizing on the 'Entering Kenmore' Podcast. Subscribe on YouTube and be sure to join our FREE community over on RedSoxRoundtable.com!\nThe Boston Red Sox have arrived in New York ahead of their Wild Card series against the New York Yankees, which begins Tuesday night (8:00 p.m. ET). Before taking the field to determine who advances to a divisional-round series against the Tampa Bay Rays, both teams were made available to the media Monday afternoon at Yankee Stadium.\nHere's what you need to know about Red Sox manager Chad Tracy's media availability:\nPayton Tolle further cements his status as a budding ace\nThe big story of Tracy's availability was the announcement of the starting rotation for the series, headlined by 23-year-old rookie Payton Tolle taking the mound in Tuesday's Game 1. Tolle has already established himself as one of baseball's best young arms, putting together a rookie campaign that should see him finish in the top three in American League Rookie of the Year voting.\nEven with Tolle's regular-season success, few, if any, other 23-year-old rookies would be trusted to take the mound in Game 1 of a postseason series in an environment as hostile as Yankee Stadium.\n\"Just felt like with his power stuff that was the best choice for Game 1,\" Tracy said of the decision to start Tolle. \"I know his age; I know he's a rookie, but as far as he approaches baseball and big moments, that part won't bother him. He's a pretty special personality... he's just going to go out there and pitch his game regardless of what it is,\" he continued.\nTolle has earned the trust and respect of his teammates and coaching staff, and they feel confident in his ability to go head-to-head with the likely American League Cy Young Award winner, Yankees starter Cam Schlittler, which is a real testament to his future as the Red Sox' ace.\nGarrett Crochet's status remains up in the air\nSpeaking of Cy Young-caliber pitchers, the 2025 AL Cy Young runner-up Garrett Crochet traveled with the team to New York after throwing a live bullpen in Ft. Myers on Saturday. Despite being with the team, Crochet's status for the Wild Card round remains up in the air as the team continues to monitor his left shoulder's recovery after each day of work.\nIn order to activate Crochet, the Red Sox brass will have several questions they'll need to answer: most importantly, how many games would Crochet be available to pitch in? While an arm like Crochet's in the bullpen could be a massive weapon for Tracy, if he can only pitch once in the three-game set, would the roster spot be better served by a pitcher who can give you multiple appearances?\n\"If we're able to activate [Crochet], obviously he's available, right? But I think beyond that, if we were to use him, the availability- whether that be the next day- would still be contingent on us continuing to evaluate him,\" Tracy said of Crochet's potential availability.\nWith Tyron Guerrero injured and out for at least the first two rounds of the postseason, creating a major hole in the back end of the Boston bullpen, it would be a relative surprise to see Crochet not on the Wild Card roster.\nWillson Contreras will return to first base\nAfter a pitch hit him in the hand in Boston's 4-3 win over the Texas Rangers on Sept. 17, Red Sox All-Star first baseman Willson Contreras cast doubt on his postseason availability after Thursday's series finale against the Cleveland Guardians. However, the 34-year-old returned to the lineup for Sunday's regular-season finale against the Chicago Cubs, logging two at-bats as the designated hitter.\nTracy told reporters that Contreras' inclusion in the lineup as DH was simply to give him some live reps in a game and that, as long as he checks out well after Monday's workouts, the plan was for him to return to first base Tuesday night.\nBraiden Ward remains an option to make the roster\nOne of the Red Sox' most underrated moves made ahead of the trade deadline was an under-the-radar deal made with the Atlanta Braves to acquire outfielder Eli White. The 32-year-old was set to serve a crucial role on the postseason roster as the fourth outfielder and pinch-running specialist. However, those plans were cut short when White sustained a torn ligament in his right foot on Sept. 8, requiring surgery that ended his season.\nAs a result of White's injury, the door opened for spring-training standout Braiden Ward, who set a Triple-A club record for most stolen bases in a single season, to join the club for his big-league debut as a base-running specialist.\nThe 27-year-old is with the club in New York, but Tracy cautioned reporters not to read too much into his presence, as the roster is still being worked through.\nUp next for the Sox\nAfter weeks of discussion about what felt like an inevitable postseason matchup, the two rivals will take the field at Yankee Stadium on Tuesday night to kick off the best-of-three series. Tolle (9-6, 3.03 ERA) gets the start for Boston opposite Schlittler (14-6, 1.95 ERA) for New York. First pitch is set for 8:00 p.m. ET.\nFor more on the Wild Card series\nZach Coe and David Azer are back on the 'Entering Kenmore' Podcast, previewing the Red Sox' Wild Card matchup with the Yankees. Check it out wherever you get your podcasts or in the YouTube player below.",
-    "tracked_people": [
-      {
-        "name": "Willson Contreras",
-        "role": "Catcher / DH",
-        "status": "Active",
-        "type": "player",
-        "id": 3,
-        "batch": 1
-      },
-      {
-        "name": "Payton Tolle",
-        "role": "Starting Pitcher",
-        "status": "Active",
-        "type": "player",
-        "id": 20,
-        "batch": 1
-      },
-      {
-        "name": "Eli White",
-        "role": "Outfielder",
-        "status": "10-day Injured List",
-        "type": "player",
-        "id": 33,
-        "batch": 2
-      },
-      {
-        "name": "Tyron Guerrero",
-        "role": "Pitcher",
-        "status": "15-day Injured List",
-        "type": "player",
-        "id": 35,
-        "batch": 2
-      },
-      {
-        "name": "Garrett Crochet",
-        "role": "Pitcher",
-        "status": "60-day Injured List",
-        "type": "player",
-        "id": 39,
-        "batch": 2
-      },
-      {
-        "name": "Chad Tracy",
-        "role": "Manager",
-        "status": "Coaching Staff",
-        "type": "staff",
-        "id": 49,
-        "batch": 2
-      },
-      {
-        "name": "Cy Young",
-        "role": "Legend / Hall of Famer",
-        "status": "Franchise Legacy",
-        "type": "legend",
-        "id": 59,
-        "batch": 2
-      }
-    ],
-    "source_languages": [],
-    "source_countries": [
-      "US English"
-    ],
-    "discovery_sources": [
-      "Google News"
-    ],
-    "original_title": "Biggest Takeaways from Chad Tracy's Pre-Postseason Media Availability",
-    "original_body": "RedSoxRoundtable's Zach Coe discusses some roster decisions to keep an eye on ahead of the postseason rosters finalizing on the 'Entering Kenmore' Podcast. Subscribe on YouTube and be sure to join our FREE community over on RedSoxRoundtable.com!\nThe Boston Red Sox have arrived in New York ahead of their Wild Card series against the New York Yankees, which begins Tuesday night (8:00 p.m. ET). Before taking the field to determine who advances to a divisional-round series against the Tampa Bay Rays, both teams were made available to the media Monday afternoon at Yankee Stadium.\nHere's what you need to know about Red Sox manager Chad Tracy's media availability:\nPayton Tolle further cements his status as a budding ace\nThe big story of Tracy's availability was the announcement of the starting rotation for the series, headlined by 23-year-old rookie Payton Tolle taking the mound in Tuesday's Game 1. Tolle has already established himself as one of baseball's best young arms, putting together a rookie campaign that should see him finish in the top three in American League Rookie of the Year voting.\nEven with Tolle's regular-season success, few, if any, other 23-year-old rookies would be trusted to take the mound in Game 1 of a postseason series in an environment as hostile as Yankee Stadium.\n\"Just felt like with his power stuff that was the best choice for Game 1,\" Tracy said of the decision to start Tolle. \"I know his age; I know he's a rookie, but as far as he approaches baseball and big moments, that part won't bother him. He's a pretty special personality... he's just going to go out there and pitch his game regardless of what it is,\" he continued.\nTolle has earned the trust and respect of his teammates and coaching staff, and they feel confident in his ability to go head-to-head with the likely American League Cy Young Award winner, Yankees starter Cam Schlittler, which is a real testament to his future as the Red Sox' ace.\nGarrett Crochet's status remains up in the air\nSpeaking of Cy Young-caliber pitchers, the 2025 AL Cy Young runner-up Garrett Crochet traveled with the team to New York after throwing a live bullpen in Ft. Myers on Saturday. Despite being with the team, Crochet's status for the Wild Card round remains up in the air as the team continues to monitor his left shoulder's recovery after each day of work.\nIn order to activate Crochet, the Red Sox brass will have several questions they'll need to answer: most importantly, how many games would Crochet be available to pitch in? While an arm like Crochet's in the bullpen could be a massive weapon for Tracy, if he can only pitch once in the three-game set, would the roster spot be better served by a pitcher who can give you multiple appearances?\n\"If we're able to activate [Crochet], obviously he's available, right? But I think beyond that, if we were to use him, the availability- whether that be the next day- would still be contingent on us continuing to evaluate him,\" Tracy said of Crochet's potential availability.\nWith Tyron Guerrero injured and out for at least the first two rounds of the postseason, creating a major hole in the back end of the Boston bullpen, it would be a relative surprise to see Crochet not on the Wild Card roster.\nWillson Contreras will return to first base\nAfter a pitch hit him in the hand in Boston's 4-3 win over the Texas Rangers on Sept. 17, Red Sox All-Star first baseman Willson Contreras cast doubt on his postseason availability after Thursday's series finale against the Cleveland Guardians. However, the 34-year-old returned to the lineup for Sunday's regular-season finale against the Chicago Cubs, logging two at-bats as the designated hitter.\nTracy told reporters that Contreras' inclusion in the lineup as DH was simply to give him some live reps in a game and that, as long as he checks out well after Monday's workouts, the plan was for him to return to first base Tuesday night.\nBraiden Ward remains an option to make the roster\nOne of the Red Sox' most underrated moves made ahead of the trade deadline was an under-the-radar deal made with the Atlanta Braves to acquire outfielder Eli White. The 32-year-old was set to serve a crucial role on the postseason roster as the fourth outfielder and pinch-running specialist. However, those plans were cut short when White sustained a torn ligament in his right foot on Sept. 8, requiring surgery that ended his season.\nAs a result of White's injury, the door opened for spring-training standout Braiden Ward, who set a Triple-A club record for most stolen bases in a single season, to join the club for his big-league debut as a base-running specialist.\nThe 27-year-old is with the club in New York, but Tracy cautioned reporters not to read too much into his presence, as the roster is still being worked through.\nUp next for the Sox\nAfter weeks of discussion about what felt like an inevitable postseason matchup, the two rivals will take the field at Yankee Stadium on Tuesday night to kick off the best-of-three series. Tolle (9-6, 3.03 ERA) gets the start for Boston opposite Schlittler (14-6, 1.95 ERA) for New York. First pitch is set for 8:00 p.m. ET.\nFor more on the Wild Card series\nZach Coe and David Azer are back on the 'Entering Kenmore' Podcast, previewing the Red Sox' Wild Card matchup with the Yankees. Check it out wherever you get your podcasts or in the YouTube player below.",
-    "rss_title": "Biggest Takeaways from Chad Tracy's Pre-Postseason Media Availability",
-    "rss_body": "RedSoxRoundtable's Zach Coe discusses some roster decisions to keep an eye on ahead of the postseason rosters finalizing on the 'Entering Kenmore' Podcast. Subscribe on YouTube and be sure to join our FREE community over on RedSoxRoundtable.com!\nThe Boston Red Sox have arrived in New York ahead of their Wild Card series against the New York Yankees, which begins Tuesday night (8:00 p.m. ET). Before taking the field to determine who advances to a divisional-round series against the Tampa Bay Rays, both teams were made available to the media Monday afternoon at Yankee Stadium.\nHere's what you need to know about Red Sox manager Chad Tracy's media availability:\nPayton Tolle further cements his status as a budding ace\nThe big story of Tracy's availability was the announcement of the starting rotation for the series, headlined by 23-year-old rookie Payton Tolle taking the mound in Tuesday's Game 1. Tolle has already established himself as one of baseball's best young arms, putting together a rookie campaign that should see him finish in the top three in American League Rookie of the Year voting.\nEven with Tolle's regular-season success, few, if any, other 23-year-old rookies would be trusted to take the mound in Game 1 of a postseason series in an environment as hostile as Yankee Stadium.\n\"Just felt like with his power stuff that was the best choice for Game 1,\" Tracy said of the decision to start Tolle. \"I know his age; I know he's a rookie, but as far as he approaches baseball and big moments, that part won't bother him. He's a pretty special personality... he's just going to go out there and pitch his game regardless of what it is,\" he continued.\nTolle has earned the trust and respect of his teammates and coaching staff, and they feel confident in his ability to go head-to-head with the likely American League Cy Young Award winner, Yankees starter Cam Schlittler, which is a real testament to his future as the Red Sox' ace.\nGarrett Crochet's status remains up in the air\nSpeaking of Cy Young-caliber pitchers, the 2025 AL Cy Young runner-up Garrett Crochet traveled with the team to New York after throwing a live bullpen in Ft. Myers on Saturday. Despite being with the team, Crochet's status for the Wild Card round remains up in the air as the team continues to monitor his left shoulder's recovery after each day of work.\nIn order to activate Crochet, the Red Sox brass will have several questions they'll need to answer: most importantly, how many games would Crochet be available to pitch in? While an arm like Crochet's in the bullpen could be a massive weapon for Tracy, if he can only pitch once in the three-game set, would the roster spot be better served by a pitcher who can give you multiple appearances?\n\"If we're able to activate [Crochet], obviously he's available, right? But I think beyond that, if we were to use him, the availability- whether that be the next day- would still be contingent on us continuing to evaluate him,\" Tracy said of Crochet's potential availability.\nWith Tyron Guerrero injured and out for at least the first two rounds of the postseason, creating a major hole in the back end of the Boston bullpen, it would be a relative surprise to see Crochet not on the Wild Card roster.\nWillson Contreras will return to first base\nAfter a pitch hit him in the hand in Boston's 4-3 win over the Texas Rangers on Sept. 17, Red Sox All-Star first baseman Willson Contreras cast doubt on his postseason availability after Thursday's series finale against the Cleveland Guardians. However, the 34-year-old returned to the lineup for Sunday's regular-season finale against the Chicago Cubs, logging two at-bats as the designated hitter.\nTracy told reporters that Contreras' inclusion in the lineup as DH was simply to give him some live reps in a game and that, as long as he checks out well after Monday's workouts, the plan was for him to return to first base Tuesday night.\nBraiden Ward remains an option to make the roster\nOne of the Red Sox' most underrated moves made ahead of the trade deadline was an under-the-radar deal made with the Atlanta Braves to acquire outfielder Eli White. The 32-year-old was set to serve a crucial role on the postseason roster as the fourth outfielder and pinch-running specialist. However, those plans were cut short when White sustained a torn ligament in his right foot on Sept. 8, requiring surgery that ended his season.\nAs a result of White's injury, the door opened for spring-training standout Braiden Ward, who set a Triple-A club record for most stolen bases in a single season, to join the club for his big-league debut as a base-running specialist.\nThe 27-year-old is with the club in New York, but Tracy cautioned reporters not to read too much into his presence, as the roster is still being worked through.\nUp next for the Sox\nAfter weeks of discussion about what felt like an inevitable postseason matchup, the two rivals will take the field at Yankee Stadium on Tuesday night to kick off the best-of-three series. Tolle (9-6, 3.03 ERA) gets the start for Boston opposite Schlittler (14-6, 1.95 ERA) for New York. First pitch is set for 8:00 p.m. ET.\nFor more on the Wild Card series\nZach Coe and David Azer are back on the 'Entering Kenmore' Podcast, previewing the Red Sox' Wild Card matchup with the Yankees. Check it out wherever you get your podcasts or in the YouTube player below.",
     "translation_status": "fallback_original"
   },
   {
