@@ -43,30 +43,85 @@ def decode_google(u):
         r=gnewsdecoder(u,interval=CFG["settings"].get("google_decode_interval_seconds",0.05))
         return clean_url(r.get("decoded_url")) if isinstance(r,dict) and r.get("status") else None
     except:return None
-def gdelt(p):
+def gdelt(p, known_urls=None):
+    known_urls=known_urls or set()
     try:
-        r=requests.get("https://api.gdeltproject.org/api/v2/doc/doc",params={"query":q_for(p),"mode":"artlist","maxrecords":CFG["settings"]["gdelt_results_per_person"],"timespan":f'{CFG["settings"]["max_age_hours"]}h',"sort":"datedesc","format":"json"},timeout=30)
+        r=requests.get(
+            "https://api.gdeltproject.org/api/v2/doc/doc",
+            params={
+                "query":q_for(p),
+                "mode":"artlist",
+                "maxrecords":CFG["settings"].get("gdelt_results_per_person",15),
+                "timespan":f'{CFG["settings"]["max_age_hours"]}h',
+                "sort":"datedesc",
+                "format":"json"
+            },
+            timeout=30
+        )
         arr=r.json().get("articles",[])
-    except:return []
-    return [{"url":clean_url(x.get("url","")),"title":x.get("title",""),"source":x.get("domain",""),"published":parse_dt(x.get("seendate")),"language":x.get("language",""),"country":x.get("sourcecountry",""),"via":"GDELT"} for x in arr if x.get("url")]
-def google(p):
+    except:
+        return []
+
+    cutoff=datetime.now(timezone.utc)-timedelta(hours=float(CFG["settings"]["max_age_hours"]))
+    limit=int(CFG["settings"].get("max_fresh_gdelt_articles_per_search",6))
     out=[]
-    cutoff=datetime.now(timezone.utc)-timedelta(hours=float(CFG["settings"].get("max_age_hours",2)))
+
+    for x in arr:
+        u=clean_url(x.get("url",""))
+        if not u or u in known_urls:
+            continue
+        published=parse_dt(x.get("seendate"))
+        if published<cutoff:
+            continue
+
+        out.append({
+            "url":u,
+            "title":x.get("title",""),
+            "source":x.get("domain",""),
+            "published":published,
+            "language":x.get("language",""),
+            "country":x.get("sourcecountry",""),
+            "via":"GDELT"
+        })
+
+        if len(out)>=limit:
+            break
+
+    return out
+
+def google(p, known_urls=None):
+    out=[]
+    known_urls=known_urls or set()
+    cutoff=datetime.now(timezone.utc)-timedelta(hours=float(CFG["settings"].get("max_age_hours",3)))
+    inspect_limit=int(CFG["settings"].get("google_rss_entries_to_inspect",25))
+    fresh_limit=int(CFG["settings"].get("max_fresh_google_articles_per_search",6))
+
     for ed in CFG["google_news_editions"]:
+        if len(out)>=fresh_limit:
+            break
+
         url=f'https://news.google.com/rss/search?q={quote_plus(q_for(p))}&hl={quote_plus(ed["hl"])}&gl={quote_plus(ed["gl"])}&ceid={quote_plus(ed["ceid"])}'
         f=feedparser.parse(url)
-        for e in list(getattr(f,"entries",[]))[:CFG["settings"]["google_results_per_edition"]]:
+
+        for e in list(getattr(f,"entries",[]))[:inspect_limit]:
+            if len(out)>=fresh_limit:
+                break
+
             published=feed_dt(e)
             if published<cutoff:
                 continue
+
+            # Decode only fresh RSS entries.
             u=decode_google(getattr(e,"link",""))
-            if not u:
+            if not u or u in known_urls:
                 continue
+
             src=""
             try:
                 src=e.source.get("title","") if getattr(e,"source",None) else ""
             except:
                 pass
+
             out.append({
                 "url":u,
                 "title":getattr(e,"title",""),
@@ -76,6 +131,7 @@ def google(p):
                 "country":ed["label"],
                 "via":"Google News"
             })
+
     return out
 
 def extract(u):
@@ -203,7 +259,8 @@ def main():
 
     for p in selected:
         print("TRACK:",p["id"],p["name"])
-        candidates=gdelt(p)+google(p)
+        known_urls=set(byurl.keys())
+        candidates=gdelt(p,known_urls)+google(p,known_urls)
         unique={c["url"]:c for c in candidates if c.get("url") and c["published"]>=cutoff}
 
         for c in sorted(unique.values(),key=lambda x:x["published"],reverse=True):

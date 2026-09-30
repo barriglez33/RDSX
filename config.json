@@ -475,15 +475,18 @@
     }
   ],
   "settings": {
-    "max_age_hours": 2,
-    "gdelt_results_per_person": 12,
+    "max_age_hours": 3,
+    "gdelt_results_per_person": 15,
     "google_results_per_edition": 4,
     "max_stored_articles": 3000,
     "max_feed_items": 300,
     "minimum_body_characters": 250,
     "delay_between_articles_seconds": 0.4,
     "google_decode_interval_seconds": 0.05,
-    "old_translation_repairs_per_run": 10
+    "old_translation_repairs_per_run": 10,
+    "google_rss_entries_to_inspect": 25,
+    "max_fresh_google_articles_per_search": 6,
+    "max_fresh_gdelt_articles_per_search": 6
   },
   "google_news_editions": [
     {
@@ -518,10 +521,10 @@
   },
   "deduplication": {
     "enabled": true,
-    "max_hours_apart": 48,
-    "title_similarity_threshold": 0.72,
-    "title_token_overlap_threshold": 0.58,
-    "body_lead_similarity_threshold": 0.66,
+    "max_hours_apart": 24,
+    "title_similarity_threshold": 0.8,
+    "title_token_overlap_threshold": 0.68,
+    "body_lead_similarity_threshold": 0.75,
     "body_lead_characters": 1600
   },
   "context_terms": [
