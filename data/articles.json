@@ -1,5 +1,1417 @@
 [
   {
+    "id": "083d567f7b8d2f4d43fb",
+    "title": "BSJ Live Coverage: Red Sox 0 at Yankees 0 (1st) - Sonny Gray takes mound in elimination game for Red Sox",
+    "source": "Boston Sports Journal",
+    "author": "Trevor Sheehan",
+    "url": "https://www.bostonsportsjournal.com/live/bsj-live-coverage-red-sox-at-yankees-8-pm---sonny-gray-takes-mound-in-elimination-game-for-red-sox",
+    "published_iso": "2026-09-30T23:54:24+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 23:54:24 +0000",
+    "body": "(Sam Navarro-Imagn Images)\nBSJ Live Coverage: Red Sox 0 at Yankees 0 (1st) - Sonny Gray takes mound in elimination game for Red Sox\nWHO: Red Sox vs Yankees\nWHEN: 8:00 p.m.\nWHERE: Yankee Stadium, New York\nSERIES TO DATE: (0-1), (6-8)\nSTARTING PITCHERS: RHP Sonny Gray (18-5, 2.72 ERA) vs. LHP Max Fried (5-5, 2.80 ERA)\nTV/RADIO: NESN, MLB Network, WEEI-FM 93.7\nLINEUPS\nRED SOX\nJahmai Jones (R) DH\nAdley Rutschman (S) C\nWillson Contreras (R) 1B\nWilyer Abreu (L) RF\nCeddanne Rafaela (R) CF\nCaleb Durbin (R) 3B\nNick Sogard (S) 2B\nTrevor Story (R) SS\nNate Eaton (R) LF\nSP Sonny Gray\nYANKEES\nBen Rice (L) DH\nCody Bellinger (L) LF\nLuis García Jr. (L) 1B\nSpencer Jones (L) RF\nGeorge Lombard Jr. (R) SS\nJazz Chisholm Jr. (L) 2B\nTrent Grisham (L) CF\nAustin Wells (L) C\nRyan McMahon (L) 3B\nSP Max Fried\nWHAT'S UP\nSonny Gray gets the start in do-or-die game two against the New York Yankees.\nRoman Anthony exited in the sixth inning of Game 1 on Tuesday night after two at-bats due to pain in his right hand. Imaging Wednesday morning revealed new strains to muscles in his wrist and a re-aggravation of the injury.\nCurtis Mead will take Roman Anthony's spot on the wild card roster.",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Trevor Story",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Nick Sogard",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Nate Eaton",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "BSJ Live Coverage: Red Sox 0 at Yankees 0 (1st) - Sonny Gray takes mound in elimination game for Red Sox",
+    "original_body": "(Sam Navarro-Imagn Images)\nBSJ Live Coverage: Red Sox 0 at Yankees 0 (1st) - Sonny Gray takes mound in elimination game for Red Sox\nWHO: Red Sox vs Yankees\nWHEN: 8:00 p.m.\nWHERE: Yankee Stadium, New York\nSERIES TO DATE: (0-1), (6-8)\nSTARTING PITCHERS: RHP Sonny Gray (18-5, 2.72 ERA) vs. LHP Max Fried (5-5, 2.80 ERA)\nTV/RADIO: NESN, MLB Network, WEEI-FM 93.7\nLINEUPS\nRED SOX\nJahmai Jones (R) DH\nAdley Rutschman (S) C\nWillson Contreras (R) 1B\nWilyer Abreu (L) RF\nCeddanne Rafaela (R) CF\nCaleb Durbin (R) 3B\nNick Sogard (S) 2B\nTrevor Story (R) SS\nNate Eaton (R) LF\nSP Sonny Gray\nYANKEES\nBen Rice (L) DH\nCody Bellinger (L) LF\nLuis García Jr. (L) 1B\nSpencer Jones (L) RF\nGeorge Lombard Jr. (R) SS\nJazz Chisholm Jr. (L) 2B\nTrent Grisham (L) CF\nAustin Wells (L) C\nRyan McMahon (L) 3B\nSP Max Fried\nWHAT'S UP\nSonny Gray gets the start in do-or-die game two against the New York Yankees.\nRoman Anthony exited in the sixth inning of Game 1 on Tuesday night after two at-bats due to pain in his right hand. Imaging Wednesday morning revealed new strains to muscles in his wrist and a re-aggravation of the injury.\nCurtis Mead will take Roman Anthony's spot on the wild card roster.",
+    "rss_title": "BSJ Live Coverage: Red Sox 0 at Yankees 0 (1st) - Sonny Gray takes mound in elimination game for Red Sox",
+    "rss_body": "(Sam Navarro-Imagn Images)\nBSJ Live Coverage: Red Sox 0 at Yankees 0 (1st) - Sonny Gray takes mound in elimination game for Red Sox\nWHO: Red Sox vs Yankees\nWHEN: 8:00 p.m.\nWHERE: Yankee Stadium, New York\nSERIES TO DATE: (0-1), (6-8)\nSTARTING PITCHERS: RHP Sonny Gray (18-5, 2.72 ERA) vs. LHP Max Fried (5-5, 2.80 ERA)\nTV/RADIO: NESN, MLB Network, WEEI-FM 93.7\nLINEUPS\nRED SOX\nJahmai Jones (R) DH\nAdley Rutschman (S) C\nWillson Contreras (R) 1B\nWilyer Abreu (L) RF\nCeddanne Rafaela (R) CF\nCaleb Durbin (R) 3B\nNick Sogard (S) 2B\nTrevor Story (R) SS\nNate Eaton (R) LF\nSP Sonny Gray\nYANKEES\nBen Rice (L) DH\nCody Bellinger (L) LF\nLuis García Jr. (L) 1B\nSpencer Jones (L) RF\nGeorge Lombard Jr. (R) SS\nJazz Chisholm Jr. (L) 2B\nTrent Grisham (L) CF\nAustin Wells (L) C\nRyan McMahon (L) 3B\nSP Max Fried\nWHAT'S UP\nSonny Gray gets the start in do-or-die game two against the New York Yankees.\nRoman Anthony exited in the sixth inning of Game 1 on Tuesday night after two at-bats due to pain in his right hand. Imaging Wednesday morning revealed new strains to muscles in his wrist and a re-aggravation of the injury.\nCurtis Mead will take Roman Anthony's spot on the wild card roster.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "5de1f39e715c061712be",
+    "title": "Roman Anthony out of Red Sox lineup in Game 2 of Wild Card Series against Yankees after hurting hand",
+    "source": "wcvb.com",
+    "author": "Imani Clement",
+    "url": "https://www.wcvb.com/article/roman-anthony-out-of-red-sox-lineup-in-game-2/73965744",
+    "published_iso": "2026-09-30T23:30:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 23:30:00 +0000",
+    "body": "Red Sox's Roman Anthony diagnosed with right hand strain, ineligible to return until ALCS\nThe Red Sox announced that Roman Anthony would not be in the Boston Red Sox lineup for Game 2 of their AL Wild Card Series against the New York Yankees on Wednesday night, a day after leaving the opener because of hand pain.\nIn a statement on Wednesday, the team announced that Anthony was diagnosed with a right-hand strain and was substituted off the roster.\nAnthony can no longer participate in the remainder of the Wild Card Series or the American League Division Series if Boston advances.\nHe would be eligible to return for the American League Championship Series.\n\"I feel sick to my stomach. I haven't slept much. It doesn't feel real, to be honest,\" Anthony said Wednesday. \"I been through so many emotions and feelings to get the same news again and even worse, it's hard to have an answer to anything right now.\"\nThe team announced that infielder Curtis Mead will replace Anthony on the Wild Card Series roster.\nAnthony said he wasn't sure what the treatment plan would be currently to remedy his hand injury.\n\"Once we decided I wasn't going to play today, that's all that really mattered,\" Anthony said. \"All that mattered was putting the team in the best situation to win.\"\nBatting leadoff as a designated hitter in his playoff debut Tuesday, Anthony struck out in both of his at-bats against Cam Schlittler before getting lifted for a pinch hitter with his team trailing by two runs in the sixth inning of a 9-0 loss.\nBoston manager Chad Tracy said Anthony felt discomfort in his right hand after a couple of checked swings. The 22-year-old Anthony missed 101 games from May 5 to Aug. 29 with an injury to the same hand.\n\"Unfortunately, I checked swing on my second at-bat and I knew right then and there it was time to get it looked and put somebody else in the game that would have a better chance to win,\" Anthony said.\n“He’s obviously coming off that. You’ll get a zinger every once in a while where you feel something — it’s fine, it goes away,” Tracy said. “Today some stuff happened that was more serious and was uncomfortable.”\nJahmai Jones was set to hit leadoff as the DH with the Red Sox one loss from elimination, followed in the batting order by catcher Adley Rutschman, first baseman Willson Contreras, right fielder Wilyer Abreu, center fielder Ceddanne Rafaela, third baseman Caleb Durbin, second baseman Nick Sogard, shortstop Trevor Story and left fielder Nate Eaton.\nSonny Gray was set to start on the mound for Boston against one of his former teams.\nOne of baseball’s premier prospects when he debuted last year, Anthony batted .245 with five home runs, 15 RBIs and a .735 OPS in 55 games this season.\nThe Associated Press contributed to this report.",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Trevor Story",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Nick Sogard",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Nate Eaton",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Roman Anthony out of Red Sox lineup in Game 2 of Wild Card Series against Yankees after hurting hand",
+    "original_body": "Red Sox's Roman Anthony diagnosed with right hand strain, ineligible to return until ALCS\nThe Red Sox announced that Roman Anthony would not be in the Boston Red Sox lineup for Game 2 of their AL Wild Card Series against the New York Yankees on Wednesday night, a day after leaving the opener because of hand pain.\nIn a statement on Wednesday, the team announced that Anthony was diagnosed with a right-hand strain and was substituted off the roster.\nAnthony can no longer participate in the remainder of the Wild Card Series or the American League Division Series if Boston advances.\nHe would be eligible to return for the American League Championship Series.\n\"I feel sick to my stomach. I haven't slept much. It doesn't feel real, to be honest,\" Anthony said Wednesday. \"I been through so many emotions and feelings to get the same news again and even worse, it's hard to have an answer to anything right now.\"\nThe team announced that infielder Curtis Mead will replace Anthony on the Wild Card Series roster.\nAnthony said he wasn't sure what the treatment plan would be currently to remedy his hand injury.\n\"Once we decided I wasn't going to play today, that's all that really mattered,\" Anthony said. \"All that mattered was putting the team in the best situation to win.\"\nBatting leadoff as a designated hitter in his playoff debut Tuesday, Anthony struck out in both of his at-bats against Cam Schlittler before getting lifted for a pinch hitter with his team trailing by two runs in the sixth inning of a 9-0 loss.\nBoston manager Chad Tracy said Anthony felt discomfort in his right hand after a couple of checked swings. The 22-year-old Anthony missed 101 games from May 5 to Aug. 29 with an injury to the same hand.\n\"Unfortunately, I checked swing on my second at-bat and I knew right then and there it was time to get it looked and put somebody else in the game that would have a better chance to win,\" Anthony said.\n“He’s obviously coming off that. You’ll get a zinger every once in a while where you feel something — it’s fine, it goes away,” Tracy said. “Today some stuff happened that was more serious and was uncomfortable.”\nJahmai Jones was set to hit leadoff as the DH with the Red Sox one loss from elimination, followed in the batting order by catcher Adley Rutschman, first baseman Willson Contreras, right fielder Wilyer Abreu, center fielder Ceddanne Rafaela, third baseman Caleb Durbin, second baseman Nick Sogard, shortstop Trevor Story and left fielder Nate Eaton.\nSonny Gray was set to start on the mound for Boston against one of his former teams.\nOne of baseball’s premier prospects when he debuted last year, Anthony batted .245 with five home runs, 15 RBIs and a .735 OPS in 55 games this season.\nThe Associated Press contributed to this report.",
+    "rss_title": "Roman Anthony out of Red Sox lineup in Game 2 of Wild Card Series against Yankees after hurting hand",
+    "rss_body": "Red Sox's Roman Anthony diagnosed with right hand strain, ineligible to return until ALCS\nThe Red Sox announced that Roman Anthony would not be in the Boston Red Sox lineup for Game 2 of their AL Wild Card Series against the New York Yankees on Wednesday night, a day after leaving the opener because of hand pain.\nIn a statement on Wednesday, the team announced that Anthony was diagnosed with a right-hand strain and was substituted off the roster.\nAnthony can no longer participate in the remainder of the Wild Card Series or the American League Division Series if Boston advances.\nHe would be eligible to return for the American League Championship Series.\n\"I feel sick to my stomach. I haven't slept much. It doesn't feel real, to be honest,\" Anthony said Wednesday. \"I been through so many emotions and feelings to get the same news again and even worse, it's hard to have an answer to anything right now.\"\nThe team announced that infielder Curtis Mead will replace Anthony on the Wild Card Series roster.\nAnthony said he wasn't sure what the treatment plan would be currently to remedy his hand injury.\n\"Once we decided I wasn't going to play today, that's all that really mattered,\" Anthony said. \"All that mattered was putting the team in the best situation to win.\"\nBatting leadoff as a designated hitter in his playoff debut Tuesday, Anthony struck out in both of his at-bats against Cam Schlittler before getting lifted for a pinch hitter with his team trailing by two runs in the sixth inning of a 9-0 loss.\nBoston manager Chad Tracy said Anthony felt discomfort in his right hand after a couple of checked swings. The 22-year-old Anthony missed 101 games from May 5 to Aug. 29 with an injury to the same hand.\n\"Unfortunately, I checked swing on my second at-bat and I knew right then and there it was time to get it looked and put somebody else in the game that would have a better chance to win,\" Anthony said.\n“He’s obviously coming off that. You’ll get a zinger every once in a while where you feel something — it’s fine, it goes away,” Tracy said. “Today some stuff happened that was more serious and was uncomfortable.”\nJahmai Jones was set to hit leadoff as the DH with the Red Sox one loss from elimination, followed in the batting order by catcher Adley Rutschman, first baseman Willson Contreras, right fielder Wilyer Abreu, center fielder Ceddanne Rafaela, third baseman Caleb Durbin, second baseman Nick Sogard, shortstop Trevor Story and left fielder Nate Eaton.\nSonny Gray was set to start on the mound for Boston against one of his former teams.\nOne of baseball’s premier prospects when he debuted last year, Anthony batted .245 with five home runs, 15 RBIs and a .735 OPS in 55 games this season.\nThe Associated Press contributed to this report.",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "leadertelegram.com",
+        "url": "http://www.leadertelegram.com/news/nation-world/roman-anthony-out-of-red-sox-lineup-in-game-2-of-wild-card-series-against/article_ab795e8c-ac65-5d88-9030-83a7d38ed7e2.html",
+        "title": "Roman Anthony out of Red Sox lineup in Game 2 of Wild Card Series against Yankees after hurting hand",
+        "body_characters": 1456
+      }
+    ]
+  },
+  {
+    "id": "4232892633caca4376ff",
+    "title": "Red Sox replace injured Roman Anthony on roster with Curtis Mead",
+    "source": "bignewsnetwork.com",
+    "author": "Field Level Media",
+    "url": "http://www.bignewsnetwork.com/news/279344076/red-sox-replace-injured-roman-anthony-on-roster-with-curtis-mead",
+    "published_iso": "2026-09-30T23:30:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 23:30:00 +0000",
+    "body": "Red Sox replace injured Roman Anthony on roster with Curtis Mead\n(Photo credit: Bob DeChiara)\nThe Boston Red Sox replaced injured outfielder Roman Anthony on their wild-card series roster with infielder Curtis Mead on Wednesday ahead of Game 2 against the New York Yankees.\nAnthony underwent imaging in Boston on Wednesday morning that displayed he had 'additional damage to some muscles' in his right hand and wrist, Red Sox manager Chad Tracy said prior to Game 2 of the American League series.\nAnthony had an injury to the same hand earlier this season that caused him to miss nearly four months. He returned to action Aug. 30.\nMajor League Baseball approved the roster change after reviewing the medical information. Anthony will be ineligible to return if the Red Sox reach the AL Division Series, but he will be eligible to play if Boston advances to the AL Championship Series.\nAnthony started Tuesday's 9-0 loss in Game 1 batting leadoff as the designated hitter and struck out in both at-bats -- on checked swings -- against New York's Cam Schlittler. The hand injury flared up and he couldn't continue. Anthony was replaced by Andruw Monasterio in the sixth inning.\nTracy was unsure if the 22-year-old Anthony might require hand surgery.\n'I don't know the answer to that yet,' Tracy said. 'I just know that the imaging shows more than what was originally there. So as far as what treatment plans are in the future, haven't gotten there.\n'Just midday today I first found out, yeah, there's more there that we're not going to have him. We'll figure it out as we move along.'\nAnthony batted .245 with five homers and 15 RBIs in 55 games.\nMead was acquired from the Washington Nationals a few days ahead of the trade deadline and sustained a broken left wrist in his first game with the team.\nHe was hit by a pitch from Athletics right-hander Jack Perkins in the fourth inning of his debut on July 27.\nMead, 25, hit .254 with 17 homers, 17 doubles and 48 RBIs -- all career highs - in 87 games with the Nationals before the trade.\n--Field Level Media",
+    "tracked_people": [
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States",
+      "Sierra Leone",
+      "US English"
+    ],
+    "discovery_sources": [
+      "GDELT",
+      "Google News"
+    ],
+    "original_title": "Red Sox replace injured Roman Anthony on roster with Curtis Mead",
+    "original_body": "Red Sox replace injured Roman Anthony on roster with Curtis Mead\n(Photo credit: Bob DeChiara)\nThe Boston Red Sox replaced injured outfielder Roman Anthony on their wild-card series roster with infielder Curtis Mead on Wednesday ahead of Game 2 against the New York Yankees.\nAnthony underwent imaging in Boston on Wednesday morning that displayed he had 'additional damage to some muscles' in his right hand and wrist, Red Sox manager Chad Tracy said prior to Game 2 of the American League series.\nAnthony had an injury to the same hand earlier this season that caused him to miss nearly four months. He returned to action Aug. 30.\nMajor League Baseball approved the roster change after reviewing the medical information. Anthony will be ineligible to return if the Red Sox reach the AL Division Series, but he will be eligible to play if Boston advances to the AL Championship Series.\nAnthony started Tuesday's 9-0 loss in Game 1 batting leadoff as the designated hitter and struck out in both at-bats -- on checked swings -- against New York's Cam Schlittler. The hand injury flared up and he couldn't continue. Anthony was replaced by Andruw Monasterio in the sixth inning.\nTracy was unsure if the 22-year-old Anthony might require hand surgery.\n'I don't know the answer to that yet,' Tracy said. 'I just know that the imaging shows more than what was originally there. So as far as what treatment plans are in the future, haven't gotten there.\n'Just midday today I first found out, yeah, there's more there that we're not going to have him. We'll figure it out as we move along.'\nAnthony batted .245 with five homers and 15 RBIs in 55 games.\nMead was acquired from the Washington Nationals a few days ahead of the trade deadline and sustained a broken left wrist in his first game with the team.\nHe was hit by a pitch from Athletics right-hander Jack Perkins in the fourth inning of his debut on July 27.\nMead, 25, hit .254 with 17 homers, 17 doubles and 48 RBIs -- all career highs - in 87 games with the Nationals before the trade.\n--Field Level Media",
+    "rss_title": "Red Sox replace injured Roman Anthony on roster with Curtis Mead",
+    "rss_body": "Red Sox replace injured Roman Anthony on roster with Curtis Mead\n(Photo credit: Bob DeChiara)\nThe Boston Red Sox replaced injured outfielder Roman Anthony on their wild-card series roster with infielder Curtis Mead on Wednesday ahead of Game 2 against the New York Yankees.\nAnthony underwent imaging in Boston on Wednesday morning that displayed he had 'additional damage to some muscles' in his right hand and wrist, Red Sox manager Chad Tracy said prior to Game 2 of the American League series.\nAnthony had an injury to the same hand earlier this season that caused him to miss nearly four months. He returned to action Aug. 30.\nMajor League Baseball approved the roster change after reviewing the medical information. Anthony will be ineligible to return if the Red Sox reach the AL Division Series, but he will be eligible to play if Boston advances to the AL Championship Series.\nAnthony started Tuesday's 9-0 loss in Game 1 batting leadoff as the designated hitter and struck out in both at-bats -- on checked swings -- against New York's Cam Schlittler. The hand injury flared up and he couldn't continue. Anthony was replaced by Andruw Monasterio in the sixth inning.\nTracy was unsure if the 22-year-old Anthony might require hand surgery.\n'I don't know the answer to that yet,' Tracy said. 'I just know that the imaging shows more than what was originally there. So as far as what treatment plans are in the future, haven't gotten there.\n'Just midday today I first found out, yeah, there's more there that we're not going to have him. We'll figure it out as we move along.'\nAnthony batted .245 with five homers and 15 RBIs in 55 games.\nMead was acquired from the Washington Nationals a few days ahead of the trade deadline and sustained a broken left wrist in his first game with the team.\nHe was hit by a pitch from Athletics right-hander Jack Perkins in the fourth inning of his debut on July 27.\nMead, 25, hit .254 with 17 homers, 17 doubles and 48 RBIs -- all career highs - in 87 games with the Nationals before the trade.\n--Field Level Media",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "massachusettssun.com",
+        "url": "http://www.massachusettssun.com/news/279344076/red-sox-replace-injured-roman-anthony-on-roster-with-curtis-mead",
+        "title": "Red Sox replace injured Roman Anthony on roster with Curtis Mead",
+        "body_characters": 2339
+      },
+      {
+        "source": "sierraleonetimes.com",
+        "url": "http://www.sierraleonetimes.com/news/279344076/red-sox-replace-injured-roman-anthony-on-roster-with-curtis-mead",
+        "title": "Red Sox replace injured Roman Anthony on roster with Curtis Mead",
+        "body_characters": 2481
+      },
+      {
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/red-sox-replace-roman-anthony-213430556.html",
+        "title": "Red Sox Replace Roman Anthony With Curtis Mead On Roster",
+        "body_characters": 1413
+      }
+    ]
+  },
+  {
+    "id": "8eae06be078496c0a402",
+    "title": "Red Sox supporters keep faith before must-win Game 2",
+    "source": "wcvb.com",
+    "author": "Peter Eliopoulos",
+    "url": "https://www.wcvb.com/article/red-sox-supporters-keep-faith-before-must-win-game-2/73965722",
+    "published_iso": "2026-09-30T23:30:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 23:30:00 +0000",
+    "body": "Red Sox supporters keep faith before must-win Game 2\nRed Sox fans are holding onto hope as the team prepares for the critical Game 2 of the AL Wild Card series against the New York Yankees after a disappointing loss that saw Boston give up nine unanswered runs.\nIn Boston’s Financial District on Wednesday, many fans were seen sporting Red Sox hats and gear while out for lunch.\n“Everyone is nervous in the city right now, after watching last night, we just feel like hope is just dwindling away, but this whole season is what it’s all been about, so hoping for another one of those comebacks,” Ryan Palmer said.\nWhile frustration over the team’s inability to score runs or get hits was evident, fans also acknowledged the strong performance by New York Yankees pitcher Cam Schlittler and praised Payton Tolle, though some felt he was pulled from the game too early.\n“And with Tolle as pitcher, I think he really encapsulates the Red Sox spirit, the Boston spirit, so if they won it would be fun,” Elise Coakley said.\n“Tolle looked good, tough pull,” Dan O'Donovan said.\nAdding to the disappointment, Roman Anthony left the game early and will not play on Wednesday.\n“It’s tough because he’s truly their one impact bat, or at least can be, and when he went down that was pretty deflating, and for them to just pile on the way they did was tough,” Patrick Curran said.\nDuring the lunchtime rush at Paisani Food Truck downtown, fans were discussing the Red Sox while repping their favorite team.\n“I think they could do it tonight, and then you paid Ranger Suárez all this money for game 3, so I think they can do it,” Curran said.\n“Red Sox-Yankees, that’s a good rivalry, you’ve got to have it,” Marion Kennedy said.\n“I’m a die-hard Sox fan, but I don’t see it, I don’t see it. They still gave us a good year,” another fan said.\n“But I hope tonight we turn things around and we come back,” Doug Cavanaugh said.\n“You just feel like they always have a chance, which is not how you felt earlier in the year, so you’ve got to be excited about it,” O'Donovan said.\nFans believe that if the Red Sox can secure a win in Game 2. It could set the stage for a decisive Game 3. However, a loss would likely mean the end of their season, leaving them to pack up and prepare for the offseason.",
+    "tracked_people": [
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Ranger Suárez",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Red Sox supporters keep faith before must-win Game 2",
+    "original_body": "Red Sox supporters keep faith before must-win Game 2\nRed Sox fans are holding onto hope as the team prepares for the critical Game 2 of the AL Wild Card series against the New York Yankees after a disappointing loss that saw Boston give up nine unanswered runs.\nIn Boston’s Financial District on Wednesday, many fans were seen sporting Red Sox hats and gear while out for lunch.\n“Everyone is nervous in the city right now, after watching last night, we just feel like hope is just dwindling away, but this whole season is what it’s all been about, so hoping for another one of those comebacks,” Ryan Palmer said.\nWhile frustration over the team’s inability to score runs or get hits was evident, fans also acknowledged the strong performance by New York Yankees pitcher Cam Schlittler and praised Payton Tolle, though some felt he was pulled from the game too early.\n“And with Tolle as pitcher, I think he really encapsulates the Red Sox spirit, the Boston spirit, so if they won it would be fun,” Elise Coakley said.\n“Tolle looked good, tough pull,” Dan O'Donovan said.\nAdding to the disappointment, Roman Anthony left the game early and will not play on Wednesday.\n“It’s tough because he’s truly their one impact bat, or at least can be, and when he went down that was pretty deflating, and for them to just pile on the way they did was tough,” Patrick Curran said.\nDuring the lunchtime rush at Paisani Food Truck downtown, fans were discussing the Red Sox while repping their favorite team.\n“I think they could do it tonight, and then you paid Ranger Suárez all this money for game 3, so I think they can do it,” Curran said.\n“Red Sox-Yankees, that’s a good rivalry, you’ve got to have it,” Marion Kennedy said.\n“I’m a die-hard Sox fan, but I don’t see it, I don’t see it. They still gave us a good year,” another fan said.\n“But I hope tonight we turn things around and we come back,” Doug Cavanaugh said.\n“You just feel like they always have a chance, which is not how you felt earlier in the year, so you’ve got to be excited about it,” O'Donovan said.\nFans believe that if the Red Sox can secure a win in Game 2. It could set the stage for a decisive Game 3. However, a loss would likely mean the end of their season, leaving them to pack up and prepare for the offseason.",
+    "rss_title": "Red Sox supporters keep faith before must-win Game 2",
+    "rss_body": "Red Sox supporters keep faith before must-win Game 2\nRed Sox fans are holding onto hope as the team prepares for the critical Game 2 of the AL Wild Card series against the New York Yankees after a disappointing loss that saw Boston give up nine unanswered runs.\nIn Boston’s Financial District on Wednesday, many fans were seen sporting Red Sox hats and gear while out for lunch.\n“Everyone is nervous in the city right now, after watching last night, we just feel like hope is just dwindling away, but this whole season is what it’s all been about, so hoping for another one of those comebacks,” Ryan Palmer said.\nWhile frustration over the team’s inability to score runs or get hits was evident, fans also acknowledged the strong performance by New York Yankees pitcher Cam Schlittler and praised Payton Tolle, though some felt he was pulled from the game too early.\n“And with Tolle as pitcher, I think he really encapsulates the Red Sox spirit, the Boston spirit, so if they won it would be fun,” Elise Coakley said.\n“Tolle looked good, tough pull,” Dan O'Donovan said.\nAdding to the disappointment, Roman Anthony left the game early and will not play on Wednesday.\n“It’s tough because he’s truly their one impact bat, or at least can be, and when he went down that was pretty deflating, and for them to just pile on the way they did was tough,” Patrick Curran said.\nDuring the lunchtime rush at Paisani Food Truck downtown, fans were discussing the Red Sox while repping their favorite team.\n“I think they could do it tonight, and then you paid Ranger Suárez all this money for game 3, so I think they can do it,” Curran said.\n“Red Sox-Yankees, that’s a good rivalry, you’ve got to have it,” Marion Kennedy said.\n“I’m a die-hard Sox fan, but I don’t see it, I don’t see it. They still gave us a good year,” another fan said.\n“But I hope tonight we turn things around and we come back,” Doug Cavanaugh said.\n“You just feel like they always have a chance, which is not how you felt earlier in the year, so you’ve got to be excited about it,” O'Donovan said.\nFans believe that if the Red Sox can secure a win in Game 2. It could set the stage for a decisive Game 3. However, a loss would likely mean the end of their season, leaving them to pack up and prepare for the offseason.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "e90b309cecdc0e2a5ea9",
+    "title": "AL Wild Card Series Game 2: Max Fried vs. Sonny Gray",
+    "source": "Yahoo Sports",
+    "author": "Jeremy Nielsen",
+    "url": "https://sports.yahoo.com/articles/al-wild-card-series-game-233000088.html",
+    "published_iso": "2026-09-30T23:30:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 23:30:00 +0000",
+    "body": "In the words of a Yankee legend, it was dèja vu all over again in the Bronx last night as Cam Schlittler continued crafting a legend of his own. Just like last season, Schlittler delivered a gem of a performance against the Red Sox in the Wild Card Series, staking New York to a 1-0 series lead and giving them an opportunity to close the affair out early tonight. But unlike last year's three-game set, in which the Yankee offense never fully erupted, the lineup finally achieved escape velocity. Ben Rice and his four hits, two homers, and six RBI, led the charge — but the bottom of the lineup contributed their fair share as well.\nIn other words, the Yankees played the perfect ballgame last night. Max Fried will be tasked with carrying the momentum into Game 2. Fried's second season in pinstripes has been marred by a couple of IL stints limiting him to just 20 starts and 112.2 innings, but when he's been healthy, he's been just as good as in 2025. He'll be pitching on seven days' rest in Game 2 — his last appearance was an up-and-down start against the Rays, in which Tampa clinched the AL East.\nAs far as the recent track record against Boston, Fried has been quite effective. He only faced them twice this season: one was a short start from when he was returning from his latest injury, the other an eight-inning masterpiece in April from before the Red Sox got it together under new manager Chad Tracy. In Game 1 of last year's WCS, he provided 6.1 scoreless innings, scattering four hits three walks while striking out six. The Yankees couldn't hold onto the narrow 1-0 lead he had defended, and sabotaged their own comeback effort after loading the bases with nobody out in the ninth inning. None of that was Max's fault, of course. Provided the lineup supports him, an effort like last year's will be more than enough.\nOld friend Sonny Gray never caught on with the Yankees in 2017 and 2018, but he'll have no choice but to step up under the Yankee Stadium lights with Boston's season on the line. Over his first season with the Red Sox, the steady veteran turned in yet another outstanding season, leading the AL with 18 wins (don't think that doesn't mean anything to him) and pitching to a 2.72 ERA. That's the thing about the Red Sox' pitching: they have lots of exciting youngsters like Payton Tolle, who pitched last night, but they also routinely get the most out of their veteran pitchers too. Gray faced New York twice in June and pitched well both times. The latter outing was his best start of the season by game score — one hit, one walk, nine strikeouts over 7.1 scoreless innings.\nUnsurprisingly, Aaron Boone's lineup for Game 2 is nearly unrecognizable when compared with the Game 1 starting nine. It's a history-making card: according to James Smyth of the YES Network, it's the first time a team has put eight lefty batters — switch hitters not included — in the same lineup in the postseason. The portside octet includes Trent Grisham, who entered late last night for his first action off the IL. Rice will ascend to the leadoff spot, with Cody Bellinger and Luis Garcia Jr. to follow. Spencer Jones hits cleanup and plays right field ahead of George Lombard Jr., the lone righty to get the start. Jazz Chisholm Jr. draws in at the keystone, Grisham bats in the seven-spot after him, Austin Wells will bat eighth, and Ryan McMahon starts at third and will hit ninth. Naturally, expect plenty of right-handed bats to come off the bench against a lefty-heavy Boston staff once Gray's start concludes.\nHow to watch\nLocation: Yankee Stadium – Bronx, NY\nFirst pitch: 8:00 p.m. ET\nTV broadcast: NBC\nRadio broadcast: WFAN 660/101.9 FM, WADO 1280 (NYY) | WEEI 93.7, WCCM 1490 AM (SP), WESX 1230 AM (SP) (BOS) | ESPN Radio (national)\nStreaming: Peacock\nFor updates, follow us on BlueSky, Twitter, and Instagram, and like us on Facebook.\nJoin the conversation!\nSign up for a user account and get:\n- Fewer ads\n- Comment on articles, community posts\n- Rec comments, community posts\n- New, improved notifications system!",
+    "tracked_people": [
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "AL Wild Card Series Game 2: Max Fried vs. Sonny Gray",
+    "original_body": "In the words of a Yankee legend, it was dèja vu all over again in the Bronx last night as Cam Schlittler continued crafting a legend of his own. Just like last season, Schlittler delivered a gem of a performance against the Red Sox in the Wild Card Series, staking New York to a 1-0 series lead and giving them an opportunity to close the affair out early tonight. But unlike last year's three-game set, in which the Yankee offense never fully erupted, the lineup finally achieved escape velocity. Ben Rice and his four hits, two homers, and six RBI, led the charge — but the bottom of the lineup contributed their fair share as well.\nIn other words, the Yankees played the perfect ballgame last night. Max Fried will be tasked with carrying the momentum into Game 2. Fried's second season in pinstripes has been marred by a couple of IL stints limiting him to just 20 starts and 112.2 innings, but when he's been healthy, he's been just as good as in 2025. He'll be pitching on seven days' rest in Game 2 — his last appearance was an up-and-down start against the Rays, in which Tampa clinched the AL East.\nAs far as the recent track record against Boston, Fried has been quite effective. He only faced them twice this season: one was a short start from when he was returning from his latest injury, the other an eight-inning masterpiece in April from before the Red Sox got it together under new manager Chad Tracy. In Game 1 of last year's WCS, he provided 6.1 scoreless innings, scattering four hits three walks while striking out six. The Yankees couldn't hold onto the narrow 1-0 lead he had defended, and sabotaged their own comeback effort after loading the bases with nobody out in the ninth inning. None of that was Max's fault, of course. Provided the lineup supports him, an effort like last year's will be more than enough.\nOld friend Sonny Gray never caught on with the Yankees in 2017 and 2018, but he'll have no choice but to step up under the Yankee Stadium lights with Boston's season on the line. Over his first season with the Red Sox, the steady veteran turned in yet another outstanding season, leading the AL with 18 wins (don't think that doesn't mean anything to him) and pitching to a 2.72 ERA. That's the thing about the Red Sox' pitching: they have lots of exciting youngsters like Payton Tolle, who pitched last night, but they also routinely get the most out of their veteran pitchers too. Gray faced New York twice in June and pitched well both times. The latter outing was his best start of the season by game score — one hit, one walk, nine strikeouts over 7.1 scoreless innings.\nUnsurprisingly, Aaron Boone's lineup for Game 2 is nearly unrecognizable when compared with the Game 1 starting nine. It's a history-making card: according to James Smyth of the YES Network, it's the first time a team has put eight lefty batters — switch hitters not included — in the same lineup in the postseason. The portside octet includes Trent Grisham, who entered late last night for his first action off the IL. Rice will ascend to the leadoff spot, with Cody Bellinger and Luis Garcia Jr. to follow. Spencer Jones hits cleanup and plays right field ahead of George Lombard Jr., the lone righty to get the start. Jazz Chisholm Jr. draws in at the keystone, Grisham bats in the seven-spot after him, Austin Wells will bat eighth, and Ryan McMahon starts at third and will hit ninth. Naturally, expect plenty of right-handed bats to come off the bench against a lefty-heavy Boston staff once Gray's start concludes.\nHow to watch\nLocation: Yankee Stadium – Bronx, NY\nFirst pitch: 8:00 p.m. ET\nTV broadcast: NBC\nRadio broadcast: WFAN 660/101.9 FM, WADO 1280 (NYY) | WEEI 93.7, WCCM 1490 AM (SP), WESX 1230 AM (SP) (BOS) | ESPN Radio (national)\nStreaming: Peacock\nFor updates, follow us on BlueSky, Twitter, and Instagram, and like us on Facebook.\nJoin the conversation!\nSign up for a user account and get:\n- Fewer ads\n- Comment on articles, community posts\n- Rec comments, community posts\n- New, improved notifications system!",
+    "rss_title": "AL Wild Card Series Game 2: Max Fried vs. Sonny Gray",
+    "rss_body": "In the words of a Yankee legend, it was dèja vu all over again in the Bronx last night as Cam Schlittler continued crafting a legend of his own. Just like last season, Schlittler delivered a gem of a performance against the Red Sox in the Wild Card Series, staking New York to a 1-0 series lead and giving them an opportunity to close the affair out early tonight. But unlike last year's three-game set, in which the Yankee offense never fully erupted, the lineup finally achieved escape velocity. Ben Rice and his four hits, two homers, and six RBI, led the charge — but the bottom of the lineup contributed their fair share as well.\nIn other words, the Yankees played the perfect ballgame last night. Max Fried will be tasked with carrying the momentum into Game 2. Fried's second season in pinstripes has been marred by a couple of IL stints limiting him to just 20 starts and 112.2 innings, but when he's been healthy, he's been just as good as in 2025. He'll be pitching on seven days' rest in Game 2 — his last appearance was an up-and-down start against the Rays, in which Tampa clinched the AL East.\nAs far as the recent track record against Boston, Fried has been quite effective. He only faced them twice this season: one was a short start from when he was returning from his latest injury, the other an eight-inning masterpiece in April from before the Red Sox got it together under new manager Chad Tracy. In Game 1 of last year's WCS, he provided 6.1 scoreless innings, scattering four hits three walks while striking out six. The Yankees couldn't hold onto the narrow 1-0 lead he had defended, and sabotaged their own comeback effort after loading the bases with nobody out in the ninth inning. None of that was Max's fault, of course. Provided the lineup supports him, an effort like last year's will be more than enough.\nOld friend Sonny Gray never caught on with the Yankees in 2017 and 2018, but he'll have no choice but to step up under the Yankee Stadium lights with Boston's season on the line. Over his first season with the Red Sox, the steady veteran turned in yet another outstanding season, leading the AL with 18 wins (don't think that doesn't mean anything to him) and pitching to a 2.72 ERA. That's the thing about the Red Sox' pitching: they have lots of exciting youngsters like Payton Tolle, who pitched last night, but they also routinely get the most out of their veteran pitchers too. Gray faced New York twice in June and pitched well both times. The latter outing was his best start of the season by game score — one hit, one walk, nine strikeouts over 7.1 scoreless innings.\nUnsurprisingly, Aaron Boone's lineup for Game 2 is nearly unrecognizable when compared with the Game 1 starting nine. It's a history-making card: according to James Smyth of the YES Network, it's the first time a team has put eight lefty batters — switch hitters not included — in the same lineup in the postseason. The portside octet includes Trent Grisham, who entered late last night for his first action off the IL. Rice will ascend to the leadoff spot, with Cody Bellinger and Luis Garcia Jr. to follow. Spencer Jones hits cleanup and plays right field ahead of George Lombard Jr., the lone righty to get the start. Jazz Chisholm Jr. draws in at the keystone, Grisham bats in the seven-spot after him, Austin Wells will bat eighth, and Ryan McMahon starts at third and will hit ninth. Naturally, expect plenty of right-handed bats to come off the bench against a lefty-heavy Boston staff once Gray's start concludes.\nHow to watch\nLocation: Yankee Stadium – Bronx, NY\nFirst pitch: 8:00 p.m. ET\nTV broadcast: NBC\nRadio broadcast: WFAN 660/101.9 FM, WADO 1280 (NYY) | WEEI 93.7, WCCM 1490 AM (SP), WESX 1230 AM (SP) (BOS) | ESPN Radio (national)\nStreaming: Peacock\nFor updates, follow us on BlueSky, Twitter, and Instagram, and like us on Facebook.\nJoin the conversation!\nSign up for a user account and get:\n- Fewer ads\n- Comment on articles, community posts\n- Rec comments, community posts\n- New, improved notifications system!",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "e2578df47c0b963400be",
+    "title": "Curtis Mead to join Red Sox playoff roster in place of Roman Anthony",
+    "source": "Boston.com",
+    "author": "Conor Ryan",
+    "url": "https://www.boston.com/sports/boston-red-sox/2026/09/30/curtis-mead-boston-red-sox-mlb-baseball-roman-anthony-roster-injury/",
+    "published_iso": "2026-09-30T23:24:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 23:24:00 +0000",
+    "body": "Add Boston.com as your preferred source on Google to see more of our stories.\nWith Roman Anthony’s availability in doubt this postseason, the Red Sox are turning to another slugger to add pop to the lineup.\nThe Red Sox and MLB announced Wednesday evening that Boston completed a playoff roster substitution, with infielder/DH Curtis Mead joining the Red Sox in place of Anthony, who suffered another hand injury during Boston’s Game 1 loss to the Yankees in the Wild Card series.\nIt remains to be seen just how much Mead can offer a Red Sox lineup that was completely befuddled by Cam Schlittler in Game 1.\nMead — acquired by Boston in a one-for-one swap with Connelly Early as part of a trade with the Nationals in July — has not appeared in a game since July 27 after suffering a fractured wrist.\nHe will not be in Boston’s lineup to open a do-or-die Game 2 in the Bronx on Wednesday, but the 25-year-old Mead said that he’ll be ready to contribute if called upon during this series — likely in a pinch-hitting spot in this upcoming bout with the Yankees.\n“I think I feel 100 percent,” Mead told reporters at Yankee Stadium, including MassLive’s Sean McAdam. “I feel like I’m ready however the team needs me. I’m excited to hopefully get the opportunity tonight or tomorrow.”\nDespite Mead’s comments, the Red Sox infielder hasn’t had much of a ramp-up before potentially getting thrown into the middle of a high-stakes playoff game on Wednesday or Thursday.\nMead broke his wrist in his Red Sox debut, taking a fastball near his hand off a check swing in just his second plate appearance with his new team. He couldn’t take part in any rehab games before Boston’s minor-league campaigns wrapped — and only faced live BP earlier this week down in Florida.\n“Obviously, it’s not ideal, right?” Mead told McAdam of his accelerated return to game action. “But I think with the injury to Roman and even Mickey [Gasper] and just some guys being banged up, I feel like in as good a spot if not better than some of those guys. So I definitely feel like I can put together some good at-bats.”\nWith Mead replacing Anthony on Boston’s playoff roster, Anthony will be ineligible to play until at least the ALCS — although it’s unclear if the Red Sox get that far, and whether Anthony will be cleared to play by then.\n“Sore,” Tracy said of Anthony’s status on Wednesday afternoon. “He was sent back last night after leaving the game. We sent him back to Boston for extra, additional imaging which actually revealed some new strains to different muscles in his wrist in addition to exacerbating the old injuries. It’s not great. I know there’s enough there, and enough new stuff there, where [Anthony] is not gonna be able to play.”\nMead might be a wild card this postseason due to that injury and his limited time facing live pitching. But the young slugger was once viewed as a sizable upgrade for Boston’s lineup this summer before his untimely injury.\nMead was in the middle of a breakout season with the Nationals before arriving in Boston in July, with the Australian-born infielder batting .256 with 17 home runs, 48 RBI and an .852 OPS over 87 games in Washington.\nIf the Red Sox do extend their season for at least another game with a win in Game 2, Mead said that he’s not sure if he’ll be called into the lineup for a decisive Game 3 on Thursday.\n“I’m not sure,” Mead told McAdam. “That’s up to [Tracy] and the coaching staff. If they asked if I would be ready, yeah, I would absolutely be ready. I think the goal is to just get through the night and then assess where we’re at tomorrow.\n“Probably two weeks ago, if you had asked if I thought I’d be in this position, the answer would probably be ‘no.’ It’s definitely exciting.”",
+    "tracked_people": [
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Curtis Mead to join Red Sox playoff roster in place of Roman Anthony",
+    "original_body": "Add Boston.com as your preferred source on Google to see more of our stories.\nWith Roman Anthony’s availability in doubt this postseason, the Red Sox are turning to another slugger to add pop to the lineup.\nThe Red Sox and MLB announced Wednesday evening that Boston completed a playoff roster substitution, with infielder/DH Curtis Mead joining the Red Sox in place of Anthony, who suffered another hand injury during Boston’s Game 1 loss to the Yankees in the Wild Card series.\nIt remains to be seen just how much Mead can offer a Red Sox lineup that was completely befuddled by Cam Schlittler in Game 1.\nMead — acquired by Boston in a one-for-one swap with Connelly Early as part of a trade with the Nationals in July — has not appeared in a game since July 27 after suffering a fractured wrist.\nHe will not be in Boston’s lineup to open a do-or-die Game 2 in the Bronx on Wednesday, but the 25-year-old Mead said that he’ll be ready to contribute if called upon during this series — likely in a pinch-hitting spot in this upcoming bout with the Yankees.\n“I think I feel 100 percent,” Mead told reporters at Yankee Stadium, including MassLive’s Sean McAdam. “I feel like I’m ready however the team needs me. I’m excited to hopefully get the opportunity tonight or tomorrow.”\nDespite Mead’s comments, the Red Sox infielder hasn’t had much of a ramp-up before potentially getting thrown into the middle of a high-stakes playoff game on Wednesday or Thursday.\nMead broke his wrist in his Red Sox debut, taking a fastball near his hand off a check swing in just his second plate appearance with his new team. He couldn’t take part in any rehab games before Boston’s minor-league campaigns wrapped — and only faced live BP earlier this week down in Florida.\n“Obviously, it’s not ideal, right?” Mead told McAdam of his accelerated return to game action. “But I think with the injury to Roman and even Mickey [Gasper] and just some guys being banged up, I feel like in as good a spot if not better than some of those guys. So I definitely feel like I can put together some good at-bats.”\nWith Mead replacing Anthony on Boston’s playoff roster, Anthony will be ineligible to play until at least the ALCS — although it’s unclear if the Red Sox get that far, and whether Anthony will be cleared to play by then.\n“Sore,” Tracy said of Anthony’s status on Wednesday afternoon. “He was sent back last night after leaving the game. We sent him back to Boston for extra, additional imaging which actually revealed some new strains to different muscles in his wrist in addition to exacerbating the old injuries. It’s not great. I know there’s enough there, and enough new stuff there, where [Anthony] is not gonna be able to play.”\nMead might be a wild card this postseason due to that injury and his limited time facing live pitching. But the young slugger was once viewed as a sizable upgrade for Boston’s lineup this summer before his untimely injury.\nMead was in the middle of a breakout season with the Nationals before arriving in Boston in July, with the Australian-born infielder batting .256 with 17 home runs, 48 RBI and an .852 OPS over 87 games in Washington.\nIf the Red Sox do extend their season for at least another game with a win in Game 2, Mead said that he’s not sure if he’ll be called into the lineup for a decisive Game 3 on Thursday.\n“I’m not sure,” Mead told McAdam. “That’s up to [Tracy] and the coaching staff. If they asked if I would be ready, yeah, I would absolutely be ready. I think the goal is to just get through the night and then assess where we’re at tomorrow.\n“Probably two weeks ago, if you had asked if I thought I’d be in this position, the answer would probably be ‘no.’ It’s definitely exciting.”",
+    "rss_title": "Curtis Mead to join Red Sox playoff roster in place of Roman Anthony",
+    "rss_body": "Add Boston.com as your preferred source on Google to see more of our stories.\nWith Roman Anthony’s availability in doubt this postseason, the Red Sox are turning to another slugger to add pop to the lineup.\nThe Red Sox and MLB announced Wednesday evening that Boston completed a playoff roster substitution, with infielder/DH Curtis Mead joining the Red Sox in place of Anthony, who suffered another hand injury during Boston’s Game 1 loss to the Yankees in the Wild Card series.\nIt remains to be seen just how much Mead can offer a Red Sox lineup that was completely befuddled by Cam Schlittler in Game 1.\nMead — acquired by Boston in a one-for-one swap with Connelly Early as part of a trade with the Nationals in July — has not appeared in a game since July 27 after suffering a fractured wrist.\nHe will not be in Boston’s lineup to open a do-or-die Game 2 in the Bronx on Wednesday, but the 25-year-old Mead said that he’ll be ready to contribute if called upon during this series — likely in a pinch-hitting spot in this upcoming bout with the Yankees.\n“I think I feel 100 percent,” Mead told reporters at Yankee Stadium, including MassLive’s Sean McAdam. “I feel like I’m ready however the team needs me. I’m excited to hopefully get the opportunity tonight or tomorrow.”\nDespite Mead’s comments, the Red Sox infielder hasn’t had much of a ramp-up before potentially getting thrown into the middle of a high-stakes playoff game on Wednesday or Thursday.\nMead broke his wrist in his Red Sox debut, taking a fastball near his hand off a check swing in just his second plate appearance with his new team. He couldn’t take part in any rehab games before Boston’s minor-league campaigns wrapped — and only faced live BP earlier this week down in Florida.\n“Obviously, it’s not ideal, right?” Mead told McAdam of his accelerated return to game action. “But I think with the injury to Roman and even Mickey [Gasper] and just some guys being banged up, I feel like in as good a spot if not better than some of those guys. So I definitely feel like I can put together some good at-bats.”\nWith Mead replacing Anthony on Boston’s playoff roster, Anthony will be ineligible to play until at least the ALCS — although it’s unclear if the Red Sox get that far, and whether Anthony will be cleared to play by then.\n“Sore,” Tracy said of Anthony’s status on Wednesday afternoon. “He was sent back last night after leaving the game. We sent him back to Boston for extra, additional imaging which actually revealed some new strains to different muscles in his wrist in addition to exacerbating the old injuries. It’s not great. I know there’s enough there, and enough new stuff there, where [Anthony] is not gonna be able to play.”\nMead might be a wild card this postseason due to that injury and his limited time facing live pitching. But the young slugger was once viewed as a sizable upgrade for Boston’s lineup this summer before his untimely injury.\nMead was in the middle of a breakout season with the Nationals before arriving in Boston in July, with the Australian-born infielder batting .256 with 17 home runs, 48 RBI and an .852 OPS over 87 games in Washington.\nIf the Red Sox do extend their season for at least another game with a win in Game 2, Mead said that he’s not sure if he’ll be called into the lineup for a decisive Game 3 on Thursday.\n“I’m not sure,” Mead told McAdam. “That’s up to [Tracy] and the coaching staff. If they asked if I would be ready, yeah, I would absolutely be ready. I think the goal is to just get through the night and then assess where we’re at tomorrow.\n“Probably two weeks ago, if you had asked if I thought I’d be in this position, the answer would probably be ‘no.’ It’s definitely exciting.”",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "2d6127c211c15665cb18",
+    "title": "Anthony 'sick to my stomach' after aggravating hand injury",
+    "source": "mlb.com",
+    "author": "Ian Browne",
+    "url": "https://www.mlb.com/news/roman-anthony-out-for-rest-of-wild-card-series",
+    "published_iso": "2026-09-30T23:15:28+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 23:15:28 +0000",
+    "body": "NEW YORK – The news worsened for Red Sox outfielder/designated hitter Roman Anthony on Wednesday when he was taken off the roster for the remainder of the American League Wild Card Series against the Yankees after imaging back in Boston showed additional strains in his right wrist.\nThe fact that Anthony was taken off the Wild Card Series roster means he would be ineligible to play in the AL Division Series against the Rays, should Boston advance.\n“I feel sick to my stomach. I haven't slept much,” said Anthony. “It doesn't really feel real, to be honest. There's so many different emotions and feelings throughout the course of this rehab process this year that to kind of get to this same news again, and even worse, it's just like, I don't know. It's hard to have an answer to anything right now.”\nMead has turned a corner of late with his hitting progression, recently taking live batting practice. His ramp-up to postseason action was accelerated due to Anthony’s injury, and several others (Mickey Gasper, Masataka Yoshida and Romy Gonzalez) also being unavailable due to health reasons.\n“There are times when you accelerate timelines and compress things,” said Red Sox chief baseball officer Craig Breslow. “You still want to make sure you have the interests of the player and the team in mind. We’re not going to do anything that’s reckless or irresponsible, but medically, Curtis is cleared.”\nLosing Anthony was tough timing for the Red Sox, who took a 9-0 loss in Game 1 of this best-of-three series. Sensing immediately it was more than a minor setback, the team hired a car to drive Anthony back to Boston after the game, and he had imaging taken on Wednesday morning.\n“He is sore,” said Red Sox manager Chad Tracy. “He was sent back last night after leaving the game. Sent him back to Boston for extra, additional imaging, which actually revealed some new strains to different muscles in his wrist, in addition to exacerbating the old [finger] injury. So it's not great.”\nThe sensation Anthony felt in his at-bats in Game 1 was familiar in a nauseating way.\n“Basically the same thing that happened early on in the year in addition to other strains in a few muscles in other areas in the hand. So, to shorten it up, it's the same thing with more added on,” said Anthony. “Yeah. It’s brutal. It’s confusing. There’s a lot of different emotions going on that I don’t know. It’s tough to put into words, and I feel like I grinded all year throughout something to get to where I am right now and to get to play in a game last night. And for that to happen, it’s confusing and it sucks.”\nThe Red Sox were equally confused by the recurrence.\n“As far as I know, the rehab and the return to play was the appropriate one,” said Breslow. “Last night in the game, he did something where things changed, things worsened and we need to take a fresh look at it.”\nOther than feeling occasional “zingers” on swings since his return to action on Aug. 30, Anthony hadn’t felt anything close to the discomfort that took place in Game 1, when he exited the game in the sixth inning after striking out in his first two at-bats.\nThe best-case scenario is that rest and rehab help Anthony recover, and that surgery won’t be necessary.\n“I think we're still trying to figure out exactly what happened and what the prognosis will be,” said Breslow. “It’s still so recent that we’re collecting information, and I'm sure we'll examine all of those things.”\nThe 22-year-old left-handed hitter has had mixed results since returning to action, slashing .262/.321/.476 with four homers and 10 RBIs in his final 103 regular-season at-bats.\n“I’ve been experiencing some things with the swings and check swings over the past six weeks, and last night just felt a little more intense than past swings have and lingered a little bit longer than the ones that I had before, so it was super alarming,” Anthony said. “It got to a point where it was tough to grip a bat, so I knew this was similar to the one earlier on in the year, and that’s why we decided to go get imaging.”\nAnd now, the Red Sox will try to win without Anthony, which they did earlier in the season, most notably during that 32-5 stretch from June 25-Aug. 8. For that to happen, players will have to heat up. Boston’s offense has been cold as a unit for weeks.\n“I think he's a special talent. He's a special guy,” said Breslow. “Right now we're focused on making sure that we put ourselves in a position to win the game tonight and figure out everything that's going on with Roman's wrist. I think to talk beyond that is probably foolish at this point.”",
+    "tracked_people": [
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Masataka Yoshida",
+        "role": "Designated Hitter",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 34,
+        "batch": 2
+      },
+      {
+        "name": "Romy Gonzalez",
+        "role": "Designated Hitter",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 48,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      },
+      {
+        "name": "Craig Breslow",
+        "role": "Chief Baseball Officer",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 50,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Anthony 'sick to my stomach' after aggravating hand injury",
+    "original_body": "NEW YORK – The news worsened for Red Sox outfielder/designated hitter Roman Anthony on Wednesday when he was taken off the roster for the remainder of the American League Wild Card Series against the Yankees after imaging back in Boston showed additional strains in his right wrist.\nThe fact that Anthony was taken off the Wild Card Series roster means he would be ineligible to play in the AL Division Series against the Rays, should Boston advance.\n“I feel sick to my stomach. I haven't slept much,” said Anthony. “It doesn't really feel real, to be honest. There's so many different emotions and feelings throughout the course of this rehab process this year that to kind of get to this same news again, and even worse, it's just like, I don't know. It's hard to have an answer to anything right now.”\nMead has turned a corner of late with his hitting progression, recently taking live batting practice. His ramp-up to postseason action was accelerated due to Anthony’s injury, and several others (Mickey Gasper, Masataka Yoshida and Romy Gonzalez) also being unavailable due to health reasons.\n“There are times when you accelerate timelines and compress things,” said Red Sox chief baseball officer Craig Breslow. “You still want to make sure you have the interests of the player and the team in mind. We’re not going to do anything that’s reckless or irresponsible, but medically, Curtis is cleared.”\nLosing Anthony was tough timing for the Red Sox, who took a 9-0 loss in Game 1 of this best-of-three series. Sensing immediately it was more than a minor setback, the team hired a car to drive Anthony back to Boston after the game, and he had imaging taken on Wednesday morning.\n“He is sore,” said Red Sox manager Chad Tracy. “He was sent back last night after leaving the game. Sent him back to Boston for extra, additional imaging, which actually revealed some new strains to different muscles in his wrist, in addition to exacerbating the old [finger] injury. So it's not great.”\nThe sensation Anthony felt in his at-bats in Game 1 was familiar in a nauseating way.\n“Basically the same thing that happened early on in the year in addition to other strains in a few muscles in other areas in the hand. So, to shorten it up, it's the same thing with more added on,” said Anthony. “Yeah. It’s brutal. It’s confusing. There’s a lot of different emotions going on that I don’t know. It’s tough to put into words, and I feel like I grinded all year throughout something to get to where I am right now and to get to play in a game last night. And for that to happen, it’s confusing and it sucks.”\nThe Red Sox were equally confused by the recurrence.\n“As far as I know, the rehab and the return to play was the appropriate one,” said Breslow. “Last night in the game, he did something where things changed, things worsened and we need to take a fresh look at it.”\nOther than feeling occasional “zingers” on swings since his return to action on Aug. 30, Anthony hadn’t felt anything close to the discomfort that took place in Game 1, when he exited the game in the sixth inning after striking out in his first two at-bats.\nThe best-case scenario is that rest and rehab help Anthony recover, and that surgery won’t be necessary.\n“I think we're still trying to figure out exactly what happened and what the prognosis will be,” said Breslow. “It’s still so recent that we’re collecting information, and I'm sure we'll examine all of those things.”\nThe 22-year-old left-handed hitter has had mixed results since returning to action, slashing .262/.321/.476 with four homers and 10 RBIs in his final 103 regular-season at-bats.\n“I’ve been experiencing some things with the swings and check swings over the past six weeks, and last night just felt a little more intense than past swings have and lingered a little bit longer than the ones that I had before, so it was super alarming,” Anthony said. “It got to a point where it was tough to grip a bat, so I knew this was similar to the one earlier on in the year, and that’s why we decided to go get imaging.”\nAnd now, the Red Sox will try to win without Anthony, which they did earlier in the season, most notably during that 32-5 stretch from June 25-Aug. 8. For that to happen, players will have to heat up. Boston’s offense has been cold as a unit for weeks.\n“I think he's a special talent. He's a special guy,” said Breslow. “Right now we're focused on making sure that we put ourselves in a position to win the game tonight and figure out everything that's going on with Roman's wrist. I think to talk beyond that is probably foolish at this point.”",
+    "rss_title": "Anthony 'sick to my stomach' after aggravating hand injury",
+    "rss_body": "NEW YORK – The news worsened for Red Sox outfielder/designated hitter Roman Anthony on Wednesday when he was taken off the roster for the remainder of the American League Wild Card Series against the Yankees after imaging back in Boston showed additional strains in his right wrist.\nThe fact that Anthony was taken off the Wild Card Series roster means he would be ineligible to play in the AL Division Series against the Rays, should Boston advance.\n“I feel sick to my stomach. I haven't slept much,” said Anthony. “It doesn't really feel real, to be honest. There's so many different emotions and feelings throughout the course of this rehab process this year that to kind of get to this same news again, and even worse, it's just like, I don't know. It's hard to have an answer to anything right now.”\nMead has turned a corner of late with his hitting progression, recently taking live batting practice. His ramp-up to postseason action was accelerated due to Anthony’s injury, and several others (Mickey Gasper, Masataka Yoshida and Romy Gonzalez) also being unavailable due to health reasons.\n“There are times when you accelerate timelines and compress things,” said Red Sox chief baseball officer Craig Breslow. “You still want to make sure you have the interests of the player and the team in mind. We’re not going to do anything that’s reckless or irresponsible, but medically, Curtis is cleared.”\nLosing Anthony was tough timing for the Red Sox, who took a 9-0 loss in Game 1 of this best-of-three series. Sensing immediately it was more than a minor setback, the team hired a car to drive Anthony back to Boston after the game, and he had imaging taken on Wednesday morning.\n“He is sore,” said Red Sox manager Chad Tracy. “He was sent back last night after leaving the game. Sent him back to Boston for extra, additional imaging, which actually revealed some new strains to different muscles in his wrist, in addition to exacerbating the old [finger] injury. So it's not great.”\nThe sensation Anthony felt in his at-bats in Game 1 was familiar in a nauseating way.\n“Basically the same thing that happened early on in the year in addition to other strains in a few muscles in other areas in the hand. So, to shorten it up, it's the same thing with more added on,” said Anthony. “Yeah. It’s brutal. It’s confusing. There’s a lot of different emotions going on that I don’t know. It’s tough to put into words, and I feel like I grinded all year throughout something to get to where I am right now and to get to play in a game last night. And for that to happen, it’s confusing and it sucks.”\nThe Red Sox were equally confused by the recurrence.\n“As far as I know, the rehab and the return to play was the appropriate one,” said Breslow. “Last night in the game, he did something where things changed, things worsened and we need to take a fresh look at it.”\nOther than feeling occasional “zingers” on swings since his return to action on Aug. 30, Anthony hadn’t felt anything close to the discomfort that took place in Game 1, when he exited the game in the sixth inning after striking out in his first two at-bats.\nThe best-case scenario is that rest and rehab help Anthony recover, and that surgery won’t be necessary.\n“I think we're still trying to figure out exactly what happened and what the prognosis will be,” said Breslow. “It’s still so recent that we’re collecting information, and I'm sure we'll examine all of those things.”\nThe 22-year-old left-handed hitter has had mixed results since returning to action, slashing .262/.321/.476 with four homers and 10 RBIs in his final 103 regular-season at-bats.\n“I’ve been experiencing some things with the swings and check swings over the past six weeks, and last night just felt a little more intense than past swings have and lingered a little bit longer than the ones that I had before, so it was super alarming,” Anthony said. “It got to a point where it was tough to grip a bat, so I knew this was similar to the one earlier on in the year, and that’s why we decided to go get imaging.”\nAnd now, the Red Sox will try to win without Anthony, which they did earlier in the season, most notably during that 32-5 stretch from June 25-Aug. 8. For that to happen, players will have to heat up. Boston’s offense has been cold as a unit for weeks.\n“I think he's a special talent. He's a special guy,” said Breslow. “Right now we're focused on making sure that we put ourselves in a position to win the game tonight and figure out everything that's going on with Roman's wrist. I think to talk beyond that is probably foolish at this point.”",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "472e78496441cc108f8e",
+    "title": "Red Sox Quickly Announce Trevor Story Decision After Terrible Loss to Yankees",
+    "source": "heavy.com",
+    "author": "Michael DeRosa",
+    "url": "https://heavy.com/sports/mlb/boston-red-sox/trevor-story-decision-terrible-loss/",
+    "published_iso": "2026-09-30T23:01:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 23:01:00 +0000",
+    "body": "The Boston Red Sox suffered an embarrassing 9-0 loss to the New York Yankees in Game 1 on Tuesday.\nNow, the Red Sox will be looking to keep their season alive by defeating New York in Game 2.\nAs the Red Sox prepare for Game 2 against the Yankees, they have made a lineup decision with Trevor Story.\nTrevor Story Batting Eighth for Red Sox Against the Yankees\nBoston has announced that Story will be their eighth hitter for Game 2 against the Yankees.\nThis will be the third game in a row that Story will be Boston’s eighth hitter. Before this, he batted fourth for the Red Sox during their Sep. 25 matchup against the Chicago Cubs.\nHere is Boston’sfull batting order, as reported by Underdog MLB: J. Jones DH A. Rutschman C W. Contreras 1B W. Abreu RF C. Rafaela CF C. Durbin 3B N. Sogard 2B T. Story SS N. Eaton LF\nRed Sox 9/30\nJ. Jones DH\nA. Rutschman C\nW. Contreras 1B\nW. Abreu RF\nC. Rafaela CF\nC. Durbin 3B\nN. Sogard 2B\nT. Story SS\nN. Eaton LF\nS. Gray SP\n— Underdog MLB (@UnderdogMLB) September 30, 2026\nLooking at Story\nStory went 1-for-3, with a double, for Boston against the Yankees in Game 1 on Tuesday. This was after he did not have a hit in each of his previous four games for the Red Sox.\nNow, Story will be aiming to make an impact as Boston looks to keep their postseason run alive. Story is a key part of Boston’s roster, so it will be intriguing to see if he can come in clutch for them in Game 2.",
+    "tracked_people": [
+      {
+        "name": "Trevor Story",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox Quickly Announce Trevor Story Decision After Terrible Loss to Yankees",
+    "original_body": "The Boston Red Sox suffered an embarrassing 9-0 loss to the New York Yankees in Game 1 on Tuesday.\nNow, the Red Sox will be looking to keep their season alive by defeating New York in Game 2.\nAs the Red Sox prepare for Game 2 against the Yankees, they have made a lineup decision with Trevor Story.\nTrevor Story Batting Eighth for Red Sox Against the Yankees\nBoston has announced that Story will be their eighth hitter for Game 2 against the Yankees.\nThis will be the third game in a row that Story will be Boston’s eighth hitter. Before this, he batted fourth for the Red Sox during their Sep. 25 matchup against the Chicago Cubs.\nHere is Boston’sfull batting order, as reported by Underdog MLB: J. Jones DH A. Rutschman C W. Contreras 1B W. Abreu RF C. Rafaela CF C. Durbin 3B N. Sogard 2B T. Story SS N. Eaton LF\nRed Sox 9/30\nJ. Jones DH\nA. Rutschman C\nW. Contreras 1B\nW. Abreu RF\nC. Rafaela CF\nC. Durbin 3B\nN. Sogard 2B\nT. Story SS\nN. Eaton LF\nS. Gray SP\n— Underdog MLB (@UnderdogMLB) September 30, 2026\nLooking at Story\nStory went 1-for-3, with a double, for Boston against the Yankees in Game 1 on Tuesday. This was after he did not have a hit in each of his previous four games for the Red Sox.\nNow, Story will be aiming to make an impact as Boston looks to keep their postseason run alive. Story is a key part of Boston’s roster, so it will be intriguing to see if he can come in clutch for them in Game 2.",
+    "rss_title": "Red Sox Quickly Announce Trevor Story Decision After Terrible Loss to Yankees",
+    "rss_body": "The Boston Red Sox suffered an embarrassing 9-0 loss to the New York Yankees in Game 1 on Tuesday.\nNow, the Red Sox will be looking to keep their season alive by defeating New York in Game 2.\nAs the Red Sox prepare for Game 2 against the Yankees, they have made a lineup decision with Trevor Story.\nTrevor Story Batting Eighth for Red Sox Against the Yankees\nBoston has announced that Story will be their eighth hitter for Game 2 against the Yankees.\nThis will be the third game in a row that Story will be Boston’s eighth hitter. Before this, he batted fourth for the Red Sox during their Sep. 25 matchup against the Chicago Cubs.\nHere is Boston’sfull batting order, as reported by Underdog MLB: J. Jones DH A. Rutschman C W. Contreras 1B W. Abreu RF C. Rafaela CF C. Durbin 3B N. Sogard 2B T. Story SS N. Eaton LF\nRed Sox 9/30\nJ. Jones DH\nA. Rutschman C\nW. Contreras 1B\nW. Abreu RF\nC. Rafaela CF\nC. Durbin 3B\nN. Sogard 2B\nT. Story SS\nN. Eaton LF\nS. Gray SP\n— Underdog MLB (@UnderdogMLB) September 30, 2026\nLooking at Story\nStory went 1-for-3, with a double, for Boston against the Yankees in Game 1 on Tuesday. This was after he did not have a hit in each of his previous four games for the Red Sox.\nNow, Story will be aiming to make an impact as Boston looks to keep their postseason run alive. Story is a key part of Boston’s roster, so it will be intriguing to see if he can come in clutch for them in Game 2.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "8d7b6effc9da863b8302",
+    "title": "Roman Anthony out of Red Sox lineup for Game 2 of Wild Card Series",
+    "source": "wmur.com",
+    "author": "Mike Cronin",
+    "url": "https://www.wmur.com/article/red-sox-game-2-preview-wild-card-93026/73965043",
+    "published_iso": "2026-09-30T22:45:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 22:45:00 +0000",
+    "body": "Roman Anthony out of Red Sox lineup for Game 2 of Wild Card Series\nThe Red Sox season will rest on the arm of starting pitcher Sonny Gray as the team takes on the New York Yankees on Wednesday in Game 2 of the Wild Card Series.\nThe Sox won't have the services of Roman Anthony, who appeared to reaggravate his hand injury during the team's 9-0 loss in Game 1.\n\"We actually sent him back to Boston last evening to get there so he could be early in the morning and re-image the hand, which shows additional damage to some muscles in his wrist that weren't there before,\" Red Sox manager Chad Tracy said. \"So he's sore and obviously not in the lineup.\"\nAnthony will be replaced on the roster by infielder Curtis Mead, who broke his wrist during his debut with the Red Sox on July 27. Anthony would eligible to return to the lineup for the American League Championship Series.\nThe Sox will have long odds to beat to continue their playoff run. Teams taking a 1-0 lead in a three-game wild-card series have gone on to win that series 21 out of 24 times, 17 times with a sweep.\nHome teams have won all nine series in which they have won the first game.\nOn Tuesday, Yankees starter Cam Schlittler and the rest of the pitching staff held the Sox to just three hits.\nRed Sox starting pitcher Payton Tolle might have been the team's best player, but manager Chad Tracy pulled him in the fifth inning of a 1-run game. Reliever Erik Miller immediately gave up a homer to Dartmouth College graduate Ben Rice, and it was all downhill from there.\nOn Wednesday night, Gray will pitch opposite Yankees starter Max Fried.",
+    "tracked_people": [
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Erik Miller",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Roman Anthony out of Red Sox lineup for Game 2 of Wild Card Series",
+    "original_body": "Roman Anthony out of Red Sox lineup for Game 2 of Wild Card Series\nThe Red Sox season will rest on the arm of starting pitcher Sonny Gray as the team takes on the New York Yankees on Wednesday in Game 2 of the Wild Card Series.\nThe Sox won't have the services of Roman Anthony, who appeared to reaggravate his hand injury during the team's 9-0 loss in Game 1.\n\"We actually sent him back to Boston last evening to get there so he could be early in the morning and re-image the hand, which shows additional damage to some muscles in his wrist that weren't there before,\" Red Sox manager Chad Tracy said. \"So he's sore and obviously not in the lineup.\"\nAnthony will be replaced on the roster by infielder Curtis Mead, who broke his wrist during his debut with the Red Sox on July 27. Anthony would eligible to return to the lineup for the American League Championship Series.\nThe Sox will have long odds to beat to continue their playoff run. Teams taking a 1-0 lead in a three-game wild-card series have gone on to win that series 21 out of 24 times, 17 times with a sweep.\nHome teams have won all nine series in which they have won the first game.\nOn Tuesday, Yankees starter Cam Schlittler and the rest of the pitching staff held the Sox to just three hits.\nRed Sox starting pitcher Payton Tolle might have been the team's best player, but manager Chad Tracy pulled him in the fifth inning of a 1-run game. Reliever Erik Miller immediately gave up a homer to Dartmouth College graduate Ben Rice, and it was all downhill from there.\nOn Wednesday night, Gray will pitch opposite Yankees starter Max Fried.",
+    "rss_title": "Roman Anthony out of Red Sox lineup for Game 2 of Wild Card Series",
+    "rss_body": "Roman Anthony out of Red Sox lineup for Game 2 of Wild Card Series\nThe Red Sox season will rest on the arm of starting pitcher Sonny Gray as the team takes on the New York Yankees on Wednesday in Game 2 of the Wild Card Series.\nThe Sox won't have the services of Roman Anthony, who appeared to reaggravate his hand injury during the team's 9-0 loss in Game 1.\n\"We actually sent him back to Boston last evening to get there so he could be early in the morning and re-image the hand, which shows additional damage to some muscles in his wrist that weren't there before,\" Red Sox manager Chad Tracy said. \"So he's sore and obviously not in the lineup.\"\nAnthony will be replaced on the roster by infielder Curtis Mead, who broke his wrist during his debut with the Red Sox on July 27. Anthony would eligible to return to the lineup for the American League Championship Series.\nThe Sox will have long odds to beat to continue their playoff run. Teams taking a 1-0 lead in a three-game wild-card series have gone on to win that series 21 out of 24 times, 17 times with a sweep.\nHome teams have won all nine series in which they have won the first game.\nOn Tuesday, Yankees starter Cam Schlittler and the rest of the pitching staff held the Sox to just three hits.\nRed Sox starting pitcher Payton Tolle might have been the team's best player, but manager Chad Tracy pulled him in the fifth inning of a 1-run game. Reliever Erik Miller immediately gave up a homer to Dartmouth College graduate Ben Rice, and it was all downhill from there.\nOn Wednesday night, Gray will pitch opposite Yankees starter Max Fried.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "3036657a23c9264ad75a",
+    "title": "Roman Anthony removed from Red Sox Wild Card roster with hand injury",
+    "source": "CBS News",
+    "author": "",
+    "url": "https://www.cbsnews.com/boston/news/roman-anthony-hand-injury-red-sox-yankees-wild-card/",
+    "published_iso": "2026-09-30T22:33:31+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 22:33:31 +0000",
+    "body": "Roman Anthony is out for the foreseeable future and is no longer on the Wild Card roster after he left with a right hand injury Tuesday night.\nBatting leadoff as the Red Sox designated hitter in his playoff debut, Anthony struck out in both of his at-bats against before getting lifted for a pinch hitter with his team trailing 2-0 in the sixth inning. New York took a 1-0 lead in the best-of-three series with a 9-0 victory.\nManager Chad Tracy said Anthony felt discomfort in his right hand after a couple of checked swings. The 22-year-old Anthony missed 101 games from May 5 to Aug. 29 with an injury to the same hand. Tracy said it doesn't appear the latest injury is necessarily related, as it involves muscles in the wrist.\n\"After I came back, the hand was never really fully 100%, kind of as you would expect,\" Anthony told reporters on Wednesday. \"Last night just felt a little more intense, little bit more harsh than past swings have and lingered a little bit longer than the ones I was used to had. So it just was super alarming and got to the point where it was tough to grip a bat.\"\nThe manager said that after the game, Anthony returned to Boston for imaging on his hand, which found \"additional damage to some muscles in his wrist that weren't there before.\"\nAnthony is not in Wednesday night's lineup, when the Red Sox must win to extend their season. Jahmai Jones is leading off at DH in Anthony's absence.\nWednesday night, the team announced that infielder Curtis Mead replaced Anthony on the Wild Card roster. That means that if the Red Sox advance to the ALDS, Anthony would be out for that round as well.\nOne of baseball's premier prospects when he arrived in the majors last year, Anthony batted .245 with five home runs, 15 RBIs and a .735 OPS in 55 regular-season games this season.\n\"He's a really good player. Certainly not something we wanted to happen and having him in there is important. But can't reiterate enough, we've dealt with things like this all year. But the show goes on, you've got to play tonight and be able to win a ballgame,\" Tracy said.\nThe manager added that it is not yet known if Anthony will need surgery.\nSonny Gray is on the mound for the Red Sox in Game 2, which is scheduled to start at 8:15 p.m.",
+    "tracked_people": [
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Roman Anthony removed from Red Sox Wild Card roster with hand injury",
+    "original_body": "Roman Anthony is out for the foreseeable future and is no longer on the Wild Card roster after he left with a right hand injury Tuesday night.\nBatting leadoff as the Red Sox designated hitter in his playoff debut, Anthony struck out in both of his at-bats against before getting lifted for a pinch hitter with his team trailing 2-0 in the sixth inning. New York took a 1-0 lead in the best-of-three series with a 9-0 victory.\nManager Chad Tracy said Anthony felt discomfort in his right hand after a couple of checked swings. The 22-year-old Anthony missed 101 games from May 5 to Aug. 29 with an injury to the same hand. Tracy said it doesn't appear the latest injury is necessarily related, as it involves muscles in the wrist.\n\"After I came back, the hand was never really fully 100%, kind of as you would expect,\" Anthony told reporters on Wednesday. \"Last night just felt a little more intense, little bit more harsh than past swings have and lingered a little bit longer than the ones I was used to had. So it just was super alarming and got to the point where it was tough to grip a bat.\"\nThe manager said that after the game, Anthony returned to Boston for imaging on his hand, which found \"additional damage to some muscles in his wrist that weren't there before.\"\nAnthony is not in Wednesday night's lineup, when the Red Sox must win to extend their season. Jahmai Jones is leading off at DH in Anthony's absence.\nWednesday night, the team announced that infielder Curtis Mead replaced Anthony on the Wild Card roster. That means that if the Red Sox advance to the ALDS, Anthony would be out for that round as well.\nOne of baseball's premier prospects when he arrived in the majors last year, Anthony batted .245 with five home runs, 15 RBIs and a .735 OPS in 55 regular-season games this season.\n\"He's a really good player. Certainly not something we wanted to happen and having him in there is important. But can't reiterate enough, we've dealt with things like this all year. But the show goes on, you've got to play tonight and be able to win a ballgame,\" Tracy said.\nThe manager added that it is not yet known if Anthony will need surgery.\nSonny Gray is on the mound for the Red Sox in Game 2, which is scheduled to start at 8:15 p.m.",
+    "rss_title": "Roman Anthony removed from Red Sox Wild Card roster with hand injury",
+    "rss_body": "Roman Anthony is out for the foreseeable future and is no longer on the Wild Card roster after he left with a right hand injury Tuesday night.\nBatting leadoff as the Red Sox designated hitter in his playoff debut, Anthony struck out in both of his at-bats against before getting lifted for a pinch hitter with his team trailing 2-0 in the sixth inning. New York took a 1-0 lead in the best-of-three series with a 9-0 victory.\nManager Chad Tracy said Anthony felt discomfort in his right hand after a couple of checked swings. The 22-year-old Anthony missed 101 games from May 5 to Aug. 29 with an injury to the same hand. Tracy said it doesn't appear the latest injury is necessarily related, as it involves muscles in the wrist.\n\"After I came back, the hand was never really fully 100%, kind of as you would expect,\" Anthony told reporters on Wednesday. \"Last night just felt a little more intense, little bit more harsh than past swings have and lingered a little bit longer than the ones I was used to had. So it just was super alarming and got to the point where it was tough to grip a bat.\"\nThe manager said that after the game, Anthony returned to Boston for imaging on his hand, which found \"additional damage to some muscles in his wrist that weren't there before.\"\nAnthony is not in Wednesday night's lineup, when the Red Sox must win to extend their season. Jahmai Jones is leading off at DH in Anthony's absence.\nWednesday night, the team announced that infielder Curtis Mead replaced Anthony on the Wild Card roster. That means that if the Red Sox advance to the ALDS, Anthony would be out for that round as well.\nOne of baseball's premier prospects when he arrived in the majors last year, Anthony batted .245 with five home runs, 15 RBIs and a .735 OPS in 55 regular-season games this season.\n\"He's a really good player. Certainly not something we wanted to happen and having him in there is important. But can't reiterate enough, we've dealt with things like this all year. But the show goes on, you've got to play tonight and be able to win a ballgame,\" Tracy said.\nThe manager added that it is not yet known if Anthony will need surgery.\nSonny Gray is on the mound for the Red Sox in Game 2, which is scheduled to start at 8:15 p.m.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "fc2ee821393e809d9e65",
+    "title": "Why Red Sox Added Curtis Mead to Playoff Roster for Game 2 of Wild Card Series vs. Yankees | NESN",
+    "source": "NESN",
+    "author": "Daniel Yanofsky",
+    "url": "https://nesn.com/boston-red-sox/news/why-red-sox-added-curtis-mead-playoff-roster-game-2-wild-card-yankees/72c2327e90903338868b6913",
+    "published_iso": "2026-09-30T22:31:48+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 22:31:48 +0000",
+    "body": "For the first time since July, Curtis Mead will put on a Red Sox uniform. The team hopes his hot hitting returns tonight during Game 2 of the Wild Card series against the Yankees.\nMead, a righty, replaces Roman Anthony on the roster.\nThis move comes after Anthony left Boston’s Game 1 loss on Tuesday after experiencing right-hand discomfort. Anthony missed nearly four months this season due to a partially torn ligament on his right ring finger.\nIt’s a massive opportunity for Mead, looking to help tie the series after the Yankees decimated the Red Sox in Game 1.\nWednesday will be Mead’s first time on the Red Sox roster since being placed on the IL in July. After being traded to Boston from the Nationals, Mead was hit on his left wrist in his second plate appearance in a Red Sox uniform and sustained a fracture.\nMead called the process “challenging” (per MassLive) a few weeks ago, but remained optimistic he could play. He’s available off the bench and could pinch hit, per manager Chad Tracy.\nMead was in the middle of a career season, posting 17 home runs and 48 RBIs and slashing 254/.352/.500 with an .852 OPS before being traded. His contract has him with the Red Sox through 2030.",
+    "tracked_people": [
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Why Red Sox Added Curtis Mead to Playoff Roster for Game 2 of Wild Card Series vs. Yankees | NESN",
+    "original_body": "For the first time since July, Curtis Mead will put on a Red Sox uniform. The team hopes his hot hitting returns tonight during Game 2 of the Wild Card series against the Yankees.\nMead, a righty, replaces Roman Anthony on the roster.\nThis move comes after Anthony left Boston’s Game 1 loss on Tuesday after experiencing right-hand discomfort. Anthony missed nearly four months this season due to a partially torn ligament on his right ring finger.\nIt’s a massive opportunity for Mead, looking to help tie the series after the Yankees decimated the Red Sox in Game 1.\nWednesday will be Mead’s first time on the Red Sox roster since being placed on the IL in July. After being traded to Boston from the Nationals, Mead was hit on his left wrist in his second plate appearance in a Red Sox uniform and sustained a fracture.\nMead called the process “challenging” (per MassLive) a few weeks ago, but remained optimistic he could play. He’s available off the bench and could pinch hit, per manager Chad Tracy.\nMead was in the middle of a career season, posting 17 home runs and 48 RBIs and slashing 254/.352/.500 with an .852 OPS before being traded. His contract has him with the Red Sox through 2030.",
+    "rss_title": "Why Red Sox Added Curtis Mead to Playoff Roster for Game 2 of Wild Card Series vs. Yankees | NESN",
+    "rss_body": "For the first time since July, Curtis Mead will put on a Red Sox uniform. The team hopes his hot hitting returns tonight during Game 2 of the Wild Card series against the Yankees.\nMead, a righty, replaces Roman Anthony on the roster.\nThis move comes after Anthony left Boston’s Game 1 loss on Tuesday after experiencing right-hand discomfort. Anthony missed nearly four months this season due to a partially torn ligament on his right ring finger.\nIt’s a massive opportunity for Mead, looking to help tie the series after the Yankees decimated the Red Sox in Game 1.\nWednesday will be Mead’s first time on the Red Sox roster since being placed on the IL in July. After being traded to Boston from the Nationals, Mead was hit on his left wrist in his second plate appearance in a Red Sox uniform and sustained a fracture.\nMead called the process “challenging” (per MassLive) a few weeks ago, but remained optimistic he could play. He’s available off the bench and could pinch hit, per manager Chad Tracy.\nMead was in the middle of a career season, posting 17 home runs and 48 RBIs and slashing 254/.352/.500 with an .852 OPS before being traded. His contract has him with the Red Sox through 2030.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "e12ea522b48331824799",
+    "title": "Boston Red Sox Announce Sudden Jarren Duran Change",
+    "source": "heavy.com",
+    "author": "Ben Stinar",
+    "url": "https://heavy.com/sports/mlb/boston-red-sox/jarren-duran-change-playoffs/",
+    "published_iso": "2026-09-30T22:23:50+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 22:23:50 +0000",
+    "body": "On Wednesday, the Boston Red Sox will continue their series with the New York Yankees in the Bronx.\nThe Red Sox are on the verge of elimination after losing by a score of 9-0 on Tuesday.\nJarren Duran finished the loss with one walk and one strikeout.\nRed Sox Announce Duran Change\nFor Wednesday’s game, the Red Sox have announced their starting lineup.\nUnderdog MLB wrote: “Red Sox 9/30 J. Jones DH A. Rutschman C W. Contreras 1B W. Abreu RF C. Rafaela CF C. Durbin 3B N. Sogard 2B T. Story SS N. Eaton LF S. Gray SP”\nDuran has been removed from the lineup on Wednesday.\nHe finished the 2026 regular season batting .207 with 114 hits, 20 home runs, 69 RBIs, 66 runs and 21 stolen bases in 151 games.\nThe 30-year-old is in the middle of his 6th season at the MLB level (all with Boston).\nSocial Media Reacts To Lineup For Game 2\nHere’s what people were saying about the team’s lineup:\n@RedSoxDoug: “See ya in 2027 ✌️”\n@ha1ft1me: “No Roman Anthony in today’s lineup. All but confirms his 2026 campaign is over. A huge blow for the Red Sox playoff hopes.”\n@aarons333: “I’d probably just play Duran and hope for the best. Sometimes just throw the numbers out and go with highest upside.”\n@goinglimbs: “JAHMAI JONES RED SOX NATION TURNS ITS LONELY EYES TO YOU”\n@ifeeltherutsch: “please just give us hope and send it to game 3 at least”\nLooking At The Red Sox\nThe Red Sox finished the regular season as the third-place team in the American League East with an 87-75 record.\nLast year, they lost to the Yankees in the Wild Card series (in three games).",
+    "tracked_people": [
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Boston Red Sox Announce Sudden Jarren Duran Change",
+    "original_body": "On Wednesday, the Boston Red Sox will continue their series with the New York Yankees in the Bronx.\nThe Red Sox are on the verge of elimination after losing by a score of 9-0 on Tuesday.\nJarren Duran finished the loss with one walk and one strikeout.\nRed Sox Announce Duran Change\nFor Wednesday’s game, the Red Sox have announced their starting lineup.\nUnderdog MLB wrote: “Red Sox 9/30 J. Jones DH A. Rutschman C W. Contreras 1B W. Abreu RF C. Rafaela CF C. Durbin 3B N. Sogard 2B T. Story SS N. Eaton LF S. Gray SP”\nDuran has been removed from the lineup on Wednesday.\nHe finished the 2026 regular season batting .207 with 114 hits, 20 home runs, 69 RBIs, 66 runs and 21 stolen bases in 151 games.\nThe 30-year-old is in the middle of his 6th season at the MLB level (all with Boston).\nSocial Media Reacts To Lineup For Game 2\nHere’s what people were saying about the team’s lineup:\n@RedSoxDoug: “See ya in 2027 ✌️”\n@ha1ft1me: “No Roman Anthony in today’s lineup. All but confirms his 2026 campaign is over. A huge blow for the Red Sox playoff hopes.”\n@aarons333: “I’d probably just play Duran and hope for the best. Sometimes just throw the numbers out and go with highest upside.”\n@goinglimbs: “JAHMAI JONES RED SOX NATION TURNS ITS LONELY EYES TO YOU”\n@ifeeltherutsch: “please just give us hope and send it to game 3 at least”\nLooking At The Red Sox\nThe Red Sox finished the regular season as the third-place team in the American League East with an 87-75 record.\nLast year, they lost to the Yankees in the Wild Card series (in three games).",
+    "rss_title": "Boston Red Sox Announce Sudden Jarren Duran Change",
+    "rss_body": "On Wednesday, the Boston Red Sox will continue their series with the New York Yankees in the Bronx.\nThe Red Sox are on the verge of elimination after losing by a score of 9-0 on Tuesday.\nJarren Duran finished the loss with one walk and one strikeout.\nRed Sox Announce Duran Change\nFor Wednesday’s game, the Red Sox have announced their starting lineup.\nUnderdog MLB wrote: “Red Sox 9/30 J. Jones DH A. Rutschman C W. Contreras 1B W. Abreu RF C. Rafaela CF C. Durbin 3B N. Sogard 2B T. Story SS N. Eaton LF S. Gray SP”\nDuran has been removed from the lineup on Wednesday.\nHe finished the 2026 regular season batting .207 with 114 hits, 20 home runs, 69 RBIs, 66 runs and 21 stolen bases in 151 games.\nThe 30-year-old is in the middle of his 6th season at the MLB level (all with Boston).\nSocial Media Reacts To Lineup For Game 2\nHere’s what people were saying about the team’s lineup:\n@RedSoxDoug: “See ya in 2027 ✌️”\n@ha1ft1me: “No Roman Anthony in today’s lineup. All but confirms his 2026 campaign is over. A huge blow for the Red Sox playoff hopes.”\n@aarons333: “I’d probably just play Duran and hope for the best. Sometimes just throw the numbers out and go with highest upside.”\n@goinglimbs: “JAHMAI JONES RED SOX NATION TURNS ITS LONELY EYES TO YOU”\n@ifeeltherutsch: “please just give us hope and send it to game 3 at least”\nLooking At The Red Sox\nThe Red Sox finished the regular season as the third-place team in the American League East with an 87-75 record.\nLast year, they lost to the Yankees in the Wild Card series (in three games).",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "fea64666e3c95029547c",
+    "title": "JAY DUNN: From the Phillie Phanatic to Fireworks to the Hot Pants Patrol, Bill Giles wanted to entertain",
+    "source": "trentonian.com",
+    "author": "Jay Dunn",
+    "url": "https://www.trentonian.com/2026/09/30/jay-dunn-from-the-phillie-phanatic-to-fireworks-to-the-hot-pants-patrol-bill-giles-wanted-to-entertain/",
+    "published_iso": "2026-09-30T22:15:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 22:15:00 +0000",
+    "body": "Bill Giles died last week and every obituary I saw focused on the Phillie Phanatic. Giles is best remembered as the Phillies executive who, in 1978, oversaw the introduction of the sports world’s most famous mascot.\nBut the obituaries shouldn’t have stopped there.\nGiles was the one who once hired a circus performer to walk a tight rope that was strung from one foul pole to the other.\nGiles is the one who introduced “Kiteman” and promised that on Opening Day he would fly from centerfield to home plate with the season’s first ball. He sputtered twice before getting it right the third time.\nGiles is the one who made Independence Day fireworks spectacles an annual tradition. Not only did each show sell out the ballpark, but it created traffic jams all around the park as people without tickets jockeyed for vantage points.\nGiles first came to Philadelphia in 1969. He was assigned to change the team’s tattered image and that was a formidable job.\nThe team was due to move into a new ballpark and Giles sought to make everything else new as well. He introduced new uniforms and brought a new broadcaster (Harry Kalas) as well. He hired an organist who could not only entertain the crowd but enliven it as well.\nAnd there was the Hot Pants Patrol.\nYes, you read that right. The new stadium’s ushers were usherettes, and they were clad in uniforms that included short shorts. Giles even made ballgirls out of a few of them and stationed one down each foul line.\nThe introduction of The Phanatic was probably his most significant accomplishment, but he refused to take any of the credit for it.\n“The costume,” he said, “is 25 percent of it. The other 75 percent is the man inside the costume.”\nDavid Raymond was that man. He was working as an intern in the ticket office when he agreed to climb into the Phanatic suit. His father was the head football coach at the University of Delaware, but his mother was probably the one who had the greatest influence on his career as an entertainer. She was deaf, so Raymond had grown up practicing non-verbal communications — exactly what was needed for The Phanatic’s hi-jinx. He became a national sensation almost overnight.\nIn a perfect world Giles would have basked in the glory and ridden off into the sunset, but that’s not what happened.\nGiles’ father, Warren Giles, had been a successful general manager in Cincinnati, building pennant winners in 1939 and 1940. His son yearned to do the same and in 1981 he got the opportunity. He put together an ownership group that purchased the Phillies. He names himself the general manager.\nAt best the results were mixed.\nAlmost immediately he made a horrible five-for-one trade that fizzled badly. Eight months later he fired his manager even though the club was in first place at the time.\nSome aging free agents carried the team to a pennant in 1983, but everything went downhill very quickly after that. Before long the other members of his ownership group grew restless and relieved him of any meaningful authority.\nThe saga deserves a happy ending, but there is none.\nLike an old soldier, Bill Giles just faded away.\n***\nI’ve been lucky enough to visit Grand Teuton National Park more than once. I’ve breathed the mountain air. I’ve climbed to the top of Inspiration Point. I’ve fished for brown trout and dined on the harvest. After dark I’ve enjoyed staring at the Milky Way. I think it’s an excellent place to enjoy the outdoors.\nNow I read that somebody has suggested that a baseball stadium should be built there.\nAll I can say is somebody must be out of his cotton-pickin’ mind.\n2026 BY THE NUMBERS: Colson Montgomery of the White Sox struck out 227 times, which is a record. His final whiff came when he swung at a pitch that hit him … Pete Alonso of the Orioles led the AL in RBIs with 113. In so doing he became the first player ever to lead both leagues in that statistic … Bryson Stott of the Phillies was originally ruled out on a stolen base attempt on Sunday, but the call was reversed after an appeal. Because of that Stott finished the season 27-for-27 on thefts … Jake McCarthy of the Rockies hit six triples in September. He finished with 13, which was second in the majors … Mackenzie Gore of the Rangers was the only pitcher to make 34 starts. He finished with an 8-11 record … The NL compiled a 384-336 edge in interleague play …The Yankees were 4-11 in extra-inning games and 17-22 in games decided by one run … Mason Fluharty of the Blue Jays appeared in 83 games as a pitcher. He produced a 7-1 record with one save … Diamondbacks catcher Gabriel Moreno went 16-for-40 in his final 10 games and became the first catcher since Buster Posey to win the NL batting crown … The Padres were 51-30 at home, but 40-41 on the road … Anthony Kay of the White Sox hit 26 batters in 158 innings. No other pitcher hit more than 17 … Eight players appeared in every one of their team’s games, but Matt Olson of the Braves is the only one to start every game and play in the field every time … Chandler Simpson of the Rays had 153 singles, which is 14 more than anyone else … Geraldo Perdomo of the Diamondbacks finished with nine sacrifice bunts and eight sacrifice flies. He was among the top 10 in the majors in both categories … Wilyer Abreu of the Red Sox led AL outfielders in assists with 13. He also led in errors with nine … Nasim Nunez of the Nationals batted only .209. but led the majors in stolen bases with 49 … Derek Hill of the Phillies and Michael Conforto of the Cubs each hit four pinch homers … Alec Burleson of the Cardinals batted .279 overall. but with runners in scoring position he hit .358. No wonder he led the majors in RBIs … Kevin Kelly of the Rays and Tyler Rogers of the Blue Jays each recorded 33 holds … Opposing batters hit .236 against Yankees pitching. Four teams posted better figures, but none of those four qualified for the postseason.\nFormer Hall of Fame voter Jay Dunn has written baseball for The Trentonian for 58 years. Contact him at jaydunn8@aol.com",
+    "tracked_people": [
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "JAY DUNN: From the Phillie Phanatic to Fireworks to the Hot Pants Patrol, Bill Giles wanted to entertain",
+    "original_body": "Bill Giles died last week and every obituary I saw focused on the Phillie Phanatic. Giles is best remembered as the Phillies executive who, in 1978, oversaw the introduction of the sports world’s most famous mascot.\nBut the obituaries shouldn’t have stopped there.\nGiles was the one who once hired a circus performer to walk a tight rope that was strung from one foul pole to the other.\nGiles is the one who introduced “Kiteman” and promised that on Opening Day he would fly from centerfield to home plate with the season’s first ball. He sputtered twice before getting it right the third time.\nGiles is the one who made Independence Day fireworks spectacles an annual tradition. Not only did each show sell out the ballpark, but it created traffic jams all around the park as people without tickets jockeyed for vantage points.\nGiles first came to Philadelphia in 1969. He was assigned to change the team’s tattered image and that was a formidable job.\nThe team was due to move into a new ballpark and Giles sought to make everything else new as well. He introduced new uniforms and brought a new broadcaster (Harry Kalas) as well. He hired an organist who could not only entertain the crowd but enliven it as well.\nAnd there was the Hot Pants Patrol.\nYes, you read that right. The new stadium’s ushers were usherettes, and they were clad in uniforms that included short shorts. Giles even made ballgirls out of a few of them and stationed one down each foul line.\nThe introduction of The Phanatic was probably his most significant accomplishment, but he refused to take any of the credit for it.\n“The costume,” he said, “is 25 percent of it. The other 75 percent is the man inside the costume.”\nDavid Raymond was that man. He was working as an intern in the ticket office when he agreed to climb into the Phanatic suit. His father was the head football coach at the University of Delaware, but his mother was probably the one who had the greatest influence on his career as an entertainer. She was deaf, so Raymond had grown up practicing non-verbal communications — exactly what was needed for The Phanatic’s hi-jinx. He became a national sensation almost overnight.\nIn a perfect world Giles would have basked in the glory and ridden off into the sunset, but that’s not what happened.\nGiles’ father, Warren Giles, had been a successful general manager in Cincinnati, building pennant winners in 1939 and 1940. His son yearned to do the same and in 1981 he got the opportunity. He put together an ownership group that purchased the Phillies. He names himself the general manager.\nAt best the results were mixed.\nAlmost immediately he made a horrible five-for-one trade that fizzled badly. Eight months later he fired his manager even though the club was in first place at the time.\nSome aging free agents carried the team to a pennant in 1983, but everything went downhill very quickly after that. Before long the other members of his ownership group grew restless and relieved him of any meaningful authority.\nThe saga deserves a happy ending, but there is none.\nLike an old soldier, Bill Giles just faded away.\n***\nI’ve been lucky enough to visit Grand Teuton National Park more than once. I’ve breathed the mountain air. I’ve climbed to the top of Inspiration Point. I’ve fished for brown trout and dined on the harvest. After dark I’ve enjoyed staring at the Milky Way. I think it’s an excellent place to enjoy the outdoors.\nNow I read that somebody has suggested that a baseball stadium should be built there.\nAll I can say is somebody must be out of his cotton-pickin’ mind.\n2026 BY THE NUMBERS: Colson Montgomery of the White Sox struck out 227 times, which is a record. His final whiff came when he swung at a pitch that hit him … Pete Alonso of the Orioles led the AL in RBIs with 113. In so doing he became the first player ever to lead both leagues in that statistic … Bryson Stott of the Phillies was originally ruled out on a stolen base attempt on Sunday, but the call was reversed after an appeal. Because of that Stott finished the season 27-for-27 on thefts … Jake McCarthy of the Rockies hit six triples in September. He finished with 13, which was second in the majors … Mackenzie Gore of the Rangers was the only pitcher to make 34 starts. He finished with an 8-11 record … The NL compiled a 384-336 edge in interleague play …The Yankees were 4-11 in extra-inning games and 17-22 in games decided by one run … Mason Fluharty of the Blue Jays appeared in 83 games as a pitcher. He produced a 7-1 record with one save … Diamondbacks catcher Gabriel Moreno went 16-for-40 in his final 10 games and became the first catcher since Buster Posey to win the NL batting crown … The Padres were 51-30 at home, but 40-41 on the road … Anthony Kay of the White Sox hit 26 batters in 158 innings. No other pitcher hit more than 17 … Eight players appeared in every one of their team’s games, but Matt Olson of the Braves is the only one to start every game and play in the field every time … Chandler Simpson of the Rays had 153 singles, which is 14 more than anyone else … Geraldo Perdomo of the Diamondbacks finished with nine sacrifice bunts and eight sacrifice flies. He was among the top 10 in the majors in both categories … Wilyer Abreu of the Red Sox led AL outfielders in assists with 13. He also led in errors with nine … Nasim Nunez of the Nationals batted only .209. but led the majors in stolen bases with 49 … Derek Hill of the Phillies and Michael Conforto of the Cubs each hit four pinch homers … Alec Burleson of the Cardinals batted .279 overall. but with runners in scoring position he hit .358. No wonder he led the majors in RBIs … Kevin Kelly of the Rays and Tyler Rogers of the Blue Jays each recorded 33 holds … Opposing batters hit .236 against Yankees pitching. Four teams posted better figures, but none of those four qualified for the postseason.\nFormer Hall of Fame voter Jay Dunn has written baseball for The Trentonian for 58 years. Contact him at jaydunn8@aol.com",
+    "rss_title": "JAY DUNN: From the Phillie Phanatic to Fireworks to the Hot Pants Patrol, Bill Giles wanted to entertain",
+    "rss_body": "Bill Giles died last week and every obituary I saw focused on the Phillie Phanatic. Giles is best remembered as the Phillies executive who, in 1978, oversaw the introduction of the sports world’s most famous mascot.\nBut the obituaries shouldn’t have stopped there.\nGiles was the one who once hired a circus performer to walk a tight rope that was strung from one foul pole to the other.\nGiles is the one who introduced “Kiteman” and promised that on Opening Day he would fly from centerfield to home plate with the season’s first ball. He sputtered twice before getting it right the third time.\nGiles is the one who made Independence Day fireworks spectacles an annual tradition. Not only did each show sell out the ballpark, but it created traffic jams all around the park as people without tickets jockeyed for vantage points.\nGiles first came to Philadelphia in 1969. He was assigned to change the team’s tattered image and that was a formidable job.\nThe team was due to move into a new ballpark and Giles sought to make everything else new as well. He introduced new uniforms and brought a new broadcaster (Harry Kalas) as well. He hired an organist who could not only entertain the crowd but enliven it as well.\nAnd there was the Hot Pants Patrol.\nYes, you read that right. The new stadium’s ushers were usherettes, and they were clad in uniforms that included short shorts. Giles even made ballgirls out of a few of them and stationed one down each foul line.\nThe introduction of The Phanatic was probably his most significant accomplishment, but he refused to take any of the credit for it.\n“The costume,” he said, “is 25 percent of it. The other 75 percent is the man inside the costume.”\nDavid Raymond was that man. He was working as an intern in the ticket office when he agreed to climb into the Phanatic suit. His father was the head football coach at the University of Delaware, but his mother was probably the one who had the greatest influence on his career as an entertainer. She was deaf, so Raymond had grown up practicing non-verbal communications — exactly what was needed for The Phanatic’s hi-jinx. He became a national sensation almost overnight.\nIn a perfect world Giles would have basked in the glory and ridden off into the sunset, but that’s not what happened.\nGiles’ father, Warren Giles, had been a successful general manager in Cincinnati, building pennant winners in 1939 and 1940. His son yearned to do the same and in 1981 he got the opportunity. He put together an ownership group that purchased the Phillies. He names himself the general manager.\nAt best the results were mixed.\nAlmost immediately he made a horrible five-for-one trade that fizzled badly. Eight months later he fired his manager even though the club was in first place at the time.\nSome aging free agents carried the team to a pennant in 1983, but everything went downhill very quickly after that. Before long the other members of his ownership group grew restless and relieved him of any meaningful authority.\nThe saga deserves a happy ending, but there is none.\nLike an old soldier, Bill Giles just faded away.\n***\nI’ve been lucky enough to visit Grand Teuton National Park more than once. I’ve breathed the mountain air. I’ve climbed to the top of Inspiration Point. I’ve fished for brown trout and dined on the harvest. After dark I’ve enjoyed staring at the Milky Way. I think it’s an excellent place to enjoy the outdoors.\nNow I read that somebody has suggested that a baseball stadium should be built there.\nAll I can say is somebody must be out of his cotton-pickin’ mind.\n2026 BY THE NUMBERS: Colson Montgomery of the White Sox struck out 227 times, which is a record. His final whiff came when he swung at a pitch that hit him … Pete Alonso of the Orioles led the AL in RBIs with 113. In so doing he became the first player ever to lead both leagues in that statistic … Bryson Stott of the Phillies was originally ruled out on a stolen base attempt on Sunday, but the call was reversed after an appeal. Because of that Stott finished the season 27-for-27 on thefts … Jake McCarthy of the Rockies hit six triples in September. He finished with 13, which was second in the majors … Mackenzie Gore of the Rangers was the only pitcher to make 34 starts. He finished with an 8-11 record … The NL compiled a 384-336 edge in interleague play …The Yankees were 4-11 in extra-inning games and 17-22 in games decided by one run … Mason Fluharty of the Blue Jays appeared in 83 games as a pitcher. He produced a 7-1 record with one save … Diamondbacks catcher Gabriel Moreno went 16-for-40 in his final 10 games and became the first catcher since Buster Posey to win the NL batting crown … The Padres were 51-30 at home, but 40-41 on the road … Anthony Kay of the White Sox hit 26 batters in 158 innings. No other pitcher hit more than 17 … Eight players appeared in every one of their team’s games, but Matt Olson of the Braves is the only one to start every game and play in the field every time … Chandler Simpson of the Rays had 153 singles, which is 14 more than anyone else … Geraldo Perdomo of the Diamondbacks finished with nine sacrifice bunts and eight sacrifice flies. He was among the top 10 in the majors in both categories … Wilyer Abreu of the Red Sox led AL outfielders in assists with 13. He also led in errors with nine … Nasim Nunez of the Nationals batted only .209. but led the majors in stolen bases with 49 … Derek Hill of the Phillies and Michael Conforto of the Cubs each hit four pinch homers … Alec Burleson of the Cardinals batted .279 overall. but with runners in scoring position he hit .358. No wonder he led the majors in RBIs … Kevin Kelly of the Rays and Tyler Rogers of the Blue Jays each recorded 33 holds … Opposing batters hit .236 against Yankees pitching. Four teams posted better figures, but none of those four qualified for the postseason.\nFormer Hall of Fame voter Jay Dunn has written baseball for The Trentonian for 58 years. Contact him at jaydunn8@aol.com",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "b69585e4069224fef7d5",
+    "title": "Red Sox banking on Curtis Mead continuing Nationals breakout as Roman Anthony Wild Card replacement",
+    "source": "BoSox Injection",
+    "author": "Brian Burrows",
+    "url": "https://bosoxinjection.com/red-sox-banking-on-curtis-mead-continuing-nationals-breakout-as-roman-anthony-wild-card-replacement",
+    "published_iso": "2026-09-30T22:10:07+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 22:10:07 +0000",
+    "body": "Once again, the Boston Red Sox will be without Roman Anthony for the playoffs. After being removed from the game in the sixth inning of Game 1 against the New York Yankees, the Red Sox sent him back to Boston overnight for more imaging on the hand he injured earlier in the season. The results showed aggravation of his precious injury, as well as new strains in his wrist.\nReports from the Red Sox today said that this injury will keep Anthony out for the foreseeable future. The Red Sox officially removed Anthony from the playoff roster, meaning he is done for the Wild Card and division series, at least. If he is healthy, he could be added to the ALCS roster if Boston makes it.\nBecause Anthony was removed due to an injury, the Red Sox are allowed to replace him on the roster. Speculation early in the day was between two players, and ultimately, the Sox chose Curtis Mead.\nRed Sox hope Curtis Mead continues early season breakout to keep them alive against Yankees\nThe Red Sox acquired Mead a week before the trade deadline, sending back a highly touted young pitcher, Connelly Early. Mead was in the midst of a breakout season when Boston acquired him. After bouncing around a few franchises, he settled in with the Washington Nationals this season.\nMead batted .254 with an .852 OPS in 87 games with the Nationals. He logged 17 doubles, 17 home runs, and 48 RBI. He had an almost 12% walk rate with a strikeout rate under 20%; he was one of just 22 hitters with more than 300 at-bats to do that this season. While some were wary that the infielder's breakout wasn't sustainable, his underlying metrics suggested what was happening was real.\nThe 25-year-old was supposed to add major pop to the Sox lineup. Unfortunately, just two at-bats into his Red Sox career, he was hit on the wrist with a pitch, causing a fracture. The injury cost him the rest of the regular season. Most of Red Sox Nation assumed it was going to be a \"see you next year\" scenario, but he worked his way back to health, and now the team is calling on him to step in for Anthony.\nMead has not been substituted into the lineup for Game 2 of the Wild Card, and according to MassLive's Chris Cotillo the Red Sox aren't expected to add him. Although he's not in the starting nine, it's very likely Red Sox Nation will see him pinch hit in the win-or-go-home game.",
+    "tracked_people": [
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox banking on Curtis Mead continuing Nationals breakout as Roman Anthony Wild Card replacement",
+    "original_body": "Once again, the Boston Red Sox will be without Roman Anthony for the playoffs. After being removed from the game in the sixth inning of Game 1 against the New York Yankees, the Red Sox sent him back to Boston overnight for more imaging on the hand he injured earlier in the season. The results showed aggravation of his precious injury, as well as new strains in his wrist.\nReports from the Red Sox today said that this injury will keep Anthony out for the foreseeable future. The Red Sox officially removed Anthony from the playoff roster, meaning he is done for the Wild Card and division series, at least. If he is healthy, he could be added to the ALCS roster if Boston makes it.\nBecause Anthony was removed due to an injury, the Red Sox are allowed to replace him on the roster. Speculation early in the day was between two players, and ultimately, the Sox chose Curtis Mead.\nRed Sox hope Curtis Mead continues early season breakout to keep them alive against Yankees\nThe Red Sox acquired Mead a week before the trade deadline, sending back a highly touted young pitcher, Connelly Early. Mead was in the midst of a breakout season when Boston acquired him. After bouncing around a few franchises, he settled in with the Washington Nationals this season.\nMead batted .254 with an .852 OPS in 87 games with the Nationals. He logged 17 doubles, 17 home runs, and 48 RBI. He had an almost 12% walk rate with a strikeout rate under 20%; he was one of just 22 hitters with more than 300 at-bats to do that this season. While some were wary that the infielder's breakout wasn't sustainable, his underlying metrics suggested what was happening was real.\nThe 25-year-old was supposed to add major pop to the Sox lineup. Unfortunately, just two at-bats into his Red Sox career, he was hit on the wrist with a pitch, causing a fracture. The injury cost him the rest of the regular season. Most of Red Sox Nation assumed it was going to be a \"see you next year\" scenario, but he worked his way back to health, and now the team is calling on him to step in for Anthony.\nMead has not been substituted into the lineup for Game 2 of the Wild Card, and according to MassLive's Chris Cotillo the Red Sox aren't expected to add him. Although he's not in the starting nine, it's very likely Red Sox Nation will see him pinch hit in the win-or-go-home game.",
+    "rss_title": "Red Sox banking on Curtis Mead continuing Nationals breakout as Roman Anthony Wild Card replacement",
+    "rss_body": "Once again, the Boston Red Sox will be without Roman Anthony for the playoffs. After being removed from the game in the sixth inning of Game 1 against the New York Yankees, the Red Sox sent him back to Boston overnight for more imaging on the hand he injured earlier in the season. The results showed aggravation of his precious injury, as well as new strains in his wrist.\nReports from the Red Sox today said that this injury will keep Anthony out for the foreseeable future. The Red Sox officially removed Anthony from the playoff roster, meaning he is done for the Wild Card and division series, at least. If he is healthy, he could be added to the ALCS roster if Boston makes it.\nBecause Anthony was removed due to an injury, the Red Sox are allowed to replace him on the roster. Speculation early in the day was between two players, and ultimately, the Sox chose Curtis Mead.\nRed Sox hope Curtis Mead continues early season breakout to keep them alive against Yankees\nThe Red Sox acquired Mead a week before the trade deadline, sending back a highly touted young pitcher, Connelly Early. Mead was in the midst of a breakout season when Boston acquired him. After bouncing around a few franchises, he settled in with the Washington Nationals this season.\nMead batted .254 with an .852 OPS in 87 games with the Nationals. He logged 17 doubles, 17 home runs, and 48 RBI. He had an almost 12% walk rate with a strikeout rate under 20%; he was one of just 22 hitters with more than 300 at-bats to do that this season. While some were wary that the infielder's breakout wasn't sustainable, his underlying metrics suggested what was happening was real.\nThe 25-year-old was supposed to add major pop to the Sox lineup. Unfortunately, just two at-bats into his Red Sox career, he was hit on the wrist with a pitch, causing a fracture. The injury cost him the rest of the regular season. Most of Red Sox Nation assumed it was going to be a \"see you next year\" scenario, but he worked his way back to health, and now the team is calling on him to step in for Anthony.\nMead has not been substituted into the lineup for Game 2 of the Wild Card, and according to MassLive's Chris Cotillo the Red Sox aren't expected to add him. Although he's not in the starting nine, it's very likely Red Sox Nation will see him pinch hit in the win-or-go-home game.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "1b92de7f06440da8e9fa",
+    "title": "Red Sox removing Roman Anthony from postseason roster due to recurring injury",
+    "source": "Boston Herald",
+    "author": "Gabrielle Starr",
+    "url": "https://www.bostonherald.com/2026/09/30/red-sox-roman-anthony-injury-update-hand-chad-tracy-wild-card-roster-curtis-mead-mlb-postseason-wild-card-yankees-news/",
+    "published_iso": "2026-09-30T22:09:06+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 22:09:06 +0000",
+    "body": "NEW YORK – The 2026 Red Sox season could come to an end on Wednesday night, but Roman Anthony’s year is already officially over.\nThe 22-year-old outfielder/designated hitter was not in the Red Sox lineup for Game 2 of the Wild Card round, and will be replaced on the roster by infielder Curtis Mead.\nAnthony not only reaggravated the right hand injury that sidelined him for over three months of the regular season, but sustained new muscular damage in his wrist, manager Chad Tracy announced pregame.\n“(Imaging) showed additional damage to some muscles in his wrist that weren’t there before,” Tracy said.\nTuesday’s series-opener was Anthony’s first career postseason game, as he missed last year’s Wild Card round at Yankee Stadium due to an oblique strain in early September of his rookie year. But his Game 1 as leadoff man and DH lasted all of two at-bats, both strikeouts, before Andruw Monasterio pinch-hit for him in the top of the sixth.\nAnthony was not made available to the press in the visitors’ clubhouse following Tuesday night’s 9-0 Game 1 loss, and Red Sox media relations said he had already departed Yankee Stadium. Tracy explained Wednesday that they sent Anthony to Boston for testing after the previous night’s game, but that he was already on his way back to New York to be with the team for Game 2.\n“He’s upset; mentally, going through it,” Tracy said of his conversations with Anthony. “It was grinding on him, for sure. He’s upset. He wants to be out there with the guys, and obviously, everything he’s gone through this year, dealing with all these different things, it’s been tough for him.”\nTracy did not have many concrete answers on next steps, after receiving the news “just midday” on Wednesday. The Sox skipper said he did not know yet if surgery is necessary, or who would replace Anthony on the roster. Speedy minor league outfielder Braiden Ward would have been a likely candidate, as he was originally with the Red Sox when they arrived in New York, but Tracy said Ward was no longer on-site.\n“I just know that the imaging shows more than what was originally there,” Tracy said. “We’re trying to replace him, we have paperwork in on that (to the league office), but it’s enough there that we’re not going to have him.”\nAn hour later, MLB communications announced the approval of Mead as Anthony’s roster replacement.\nThere’s an element of brutal irony to this swap. Anthony’s hand sidelined him between May 5 and Aug. 29, and Mead has not played since suffering a wrist fracture on a hit-by-pitch in his second at-bat after the Red Sox acquired him from the Washington Nationals in late July.\nBut the Red Sox did not have time to dwell on any of it. Wednesday is win-or-go-home.\n“Can’t reiterate enough, we’ve dealt with things like this all year,” Tracy said, “and show goes on.”",
+    "tracked_people": [
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox removing Roman Anthony from postseason roster due to recurring injury",
+    "original_body": "NEW YORK – The 2026 Red Sox season could come to an end on Wednesday night, but Roman Anthony’s year is already officially over.\nThe 22-year-old outfielder/designated hitter was not in the Red Sox lineup for Game 2 of the Wild Card round, and will be replaced on the roster by infielder Curtis Mead.\nAnthony not only reaggravated the right hand injury that sidelined him for over three months of the regular season, but sustained new muscular damage in his wrist, manager Chad Tracy announced pregame.\n“(Imaging) showed additional damage to some muscles in his wrist that weren’t there before,” Tracy said.\nTuesday’s series-opener was Anthony’s first career postseason game, as he missed last year’s Wild Card round at Yankee Stadium due to an oblique strain in early September of his rookie year. But his Game 1 as leadoff man and DH lasted all of two at-bats, both strikeouts, before Andruw Monasterio pinch-hit for him in the top of the sixth.\nAnthony was not made available to the press in the visitors’ clubhouse following Tuesday night’s 9-0 Game 1 loss, and Red Sox media relations said he had already departed Yankee Stadium. Tracy explained Wednesday that they sent Anthony to Boston for testing after the previous night’s game, but that he was already on his way back to New York to be with the team for Game 2.\n“He’s upset; mentally, going through it,” Tracy said of his conversations with Anthony. “It was grinding on him, for sure. He’s upset. He wants to be out there with the guys, and obviously, everything he’s gone through this year, dealing with all these different things, it’s been tough for him.”\nTracy did not have many concrete answers on next steps, after receiving the news “just midday” on Wednesday. The Sox skipper said he did not know yet if surgery is necessary, or who would replace Anthony on the roster. Speedy minor league outfielder Braiden Ward would have been a likely candidate, as he was originally with the Red Sox when they arrived in New York, but Tracy said Ward was no longer on-site.\n“I just know that the imaging shows more than what was originally there,” Tracy said. “We’re trying to replace him, we have paperwork in on that (to the league office), but it’s enough there that we’re not going to have him.”\nAn hour later, MLB communications announced the approval of Mead as Anthony’s roster replacement.\nThere’s an element of brutal irony to this swap. Anthony’s hand sidelined him between May 5 and Aug. 29, and Mead has not played since suffering a wrist fracture on a hit-by-pitch in his second at-bat after the Red Sox acquired him from the Washington Nationals in late July.\nBut the Red Sox did not have time to dwell on any of it. Wednesday is win-or-go-home.\n“Can’t reiterate enough, we’ve dealt with things like this all year,” Tracy said, “and show goes on.”",
+    "rss_title": "Red Sox removing Roman Anthony from postseason roster due to recurring injury",
+    "rss_body": "NEW YORK – The 2026 Red Sox season could come to an end on Wednesday night, but Roman Anthony’s year is already officially over.\nThe 22-year-old outfielder/designated hitter was not in the Red Sox lineup for Game 2 of the Wild Card round, and will be replaced on the roster by infielder Curtis Mead.\nAnthony not only reaggravated the right hand injury that sidelined him for over three months of the regular season, but sustained new muscular damage in his wrist, manager Chad Tracy announced pregame.\n“(Imaging) showed additional damage to some muscles in his wrist that weren’t there before,” Tracy said.\nTuesday’s series-opener was Anthony’s first career postseason game, as he missed last year’s Wild Card round at Yankee Stadium due to an oblique strain in early September of his rookie year. But his Game 1 as leadoff man and DH lasted all of two at-bats, both strikeouts, before Andruw Monasterio pinch-hit for him in the top of the sixth.\nAnthony was not made available to the press in the visitors’ clubhouse following Tuesday night’s 9-0 Game 1 loss, and Red Sox media relations said he had already departed Yankee Stadium. Tracy explained Wednesday that they sent Anthony to Boston for testing after the previous night’s game, but that he was already on his way back to New York to be with the team for Game 2.\n“He’s upset; mentally, going through it,” Tracy said of his conversations with Anthony. “It was grinding on him, for sure. He’s upset. He wants to be out there with the guys, and obviously, everything he’s gone through this year, dealing with all these different things, it’s been tough for him.”\nTracy did not have many concrete answers on next steps, after receiving the news “just midday” on Wednesday. The Sox skipper said he did not know yet if surgery is necessary, or who would replace Anthony on the roster. Speedy minor league outfielder Braiden Ward would have been a likely candidate, as he was originally with the Red Sox when they arrived in New York, but Tracy said Ward was no longer on-site.\n“I just know that the imaging shows more than what was originally there,” Tracy said. “We’re trying to replace him, we have paperwork in on that (to the league office), but it’s enough there that we’re not going to have him.”\nAn hour later, MLB communications announced the approval of Mead as Anthony’s roster replacement.\nThere’s an element of brutal irony to this swap. Anthony’s hand sidelined him between May 5 and Aug. 29, and Mead has not played since suffering a wrist fracture on a hit-by-pitch in his second at-bat after the Red Sox acquired him from the Washington Nationals in late July.\nBut the Red Sox did not have time to dwell on any of it. Wednesday is win-or-go-home.\n“Can’t reiterate enough, we’ve dealt with things like this all year,” Tracy said, “and show goes on.”",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "b05f7309dcd13efd7356",
+    "title": "Ranger Suarez talks starting Game 3 of Wild Card | 30/09/2026",
+    "source": "MLB.com",
+    "author": "",
+    "url": "https://www.mlb.com/es/redsox/video/ranger-suarez-talks-starting-game-3-of-wild-card",
+    "published_iso": "2026-09-30T22:03:02+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 22:03:02 +0000",
+    "body": "Ranger Suarez talks starting Game 3 of Wild Card\nRed Sox @ Yankees\n30 de septiembre de 2026 | 00:01:06\nRanger Suarez discusses trying to enjoy the moment while having confidence, needing to force a Game 3 of the American Wild Card Series and more while addressing the media",
+    "tracked_people": [
+      {
+        "name": "Ranger Suárez",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "México Español",
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Ranger Suarez talks starting Game 3 of Wild Card | 30/09/2026",
+    "original_body": "Ranger Suarez talks starting Game 3 of Wild Card\nRed Sox @ Yankees\n30 de septiembre de 2026 | 00:01:06\nRanger Suarez discusses trying to enjoy the moment while having confidence, needing to force a Game 3 of the American Wild Card Series and more while addressing the media",
+    "rss_title": "Ranger Suarez talks starting Game 3 of Wild Card | 30/09/2026",
+    "rss_body": "Ranger Suarez talks starting Game 3 of Wild Card\nRed Sox @ Yankees\n30 de septiembre de 2026 | 00:01:06\nRanger Suarez discusses trying to enjoy the moment while having confidence, needing to force a Game 3 of the American Wild Card Series and more while addressing the media",
+    "translation_status": "fallback_original",
+    "alternate_sources": [
+      {
+        "source": "mlb.com",
+        "url": "https://www.mlb.com/redsox/video/ranger-suarez-talks-starting-game-3-of-wild-card",
+        "title": "Ranger Suarez talks starting Game 3 of Wild Card | 09/30/2026",
+        "body_characters": 267
+      }
+    ]
+  },
+  {
+    "id": "2f19ad7d0dbe65fc0069",
+    "title": "Red Sox must hope Sonny Gray justifies their choice with Ranger Suarez's playoff pedigree looming",
+    "source": "BoSox Injection",
+    "author": "Brian Burrows",
+    "url": "https://bosoxinjection.com/red-sox-must-hope-sonny-gray-justifies-their-choice-with-ranger-suarez-s-playoff-pedigree-looming",
+    "published_iso": "2026-09-30T22:00:50+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 22:00:50 +0000",
+    "body": "It's do-or-die for the Boston Red Sox in Game 2 of the Wild Card series. Game 1 was a disaster — while Payton Tolle was able to hold the New York Yankees to one run in his 4 ⅔ innings, it really didn't matter because the offense couldn't get anything going the entire game.\nThey now head into Game 2 with one thing in mind: put runs on the board. The offense will need to find something against Max Fried, and they are going to need the pitching staff to keep them in the game as best it can. Sonny Gray will take the bump for the Sox in the pivotal matchup, but he may be the wrong choice.\nOver the offseason, the Red Sox made two big pitching acquisitions: Gray and Ranger Suarez. Gray was a veteran who was essentially in the last year of his deal, meant to be a mid-rotation arm. Suarez was meant to be the No. 2 behind Garrett Crochet, and his playoff excellence was supposed to help after what the Red Sox starters struggled (besides Crochet) in the Wild Card last year.\nRecency bias is influencing the Red Sox's starter decision for Game 2 of the Wild Card\nSuarez is one of the best playoff pitchers in baseball ever. His 1.48 ERA in the postseason is the sixth-lowest for any pitcher with 40 or more playoff innings pitched. He has held hitters to a .201 batting average while striking out over nine per nine innings. His numbers in the regular season are great, but the selling point was what he could do in October.\nNow, of course, the regular season played a part in the decision to start Gray in Game 2. The righty was dominant all year and could finish in the top five in Cy Young voting. Gray had a 2.72 ERA this season over 169 innings. It's hard not to guarantee a pitcher who performed so well in the regular season a start in the postseason when he was so influential in getting the team there. But Suarez is on the team for this exact moment.\nIn a win-or-go-home scenario, it's hard not to hand the ball to the pitcher who slows his heartbeat in the playoffs. If the Sox can win this game, it will be great to have Suarez pitching Game 3, but the Red Sox need to keep themselves in the game. Gray could be the one to do it, but the track record says Suarez is the better choice.",
+    "tracked_people": [
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Ranger Suárez",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Garrett Crochet",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 39,
+        "batch": 2
+      },
+      {
+        "name": "Cy Young",
+        "role": "Legend / Hall of Famer",
+        "status": "Franchise Legacy",
+        "type": "legend",
+        "id": 59,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox must hope Sonny Gray justifies their choice with Ranger Suarez's playoff pedigree looming",
+    "original_body": "It's do-or-die for the Boston Red Sox in Game 2 of the Wild Card series. Game 1 was a disaster — while Payton Tolle was able to hold the New York Yankees to one run in his 4 ⅔ innings, it really didn't matter because the offense couldn't get anything going the entire game.\nThey now head into Game 2 with one thing in mind: put runs on the board. The offense will need to find something against Max Fried, and they are going to need the pitching staff to keep them in the game as best it can. Sonny Gray will take the bump for the Sox in the pivotal matchup, but he may be the wrong choice.\nOver the offseason, the Red Sox made two big pitching acquisitions: Gray and Ranger Suarez. Gray was a veteran who was essentially in the last year of his deal, meant to be a mid-rotation arm. Suarez was meant to be the No. 2 behind Garrett Crochet, and his playoff excellence was supposed to help after what the Red Sox starters struggled (besides Crochet) in the Wild Card last year.\nRecency bias is influencing the Red Sox's starter decision for Game 2 of the Wild Card\nSuarez is one of the best playoff pitchers in baseball ever. His 1.48 ERA in the postseason is the sixth-lowest for any pitcher with 40 or more playoff innings pitched. He has held hitters to a .201 batting average while striking out over nine per nine innings. His numbers in the regular season are great, but the selling point was what he could do in October.\nNow, of course, the regular season played a part in the decision to start Gray in Game 2. The righty was dominant all year and could finish in the top five in Cy Young voting. Gray had a 2.72 ERA this season over 169 innings. It's hard not to guarantee a pitcher who performed so well in the regular season a start in the postseason when he was so influential in getting the team there. But Suarez is on the team for this exact moment.\nIn a win-or-go-home scenario, it's hard not to hand the ball to the pitcher who slows his heartbeat in the playoffs. If the Sox can win this game, it will be great to have Suarez pitching Game 3, but the Red Sox need to keep themselves in the game. Gray could be the one to do it, but the track record says Suarez is the better choice.",
+    "rss_title": "Red Sox must hope Sonny Gray justifies their choice with Ranger Suarez's playoff pedigree looming",
+    "rss_body": "It's do-or-die for the Boston Red Sox in Game 2 of the Wild Card series. Game 1 was a disaster — while Payton Tolle was able to hold the New York Yankees to one run in his 4 ⅔ innings, it really didn't matter because the offense couldn't get anything going the entire game.\nThey now head into Game 2 with one thing in mind: put runs on the board. The offense will need to find something against Max Fried, and they are going to need the pitching staff to keep them in the game as best it can. Sonny Gray will take the bump for the Sox in the pivotal matchup, but he may be the wrong choice.\nOver the offseason, the Red Sox made two big pitching acquisitions: Gray and Ranger Suarez. Gray was a veteran who was essentially in the last year of his deal, meant to be a mid-rotation arm. Suarez was meant to be the No. 2 behind Garrett Crochet, and his playoff excellence was supposed to help after what the Red Sox starters struggled (besides Crochet) in the Wild Card last year.\nRecency bias is influencing the Red Sox's starter decision for Game 2 of the Wild Card\nSuarez is one of the best playoff pitchers in baseball ever. His 1.48 ERA in the postseason is the sixth-lowest for any pitcher with 40 or more playoff innings pitched. He has held hitters to a .201 batting average while striking out over nine per nine innings. His numbers in the regular season are great, but the selling point was what he could do in October.\nNow, of course, the regular season played a part in the decision to start Gray in Game 2. The righty was dominant all year and could finish in the top five in Cy Young voting. Gray had a 2.72 ERA this season over 169 innings. It's hard not to guarantee a pitcher who performed so well in the regular season a start in the postseason when he was so influential in getting the team there. But Suarez is on the team for this exact moment.\nIn a win-or-go-home scenario, it's hard not to hand the ball to the pitcher who slows his heartbeat in the playoffs. If the Sox can win this game, it will be great to have Suarez pitching Game 3, but the Red Sox need to keep themselves in the game. Gray could be the one to do it, but the track record says Suarez is the better choice.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "82fa2b9845a4f1455f5a",
+    "title": "Is Roman Anthony playing tonight? Red Sox injury report with star OF banged up again",
+    "source": "fansided.com",
+    "author": "Zachary Rotman",
+    "url": "https://fansided.com/mlb/is-roman-anthony-playing-tonight-red-sox-injury-report-with-star-of-banged-up-again",
+    "published_iso": "2026-09-30T22:00:00+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 22:00:00 +0000",
+    "body": "Lost amid the embarrassing madness of Tuesday's Wild Card series opener between the Boston Red Sox and the New York Yankees was Roman Anthony being pinch-hit for midway through the game, seemingly out of nowhere. After the game, it was revealed by manager Chad Tracy that Anthony had re-aggravated the wrist injury that had kept him out for more than three months during the regular season — and that his Game 2 status was up in the air.\nWell, Boston's Game 2 lineup is out, and it's safe to say the fan base won't like it, with Anthony on the bench.\nIs Roman Anthony playing tonight? Red Sox's lineup gives answer\nHere's a look at Boston's Anthony-less lineup against Yankees left-hander Max Fried.\n| Player | Position | \n|---|---|\n| 1. Jahmai Jones | DH | \n| 2. Adley Rutschman | C | \n| 3. Willson Contreras | 1B | \n| 4. Wilyer Abreu | RF | \n| 5. Ceddanne Rafaela | CF | \n| 6. Caleb Durbin | 3B | \n| 7. Nick Sogard | 2B | \n| 8. Trevor Story | SS | \n| 9. Nate Eaton | LF | \nYeah, the Red Sox are going to miss Anthony dearly. Sure, there's the makings of a decent lineup here. Jahmai Jones has done nothing but crush lefties since the Red Sox acquired him. Adley Rutschman and Willson Contreras are proven stars. Wilyer Abreu has broken out against left-handers this season, in particular. Ceddanne Rafaela is having his best offensive year. Still, there's no replacing Anthony.\nHe only appeared in 55 regular-season games and didn't look great in his two at-bats on Tuesday, but nobody in Boston's organization has a higher ceiling than Anthony. Being without him makes the already daunting challenge of rebounding from an 0-1 deficit in the best-of-three series that much more difficult.\nRed Sox's growing injury report makes it tougher to believe in dream run\nWhat makes Anthony's injury that much more difficult is that he's far from the only one. The Red Sox have a slew of notables on the IL, and that's making achieving their ultimate gol tough to believe in.\n| Player | Position | Injury | Return | \n|---|---|---|---|\n| Mickey Gasper | C/INF | Right biceps strain | 2027 | \n| Tyron Guerrero | RHP | Right shoulder strain | 2027 | \n| Eli White | INF/OF | Ligament damage in right foot | 2027 | \n| Curtis Mead | INF | Left wrist fracture | Postseason or 2027 | \n| Kutter Crawford | RHP | Right flexor irritation | 2027 | \n| Johan Oviedo | RHP | Right flexor strain | Postseason or 2027 | \n| Anthony Siegler | INF | Right wrist discomfort | Postseason or 2027 | \n| Justin Slaten | RHP | Right elbow inflammation | 2027 | \n| Masataka Yoshida | DH | Left hamstring strain | Postseason or 2027 | \n| Triston Casas | 1B | Left abdominal strain | 2027 | \nThe list is lengthy and littered with quality talent. Lineup-wise, the Red Sox sure could use Mickey Gasper, who was one of their hottest hitters before suffering his injury, right about now. They could also use Curtis Mead, a player who crushes left-handed pitching. Even Masataka Yoshida's bat would really come in handy with Anthony out.\nPitching-wise, Boston's depth has taken a hit. Tyron Guerrero and Justin Slaten are two of the most important members of their bullpen, and perhaps they would've been able to keep the game closer on Tuesday had they been healthy. Guys like Kutter Crawford and Johan Oviedo are proven back-end starters who could've eaten innings this October.\nPerhaps the Red Sox can get Mead and a few others back if they can get past the Yankees, but with Anthony now joining the laundry list of injured players, it's getting tough to believe in them making a comeback.",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Trevor Story",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Nick Sogard",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 8,
+        "batch": 1
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Nate Eaton",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Eli White",
+        "role": "Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 33,
+        "batch": 2
+      },
+      {
+        "name": "Masataka Yoshida",
+        "role": "Designated Hitter",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 34,
+        "batch": 2
+      },
+      {
+        "name": "Tyron Guerrero",
+        "role": "Pitcher",
+        "status": "15-day Injured List",
+        "type": "player",
+        "id": 35,
+        "batch": 2
+      },
+      {
+        "name": "Justin Slaten",
+        "role": "Pitcher",
+        "status": "15-day Injured List",
+        "type": "player",
+        "id": 36,
+        "batch": 2
+      },
+      {
+        "name": "Triston Casas",
+        "role": "Infielder",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 37,
+        "batch": 2
+      },
+      {
+        "name": "Kutter Crawford",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 38,
+        "batch": 2
+      },
+      {
+        "name": "Johan Oviedo",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 42,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Is Roman Anthony playing tonight? Red Sox injury report with star OF banged up again",
+    "original_body": "Lost amid the embarrassing madness of Tuesday's Wild Card series opener between the Boston Red Sox and the New York Yankees was Roman Anthony being pinch-hit for midway through the game, seemingly out of nowhere. After the game, it was revealed by manager Chad Tracy that Anthony had re-aggravated the wrist injury that had kept him out for more than three months during the regular season — and that his Game 2 status was up in the air.\nWell, Boston's Game 2 lineup is out, and it's safe to say the fan base won't like it, with Anthony on the bench.\nIs Roman Anthony playing tonight? Red Sox's lineup gives answer\nHere's a look at Boston's Anthony-less lineup against Yankees left-hander Max Fried.\n| Player | Position | \n|---|---|\n| 1. Jahmai Jones | DH | \n| 2. Adley Rutschman | C | \n| 3. Willson Contreras | 1B | \n| 4. Wilyer Abreu | RF | \n| 5. Ceddanne Rafaela | CF | \n| 6. Caleb Durbin | 3B | \n| 7. Nick Sogard | 2B | \n| 8. Trevor Story | SS | \n| 9. Nate Eaton | LF | \nYeah, the Red Sox are going to miss Anthony dearly. Sure, there's the makings of a decent lineup here. Jahmai Jones has done nothing but crush lefties since the Red Sox acquired him. Adley Rutschman and Willson Contreras are proven stars. Wilyer Abreu has broken out against left-handers this season, in particular. Ceddanne Rafaela is having his best offensive year. Still, there's no replacing Anthony.\nHe only appeared in 55 regular-season games and didn't look great in his two at-bats on Tuesday, but nobody in Boston's organization has a higher ceiling than Anthony. Being without him makes the already daunting challenge of rebounding from an 0-1 deficit in the best-of-three series that much more difficult.\nRed Sox's growing injury report makes it tougher to believe in dream run\nWhat makes Anthony's injury that much more difficult is that he's far from the only one. The Red Sox have a slew of notables on the IL, and that's making achieving their ultimate gol tough to believe in.\n| Player | Position | Injury | Return | \n|---|---|---|---|\n| Mickey Gasper | C/INF | Right biceps strain | 2027 | \n| Tyron Guerrero | RHP | Right shoulder strain | 2027 | \n| Eli White | INF/OF | Ligament damage in right foot | 2027 | \n| Curtis Mead | INF | Left wrist fracture | Postseason or 2027 | \n| Kutter Crawford | RHP | Right flexor irritation | 2027 | \n| Johan Oviedo | RHP | Right flexor strain | Postseason or 2027 | \n| Anthony Siegler | INF | Right wrist discomfort | Postseason or 2027 | \n| Justin Slaten | RHP | Right elbow inflammation | 2027 | \n| Masataka Yoshida | DH | Left hamstring strain | Postseason or 2027 | \n| Triston Casas | 1B | Left abdominal strain | 2027 | \nThe list is lengthy and littered with quality talent. Lineup-wise, the Red Sox sure could use Mickey Gasper, who was one of their hottest hitters before suffering his injury, right about now. They could also use Curtis Mead, a player who crushes left-handed pitching. Even Masataka Yoshida's bat would really come in handy with Anthony out.\nPitching-wise, Boston's depth has taken a hit. Tyron Guerrero and Justin Slaten are two of the most important members of their bullpen, and perhaps they would've been able to keep the game closer on Tuesday had they been healthy. Guys like Kutter Crawford and Johan Oviedo are proven back-end starters who could've eaten innings this October.\nPerhaps the Red Sox can get Mead and a few others back if they can get past the Yankees, but with Anthony now joining the laundry list of injured players, it's getting tough to believe in them making a comeback.",
+    "rss_title": "Is Roman Anthony playing tonight? Red Sox injury report with star OF banged up again",
+    "rss_body": "Lost amid the embarrassing madness of Tuesday's Wild Card series opener between the Boston Red Sox and the New York Yankees was Roman Anthony being pinch-hit for midway through the game, seemingly out of nowhere. After the game, it was revealed by manager Chad Tracy that Anthony had re-aggravated the wrist injury that had kept him out for more than three months during the regular season — and that his Game 2 status was up in the air.\nWell, Boston's Game 2 lineup is out, and it's safe to say the fan base won't like it, with Anthony on the bench.\nIs Roman Anthony playing tonight? Red Sox's lineup gives answer\nHere's a look at Boston's Anthony-less lineup against Yankees left-hander Max Fried.\n| Player | Position | \n|---|---|\n| 1. Jahmai Jones | DH | \n| 2. Adley Rutschman | C | \n| 3. Willson Contreras | 1B | \n| 4. Wilyer Abreu | RF | \n| 5. Ceddanne Rafaela | CF | \n| 6. Caleb Durbin | 3B | \n| 7. Nick Sogard | 2B | \n| 8. Trevor Story | SS | \n| 9. Nate Eaton | LF | \nYeah, the Red Sox are going to miss Anthony dearly. Sure, there's the makings of a decent lineup here. Jahmai Jones has done nothing but crush lefties since the Red Sox acquired him. Adley Rutschman and Willson Contreras are proven stars. Wilyer Abreu has broken out against left-handers this season, in particular. Ceddanne Rafaela is having his best offensive year. Still, there's no replacing Anthony.\nHe only appeared in 55 regular-season games and didn't look great in his two at-bats on Tuesday, but nobody in Boston's organization has a higher ceiling than Anthony. Being without him makes the already daunting challenge of rebounding from an 0-1 deficit in the best-of-three series that much more difficult.\nRed Sox's growing injury report makes it tougher to believe in dream run\nWhat makes Anthony's injury that much more difficult is that he's far from the only one. The Red Sox have a slew of notables on the IL, and that's making achieving their ultimate gol tough to believe in.\n| Player | Position | Injury | Return | \n|---|---|---|---|\n| Mickey Gasper | C/INF | Right biceps strain | 2027 | \n| Tyron Guerrero | RHP | Right shoulder strain | 2027 | \n| Eli White | INF/OF | Ligament damage in right foot | 2027 | \n| Curtis Mead | INF | Left wrist fracture | Postseason or 2027 | \n| Kutter Crawford | RHP | Right flexor irritation | 2027 | \n| Johan Oviedo | RHP | Right flexor strain | Postseason or 2027 | \n| Anthony Siegler | INF | Right wrist discomfort | Postseason or 2027 | \n| Justin Slaten | RHP | Right elbow inflammation | 2027 | \n| Masataka Yoshida | DH | Left hamstring strain | Postseason or 2027 | \n| Triston Casas | 1B | Left abdominal strain | 2027 | \nThe list is lengthy and littered with quality talent. Lineup-wise, the Red Sox sure could use Mickey Gasper, who was one of their hottest hitters before suffering his injury, right about now. They could also use Curtis Mead, a player who crushes left-handed pitching. Even Masataka Yoshida's bat would really come in handy with Anthony out.\nPitching-wise, Boston's depth has taken a hit. Tyron Guerrero and Justin Slaten are two of the most important members of their bullpen, and perhaps they would've been able to keep the game closer on Tuesday had they been healthy. Guys like Kutter Crawford and Johan Oviedo are proven back-end starters who could've eaten innings this October.\nPerhaps the Red Sox can get Mead and a few others back if they can get past the Yankees, but with Anthony now joining the laundry list of injured players, it's getting tough to believe in them making a comeback.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "89005c45098a20d0ecf4",
+    "title": "Mickey Gasper Injury: Placed on 10-day IL",
+    "source": "rotowire.com",
+    "author": "RotoWire Staff",
+    "url": "https://www.rotowire.com/baseball/headlines/mickey-gasper-injury-placed-on-10-day-il-1027457",
+    "published_iso": "2026-09-30T21:56:21+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 21:56:21 +0000",
+    "body": "Mickey Gasper Injury: Placed on 10-day IL\nThe Red Sox placed Gasper on the 10-day injured list Sunday due to a right biceps strain.\nGasper was hurt on a swinging strikeout in the first game of Friday's doubleheader against the Cubs, and the injury has been deemed significant. Boston is expected to be without Gasper for at least the first couple rounds of the playoffs and could be without his services for the entire postseason. He ends the regular season having hit 10 home runs with an .823 OPS across 225 MLB plate appearances.",
+    "tracked_people": [
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Mickey Gasper Injury: Placed on 10-day IL",
+    "original_body": "Mickey Gasper Injury: Placed on 10-day IL\nThe Red Sox placed Gasper on the 10-day injured list Sunday due to a right biceps strain.\nGasper was hurt on a swinging strikeout in the first game of Friday's doubleheader against the Cubs, and the injury has been deemed significant. Boston is expected to be without Gasper for at least the first couple rounds of the playoffs and could be without his services for the entire postseason. He ends the regular season having hit 10 home runs with an .823 OPS across 225 MLB plate appearances.",
+    "rss_title": "Mickey Gasper Injury: Placed on 10-day IL",
+    "rss_body": "Mickey Gasper Injury: Placed on 10-day IL\nThe Red Sox placed Gasper on the 10-day injured list Sunday due to a right biceps strain.\nGasper was hurt on a swinging strikeout in the first game of Friday's doubleheader against the Cubs, and the injury has been deemed significant. Boston is expected to be without Gasper for at least the first couple rounds of the playoffs and could be without his services for the entire postseason. He ends the regular season having hit 10 home runs with an .823 OPS across 225 MLB plate appearances.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "92a6e1ac36968b40ee11",
+    "title": "Yankees vs. Sonny Gray: Batter-Pitcher Stats for Game 2",
+    "source": "Yahoo Sports",
+    "author": "Billy Heyen",
+    "url": "https://sports.yahoo.com/articles/yankees-vs-sonny-gray-batter-215508242.html",
+    "published_iso": "2026-09-30T21:55:08+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 21:55:08 +0000",
+    "body": "The New York Yankees are hoping to eliminate the Boston Red Sox on Wednesday night in Game 2 of the AL Wild Card Series.\nTo end the best-of-three series early, the Yanks will have to hit well against Red Sox starting pitcher Sonny Gray.\nThe good news for the Yanks is that some of their lineup has a positive history against Gray.\nThe bad news for the Yankees is that Gray had an 18-5 record this season with a 2.72 ERA. Even at 36 years old, he's still one of the most effective pitchers in baseball.\nBoston has to feel good about giving Gray the ball with their season on the line. It's do-or-die for them.\nThe Yankees will have confidence, too, coming off a 9-0 win in Game 1.\nThis rivalry rarely disappoints, and it shouldn't on Wednesday night, either.\nYankees vs. Sonny Gray\nThe Yankees' current roster as a whole has faced Gray for 161 at bats.\nIn that sample size, they've got 37 hits — for a .230 average — with a .642 OPS.\nSo all told, it's not a great look for the Yankees.\nThis is the hitter-by-hitter breakdown:\n- Jose Caballero: 3-for-9\n- Luis Garcia Jr.: 4-for-10, 1 double, 1 HR, 1 K\n- Spencer Jones: 3-for-6, 1 double, 3 Ks\nA couple things stand out.\nFirst is that Goldschmidt line — he's one of the best hitters in this era of baseball and somehow has just one hit in 26 at bats against Gray.\nThe lines of Grisham, Garcia, Rice and Rosario are all encouraging, though. It'll be interesting to see how manager Aaron Boone might deploy them on Wednesday.\nSonny Gray Stats With Yankees\nIt's worth noting that Gray also spent time pitching for the Yankees.\nHe was traded to the Yanks from the A's midway through the 2017 season.\nIn the back half of the 2017 season while with the Yankees, Gray had a 3.72 ERA in 11 outings.\nHe then pitched 30 times for the Yanks in 2018 and had a 4.90 ERA.\nThere was concern that the small-statured Gray might not hold up over the long haul, and the Yankees didn't keep him around any longer.\nBut then he went to the Reds, and the Twins, and the Cardinals, and now the Red Sox — and Gray is still going strong.\nEven if the Yankees had kept Gray longer, he likely wouldn't still be wearing the pinstripes by this stage. So he's trying to hand New York a loss on Wednesday night that would send this one to Game 3.\nThis article was originally published on HEAVY\nThe post Yankees vs. Sonny Gray: Batter-Pitcher Stats for Game 2 appeared first on HEAVY.",
+    "tracked_people": [
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Yankees vs. Sonny Gray: Batter-Pitcher Stats for Game 2",
+    "original_body": "The New York Yankees are hoping to eliminate the Boston Red Sox on Wednesday night in Game 2 of the AL Wild Card Series.\nTo end the best-of-three series early, the Yanks will have to hit well against Red Sox starting pitcher Sonny Gray.\nThe good news for the Yanks is that some of their lineup has a positive history against Gray.\nThe bad news for the Yankees is that Gray had an 18-5 record this season with a 2.72 ERA. Even at 36 years old, he's still one of the most effective pitchers in baseball.\nBoston has to feel good about giving Gray the ball with their season on the line. It's do-or-die for them.\nThe Yankees will have confidence, too, coming off a 9-0 win in Game 1.\nThis rivalry rarely disappoints, and it shouldn't on Wednesday night, either.\nYankees vs. Sonny Gray\nThe Yankees' current roster as a whole has faced Gray for 161 at bats.\nIn that sample size, they've got 37 hits — for a .230 average — with a .642 OPS.\nSo all told, it's not a great look for the Yankees.\nThis is the hitter-by-hitter breakdown:\n- Jose Caballero: 3-for-9\n- Luis Garcia Jr.: 4-for-10, 1 double, 1 HR, 1 K\n- Spencer Jones: 3-for-6, 1 double, 3 Ks\nA couple things stand out.\nFirst is that Goldschmidt line — he's one of the best hitters in this era of baseball and somehow has just one hit in 26 at bats against Gray.\nThe lines of Grisham, Garcia, Rice and Rosario are all encouraging, though. It'll be interesting to see how manager Aaron Boone might deploy them on Wednesday.\nSonny Gray Stats With Yankees\nIt's worth noting that Gray also spent time pitching for the Yankees.\nHe was traded to the Yanks from the A's midway through the 2017 season.\nIn the back half of the 2017 season while with the Yankees, Gray had a 3.72 ERA in 11 outings.\nHe then pitched 30 times for the Yanks in 2018 and had a 4.90 ERA.\nThere was concern that the small-statured Gray might not hold up over the long haul, and the Yankees didn't keep him around any longer.\nBut then he went to the Reds, and the Twins, and the Cardinals, and now the Red Sox — and Gray is still going strong.\nEven if the Yankees had kept Gray longer, he likely wouldn't still be wearing the pinstripes by this stage. So he's trying to hand New York a loss on Wednesday night that would send this one to Game 3.\nThis article was originally published on HEAVY\nThe post Yankees vs. Sonny Gray: Batter-Pitcher Stats for Game 2 appeared first on HEAVY.",
+    "rss_title": "Yankees vs. Sonny Gray: Batter-Pitcher Stats for Game 2",
+    "rss_body": "The New York Yankees are hoping to eliminate the Boston Red Sox on Wednesday night in Game 2 of the AL Wild Card Series.\nTo end the best-of-three series early, the Yanks will have to hit well against Red Sox starting pitcher Sonny Gray.\nThe good news for the Yanks is that some of their lineup has a positive history against Gray.\nThe bad news for the Yankees is that Gray had an 18-5 record this season with a 2.72 ERA. Even at 36 years old, he's still one of the most effective pitchers in baseball.\nBoston has to feel good about giving Gray the ball with their season on the line. It's do-or-die for them.\nThe Yankees will have confidence, too, coming off a 9-0 win in Game 1.\nThis rivalry rarely disappoints, and it shouldn't on Wednesday night, either.\nYankees vs. Sonny Gray\nThe Yankees' current roster as a whole has faced Gray for 161 at bats.\nIn that sample size, they've got 37 hits — for a .230 average — with a .642 OPS.\nSo all told, it's not a great look for the Yankees.\nThis is the hitter-by-hitter breakdown:\n- Jose Caballero: 3-for-9\n- Luis Garcia Jr.: 4-for-10, 1 double, 1 HR, 1 K\n- Spencer Jones: 3-for-6, 1 double, 3 Ks\nA couple things stand out.\nFirst is that Goldschmidt line — he's one of the best hitters in this era of baseball and somehow has just one hit in 26 at bats against Gray.\nThe lines of Grisham, Garcia, Rice and Rosario are all encouraging, though. It'll be interesting to see how manager Aaron Boone might deploy them on Wednesday.\nSonny Gray Stats With Yankees\nIt's worth noting that Gray also spent time pitching for the Yankees.\nHe was traded to the Yanks from the A's midway through the 2017 season.\nIn the back half of the 2017 season while with the Yankees, Gray had a 3.72 ERA in 11 outings.\nHe then pitched 30 times for the Yanks in 2018 and had a 4.90 ERA.\nThere was concern that the small-statured Gray might not hold up over the long haul, and the Yankees didn't keep him around any longer.\nBut then he went to the Reds, and the Twins, and the Cardinals, and now the Red Sox — and Gray is still going strong.\nEven if the Yankees had kept Gray longer, he likely wouldn't still be wearing the pinstripes by this stage. So he's trying to hand New York a loss on Wednesday night that would send this one to Game 3.\nThis article was originally published on HEAVY\nThe post Yankees vs. Sonny Gray: Batter-Pitcher Stats for Game 2 appeared first on HEAVY.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "ef457f6eddd7039ab813",
+    "title": "Red Sox Add Curtis Mead To Roster After Roman Anthony Injury",
+    "source": "Talk Sox",
+    "author": "",
+    "url": "https://talksox.com/forums/topic/91503-red-sox-add-curtis-mead-to-roster-after-roman-anthony-injury/",
+    "published_iso": "2026-09-30T21:33:28+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 21:33:28 +0000",
+    "body": "You all care about this site. The next step is caring for it. We’re asking you to caretake this site so it can remain the premier Red Sox community on the internet.\nThe 6-foot-5, 18-year-old struck out five batters in three scoreless, one-hit innings. It was his fifth Salem start, and in 18 total innings, he has a 2.50 ERA and 1.11 WHIP. 23 Ks to 6 BB.\nBrock, I think when healthy Contreras is a good add. Based on his history in the game, even at DH and 1B his body is subject to historical levels of wear and tear, so I put his GP over/under at 108 since 135 seemed like a career year. I believe we bought high. We have to hope 2/3 of a player can be back filled by Casas, Yoshida and Abreu the lefty platoon player.",
+    "tracked_people": [
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox Add Curtis Mead To Roster After Roman Anthony Injury",
+    "original_body": "You all care about this site. The next step is caring for it. We’re asking you to caretake this site so it can remain the premier Red Sox community on the internet.\nThe 6-foot-5, 18-year-old struck out five batters in three scoreless, one-hit innings. It was his fifth Salem start, and in 18 total innings, he has a 2.50 ERA and 1.11 WHIP. 23 Ks to 6 BB.\nBrock, I think when healthy Contreras is a good add. Based on his history in the game, even at DH and 1B his body is subject to historical levels of wear and tear, so I put his GP over/under at 108 since 135 seemed like a career year. I believe we bought high. We have to hope 2/3 of a player can be back filled by Casas, Yoshida and Abreu the lefty platoon player.",
+    "rss_title": "Red Sox Add Curtis Mead To Roster After Roman Anthony Injury",
+    "rss_body": "You all care about this site. The next step is caring for it. We’re asking you to caretake this site so it can remain the premier Red Sox community on the internet.\nThe 6-foot-5, 18-year-old struck out five batters in three scoreless, one-hit innings. It was his fifth Salem start, and in 18 total innings, he has a 2.50 ERA and 1.11 WHIP. 23 Ks to 6 BB.\nBrock, I think when healthy Contreras is a good add. Based on his history in the game, even at DH and 1B his body is subject to historical levels of wear and tear, so I put his GP over/under at 108 since 135 seemed like a career year. I believe we bought high. We have to hope 2/3 of a player can be back filled by Casas, Yoshida and Abreu the lefty platoon player.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "52bdf00252882bdd7978",
+    "title": "Can Sonny Gray save the Red Sox season in Game 2 against the Yankees?",
+    "source": "Yahoo Sports",
+    "author": "Tim Crowley",
+    "url": "https://sports.yahoo.com/articles/sonny-gray-save-red-sox-211750398.html",
+    "published_iso": "2026-09-30T21:17:50+00:00",
+    "published_rfc2822": "Wed, 30 Sep 2026 21:17:50 +0000",
+    "body": "The Red Sox are in danger of watching their season come to a close in Yankee Stadium for the second consecutive year. The offense showed zero signs of life as the Yankees cruised to a 9-0 victory headlined by 10 strikeouts from growing Red Sox killer Cam Schlittler. Payton Tolle did enough on the mound as the Game 1 starter. His team was clearly just unable to do their part around them.\nNow, the Red Sox fall into the need of a historic response given that just 3 of 24 teams to lose the opener in the Wild Card round have come back to win the series. For starters, Boston sends 18-game winner Sonny Gray to the mound. He flirted with a no-hitter the last time he faced New York in June and tallied a 1.98 ERA against the Yankees in 2026.\nThe Yankees counter with Max Fried, who has battled some inconsistencies in his ramp-up period from an injury return. The southpaw does have a sparkling 1.93 career ERA against the Red Sox in addition to a brilliant start in Game 1 last year with 6 1/3 scoreless innings, which his bullpen ruined in Boston's 3-1 victory. To best combat the talented lefty, Jahmai Jones slots in leading off as the designated hitter. Caleb Durbin moves up to the sixth spot and Nate Eaton – another right-handed bat – gets the nod in left field.\nAfter being shut out in consecutive postseason games, the Red Sox must find a way to score runs and now do so without Roman Anthony, who will come off the ALWC roster with new and aggravated injuries in his right hand. It's an uphill challenge undoubtedly, though it's one Boston must be ready for in order to extend the season.\nToday's Lineups\nRed Sox:\nYankees:\n⚾️ First Pitch: 8:00pm — Yankee Stadium, Bronx, New York.\n📺 TV: NBC (and streaming on Peacock)\n📻 Radio: WEEI, ESPN Radio, SiriusXM, iHeartRadio\nReady to break down the game! Join us in the game thread below!",
+    "tracked_people": [
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Nate Eaton",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 15,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Can Sonny Gray save the Red Sox season in Game 2 against the Yankees?",
+    "original_body": "The Red Sox are in danger of watching their season come to a close in Yankee Stadium for the second consecutive year. The offense showed zero signs of life as the Yankees cruised to a 9-0 victory headlined by 10 strikeouts from growing Red Sox killer Cam Schlittler. Payton Tolle did enough on the mound as the Game 1 starter. His team was clearly just unable to do their part around them.\nNow, the Red Sox fall into the need of a historic response given that just 3 of 24 teams to lose the opener in the Wild Card round have come back to win the series. For starters, Boston sends 18-game winner Sonny Gray to the mound. He flirted with a no-hitter the last time he faced New York in June and tallied a 1.98 ERA against the Yankees in 2026.\nThe Yankees counter with Max Fried, who has battled some inconsistencies in his ramp-up period from an injury return. The southpaw does have a sparkling 1.93 career ERA against the Red Sox in addition to a brilliant start in Game 1 last year with 6 1/3 scoreless innings, which his bullpen ruined in Boston's 3-1 victory. To best combat the talented lefty, Jahmai Jones slots in leading off as the designated hitter. Caleb Durbin moves up to the sixth spot and Nate Eaton – another right-handed bat – gets the nod in left field.\nAfter being shut out in consecutive postseason games, the Red Sox must find a way to score runs and now do so without Roman Anthony, who will come off the ALWC roster with new and aggravated injuries in his right hand. It's an uphill challenge undoubtedly, though it's one Boston must be ready for in order to extend the season.\nToday's Lineups\nRed Sox:\nYankees:\n⚾️ First Pitch: 8:00pm — Yankee Stadium, Bronx, New York.\n📺 TV: NBC (and streaming on Peacock)\n📻 Radio: WEEI, ESPN Radio, SiriusXM, iHeartRadio\nReady to break down the game! Join us in the game thread below!",
+    "rss_title": "Can Sonny Gray save the Red Sox season in Game 2 against the Yankees?",
+    "rss_body": "The Red Sox are in danger of watching their season come to a close in Yankee Stadium for the second consecutive year. The offense showed zero signs of life as the Yankees cruised to a 9-0 victory headlined by 10 strikeouts from growing Red Sox killer Cam Schlittler. Payton Tolle did enough on the mound as the Game 1 starter. His team was clearly just unable to do their part around them.\nNow, the Red Sox fall into the need of a historic response given that just 3 of 24 teams to lose the opener in the Wild Card round have come back to win the series. For starters, Boston sends 18-game winner Sonny Gray to the mound. He flirted with a no-hitter the last time he faced New York in June and tallied a 1.98 ERA against the Yankees in 2026.\nThe Yankees counter with Max Fried, who has battled some inconsistencies in his ramp-up period from an injury return. The southpaw does have a sparkling 1.93 career ERA against the Red Sox in addition to a brilliant start in Game 1 last year with 6 1/3 scoreless innings, which his bullpen ruined in Boston's 3-1 victory. To best combat the talented lefty, Jahmai Jones slots in leading off as the designated hitter. Caleb Durbin moves up to the sixth spot and Nate Eaton – another right-handed bat – gets the nod in left field.\nAfter being shut out in consecutive postseason games, the Red Sox must find a way to score runs and now do so without Roman Anthony, who will come off the ALWC roster with new and aggravated injuries in his right hand. It's an uphill challenge undoubtedly, though it's one Boston must be ready for in order to extend the season.\nToday's Lineups\nRed Sox:\nYankees:\n⚾️ First Pitch: 8:00pm — Yankee Stadium, Bronx, New York.\n📺 TV: NBC (and streaming on Peacock)\n📻 Radio: WEEI, ESPN Radio, SiriusXM, iHeartRadio\nReady to break down the game! Join us in the game thread below!",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "321fc3ae2e983dc63d41",
     "title": "Pedro Martinez Reflects on Red Sox's Historic Comeback vs. Yankees, 2004 World Series in B/R Video",
     "source": "Bleacher Report",
