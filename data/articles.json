@@ -1,5 +1,189 @@
 [
   {
+    "id": "00e119b5c42d76a1cdb4",
+    "title": "Craig Breslow started building the 2027 Red Sox in 2026",
+    "source": "Over the Monster",
+    "author": "Mike Carlucci",
+    "url": "https://www.overthemonster.com/red-sox-discussion/109989/craig-breslow-started-building-the-2027-red-sox-in-2026",
+    "published_iso": "2026-10-02T17:47:20+00:00",
+    "published_rfc2822": "Fri, 02 Oct 2026 17:47:20 +0000",
+    "body": "The Wild Card series against the Yankees was probably the worst way for the 2026 season to end. Everything that was a problem at any point - struggles to score runs, the bullpen, injuries - all happened at the same time and within a matter of minutes. Two games in a row ended the Red Sox season. This wasn’t the plan. As all the Sox players returned from the WBC to Fort Myers, many riding hot streaks, this looked like a team ready to rocket. Yes, there were questions entering the season. But there were answers that hadn’t been fully formed yet.\nAfter the 2025 season, the Sox were desperate for infield help. Trevor Story, not a guarantee of health or success himself, since arriving in Boston, was coming off a tremendous year, his best for the Red Sox. The rest of the infield was a question mark. Third base was more-or-less vacant after Alex Bregman opted out. Second base was going to be a battle with the future potential of Marcelo Mayer as a leading contestant. First base? Triston Casas? Maybe? Catcher, using the more generous definition of infield, was a tandem based on Carlos Narváez hitting in 2025 and Connor Wong, who couldn’t hit at all. There were at least two guys, which was more than could be said about first base.\nCraig Breslow looked at the free agent market. He looked at the trade market. He looked at his own farm system. And in two phases he built the roster that he would live or die with.\nWe know about phase one. Caleb Durbin was acquired from the Milwaukee Brewers. Willson Contreras was acquired from the St. Louis Cardinals. Isaiah Kiner-Falefa was signed to platoon (kinda) with Mayer.\nOn the free agent market, the Red Sox went in the opposite direction. The promise/hope was two bats. And they passed on Pete Alonso, Alex Bregman, Bo Bichette etc. Aside from Contreras there were no big bats.\nWhat Durbin would share with Willson, besides become Mini Bowser to his Bowser, was control. Contreras was guaranteed to be in town through 2027 with an option for 2028. Durbin will not hit free agency until the 2030s. The same with Mayer. Ranger Suarez, on the other side of the ball, also was signed long-term.\nAs it would turn out Willson Contreras would not even sniff competition from Triston Casas, who would face a series of injuries that would cost him the season. Not that anyone was worried about having too many first basemen. Caleb Durbin would start off slow with the bat, glacial even, but provide solid defense. He’d go on to set a new career high in home runs while, likely, competing for a Gold Glove.\nMarcelo Mayer would underperform and then get hurt. Carlos Narváez would revert to his reputation as a bat-second player. While Connor Wong would provide some offense in a bounce-back season, the catcher tandem as a whole was underwater.\nPhase two would be at the deadline. With Durbin rounding into form as The Durbinator, Breslow and his team set their sights on second base and catcher. Turning Connelly Early into Curtis Mead gave them another second baseman with control for years to come. And while the sample size is small, Mead hit 17 home runs in just 87 games. Adding a 30-homer threat to second base would be a tremendous pillar of the offense. Mayer would be traded separately, Mead would get hurt, but the plan was in place.\nSimilarly, the massive all-in prospect trade for Adley Rutschman was for 2026 and 2027. Connor Wong isn’t a free agent until after the 2028 season so catcher is set for another year and they have time to evaluate Rutschman or find a replacement before 2028. For Breslow’s plan through this summer, when he didn’t know he’d be extended, that’s all that mattered. Build then best team for what could be his last season if they struggled.\nEntering 2027 the Red Sox have two catchers. They have an entire starting infield, plus top prospect Franklin Arias. They have Roman Anthony, Ceddanne Rafaela, and Wilyer Abreu (plus control of Jarren Duran, and Masataka Yoshida, and Kristian Campbell) in the outfield.\nThe rotation has Payton Tolle, Garrett Crochet, Ranger Suarez, and Jake Bennett. Boston holds an option on Sonny Gray that he can opt out of, but potentially the entire rotation is headed back for 2027. Starters 6-10 might be a concern, but for a healthy Opening Day major league roster, Breslow took care of that already.\nWe never actually got to see this team assembled together in 2026. Even if Curtis Mead came into the last game of the season while Garrett Crochet was on the mound, Roman was out. This year, unless there is a big trade to accommodate a move, the Hot Stove season won’t be the same. The roster is basically set. Did Breslow see the lockout as an obstacle? Maybe! He might have been thinking that teams would scramble to make moves before and after and he’d be set. For a team that was seeing it’s window open in 2025, it seems too intentional to put together the whole thing one year in with really only the Story to Arias transition as a big roster move to facilitate.\nThe performance of the team in 2026 was up and down, but overall we saw a number of good years from this group - Tolle, Abreu, Contreras, Rafaela, and Durbin all provide reasons to be optimistic. Roman Anthony had a good run around the hand injury. Six months off sure would be nice to let that heal. There’s reason to think 2027 can be fun. Maybe distributed a little better too.\nYour Opening Day 2027 Boston Red Sox:\nC: Rutschman, Wong\n1: Contreras\n2B: Mead, Sogard\nSS: Story, Arias\n3B: Durbin\nOF: Roman, Rafaela, Abreau, Duran (if he’s not moved/non-tenderd), Campbell\nDH: Yoshida",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Connor Wong",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 2,
+        "batch": 1
+      },
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Alex Bregman",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Trevor Story",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Ranger Suárez",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 18,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Jake Bennett",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 21,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      },
+      {
+        "name": "Masataka Yoshida",
+        "role": "Designated Hitter",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 34,
+        "batch": 2
+      },
+      {
+        "name": "Triston Casas",
+        "role": "Infielder",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 37,
+        "batch": 2
+      },
+      {
+        "name": "Garrett Crochet",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 39,
+        "batch": 2
+      },
+      {
+        "name": "Kristian Campbell",
+        "role": "Infielder",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 46,
+        "batch": 2
+      },
+      {
+        "name": "Craig Breslow",
+        "role": "Chief Baseball Officer",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 50,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Craig Breslow started building the 2027 Red Sox in 2026",
+    "original_body": "The Wild Card series against the Yankees was probably the worst way for the 2026 season to end. Everything that was a problem at any point - struggles to score runs, the bullpen, injuries - all happened at the same time and within a matter of minutes. Two games in a row ended the Red Sox season. This wasn’t the plan. As all the Sox players returned from the WBC to Fort Myers, many riding hot streaks, this looked like a team ready to rocket. Yes, there were questions entering the season. But there were answers that hadn’t been fully formed yet.\nAfter the 2025 season, the Sox were desperate for infield help. Trevor Story, not a guarantee of health or success himself, since arriving in Boston, was coming off a tremendous year, his best for the Red Sox. The rest of the infield was a question mark. Third base was more-or-less vacant after Alex Bregman opted out. Second base was going to be a battle with the future potential of Marcelo Mayer as a leading contestant. First base? Triston Casas? Maybe? Catcher, using the more generous definition of infield, was a tandem based on Carlos Narváez hitting in 2025 and Connor Wong, who couldn’t hit at all. There were at least two guys, which was more than could be said about first base.\nCraig Breslow looked at the free agent market. He looked at the trade market. He looked at his own farm system. And in two phases he built the roster that he would live or die with.\nWe know about phase one. Caleb Durbin was acquired from the Milwaukee Brewers. Willson Contreras was acquired from the St. Louis Cardinals. Isaiah Kiner-Falefa was signed to platoon (kinda) with Mayer.\nOn the free agent market, the Red Sox went in the opposite direction. The promise/hope was two bats. And they passed on Pete Alonso, Alex Bregman, Bo Bichette etc. Aside from Contreras there were no big bats.\nWhat Durbin would share with Willson, besides become Mini Bowser to his Bowser, was control. Contreras was guaranteed to be in town through 2027 with an option for 2028. Durbin will not hit free agency until the 2030s. The same with Mayer. Ranger Suarez, on the other side of the ball, also was signed long-term.\nAs it would turn out Willson Contreras would not even sniff competition from Triston Casas, who would face a series of injuries that would cost him the season. Not that anyone was worried about having too many first basemen. Caleb Durbin would start off slow with the bat, glacial even, but provide solid defense. He’d go on to set a new career high in home runs while, likely, competing for a Gold Glove.\nMarcelo Mayer would underperform and then get hurt. Carlos Narváez would revert to his reputation as a bat-second player. While Connor Wong would provide some offense in a bounce-back season, the catcher tandem as a whole was underwater.\nPhase two would be at the deadline. With Durbin rounding into form as The Durbinator, Breslow and his team set their sights on second base and catcher. Turning Connelly Early into Curtis Mead gave them another second baseman with control for years to come. And while the sample size is small, Mead hit 17 home runs in just 87 games. Adding a 30-homer threat to second base would be a tremendous pillar of the offense. Mayer would be traded separately, Mead would get hurt, but the plan was in place.\nSimilarly, the massive all-in prospect trade for Adley Rutschman was for 2026 and 2027. Connor Wong isn’t a free agent until after the 2028 season so catcher is set for another year and they have time to evaluate Rutschman or find a replacement before 2028. For Breslow’s plan through this summer, when he didn’t know he’d be extended, that’s all that mattered. Build then best team for what could be his last season if they struggled.\nEntering 2027 the Red Sox have two catchers. They have an entire starting infield, plus top prospect Franklin Arias. They have Roman Anthony, Ceddanne Rafaela, and Wilyer Abreu (plus control of Jarren Duran, and Masataka Yoshida, and Kristian Campbell) in the outfield.\nThe rotation has Payton Tolle, Garrett Crochet, Ranger Suarez, and Jake Bennett. Boston holds an option on Sonny Gray that he can opt out of, but potentially the entire rotation is headed back for 2027. Starters 6-10 might be a concern, but for a healthy Opening Day major league roster, Breslow took care of that already.\nWe never actually got to see this team assembled together in 2026. Even if Curtis Mead came into the last game of the season while Garrett Crochet was on the mound, Roman was out. This year, unless there is a big trade to accommodate a move, the Hot Stove season won’t be the same. The roster is basically set. Did Breslow see the lockout as an obstacle? Maybe! He might have been thinking that teams would scramble to make moves before and after and he’d be set. For a team that was seeing it’s window open in 2025, it seems too intentional to put together the whole thing one year in with really only the Story to Arias transition as a big roster move to facilitate.\nThe performance of the team in 2026 was up and down, but overall we saw a number of good years from this group - Tolle, Abreu, Contreras, Rafaela, and Durbin all provide reasons to be optimistic. Roman Anthony had a good run around the hand injury. Six months off sure would be nice to let that heal. There’s reason to think 2027 can be fun. Maybe distributed a little better too.\nYour Opening Day 2027 Boston Red Sox:\nC: Rutschman, Wong\n1: Contreras\n2B: Mead, Sogard\nSS: Story, Arias\n3B: Durbin\nOF: Roman, Rafaela, Abreau, Duran (if he’s not moved/non-tenderd), Campbell\nDH: Yoshida",
+    "rss_title": "Craig Breslow started building the 2027 Red Sox in 2026",
+    "rss_body": "The Wild Card series against the Yankees was probably the worst way for the 2026 season to end. Everything that was a problem at any point - struggles to score runs, the bullpen, injuries - all happened at the same time and within a matter of minutes. Two games in a row ended the Red Sox season. This wasn’t the plan. As all the Sox players returned from the WBC to Fort Myers, many riding hot streaks, this looked like a team ready to rocket. Yes, there were questions entering the season. But there were answers that hadn’t been fully formed yet.\nAfter the 2025 season, the Sox were desperate for infield help. Trevor Story, not a guarantee of health or success himself, since arriving in Boston, was coming off a tremendous year, his best for the Red Sox. The rest of the infield was a question mark. Third base was more-or-less vacant after Alex Bregman opted out. Second base was going to be a battle with the future potential of Marcelo Mayer as a leading contestant. First base? Triston Casas? Maybe? Catcher, using the more generous definition of infield, was a tandem based on Carlos Narváez hitting in 2025 and Connor Wong, who couldn’t hit at all. There were at least two guys, which was more than could be said about first base.\nCraig Breslow looked at the free agent market. He looked at the trade market. He looked at his own farm system. And in two phases he built the roster that he would live or die with.\nWe know about phase one. Caleb Durbin was acquired from the Milwaukee Brewers. Willson Contreras was acquired from the St. Louis Cardinals. Isaiah Kiner-Falefa was signed to platoon (kinda) with Mayer.\nOn the free agent market, the Red Sox went in the opposite direction. The promise/hope was two bats. And they passed on Pete Alonso, Alex Bregman, Bo Bichette etc. Aside from Contreras there were no big bats.\nWhat Durbin would share with Willson, besides become Mini Bowser to his Bowser, was control. Contreras was guaranteed to be in town through 2027 with an option for 2028. Durbin will not hit free agency until the 2030s. The same with Mayer. Ranger Suarez, on the other side of the ball, also was signed long-term.\nAs it would turn out Willson Contreras would not even sniff competition from Triston Casas, who would face a series of injuries that would cost him the season. Not that anyone was worried about having too many first basemen. Caleb Durbin would start off slow with the bat, glacial even, but provide solid defense. He’d go on to set a new career high in home runs while, likely, competing for a Gold Glove.\nMarcelo Mayer would underperform and then get hurt. Carlos Narváez would revert to his reputation as a bat-second player. While Connor Wong would provide some offense in a bounce-back season, the catcher tandem as a whole was underwater.\nPhase two would be at the deadline. With Durbin rounding into form as The Durbinator, Breslow and his team set their sights on second base and catcher. Turning Connelly Early into Curtis Mead gave them another second baseman with control for years to come. And while the sample size is small, Mead hit 17 home runs in just 87 games. Adding a 30-homer threat to second base would be a tremendous pillar of the offense. Mayer would be traded separately, Mead would get hurt, but the plan was in place.\nSimilarly, the massive all-in prospect trade for Adley Rutschman was for 2026 and 2027. Connor Wong isn’t a free agent until after the 2028 season so catcher is set for another year and they have time to evaluate Rutschman or find a replacement before 2028. For Breslow’s plan through this summer, when he didn’t know he’d be extended, that’s all that mattered. Build then best team for what could be his last season if they struggled.\nEntering 2027 the Red Sox have two catchers. They have an entire starting infield, plus top prospect Franklin Arias. They have Roman Anthony, Ceddanne Rafaela, and Wilyer Abreu (plus control of Jarren Duran, and Masataka Yoshida, and Kristian Campbell) in the outfield.\nThe rotation has Payton Tolle, Garrett Crochet, Ranger Suarez, and Jake Bennett. Boston holds an option on Sonny Gray that he can opt out of, but potentially the entire rotation is headed back for 2027. Starters 6-10 might be a concern, but for a healthy Opening Day major league roster, Breslow took care of that already.\nWe never actually got to see this team assembled together in 2026. Even if Curtis Mead came into the last game of the season while Garrett Crochet was on the mound, Roman was out. This year, unless there is a big trade to accommodate a move, the Hot Stove season won’t be the same. The roster is basically set. Did Breslow see the lockout as an obstacle? Maybe! He might have been thinking that teams would scramble to make moves before and after and he’d be set. For a team that was seeing it’s window open in 2025, it seems too intentional to put together the whole thing one year in with really only the Story to Arias transition as a big roster move to facilitate.\nThe performance of the team in 2026 was up and down, but overall we saw a number of good years from this group - Tolle, Abreu, Contreras, Rafaela, and Durbin all provide reasons to be optimistic. Roman Anthony had a good run around the hand injury. Six months off sure would be nice to let that heal. There’s reason to think 2027 can be fun. Maybe distributed a little better too.\nYour Opening Day 2027 Boston Red Sox:\nC: Rutschman, Wong\n1: Contreras\n2B: Mead, Sogard\nSS: Story, Arias\n3B: Durbin\nOF: Roman, Rafaela, Abreau, Duran (if he’s not moved/non-tenderd), Campbell\nDH: Yoshida",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "0b67a2f6e7eb16079771",
     "title": "Willson Contreras la estrella de Boston durante esta zafra",
     "source": "Líder en deportes",
