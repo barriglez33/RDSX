@@ -1,5 +1,85 @@
 [
   {
+    "id": "72d0af344c05137e3f2e",
+    "title": "Craig Breslow and Chad Tracy push back that analytics drove Red Sox postseason decisions",
+    "source": "Orlando Sentinel",
+    "author": "Associated Press",
+    "url": "https://www.orlandosentinel.com/2026/10/05/craig-breslow-and-chad-tracy-push-back-that-analytics-drove-red-sox-postseason-decisions/",
+    "published_iso": "2026-10-06T00:46:41+00:00",
+    "published_rfc2822": "Tue, 06 Oct 2026 00:46:41 +0000",
+    "body": "By KYLE HIGHTOWER\nAfter getting eliminated from the playoffs by the rival New York Yankees in the AL Wild Card Series for the second consecutive year, several Boston Red Sox players questioned the role analytics played in some in-game decisions.\nFirst baseman Willson Contreras was one of the loudest among those voices.\n“It’s not enough when you have talent or you have data or you have computers that’s telling you what to do, because this is baseball,” Contreras said last week after the Red Sox pulled both their starting pitchers in the fifth inning of close games against New York only to get outscored 18-2 overall.\nOn Monday, chief baseball officer Craig Breslow and manager Chad Tracy were adamant there is no franchise-wide directive regarding how analytics are used on or off the field.\n“I would push back on the notion that somehow the role of the scout or the importance of the scout has been diminished in this organization. That’s not the case,” Breslow said. “We are constantly looking at how we can make the best decisions, whether those are players that we acquire or invest in, or the way that we create a roster. … So I think it’s important that I have the chance to say that the value of scouts, the role that they fill here, it’s not diminished, it is not going away.”\nThe Red Sox were riding a wave of optimism after Tracy took over when Alex Cora was fired and then guided the team on a 32-5 run this summer that led Boston back to the postseason. The turnaround included Sonny Gray’s ascension to No. 1 starter after Garrett Crochet was sidelined with left shoulder inflammation and spent the next five-plus months recovering.\nBut it was Gray who was removed after only 70 pitches and 4 2/3 innings with Boston trailing 1-0 in Game 2 against the Yankees.\nNew York proceeded to tee off against what had been baseball’s best bullpen during the regular season, and the Yankees pulled away for a 9-2 victory.\nTracy also came under scrutiny after Boston’s 9-0 defeat in the opener, when he yanked rookie starter Payton Tolle after 4 2/3 innings and 83 pitches in a 1-0 game.\nGray, who went 18-5 with a 2.72 ERA during the regular season to tie for most wins in the majors and lead the American League in winning percentage, said he “would have liked to have been trusted in that moment.”\nAsked directly if he’d ever gotten any input from the front office regarding his decisions this season or whether there was any predetermined script the team used, Tracy quickly pushed back.\n“(Those) decisions are mine. We have information, just like all the other 29 teams have information. Everybody has that,” Tracy said. “But not one time since I’ve been here has anybody scripted a game, has anybody told me use this number right here to decide in this inning. Those decisions, they’re mine.”\nBut he also made it clear he isn’t turning a deaf ear to his players’ concerns. That included meeting for multiple hours with Contreras in the days after his comments following the Game 2 loss.\n“I have a very good working relationship with him and I’ve had numerous conversations with him throughout the course of the year,” Tracy said. “But I was able to talk to him, it’s in a fine place while also understanding his feelings.”\nNo surgery scheduled for Anthony\nBreslow said it’s still not yet clear whether Roman Anthony will need surgery or if an operation would help the injury that caused him to make a premature exit from the postseason.\nAnthony left Game 1 against the Yankees and was removed from Boston’s roster before the Red Sox were eliminated in Game 2 after he sustained a new right hand injury during the series opener.\nAnthony was sidelined from early May to late August with an injury to the same hand.\n“Still working through what the kind of right course of treatment is,” Breslow said. “At this point, it doesn’t seem that there’s any type of surgical intervention, that rest is likely the best path to recovery.”\n___",
+    "tracked_people": [
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Payton Tolle",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 20,
+        "batch": 1
+      },
+      {
+        "name": "Garrett Crochet",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 39,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      },
+      {
+        "name": "Craig Breslow",
+        "role": "Chief Baseball Officer",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 50,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Craig Breslow and Chad Tracy push back that analytics drove Red Sox postseason decisions",
+    "original_body": "By KYLE HIGHTOWER\nAfter getting eliminated from the playoffs by the rival New York Yankees in the AL Wild Card Series for the second consecutive year, several Boston Red Sox players questioned the role analytics played in some in-game decisions.\nFirst baseman Willson Contreras was one of the loudest among those voices.\n“It’s not enough when you have talent or you have data or you have computers that’s telling you what to do, because this is baseball,” Contreras said last week after the Red Sox pulled both their starting pitchers in the fifth inning of close games against New York only to get outscored 18-2 overall.\nOn Monday, chief baseball officer Craig Breslow and manager Chad Tracy were adamant there is no franchise-wide directive regarding how analytics are used on or off the field.\n“I would push back on the notion that somehow the role of the scout or the importance of the scout has been diminished in this organization. That’s not the case,” Breslow said. “We are constantly looking at how we can make the best decisions, whether those are players that we acquire or invest in, or the way that we create a roster. … So I think it’s important that I have the chance to say that the value of scouts, the role that they fill here, it’s not diminished, it is not going away.”\nThe Red Sox were riding a wave of optimism after Tracy took over when Alex Cora was fired and then guided the team on a 32-5 run this summer that led Boston back to the postseason. The turnaround included Sonny Gray’s ascension to No. 1 starter after Garrett Crochet was sidelined with left shoulder inflammation and spent the next five-plus months recovering.\nBut it was Gray who was removed after only 70 pitches and 4 2/3 innings with Boston trailing 1-0 in Game 2 against the Yankees.\nNew York proceeded to tee off against what had been baseball’s best bullpen during the regular season, and the Yankees pulled away for a 9-2 victory.\nTracy also came under scrutiny after Boston’s 9-0 defeat in the opener, when he yanked rookie starter Payton Tolle after 4 2/3 innings and 83 pitches in a 1-0 game.\nGray, who went 18-5 with a 2.72 ERA during the regular season to tie for most wins in the majors and lead the American League in winning percentage, said he “would have liked to have been trusted in that moment.”\nAsked directly if he’d ever gotten any input from the front office regarding his decisions this season or whether there was any predetermined script the team used, Tracy quickly pushed back.\n“(Those) decisions are mine. We have information, just like all the other 29 teams have information. Everybody has that,” Tracy said. “But not one time since I’ve been here has anybody scripted a game, has anybody told me use this number right here to decide in this inning. Those decisions, they’re mine.”\nBut he also made it clear he isn’t turning a deaf ear to his players’ concerns. That included meeting for multiple hours with Contreras in the days after his comments following the Game 2 loss.\n“I have a very good working relationship with him and I’ve had numerous conversations with him throughout the course of the year,” Tracy said. “But I was able to talk to him, it’s in a fine place while also understanding his feelings.”\nNo surgery scheduled for Anthony\nBreslow said it’s still not yet clear whether Roman Anthony will need surgery or if an operation would help the injury that caused him to make a premature exit from the postseason.\nAnthony left Game 1 against the Yankees and was removed from Boston’s roster before the Red Sox were eliminated in Game 2 after he sustained a new right hand injury during the series opener.\nAnthony was sidelined from early May to late August with an injury to the same hand.\n“Still working through what the kind of right course of treatment is,” Breslow said. “At this point, it doesn’t seem that there’s any type of surgical intervention, that rest is likely the best path to recovery.”\n___",
+    "rss_title": "Craig Breslow and Chad Tracy push back that analytics drove Red Sox postseason decisions",
+    "rss_body": "By KYLE HIGHTOWER\nAfter getting eliminated from the playoffs by the rival New York Yankees in the AL Wild Card Series for the second consecutive year, several Boston Red Sox players questioned the role analytics played in some in-game decisions.\nFirst baseman Willson Contreras was one of the loudest among those voices.\n“It’s not enough when you have talent or you have data or you have computers that’s telling you what to do, because this is baseball,” Contreras said last week after the Red Sox pulled both their starting pitchers in the fifth inning of close games against New York only to get outscored 18-2 overall.\nOn Monday, chief baseball officer Craig Breslow and manager Chad Tracy were adamant there is no franchise-wide directive regarding how analytics are used on or off the field.\n“I would push back on the notion that somehow the role of the scout or the importance of the scout has been diminished in this organization. That’s not the case,” Breslow said. “We are constantly looking at how we can make the best decisions, whether those are players that we acquire or invest in, or the way that we create a roster. … So I think it’s important that I have the chance to say that the value of scouts, the role that they fill here, it’s not diminished, it is not going away.”\nThe Red Sox were riding a wave of optimism after Tracy took over when Alex Cora was fired and then guided the team on a 32-5 run this summer that led Boston back to the postseason. The turnaround included Sonny Gray’s ascension to No. 1 starter after Garrett Crochet was sidelined with left shoulder inflammation and spent the next five-plus months recovering.\nBut it was Gray who was removed after only 70 pitches and 4 2/3 innings with Boston trailing 1-0 in Game 2 against the Yankees.\nNew York proceeded to tee off against what had been baseball’s best bullpen during the regular season, and the Yankees pulled away for a 9-2 victory.\nTracy also came under scrutiny after Boston’s 9-0 defeat in the opener, when he yanked rookie starter Payton Tolle after 4 2/3 innings and 83 pitches in a 1-0 game.\nGray, who went 18-5 with a 2.72 ERA during the regular season to tie for most wins in the majors and lead the American League in winning percentage, said he “would have liked to have been trusted in that moment.”\nAsked directly if he’d ever gotten any input from the front office regarding his decisions this season or whether there was any predetermined script the team used, Tracy quickly pushed back.\n“(Those) decisions are mine. We have information, just like all the other 29 teams have information. Everybody has that,” Tracy said. “But not one time since I’ve been here has anybody scripted a game, has anybody told me use this number right here to decide in this inning. Those decisions, they’re mine.”\nBut he also made it clear he isn’t turning a deaf ear to his players’ concerns. That included meeting for multiple hours with Contreras in the days after his comments following the Game 2 loss.\n“I have a very good working relationship with him and I’ve had numerous conversations with him throughout the course of the year,” Tracy said. “But I was able to talk to him, it’s in a fine place while also understanding his feelings.”\nNo surgery scheduled for Anthony\nBreslow said it’s still not yet clear whether Roman Anthony will need surgery or if an operation would help the injury that caused him to make a premature exit from the postseason.\nAnthony left Game 1 against the Yankees and was removed from Boston’s roster before the Red Sox were eliminated in Game 2 after he sustained a new right hand injury during the series opener.\nAnthony was sidelined from early May to late August with an injury to the same hand.\n“Still working through what the kind of right course of treatment is,” Breslow said. “At this point, it doesn’t seem that there’s any type of surgical intervention, that rest is likely the best path to recovery.”\n___",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "1ce3a2b8fc5feed94cc8",
     "title": "5 takeaways from Red Sox’ end-of-season press conference",
     "source": "Boston.com",
