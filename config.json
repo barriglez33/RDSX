@@ -475,7 +475,7 @@
     }
   ],
   "settings": {
-    "max_age_hours": 3,
+    "max_age_hours": 2,
     "gdelt_results_per_person": 15,
     "google_results_per_edition": 4,
     "max_stored_articles": 3000,
@@ -486,7 +486,8 @@
     "old_translation_repairs_per_run": 10,
     "google_rss_entries_to_inspect": 25,
     "max_fresh_google_articles_per_search": 6,
-    "max_fresh_gdelt_articles_per_search": 6
+    "max_fresh_gdelt_articles_per_search": 6,
+    "max_extracted_article_age_hours": 3
   },
   "google_news_editions": [
     {

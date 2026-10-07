@@ -1,18 +1,12 @@
-# Red Sox News — High Recall Update
+# Red Sox — Freshness Update
 
-This patch changes discovery to **scan broadly, process narrowly**.
+This patch makes the feed more current while preserving the high-recall discovery model.
 
-- Google News RSS entries inspected per search: **25**
-- Fresh unseen Google articles processed per search: **max 6 total**
-- GDELT results requested per search: **15**
-- Fresh unseen GDELT articles processed per search: **max 6**
-- Rolling window: **3 hours**
-- Duplicate comparison window: **24 hours**
-- Title similarity: **0.80**
-- Token overlap: **0.68**
-- Body-lead similarity: **0.75**
+- Discovery window: **2 hours**
+- Hard publisher-date cutoff: **3 hours**, only when Trafilatura extracts a date with a real clock time
+- Google News still inspects up to **25 RSS entries** and processes at most **6 fresh unseen candidates** per search
+- Existing smart deduplication and history are preserved
+- GitHub Actions schedule: `13,43 * * * *`
+- `requirements.txt` includes the `selectolax<1.0` compatibility pin
 
-The existing batch rotation is preserved.
-
-Replace `main.py`, `config.json`, and `README.md`.
-Do not replace your existing `data/articles.json`, `data/state.json`, or `docs/`.
+Date-only metadata such as `2026-10-07` is not rejected because it does not provide enough precision for a three-hour cutoff.
