@@ -3,8 +3,7 @@ name: Update Red Sox News RSS
 on:
   workflow_dispatch:
   schedule:
-    - cron: "33 * * * *"
-
+    - cron: "13,43 * * * *"
 concurrency:
   group: red-sox-news-rss
   cancel-in-progress: false
