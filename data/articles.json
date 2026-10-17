@@ -1,5 +1,186 @@
 [
   {
+    "id": "20299f496caabc76dd61",
+    "title": "Ceddanne Rafaela, Wilyer Abreu, Caleb Durbin finalists for Gold Glove",
+    "source": "Yahoo Sports",
+    "author": "Dan Secatore",
+    "url": "https://sports.yahoo.com/articles/ceddanne-rafaela-wilyer-abreu-caleb-152551741.html",
+    "published_iso": "2026-10-17T15:25:51+00:00",
+    "published_rfc2822": "Sat, 17 Oct 2026 15:25:51 +0000",
+    "body": "Gold Glove nominations were announced this week, with three Red Sox players landing on the list. You already know exactly who they are, even if you hadn't heard the news: Ceddanne Rafaela, Wilyer Abreu, and Caleb Durbin.\nHaving 33% of your defense made up of young, defensively elite players is a great thing, even if two of those players still have plenty of question marks about their offensive profiles. But will any of them take home the hardware this year, and do any of them have a chance at taking home the Platinum Glove, which goes to the best fielder in each league regardless of position? Let's take a look.\nCeddanne Rafaela\nRafaela and Pete Crowe-Armstong are probably going to battle for the title of Baseball's Best Defensive Centerfielder for the next decade. But for this year at least, PCA finished pretty far out in front by Fielding Run Value, posting a league-leading 26 Outs-above-average compared to Ceddanne's ninth-place (second-place amongst oufielders) 16. But PCA plays in the National League, of course. Ceddy's 16 OAA were tops amongst all AL outfielders, and were third overall in the AL behind two shortstops: Bobby Witt, Jr. (24) and Ezequiel Duran (17).\n'Nuff Cedd made six plays that had a catch probability of 10% or less. Here's the one that required him to cover the most distance in the least amount of time, 76 feet in 4.1 seconds:\nWilyer Abreu\nWilyer Abretu finished with just 2 OAA this year, significantly down from last year's 8 and just 41st among all outfielders. He didn't make a single play with a catch probability below 20%, let alone the several five-percenters that Ceddanne tracked down. But we all know that range isn't Wilyer's best defensive attribute, his arm is. For my money, this is the prettiest throw he uncorked all season:\nSo, with his OAA numbers not looking so hot, Abreu is going to struggle to defend his Gold Glove and has no shot at the Platinum, right? Not so fast.\nOAA is just one of two primary defensive stats currently en vogue amongst people who chatter about baseball on the internet. The other one is Defensive Runs Saved. And guess what? Abreu led all of baseball this year with 28 in that category. He finished 5 DRS ahead of second-place Bryce Turang, 7 ahead of his teammate Ceddanne Rafaela, and a whopping 12 ahead of PCA.\nHow could these two metrics, both of which purport to provide a wholistic measurement of a player's fielding value, be so different and which one is better? Absolutely no one knows! Everyone merely choses which one to use based on which one does a better job proving whatever point they are actively trying to make.\nCaleb Durbin\nDurbin finished the season with 6 OAA. That was significantly behind Manny Machado's league-leading 12 amongst third-sackers, but it was the best mark in the American League at that position, putting the Durbinator in prime position to take home the hardware. As for DRS, he finished 19th in baseball with 13. This was again tops amongst AL third baseman, though behind Alex Bregman and Matt Chapman in the National League.\nHere's what I'd go with as his best play of the year, a diving stop on a ball that left the bat at 105.5 MPH and nearly resulted in a double play:",
+    "article_date": "2026-10-17",
+    "tracked_people": [
+      {
+        "name": "Alex Bregman",
+        "role": "Third Baseman",
+        "status": "Active",
+        "type": "player",
+        "id": 4,
+        "batch": 1
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Ceddanne Rafaela",
+        "role": "Outfielder / Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 32,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Ceddanne Rafaela, Wilyer Abreu, Caleb Durbin finalists for Gold Glove",
+    "original_body": "Gold Glove nominations were announced this week, with three Red Sox players landing on the list. You already know exactly who they are, even if you hadn't heard the news: Ceddanne Rafaela, Wilyer Abreu, and Caleb Durbin.\nHaving 33% of your defense made up of young, defensively elite players is a great thing, even if two of those players still have plenty of question marks about their offensive profiles. But will any of them take home the hardware this year, and do any of them have a chance at taking home the Platinum Glove, which goes to the best fielder in each league regardless of position? Let's take a look.\nCeddanne Rafaela\nRafaela and Pete Crowe-Armstong are probably going to battle for the title of Baseball's Best Defensive Centerfielder for the next decade. But for this year at least, PCA finished pretty far out in front by Fielding Run Value, posting a league-leading 26 Outs-above-average compared to Ceddanne's ninth-place (second-place amongst oufielders) 16. But PCA plays in the National League, of course. Ceddy's 16 OAA were tops amongst all AL outfielders, and were third overall in the AL behind two shortstops: Bobby Witt, Jr. (24) and Ezequiel Duran (17).\n'Nuff Cedd made six plays that had a catch probability of 10% or less. Here's the one that required him to cover the most distance in the least amount of time, 76 feet in 4.1 seconds:\nWilyer Abreu\nWilyer Abretu finished with just 2 OAA this year, significantly down from last year's 8 and just 41st among all outfielders. He didn't make a single play with a catch probability below 20%, let alone the several five-percenters that Ceddanne tracked down. But we all know that range isn't Wilyer's best defensive attribute, his arm is. For my money, this is the prettiest throw he uncorked all season:\nSo, with his OAA numbers not looking so hot, Abreu is going to struggle to defend his Gold Glove and has no shot at the Platinum, right? Not so fast.\nOAA is just one of two primary defensive stats currently en vogue amongst people who chatter about baseball on the internet. The other one is Defensive Runs Saved. And guess what? Abreu led all of baseball this year with 28 in that category. He finished 5 DRS ahead of second-place Bryce Turang, 7 ahead of his teammate Ceddanne Rafaela, and a whopping 12 ahead of PCA.\nHow could these two metrics, both of which purport to provide a wholistic measurement of a player's fielding value, be so different and which one is better? Absolutely no one knows! Everyone merely choses which one to use based on which one does a better job proving whatever point they are actively trying to make.\nCaleb Durbin\nDurbin finished the season with 6 OAA. That was significantly behind Manny Machado's league-leading 12 amongst third-sackers, but it was the best mark in the American League at that position, putting the Durbinator in prime position to take home the hardware. As for DRS, he finished 19th in baseball with 13. This was again tops amongst AL third baseman, though behind Alex Bregman and Matt Chapman in the National League.\nHere's what I'd go with as his best play of the year, a diving stop on a ball that left the bat at 105.5 MPH and nearly resulted in a double play:",
+    "rss_title": "Ceddanne Rafaela, Wilyer Abreu, Caleb Durbin finalists for Gold Glove",
+    "rss_body": "Gold Glove nominations were announced this week, with three Red Sox players landing on the list. You already know exactly who they are, even if you hadn't heard the news: Ceddanne Rafaela, Wilyer Abreu, and Caleb Durbin.\nHaving 33% of your defense made up of young, defensively elite players is a great thing, even if two of those players still have plenty of question marks about their offensive profiles. But will any of them take home the hardware this year, and do any of them have a chance at taking home the Platinum Glove, which goes to the best fielder in each league regardless of position? Let's take a look.\nCeddanne Rafaela\nRafaela and Pete Crowe-Armstong are probably going to battle for the title of Baseball's Best Defensive Centerfielder for the next decade. But for this year at least, PCA finished pretty far out in front by Fielding Run Value, posting a league-leading 26 Outs-above-average compared to Ceddanne's ninth-place (second-place amongst oufielders) 16. But PCA plays in the National League, of course. Ceddy's 16 OAA were tops amongst all AL outfielders, and were third overall in the AL behind two shortstops: Bobby Witt, Jr. (24) and Ezequiel Duran (17).\n'Nuff Cedd made six plays that had a catch probability of 10% or less. Here's the one that required him to cover the most distance in the least amount of time, 76 feet in 4.1 seconds:\nWilyer Abreu\nWilyer Abretu finished with just 2 OAA this year, significantly down from last year's 8 and just 41st among all outfielders. He didn't make a single play with a catch probability below 20%, let alone the several five-percenters that Ceddanne tracked down. But we all know that range isn't Wilyer's best defensive attribute, his arm is. For my money, this is the prettiest throw he uncorked all season:\nSo, with his OAA numbers not looking so hot, Abreu is going to struggle to defend his Gold Glove and has no shot at the Platinum, right? Not so fast.\nOAA is just one of two primary defensive stats currently en vogue amongst people who chatter about baseball on the internet. The other one is Defensive Runs Saved. And guess what? Abreu led all of baseball this year with 28 in that category. He finished 5 DRS ahead of second-place Bryce Turang, 7 ahead of his teammate Ceddanne Rafaela, and a whopping 12 ahead of PCA.\nHow could these two metrics, both of which purport to provide a wholistic measurement of a player's fielding value, be so different and which one is better? Absolutely no one knows! Everyone merely choses which one to use based on which one does a better job proving whatever point they are actively trying to make.\nCaleb Durbin\nDurbin finished the season with 6 OAA. That was significantly behind Manny Machado's league-leading 12 amongst third-sackers, but it was the best mark in the American League at that position, putting the Durbinator in prime position to take home the hardware. As for DRS, he finished 19th in baseball with 13. This was again tops amongst AL third baseman, though behind Alex Bregman and Matt Chapman in the National League.\nHere's what I'd go with as his best play of the year, a diving stop on a ball that left the bat at 105.5 MPH and nearly resulted in a double play:",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "9ee489c24b30258ba196",
+    "title": "Red Sox’s clunky roster could finally force a Masataka Yoshida trade ultimatum",
+    "source": "BoSox Injection",
+    "author": "Katie Manganelli",
+    "url": "https://bosoxinjection.com/red-soxs-clunky-roster-could-finally-force-a-masataka-yoshida-trade-ultimatum",
+    "published_iso": "2026-10-17T15:06:00+00:00",
+    "published_rfc2822": "Sat, 17 Oct 2026 15:06:00 +0000",
+    "body": "Multiple years into an outfield logjam (that's even deeper now following the acquisitions of Eli White and Jahmai Jones), the Boston Red Sox are still far from clearing it. But their second consecutive Wild Card exit at the hands of the New York Yankees demands change in the lineup and trades will be required to make them.\nJarren Duran has long been the odd man out in Boston's outfield — he's yet another lefty with just a few years left on his contract and a history of MVP caliber play to keep suitors interested. As long as Duran has been mentioned in trade rumors, Masataka Yoshida has been right beside him. Before the 2027 campaign begins, the Red Sox must make the move.\nYoshida is entering the final season of the five-year, $90 million contract he signed with the Red Sox before the 2023 season. He's owed over $18 million in his fifth year. Boston might not be able to trade him without eating some of that money, but it needs the roster flexibility more than it needs freed up cash, of which John Henry and Fenway Sports Group have plenty.\nYoshida has been part of the Red Sox's rotating designated hitter setup in the last few years, which largely has not worked. The constant changes in the lineup keep the rotating players from getting daily reps and it keeps the best hitters out of the lineup some days.\nRed Sox's roster is too cluttered to justify keeping Masataka Yoshida on it for another year\nWhen Yoshida is healthy he's a consistent, talented hitter, but he doesn't meet the Red Sox's power needs. He's slashed .280/.339/.420 with 84 doubles, four triples, 34 home runs and 182 RBI over 390 games across parts of four seasons.\nThis year's free agent class is underwhelming. Randy Arozarena and Seiya Suzuki are the top outfield talents. The competition for them is sure to be fierce and result in an overpay for their services. A team in need of a short-term, consistent-hitting outfielder might be more willing to trade for a player like Yoshida as opposed to signing someone for an inflated price off the free agent market.\nIt makes the most sense for the Red Sox to add their power bat in the outfield or in the DH spot. The infield is packed with Caleb Durbin and Willson Contreras, who should be in the lineup as much as possible, Trevor Story, Curtis Mead, top prospect Franklin Arias and others. If the Sox can find a suitor for Yoshida (and for Duran, while they're at it), the DH spot opens for the slugger they desperately need.\nTrading Yoshida is easier said than done given his injury history and defensive struggles in the outfield, but the Red Sox must open his roster spot for a home run threat. Their needs are exceedingly clear and Yoshida doesn't meet them.",
+    "article_date": "2026-10-17",
+    "tracked_people": [
+      {
+        "name": "Willson Contreras",
+        "role": "Catcher / DH",
+        "status": "Active",
+        "type": "player",
+        "id": 3,
+        "batch": 1
+      },
+      {
+        "name": "Trevor Story",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      },
+      {
+        "name": "Eli White",
+        "role": "Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 33,
+        "batch": 2
+      },
+      {
+        "name": "Masataka Yoshida",
+        "role": "Designated Hitter",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 34,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox’s clunky roster could finally force a Masataka Yoshida trade ultimatum",
+    "original_body": "Multiple years into an outfield logjam (that's even deeper now following the acquisitions of Eli White and Jahmai Jones), the Boston Red Sox are still far from clearing it. But their second consecutive Wild Card exit at the hands of the New York Yankees demands change in the lineup and trades will be required to make them.\nJarren Duran has long been the odd man out in Boston's outfield — he's yet another lefty with just a few years left on his contract and a history of MVP caliber play to keep suitors interested. As long as Duran has been mentioned in trade rumors, Masataka Yoshida has been right beside him. Before the 2027 campaign begins, the Red Sox must make the move.\nYoshida is entering the final season of the five-year, $90 million contract he signed with the Red Sox before the 2023 season. He's owed over $18 million in his fifth year. Boston might not be able to trade him without eating some of that money, but it needs the roster flexibility more than it needs freed up cash, of which John Henry and Fenway Sports Group have plenty.\nYoshida has been part of the Red Sox's rotating designated hitter setup in the last few years, which largely has not worked. The constant changes in the lineup keep the rotating players from getting daily reps and it keeps the best hitters out of the lineup some days.\nRed Sox's roster is too cluttered to justify keeping Masataka Yoshida on it for another year\nWhen Yoshida is healthy he's a consistent, talented hitter, but he doesn't meet the Red Sox's power needs. He's slashed .280/.339/.420 with 84 doubles, four triples, 34 home runs and 182 RBI over 390 games across parts of four seasons.\nThis year's free agent class is underwhelming. Randy Arozarena and Seiya Suzuki are the top outfield talents. The competition for them is sure to be fierce and result in an overpay for their services. A team in need of a short-term, consistent-hitting outfielder might be more willing to trade for a player like Yoshida as opposed to signing someone for an inflated price off the free agent market.\nIt makes the most sense for the Red Sox to add their power bat in the outfield or in the DH spot. The infield is packed with Caleb Durbin and Willson Contreras, who should be in the lineup as much as possible, Trevor Story, Curtis Mead, top prospect Franklin Arias and others. If the Sox can find a suitor for Yoshida (and for Duran, while they're at it), the DH spot opens for the slugger they desperately need.\nTrading Yoshida is easier said than done given his injury history and defensive struggles in the outfield, but the Red Sox must open his roster spot for a home run threat. Their needs are exceedingly clear and Yoshida doesn't meet them.",
+    "rss_title": "Red Sox’s clunky roster could finally force a Masataka Yoshida trade ultimatum",
+    "rss_body": "Multiple years into an outfield logjam (that's even deeper now following the acquisitions of Eli White and Jahmai Jones), the Boston Red Sox are still far from clearing it. But their second consecutive Wild Card exit at the hands of the New York Yankees demands change in the lineup and trades will be required to make them.\nJarren Duran has long been the odd man out in Boston's outfield — he's yet another lefty with just a few years left on his contract and a history of MVP caliber play to keep suitors interested. As long as Duran has been mentioned in trade rumors, Masataka Yoshida has been right beside him. Before the 2027 campaign begins, the Red Sox must make the move.\nYoshida is entering the final season of the five-year, $90 million contract he signed with the Red Sox before the 2023 season. He's owed over $18 million in his fifth year. Boston might not be able to trade him without eating some of that money, but it needs the roster flexibility more than it needs freed up cash, of which John Henry and Fenway Sports Group have plenty.\nYoshida has been part of the Red Sox's rotating designated hitter setup in the last few years, which largely has not worked. The constant changes in the lineup keep the rotating players from getting daily reps and it keeps the best hitters out of the lineup some days.\nRed Sox's roster is too cluttered to justify keeping Masataka Yoshida on it for another year\nWhen Yoshida is healthy he's a consistent, talented hitter, but he doesn't meet the Red Sox's power needs. He's slashed .280/.339/.420 with 84 doubles, four triples, 34 home runs and 182 RBI over 390 games across parts of four seasons.\nThis year's free agent class is underwhelming. Randy Arozarena and Seiya Suzuki are the top outfield talents. The competition for them is sure to be fierce and result in an overpay for their services. A team in need of a short-term, consistent-hitting outfielder might be more willing to trade for a player like Yoshida as opposed to signing someone for an inflated price off the free agent market.\nIt makes the most sense for the Red Sox to add their power bat in the outfield or in the DH spot. The infield is packed with Caleb Durbin and Willson Contreras, who should be in the lineup as much as possible, Trevor Story, Curtis Mead, top prospect Franklin Arias and others. If the Sox can find a suitor for Yoshida (and for Duran, while they're at it), the DH spot opens for the slugger they desperately need.\nTrading Yoshida is easier said than done given his injury history and defensive struggles in the outfield, but the Red Sox must open his roster spot for a home run threat. Their needs are exceedingly clear and Yoshida doesn't meet them.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "3d0ab95da42a163a6cba",
+    "title": "Jesús Luzardo's contract looks like a steal before it even begins",
+    "source": "thatballsouttahere.com",
+    "author": "Ben Silver",
+    "url": "https://thatballsouttahere.com/jesus-luzardo-contract-looks-like-a-steal",
+    "published_iso": "2026-10-17T14:45:00+00:00",
+    "published_rfc2822": "Sat, 17 Oct 2026 14:45:00 +0000",
+    "body": "The question marks surrounding Jesús Luzardo when he came to the Phillies were not insignificant. Most trades have to make someone happy, and the Miami Marlins came away from the Luzardo deal having acquired Emaarion Boyd and Starlyn Caba, believing they had given up a volatile, injury-prone player for one lottery ticket in Boyd and a consensus top-100 prospect in Caba.\nWe now know the deal was a coup by the Phillies. Sure, Luzardo had only two years left on his deal, but after the 2025 season, it became clear Caba was not a player to pin the future of a franchise on. Luzardo had shown he could stay healthy for a 162-game season, delivering elite value aside from two shaky starts as the calendar turned from May to June.\nSo, Phillies president Dave Dombrowski took a swing that could turn the deal from a steal to a dud. He inked Luzardo to a five-year, $135 million deal starting in 2027, with a sixth-year team option that could extend into 2032.\nWith the benefit of hindsight, the offer was easy to make. Luzardo had his best season in 2026, posting a 2.86 ERA in 179.2 IP. A line that could have been even better if shoulder stiffness hadn't sidelined him for most of September after a complete-game shutout on Labor Day.\nLuzardo has battled injuries his whole career, some more severe than others. In 2016, he underwent Tommy John surgery. In 2019, with plans to make his Major League debut in just a few weeks, he strained his lat. In 2021, he fractured his pinky by slamming his hand on a table while playing video games. In 2022, a left forearm strain put Luzardo out of the Marlins rotation for 82 days in the middle of summer. In 2024, he was placed on the IL with a lumbar stress reaction in June that caused him to miss the remainder of the season.\nThe Phillies have been remarkably lucky with his health, a testament to their training staff led by Paul Buchheit. It has allowed Luzardo to reach his full potential, building on his start-after-start success since pitching coach Caleb Cotham helped him add a sweeper to his repertoire in 2025. It’s since become his best pitch.\nIn 2026, Baseball Savant ranked Luzardo’s sweeper the best in MLB by run value. The pitch was worth 23 runs; the next best, Shohei Ohtani’s, was worth only 12.\nThe Phillies are thankful Luzardo never hit the open market\nEarning $27 million a year to pitch at his level is a near anomaly. When a starting pitcher of Luzardo’s caliber hits the open market, they typically make over $200 million. Last offseason, the Toronto Blue Jays signed Dylan Cease to a seven-year, $210 million deal after a campaign in which he posted a 4.55 ERA. In 2025, Max Fried signed an eight-year, $218 million deal with the Yankees. At the time, he was a year older than Luzardo and coming off a 2.86 ERA season. That same year, the oft-injured Blake Snell signed a $36.4 million-per-year deal with the Los Angeles Dodgers; he had a 3.12 ERA in 2024. In fact, we need only look at Aaron Nola to really understand how pitchers are valued. Dombrowski signed him to a seven-year/$172 million deal before 2024. The prior year, Nola pitched to a 4.46 ERA.\nThe best comparison for an extension of Luzardo’s ilk also comes from the Phillies. After a Cy Young runner-up season, Sanchez signed a six-year/$104 million contract with the club.\nBetween him and Luzardo, the Phillies have two of the sport’s best pitchers, in their primes, locked up on team-friendly deals.\nThe team has pulled off the same sort of team-friendly extension twice for a reason. Between pitching coach Caleb Cotham's fantastic work and the Phillies' perennial contender status, pitchers want to compete in Philadelphia. Say what you will about the offense, but across the league, players know that coming to the Phillies is a surefire way to get coaching that can spark a career resurgence. The evidence is all there: look at Tim Mayza or Jeff Hoffman, Matt Strahm or Alex MacFarlane, Zack Wheeler or Tanner Banks, and, of course, Jesús Luzardo.",
+    "article_date": "2026-10-17",
+    "tracked_people": [
+      {
+        "name": "Cy Young",
+        "role": "Legend / Hall of Famer",
+        "status": "Franchise Legacy",
+        "type": "legend",
+        "id": 59,
+        "batch": 2
+      }
+    ],
+    "source_languages": [
+      "English"
+    ],
+    "source_countries": [
+      "United States"
+    ],
+    "discovery_sources": [
+      "GDELT"
+    ],
+    "original_title": "Jesús Luzardo's contract looks like a steal before it even begins",
+    "original_body": "The question marks surrounding Jesús Luzardo when he came to the Phillies were not insignificant. Most trades have to make someone happy, and the Miami Marlins came away from the Luzardo deal having acquired Emaarion Boyd and Starlyn Caba, believing they had given up a volatile, injury-prone player for one lottery ticket in Boyd and a consensus top-100 prospect in Caba.\nWe now know the deal was a coup by the Phillies. Sure, Luzardo had only two years left on his deal, but after the 2025 season, it became clear Caba was not a player to pin the future of a franchise on. Luzardo had shown he could stay healthy for a 162-game season, delivering elite value aside from two shaky starts as the calendar turned from May to June.\nSo, Phillies president Dave Dombrowski took a swing that could turn the deal from a steal to a dud. He inked Luzardo to a five-year, $135 million deal starting in 2027, with a sixth-year team option that could extend into 2032.\nWith the benefit of hindsight, the offer was easy to make. Luzardo had his best season in 2026, posting a 2.86 ERA in 179.2 IP. A line that could have been even better if shoulder stiffness hadn't sidelined him for most of September after a complete-game shutout on Labor Day.\nLuzardo has battled injuries his whole career, some more severe than others. In 2016, he underwent Tommy John surgery. In 2019, with plans to make his Major League debut in just a few weeks, he strained his lat. In 2021, he fractured his pinky by slamming his hand on a table while playing video games. In 2022, a left forearm strain put Luzardo out of the Marlins rotation for 82 days in the middle of summer. In 2024, he was placed on the IL with a lumbar stress reaction in June that caused him to miss the remainder of the season.\nThe Phillies have been remarkably lucky with his health, a testament to their training staff led by Paul Buchheit. It has allowed Luzardo to reach his full potential, building on his start-after-start success since pitching coach Caleb Cotham helped him add a sweeper to his repertoire in 2025. It’s since become his best pitch.\nIn 2026, Baseball Savant ranked Luzardo’s sweeper the best in MLB by run value. The pitch was worth 23 runs; the next best, Shohei Ohtani’s, was worth only 12.\nThe Phillies are thankful Luzardo never hit the open market\nEarning $27 million a year to pitch at his level is a near anomaly. When a starting pitcher of Luzardo’s caliber hits the open market, they typically make over $200 million. Last offseason, the Toronto Blue Jays signed Dylan Cease to a seven-year, $210 million deal after a campaign in which he posted a 4.55 ERA. In 2025, Max Fried signed an eight-year, $218 million deal with the Yankees. At the time, he was a year older than Luzardo and coming off a 2.86 ERA season. That same year, the oft-injured Blake Snell signed a $36.4 million-per-year deal with the Los Angeles Dodgers; he had a 3.12 ERA in 2024. In fact, we need only look at Aaron Nola to really understand how pitchers are valued. Dombrowski signed him to a seven-year/$172 million deal before 2024. The prior year, Nola pitched to a 4.46 ERA.\nThe best comparison for an extension of Luzardo’s ilk also comes from the Phillies. After a Cy Young runner-up season, Sanchez signed a six-year/$104 million contract with the club.\nBetween him and Luzardo, the Phillies have two of the sport’s best pitchers, in their primes, locked up on team-friendly deals.\nThe team has pulled off the same sort of team-friendly extension twice for a reason. Between pitching coach Caleb Cotham's fantastic work and the Phillies' perennial contender status, pitchers want to compete in Philadelphia. Say what you will about the offense, but across the league, players know that coming to the Phillies is a surefire way to get coaching that can spark a career resurgence. The evidence is all there: look at Tim Mayza or Jeff Hoffman, Matt Strahm or Alex MacFarlane, Zack Wheeler or Tanner Banks, and, of course, Jesús Luzardo.",
+    "rss_title": "Jesús Luzardo's contract looks like a steal before it even begins",
+    "rss_body": "The question marks surrounding Jesús Luzardo when he came to the Phillies were not insignificant. Most trades have to make someone happy, and the Miami Marlins came away from the Luzardo deal having acquired Emaarion Boyd and Starlyn Caba, believing they had given up a volatile, injury-prone player for one lottery ticket in Boyd and a consensus top-100 prospect in Caba.\nWe now know the deal was a coup by the Phillies. Sure, Luzardo had only two years left on his deal, but after the 2025 season, it became clear Caba was not a player to pin the future of a franchise on. Luzardo had shown he could stay healthy for a 162-game season, delivering elite value aside from two shaky starts as the calendar turned from May to June.\nSo, Phillies president Dave Dombrowski took a swing that could turn the deal from a steal to a dud. He inked Luzardo to a five-year, $135 million deal starting in 2027, with a sixth-year team option that could extend into 2032.\nWith the benefit of hindsight, the offer was easy to make. Luzardo had his best season in 2026, posting a 2.86 ERA in 179.2 IP. A line that could have been even better if shoulder stiffness hadn't sidelined him for most of September after a complete-game shutout on Labor Day.\nLuzardo has battled injuries his whole career, some more severe than others. In 2016, he underwent Tommy John surgery. In 2019, with plans to make his Major League debut in just a few weeks, he strained his lat. In 2021, he fractured his pinky by slamming his hand on a table while playing video games. In 2022, a left forearm strain put Luzardo out of the Marlins rotation for 82 days in the middle of summer. In 2024, he was placed on the IL with a lumbar stress reaction in June that caused him to miss the remainder of the season.\nThe Phillies have been remarkably lucky with his health, a testament to their training staff led by Paul Buchheit. It has allowed Luzardo to reach his full potential, building on his start-after-start success since pitching coach Caleb Cotham helped him add a sweeper to his repertoire in 2025. It’s since become his best pitch.\nIn 2026, Baseball Savant ranked Luzardo’s sweeper the best in MLB by run value. The pitch was worth 23 runs; the next best, Shohei Ohtani’s, was worth only 12.\nThe Phillies are thankful Luzardo never hit the open market\nEarning $27 million a year to pitch at his level is a near anomaly. When a starting pitcher of Luzardo’s caliber hits the open market, they typically make over $200 million. Last offseason, the Toronto Blue Jays signed Dylan Cease to a seven-year, $210 million deal after a campaign in which he posted a 4.55 ERA. In 2025, Max Fried signed an eight-year, $218 million deal with the Yankees. At the time, he was a year older than Luzardo and coming off a 2.86 ERA season. That same year, the oft-injured Blake Snell signed a $36.4 million-per-year deal with the Los Angeles Dodgers; he had a 3.12 ERA in 2024. In fact, we need only look at Aaron Nola to really understand how pitchers are valued. Dombrowski signed him to a seven-year/$172 million deal before 2024. The prior year, Nola pitched to a 4.46 ERA.\nThe best comparison for an extension of Luzardo’s ilk also comes from the Phillies. After a Cy Young runner-up season, Sanchez signed a six-year/$104 million contract with the club.\nBetween him and Luzardo, the Phillies have two of the sport’s best pitchers, in their primes, locked up on team-friendly deals.\nThe team has pulled off the same sort of team-friendly extension twice for a reason. Between pitching coach Caleb Cotham's fantastic work and the Phillies' perennial contender status, pitchers want to compete in Philadelphia. Say what you will about the offense, but across the league, players know that coming to the Phillies is a surefire way to get coaching that can spark a career resurgence. The evidence is all there: look at Tim Mayza or Jeff Hoffman, Matt Strahm or Alex MacFarlane, Zack Wheeler or Tanner Banks, and, of course, Jesús Luzardo.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "2b66cf13ff6a56a4ab8e",
     "title": "10 of the most iconic mustaches in Red Sox history as Payton Tolle keeps the tradition going",
     "source": "BoSox Injection",
