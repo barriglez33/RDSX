@@ -1,5 +1,71 @@
 [
   {
+    "id": "ee5f37ffa6882ee433fd",
+    "title": "Tigers to acquire Tsung-Che Cheng from Red Sox",
+    "source": "NBC Sports",
+    "author": "David Shovein; Tsung-Che Cheng",
+    "url": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-10-29/tigers-to-acquire-tsung-che-cheng-from-red-sox",
+    "published_iso": "2026-10-30T06:11:15+00:00",
+    "published_rfc2822": "Fri, 30 Oct 2026 06:11:15 +0000",
+    "body": "Andrew Parker of Sox Prospects reports that the Tigers will acquire infielder Tsung-Che Cheng from the Red Sox for cash considerations.\n            \n                The deal won’t be made official until the Tigers clear the requisite room on their 40-man roster which could take a day or two. Cheng, 25, appeared in 14 games with the Red Sox in 2026, slashing .256/.318/.282 with zero homers and five RBI in 44 plate appearances. He’ll add infield depth for the Tigers.",
+    "article_date": "2026-10-29",
+    "tracked_people": [
+      {
+        "name": "Tsung-Che Cheng",
+        "role": "Infielder",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 47,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Tigers to acquire Tsung-Che Cheng from Red Sox",
+    "original_body": "Andrew Parker of Sox Prospects reports that the Tigers will acquire infielder Tsung-Che Cheng from the Red Sox for cash considerations.\n            \n                The deal won’t be made official until the Tigers clear the requisite room on their 40-man roster which could take a day or two. Cheng, 25, appeared in 14 games with the Red Sox in 2026, slashing .256/.318/.282 with zero homers and five RBI in 44 plate appearances. He’ll add infield depth for the Tigers.",
+    "rss_title": "Tigers to acquire Tsung-Che Cheng from Red Sox",
+    "rss_body": "Andrew Parker of Sox Prospects reports that the Tigers will acquire infielder Tsung-Che Cheng from the Red Sox for cash considerations.\n            \n                The deal won’t be made official until the Tigers clear the requisite room on their 40-man roster which could take a day or two. Cheng, 25, appeared in 14 games with the Red Sox in 2026, slashing .256/.318/.282 with zero homers and five RBI in 44 plate appearances. He’ll add infield depth for the Tigers.",
+    "translation_status": "fallback_original"
+  },
+  {
+    "id": "95a2e49d595c8b6111e7",
+    "title": "レッドソックスがオフ初日にトレードで２選手放出 吉田正尚も放出有力と地元メディア - ＭＬＢ : 日刊スポーツ",
+    "source": "日刊スポーツ",
+    "author": "",
+    "url": "https://www.nikkansports.com/m/baseball/mlb/news/202610300000549_m.html",
+    "published_iso": "2026-10-30T04:30:46+00:00",
+    "published_rfc2822": "Fri, 30 Oct 2026 04:30:46 +0000",
+    "body": "レッドソックスが29日（日本時間30日）、ワールドシリーズ終了から一夜明けたオフシーズン初日に複数の選手をトレードで放出し、来季に向けた編成に素早く動いた。台湾出身で今季がメジャー2年目の鄭宗哲内野手（25）をタイガースへ、ネート・イートン外野手（29）をアスレチックスに放出。鄭宗哲の交換は金銭、イートンの交換はマイナーの18歳右腕と発表された。鄭宗哲は今季メジャーで14試合に出場し、打率2割5分6厘、5打点。イートンは24試合に出場し、打率1割6厘、1本塁打、6打点だった。\nレッドソックスは今季87勝75敗、ア・リーグ東地区3位でワイルドカードでポストシーズンに進出。ワイルドカードシリーズでヤンキースに2連敗し、敗退した。今オフはさらなる上を目指し戦力強化に動くとみられているが、ボストンの地元メディアでは、左太もも裏を痛め今季87試合の出場にとどまった吉田正尚外野手（33）のトレード放出も濃厚だと伝えられている。地元メディア「マスライブ」のクリス・コーティロ記者は記事で「来季が契約最終年のヨシダはチームを去る可能性が高い。選手としての価値がないわけではないが、レッドソックスにはフィットしない。トレードを模索するか、契約を解除するのではないか」と指摘している。",
+    "article_date": "2026-10-30",
+    "tracked_people": [
+      {
+        "name": "Masataka Yoshida",
+        "role": "Designated Hitter",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 34,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "Japan Japanese"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "レッドソックスがオフ初日にトレードで２選手放出 吉田正尚も放出有力と地元メディア - ＭＬＢ : 日刊スポーツ",
+    "original_body": "レッドソックスが29日（日本時間30日）、ワールドシリーズ終了から一夜明けたオフシーズン初日に複数の選手をトレードで放出し、来季に向けた編成に素早く動いた。台湾出身で今季がメジャー2年目の鄭宗哲内野手（25）をタイガースへ、ネート・イートン外野手（29）をアスレチックスに放出。鄭宗哲の交換は金銭、イートンの交換はマイナーの18歳右腕と発表された。鄭宗哲は今季メジャーで14試合に出場し、打率2割5分6厘、5打点。イートンは24試合に出場し、打率1割6厘、1本塁打、6打点だった。\nレッドソックスは今季87勝75敗、ア・リーグ東地区3位でワイルドカードでポストシーズンに進出。ワイルドカードシリーズでヤンキースに2連敗し、敗退した。今オフはさらなる上を目指し戦力強化に動くとみられているが、ボストンの地元メディアでは、左太もも裏を痛め今季87試合の出場にとどまった吉田正尚外野手（33）のトレード放出も濃厚だと伝えられている。地元メディア「マスライブ」のクリス・コーティロ記者は記事で「来季が契約最終年のヨシダはチームを去る可能性が高い。選手としての価値がないわけではないが、レッドソックスにはフィットしない。トレードを模索するか、契約を解除するのではないか」と指摘している。",
+    "rss_title": "レッドソックスがオフ初日にトレードで２選手放出 吉田正尚も放出有力と地元メディア - ＭＬＢ : 日刊スポーツ",
+    "rss_body": "レッドソックスが29日（日本時間30日）、ワールドシリーズ終了から一夜明けたオフシーズン初日に複数の選手をトレードで放出し、来季に向けた編成に素早く動いた。台湾出身で今季がメジャー2年目の鄭宗哲内野手（25）をタイガースへ、ネート・イートン外野手（29）をアスレチックスに放出。鄭宗哲の交換は金銭、イートンの交換はマイナーの18歳右腕と発表された。鄭宗哲は今季メジャーで14試合に出場し、打率2割5分6厘、5打点。イートンは24試合に出場し、打率1割6厘、1本塁打、6打点だった。\nレッドソックスは今季87勝75敗、ア・リーグ東地区3位でワイルドカードでポストシーズンに進出。ワイルドカードシリーズでヤンキースに2連敗し、敗退した。今オフはさらなる上を目指し戦力強化に動くとみられているが、ボストンの地元メディアでは、左太もも裏を痛め今季87試合の出場にとどまった吉田正尚外野手（33）のトレード放出も濃厚だと伝えられている。地元メディア「マスライブ」のクリス・コーティロ記者は記事で「来季が契約最終年のヨシダはチームを去る可能性が高い。選手としての価値がないわけではないが、レッドソックスにはフィットしない。トレードを模索するか、契約を解除するのではないか」と指摘している。",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "259af22c1982d7a76d9d",
     "title": "Caleb Durbin undergoes second offseason surgery, this time on the Red Sox third baseman’s right foot - The Boston Globe",
     "source": "The Boston Globe",
