@@ -1,5 +1,102 @@
 [
   {
+    "id": "92e33d59153f2f98f46d",
+    "title": "After abbreviated runs in 2026, could deadline pickups Adley Rutschman, Curtis Mead be big 2027 solution for Red Sox? - The Boston Globe",
+    "source": "The Boston Globe",
+    "author": "Peter Abraham",
+    "url": "https://www.bostonglobe.com/2026/11/11/sports/red-sox-adley-rustchman-curtis-mead/",
+    "published_iso": "2026-11-11T08:51:37+00:00",
+    "published_rfc2822": "Wed, 11 Nov 2026 08:51:37 +0000",
+    "body": "LAS VEGAS — The Red Sox may have already made their big moves ahead of the 2027 season. They happened last summer with the acquisitions of Curtis Mead and Adley Rutschman.\nBy trading lefthander Connelly Early to the Nationals for Mead and prized pitching prospects Anthony Eyanson and Kyson Witherspoon to the Orioles for Rutschman, the Sox filled two big gaps in their roster.\nTrading for Rutschman was a particularly seismic move, given how rarely a 28-year-old switch-hitting All-Star catcher hits the market. But the Sox were nearly as enthused about the 27-year-old Mead, who had an .852 OPS at the time of the trade.\n“We were in sell mode going into the deadline, and the Red Sox were very aggressive,” Orioles president of baseball operations Mike Elias said Tuesday at the General Managers Meetings. “It’s understandable when you’re talking about a player like Adley.”\nThat the Rays and Yankees were also in the market for a catcher played in Baltimore’s favor.\nMead was hit by a pitch in his first game with the Sox, fractured his left wrist, and missed the rest of the season. Rutschman, who was on the injured list at the time of the trade, didn’t make his debut with the Sox until eight days later and played only 32 games.\nThe Sox are eager to see what they add over more than a few months.\n“I don’t want to discount what a full season of Mead, a full season from Adley can bring,” chief baseball officer Craig Breslow said.\nSox pitchers had a 3.17 ERA in the 28 games Rutschman started behind the plate. The other four catchers they used — Mickey Gasper, Carlos Narváez, Jake Rogers, and Connor Wong — had a 3.81 ERA.\nBreslow said the team’s internal metrics also showed Rutschman having a positive impact on the staff.\n“I don’t know exactly how I would quantify that because we had a really good pitching staff before the trade and we were a really good pitching staff after,” Breslow said.\n“But when you talk to the coaches, you talk to our pitchers, they loved him. I think there’s a very calming, confident presence he brings. Defensively, from a technical standpoint, he’s so elite.”\nMead was a journeyman who hit .238 with a .617 OPS and five home runs over 152 games from 2023-25. The Nationals unlocked his power with changes to his swing and approach.\nWashington general manager Paul Toboni believes what Mead showed last season is sustainable.\n“There were extended windows where he was making better contact and not chasing as much,” Toboni said. “Defensively, I think he did some really good stuff, too. I would categorize them as changes that I think are going to stick over time.\n“I’m hopeful they do because I freaking love that dude. He was a really difficult one for us [to trade] because of what he meant to our team.”\nBut the Nationals were rebuilding and coveted pitching. Toboni, who left the Red Sox for the Nationals, viewed the 24-year-old Early as a rotation cornerstone.\nLike Mead, an injury limited Early to one game after the trade. The Nationals, like the Sox, believe the benefits will come next season.\nThat’s not to say the Sox will sit out the winter. They could make their roster more functional by trading Jarren Duran, Trevor Story, or Masataka Yoshida.\nIt would also be wise to improve their rotation depth given the expected loss of free agent Sonny Gray, who had a 2.72 earned run average over a staff-high 169 innings.\nThe Sox also could look for a better-hitting backup catcher than Connor Wong, who has a .586 OPS over the last two seasons. But given the dearth of catchers who can contribute offensively, that’s no easy task.\nPerhaps the biggest move the Sox could make this offseason would be to sign Rutschman to an extension. He is entering his final season of arbitration eligibility and is projected to make $9.1 million next season.\nBreslow gave an expected answer when asked about that possibility.\n“Those are conversations that we’ll keep to ourselves,” he said.\nFair enough. But retaining Rutschman beyond 2027 — particularly if it’s a shortened season given the upcoming lockout — almost becomes a necessity, given the high price the Sox paid for him.\nPeter Abraham can be reached at peter.abraham@globe.com. Follow him on Bluesky at peteabeglobe.bsky.social.",
+    "article_date": "2026-11-11",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Connor Wong",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 2,
+        "batch": 1
+      },
+      {
+        "name": "Trevor Story",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 5,
+        "batch": 1
+      },
+      {
+        "name": "Mickey Gasper",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 10,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Sonny Gray",
+        "role": "Starting Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 17,
+        "batch": 1
+      },
+      {
+        "name": "Curtis Mead",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 30,
+        "batch": 1
+      },
+      {
+        "name": "Masataka Yoshida",
+        "role": "Designated Hitter",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 34,
+        "batch": 2
+      },
+      {
+        "name": "Craig Breslow",
+        "role": "Chief Baseball Officer",
+        "status": "Front Office",
+        "type": "staff",
+        "id": 50,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "After abbreviated runs in 2026, could deadline pickups Adley Rutschman, Curtis Mead be big 2027 solution for Red Sox? - The Boston Globe",
+    "original_body": "LAS VEGAS — The Red Sox may have already made their big moves ahead of the 2027 season. They happened last summer with the acquisitions of Curtis Mead and Adley Rutschman.\nBy trading lefthander Connelly Early to the Nationals for Mead and prized pitching prospects Anthony Eyanson and Kyson Witherspoon to the Orioles for Rutschman, the Sox filled two big gaps in their roster.\nTrading for Rutschman was a particularly seismic move, given how rarely a 28-year-old switch-hitting All-Star catcher hits the market. But the Sox were nearly as enthused about the 27-year-old Mead, who had an .852 OPS at the time of the trade.\n“We were in sell mode going into the deadline, and the Red Sox were very aggressive,” Orioles president of baseball operations Mike Elias said Tuesday at the General Managers Meetings. “It’s understandable when you’re talking about a player like Adley.”\nThat the Rays and Yankees were also in the market for a catcher played in Baltimore’s favor.\nMead was hit by a pitch in his first game with the Sox, fractured his left wrist, and missed the rest of the season. Rutschman, who was on the injured list at the time of the trade, didn’t make his debut with the Sox until eight days later and played only 32 games.\nThe Sox are eager to see what they add over more than a few months.\n“I don’t want to discount what a full season of Mead, a full season from Adley can bring,” chief baseball officer Craig Breslow said.\nSox pitchers had a 3.17 ERA in the 28 games Rutschman started behind the plate. The other four catchers they used — Mickey Gasper, Carlos Narváez, Jake Rogers, and Connor Wong — had a 3.81 ERA.\nBreslow said the team’s internal metrics also showed Rutschman having a positive impact on the staff.\n“I don’t know exactly how I would quantify that because we had a really good pitching staff before the trade and we were a really good pitching staff after,” Breslow said.\n“But when you talk to the coaches, you talk to our pitchers, they loved him. I think there’s a very calming, confident presence he brings. Defensively, from a technical standpoint, he’s so elite.”\nMead was a journeyman who hit .238 with a .617 OPS and five home runs over 152 games from 2023-25. The Nationals unlocked his power with changes to his swing and approach.\nWashington general manager Paul Toboni believes what Mead showed last season is sustainable.\n“There were extended windows where he was making better contact and not chasing as much,” Toboni said. “Defensively, I think he did some really good stuff, too. I would categorize them as changes that I think are going to stick over time.\n“I’m hopeful they do because I freaking love that dude. He was a really difficult one for us [to trade] because of what he meant to our team.”\nBut the Nationals were rebuilding and coveted pitching. Toboni, who left the Red Sox for the Nationals, viewed the 24-year-old Early as a rotation cornerstone.\nLike Mead, an injury limited Early to one game after the trade. The Nationals, like the Sox, believe the benefits will come next season.\nThat’s not to say the Sox will sit out the winter. They could make their roster more functional by trading Jarren Duran, Trevor Story, or Masataka Yoshida.\nIt would also be wise to improve their rotation depth given the expected loss of free agent Sonny Gray, who had a 2.72 earned run average over a staff-high 169 innings.\nThe Sox also could look for a better-hitting backup catcher than Connor Wong, who has a .586 OPS over the last two seasons. But given the dearth of catchers who can contribute offensively, that’s no easy task.\nPerhaps the biggest move the Sox could make this offseason would be to sign Rutschman to an extension. He is entering his final season of arbitration eligibility and is projected to make $9.1 million next season.\nBreslow gave an expected answer when asked about that possibility.\n“Those are conversations that we’ll keep to ourselves,” he said.\nFair enough. But retaining Rutschman beyond 2027 — particularly if it’s a shortened season given the upcoming lockout — almost becomes a necessity, given the high price the Sox paid for him.\nPeter Abraham can be reached at peter.abraham@globe.com. Follow him on Bluesky at peteabeglobe.bsky.social.",
+    "rss_title": "After abbreviated runs in 2026, could deadline pickups Adley Rutschman, Curtis Mead be big 2027 solution for Red Sox? - The Boston Globe",
+    "rss_body": "LAS VEGAS — The Red Sox may have already made their big moves ahead of the 2027 season. They happened last summer with the acquisitions of Curtis Mead and Adley Rutschman.\nBy trading lefthander Connelly Early to the Nationals for Mead and prized pitching prospects Anthony Eyanson and Kyson Witherspoon to the Orioles for Rutschman, the Sox filled two big gaps in their roster.\nTrading for Rutschman was a particularly seismic move, given how rarely a 28-year-old switch-hitting All-Star catcher hits the market. But the Sox were nearly as enthused about the 27-year-old Mead, who had an .852 OPS at the time of the trade.\n“We were in sell mode going into the deadline, and the Red Sox were very aggressive,” Orioles president of baseball operations Mike Elias said Tuesday at the General Managers Meetings. “It’s understandable when you’re talking about a player like Adley.”\nThat the Rays and Yankees were also in the market for a catcher played in Baltimore’s favor.\nMead was hit by a pitch in his first game with the Sox, fractured his left wrist, and missed the rest of the season. Rutschman, who was on the injured list at the time of the trade, didn’t make his debut with the Sox until eight days later and played only 32 games.\nThe Sox are eager to see what they add over more than a few months.\n“I don’t want to discount what a full season of Mead, a full season from Adley can bring,” chief baseball officer Craig Breslow said.\nSox pitchers had a 3.17 ERA in the 28 games Rutschman started behind the plate. The other four catchers they used — Mickey Gasper, Carlos Narváez, Jake Rogers, and Connor Wong — had a 3.81 ERA.\nBreslow said the team’s internal metrics also showed Rutschman having a positive impact on the staff.\n“I don’t know exactly how I would quantify that because we had a really good pitching staff before the trade and we were a really good pitching staff after,” Breslow said.\n“But when you talk to the coaches, you talk to our pitchers, they loved him. I think there’s a very calming, confident presence he brings. Defensively, from a technical standpoint, he’s so elite.”\nMead was a journeyman who hit .238 with a .617 OPS and five home runs over 152 games from 2023-25. The Nationals unlocked his power with changes to his swing and approach.\nWashington general manager Paul Toboni believes what Mead showed last season is sustainable.\n“There were extended windows where he was making better contact and not chasing as much,” Toboni said. “Defensively, I think he did some really good stuff, too. I would categorize them as changes that I think are going to stick over time.\n“I’m hopeful they do because I freaking love that dude. He was a really difficult one for us [to trade] because of what he meant to our team.”\nBut the Nationals were rebuilding and coveted pitching. Toboni, who left the Red Sox for the Nationals, viewed the 24-year-old Early as a rotation cornerstone.\nLike Mead, an injury limited Early to one game after the trade. The Nationals, like the Sox, believe the benefits will come next season.\nThat’s not to say the Sox will sit out the winter. They could make their roster more functional by trading Jarren Duran, Trevor Story, or Masataka Yoshida.\nIt would also be wise to improve their rotation depth given the expected loss of free agent Sonny Gray, who had a 2.72 earned run average over a staff-high 169 innings.\nThe Sox also could look for a better-hitting backup catcher than Connor Wong, who has a .586 OPS over the last two seasons. But given the dearth of catchers who can contribute offensively, that’s no easy task.\nPerhaps the biggest move the Sox could make this offseason would be to sign Rutschman to an extension. He is entering his final season of arbitration eligibility and is projected to make $9.1 million next season.\nBreslow gave an expected answer when asked about that possibility.\n“Those are conversations that we’ll keep to ourselves,” he said.\nFair enough. But retaining Rutschman beyond 2027 — particularly if it’s a shortened season given the upcoming lockout — almost becomes a necessity, given the high price the Sox paid for him.\nPeter Abraham can be reached at peter.abraham@globe.com. Follow him on Bluesky at peteabeglobe.bsky.social.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "bb6f35d5039c57d34376",
     "title": "System thinned by last season’s big trade swings could be limit on Craig Breslow, Red Sox this winter - The Boston Globe",
     "source": "The Boston Globe",
