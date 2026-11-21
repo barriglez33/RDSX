@@ -1,5 +1,174 @@
 [
   {
+    "id": "2db947adbc8be0238717",
+    "title": "Red Sox sign 4 players, tender contracts to Duran, Rutschman and more",
+    "source": "MLB.com",
+    "author": "Ian Browne",
+    "url": "https://www.mlb.com/news/red-sox-2026-non-tender-deadline-decisions",
+    "published_iso": "2026-11-21T12:40:19+00:00",
+    "published_rfc2822": "Sat, 21 Nov 2026 12:40:19 +0000",
+    "body": "BOSTON -- Hours in advance of Friday’s non-tender deadline, the Red Sox avoided the arbitration process with Andruw Monasterio, Jahmai Jones, Eli White and Romy Gonzalez, agreeing to one-year deals with the quartet of position players.\nThat list included some significant names, including outfielder Jarren Duran, catcher Adley Rutschman, right fielder Wilyer Abreu and righty reliever Tyron Guerrero.\nBoston also tendered contracts to RHP Tanner Houck, RHP Kutter Crawford, 1B Triston Casas, RHP Greg Weissert, LHP Erik Miller and RHP Justin Slaten.\nThough the Red Sox held on to Duran, there has been considerable speculation the outfielder will be dealt at some point this offseason due to a logjam created when the club recently signed free agent Jake Bauers to a four-year, $58-million contract.\nBauers is expected to get the bulk of starts at DH, with Roman Anthony becoming the club’s primary left fielder. Duran has made most of his starts in left field the last two seasons.\nThe four players who agreed to one-year deals on Friday could represent a significant portion of manager Chad Tracy’s bench options in ‘27.\nUtility infielder Monasterio, who stepped up with some big moments during Boston’s midseason surge in ‘26, signed for $1.655 million.\nGonzalez, a key contributor in ‘24-25 against lefties, had a tough ‘26 due to injuries, and played more games for Triple-A Worcester than the Red Sox. He agreed to a $1.4 million pact.\nWhite, a speedy backup outfielder who came to Boston from Atlanta at the Aug. 3 Trade Deadline, reached an agreement on a $1.325 million contract.\nJones, who mashed lefties after being acquired from the Tigers at the All-Star break, signed for $950,000.\nThe 29-year-old Monasterio played a career-high 107 games for the Red Sox in ‘26, starting 51 games at shortstop, 10 at DH, nine at second base and three at first base. He hit .233 with 23 doubles, one triple, six homers and 43 RBIs. Monasterio came to Boston on the eve of Spring Training in a deal with the Brewers that also included Caleb Durbin and Anthony Seigler.\nIt was hard to know what the Sox could expect from Jones, considering he struggled mightily in 105 plate appearances (.440 OPS) before getting designated for assignment by Detroit. But he turned things around in dramatic fashion for the Red Sox, hitting .308 with four homers and a .993 OPS in 76 plate appearances.\nThe ‘26 season started as an uphill climb for Gonzalez, who underwent left shoulder surgery in Spring Training that pushed his season debut back to June 28. Gonzalez struggled to regain his timing in a 19-game stint with the Red Sox, hitting .185 with a homer and seven RBIs.",
+    "article_date": "2026-11-20",
+    "tracked_people": [
+      {
+        "name": "Adley Rutschman",
+        "role": "Catcher",
+        "status": "Active",
+        "type": "player",
+        "id": 1,
+        "batch": 1
+      },
+      {
+        "name": "Andruw Monasterio",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 7,
+        "batch": 1
+      },
+      {
+        "name": "Caleb Durbin",
+        "role": "Infielder",
+        "status": "Active",
+        "type": "player",
+        "id": 9,
+        "batch": 1
+      },
+      {
+        "name": "Jahmai Jones",
+        "role": "Designated Hitter",
+        "status": "Active",
+        "type": "player",
+        "id": 11,
+        "batch": 1
+      },
+      {
+        "name": "Roman Anthony",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 12,
+        "batch": 1
+      },
+      {
+        "name": "Wilyer Abreu",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 13,
+        "batch": 1
+      },
+      {
+        "name": "Jarren Duran",
+        "role": "Outfielder",
+        "status": "Active",
+        "type": "player",
+        "id": 14,
+        "batch": 1
+      },
+      {
+        "name": "Erik Miller",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 24,
+        "batch": 1
+      },
+      {
+        "name": "Greg Weissert",
+        "role": "Pitcher",
+        "status": "Active",
+        "type": "player",
+        "id": 27,
+        "batch": 1
+      },
+      {
+        "name": "Anthony Seigler",
+        "role": "Infielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 31,
+        "batch": 2
+      },
+      {
+        "name": "Eli White",
+        "role": "Outfielder",
+        "status": "10-day Injured List",
+        "type": "player",
+        "id": 33,
+        "batch": 2
+      },
+      {
+        "name": "Tyron Guerrero",
+        "role": "Pitcher",
+        "status": "15-day Injured List",
+        "type": "player",
+        "id": 35,
+        "batch": 2
+      },
+      {
+        "name": "Justin Slaten",
+        "role": "Pitcher",
+        "status": "15-day Injured List",
+        "type": "player",
+        "id": 36,
+        "batch": 2
+      },
+      {
+        "name": "Triston Casas",
+        "role": "Infielder",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 37,
+        "batch": 2
+      },
+      {
+        "name": "Kutter Crawford",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 38,
+        "batch": 2
+      },
+      {
+        "name": "Tanner Houck",
+        "role": "Pitcher",
+        "status": "60-day Injured List",
+        "type": "player",
+        "id": 40,
+        "batch": 2
+      },
+      {
+        "name": "Romy Gonzalez",
+        "role": "Designated Hitter",
+        "status": "Minor Leagues",
+        "type": "prospect",
+        "id": 48,
+        "batch": 2
+      },
+      {
+        "name": "Chad Tracy",
+        "role": "Manager",
+        "status": "Coaching Staff",
+        "type": "staff",
+        "id": 49,
+        "batch": 2
+      }
+    ],
+    "source_languages": [],
+    "source_countries": [
+      "US English"
+    ],
+    "discovery_sources": [
+      "Google News"
+    ],
+    "original_title": "Red Sox sign 4 players, tender contracts to Duran, Rutschman and more",
+    "original_body": "BOSTON -- Hours in advance of Friday’s non-tender deadline, the Red Sox avoided the arbitration process with Andruw Monasterio, Jahmai Jones, Eli White and Romy Gonzalez, agreeing to one-year deals with the quartet of position players.\nThat list included some significant names, including outfielder Jarren Duran, catcher Adley Rutschman, right fielder Wilyer Abreu and righty reliever Tyron Guerrero.\nBoston also tendered contracts to RHP Tanner Houck, RHP Kutter Crawford, 1B Triston Casas, RHP Greg Weissert, LHP Erik Miller and RHP Justin Slaten.\nThough the Red Sox held on to Duran, there has been considerable speculation the outfielder will be dealt at some point this offseason due to a logjam created when the club recently signed free agent Jake Bauers to a four-year, $58-million contract.\nBauers is expected to get the bulk of starts at DH, with Roman Anthony becoming the club’s primary left fielder. Duran has made most of his starts in left field the last two seasons.\nThe four players who agreed to one-year deals on Friday could represent a significant portion of manager Chad Tracy’s bench options in ‘27.\nUtility infielder Monasterio, who stepped up with some big moments during Boston’s midseason surge in ‘26, signed for $1.655 million.\nGonzalez, a key contributor in ‘24-25 against lefties, had a tough ‘26 due to injuries, and played more games for Triple-A Worcester than the Red Sox. He agreed to a $1.4 million pact.\nWhite, a speedy backup outfielder who came to Boston from Atlanta at the Aug. 3 Trade Deadline, reached an agreement on a $1.325 million contract.\nJones, who mashed lefties after being acquired from the Tigers at the All-Star break, signed for $950,000.\nThe 29-year-old Monasterio played a career-high 107 games for the Red Sox in ‘26, starting 51 games at shortstop, 10 at DH, nine at second base and three at first base. He hit .233 with 23 doubles, one triple, six homers and 43 RBIs. Monasterio came to Boston on the eve of Spring Training in a deal with the Brewers that also included Caleb Durbin and Anthony Seigler.\nIt was hard to know what the Sox could expect from Jones, considering he struggled mightily in 105 plate appearances (.440 OPS) before getting designated for assignment by Detroit. But he turned things around in dramatic fashion for the Red Sox, hitting .308 with four homers and a .993 OPS in 76 plate appearances.\nThe ‘26 season started as an uphill climb for Gonzalez, who underwent left shoulder surgery in Spring Training that pushed his season debut back to June 28. Gonzalez struggled to regain his timing in a 19-game stint with the Red Sox, hitting .185 with a homer and seven RBIs.",
+    "rss_title": "Red Sox sign 4 players, tender contracts to Duran, Rutschman and more",
+    "rss_body": "BOSTON -- Hours in advance of Friday’s non-tender deadline, the Red Sox avoided the arbitration process with Andruw Monasterio, Jahmai Jones, Eli White and Romy Gonzalez, agreeing to one-year deals with the quartet of position players.\nThat list included some significant names, including outfielder Jarren Duran, catcher Adley Rutschman, right fielder Wilyer Abreu and righty reliever Tyron Guerrero.\nBoston also tendered contracts to RHP Tanner Houck, RHP Kutter Crawford, 1B Triston Casas, RHP Greg Weissert, LHP Erik Miller and RHP Justin Slaten.\nThough the Red Sox held on to Duran, there has been considerable speculation the outfielder will be dealt at some point this offseason due to a logjam created when the club recently signed free agent Jake Bauers to a four-year, $58-million contract.\nBauers is expected to get the bulk of starts at DH, with Roman Anthony becoming the club’s primary left fielder. Duran has made most of his starts in left field the last two seasons.\nThe four players who agreed to one-year deals on Friday could represent a significant portion of manager Chad Tracy’s bench options in ‘27.\nUtility infielder Monasterio, who stepped up with some big moments during Boston’s midseason surge in ‘26, signed for $1.655 million.\nGonzalez, a key contributor in ‘24-25 against lefties, had a tough ‘26 due to injuries, and played more games for Triple-A Worcester than the Red Sox. He agreed to a $1.4 million pact.\nWhite, a speedy backup outfielder who came to Boston from Atlanta at the Aug. 3 Trade Deadline, reached an agreement on a $1.325 million contract.\nJones, who mashed lefties after being acquired from the Tigers at the All-Star break, signed for $950,000.\nThe 29-year-old Monasterio played a career-high 107 games for the Red Sox in ‘26, starting 51 games at shortstop, 10 at DH, nine at second base and three at first base. He hit .233 with 23 doubles, one triple, six homers and 43 RBIs. Monasterio came to Boston on the eve of Spring Training in a deal with the Brewers that also included Caleb Durbin and Anthony Seigler.\nIt was hard to know what the Sox could expect from Jones, considering he struggled mightily in 105 plate appearances (.440 OPS) before getting designated for assignment by Detroit. But he turned things around in dramatic fashion for the Red Sox, hitting .308 with four homers and a .993 OPS in 76 plate appearances.\nThe ‘26 season started as an uphill climb for Gonzalez, who underwent left shoulder surgery in Spring Training that pushed his season debut back to June 28. Gonzalez struggled to regain his timing in a 19-game stint with the Red Sox, hitting .185 with a homer and seven RBIs.",
+    "translation_status": "fallback_original"
+  },
+  {
     "id": "ce0076f84292b6f521b0",
     "title": "Red Sox Make Triston Casas Roster Decision",
     "source": "Yahoo Sports",
